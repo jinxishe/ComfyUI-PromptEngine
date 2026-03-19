@@ -1,0 +1,24 @@
+[project]
+name = "comfyui-promptengine"
+version = "1.2.1"
+description = "Dictionary-based prompt composition nodes and dictionary-building tools for ComfyUI."
+license = { file = "LICENSE" }
+readme = "README.md"
+requires-python = ">=3.10"
+dynamic = ["dependencies"]
+classifiers = [
+    "Operating System :: OS Independent",
+]
+
+[tool.setuptools.dynamic]
+dependencies = { file = ["requirements.txt"] }
+
+[project.urls]
+Repository = "https://github.com/jinxishe/ComfyUI-PromptEngine"
+Documentation = "https://github.com/jinxishe/ComfyUI-PromptEngine#readme"
+"Bug Tracker" = "https://github.com/jinxishe/ComfyUI-PromptEngine/issues"
+
+[tool.comfy]
+PublisherId = "@aiimagestudio"
+DisplayName = "ComfyUI-PromptEngine"
+requires-comfyui = ">=1.0.0"

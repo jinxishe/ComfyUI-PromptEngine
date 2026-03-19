@@ -1,0 +1,3673 @@
+{
+  "dimension": "composition",
+  "version": "1.0",
+  "generated_date": "2026-03-18",
+  "mode": "clustered",
+  "clusters": {
+    "centered_face_with_natural_framing": {
+      "canonical_name": "centered face with natural framing",
+      "canonical_name_zh": "居中面部自然构图",
+      "canonical_phrase": "centered face with natural border or frame elements",
+      "samples": [
+        "centered face with natural asymmetry",
+        "centered face in frame with grass forming natural border",
+        "centered on face with horizon line low in frame",
+        "centered on face with window frame forming natural border, shallow depth of field focusing on face",
+        "centered on face with reflection in foreground"
+      ],
+      "tags": [
+        "portrait",
+        "symmetry",
+        "depth",
+        "reflection",
+        "horizon"
+      ]
+    },
+    "centered_composition_with_window_frame": {
+      "canonical_name": "centered composition with window frame",
+      "canonical_name_zh": "居中构图窗框",
+      "canonical_phrase": "centered composition with window frame creating vertical lines",
+      "samples": [
+        "centered composition with window frame creating vertical lines"
+      ],
+      "tags": [
+        "vertical",
+        "frame",
+        "symmetry",
+        "architectural",
+        "window"
+      ]
+    },
+    "centered_upper_body_against_blurred_interior": {
+      "canonical_name": "centered upper body against blurred interior",
+      "canonical_name_zh": "居中上半身模糊室内",
+      "canonical_phrase": "centers her against a softly blurred interior setting, framing her upper body and hips",
+      "samples": [
+        "centers her against a softly blurred interior setting, framing her upper body and hips"
+      ],
+      "tags": [
+        "soft",
+        "blurred",
+        "interior",
+        "upper-body",
+        "framed"
+      ]
+    },
+    "hallway_vertical_lines_shallow_depth": {
+      "canonical_name": "hallway vertical lines shallow depth",
+      "canonical_name_zh": "走廊垂直线条浅景深",
+      "canonical_phrase": "clean composition with strong vertical lines from hallway, shallow depth of field with blurred background",
+      "samples": [
+        "clean composition with strong vertical lines from hallway, shallow depth of field with blurred background"
+      ],
+      "tags": [
+        "concrete",
+        "corridor",
+        "minimalist",
+        "symmetry",
+        "bokeh"
+      ]
+    },
+    "centered_face_and_upper_torso": {
+      "canonical_name": "centered face and upper torso",
+      "canonical_name_zh": "面部与上半身居中",
+      "canonical_phrase": "centered composition focusing on face and upper torso",
+      "samples": [
+        "centered on expressive face and upper torso",
+        "centered with balanced symmetry, focusing on upper body and face",
+        "centers face and upper torso, camera positioned close to face",
+        "centered composition, focus on upper body and face",
+        "centers face and upper torso",
+        "centered on upper body",
+        "centered composition capturing upper torso and face",
+        "centered on face and upper torso",
+        "centered on face and upper body",
+        "centered on subject's face and upper torso"
+      ],
+      "tags": [
+        "portrait",
+        "close-up",
+        "symmetry",
+        "upper-body",
+        "expressive"
+      ]
+    },
+    "sky_emphasis_upward_pose": {
+      "canonical_name": "sky emphasis upward pose",
+      "canonical_name_zh": "强调天空向上姿态",
+      "canonical_phrase": "emphasizing the sky and the woman's upward pose",
+      "samples": [
+        "emphasizing the sky and the woman's upward pose"
+      ],
+      "tags": [
+        "azure",
+        "fabric",
+        "dress",
+        "ethereal",
+        "gaze"
+      ]
+    },
+    "waist_up_framing_light_shadow_interplay": {
+      "canonical_name": "waist up framing light shadow interplay",
+      "canonical_name_zh": "半身光影交错构图",
+      "canonical_phrase": "waist up framing emphasizing the interplay of light and shadow across her form",
+      "samples": [
+        "waist up framing emphasizing the interplay of light and shadow across her form"
+      ],
+      "tags": [
+        "chiaroscuro",
+        "silk",
+        "evening gown",
+        "dramatic",
+        "silhouette"
+      ]
+    },
+    "tight_framing_with_shallow_depth_of_field": {
+      "canonical_name": "tight framing with shallow depth of field",
+      "canonical_name_zh": "紧凑构图浅景深",
+      "canonical_phrase": "tight framing on face and upper torso with shallow depth of field blurring background",
+      "samples": [
+        "split between full view and close-up profile of face, shallow depth of field emphasizing figure against blurred background",
+        "framing face and upper torso, focused on neck and décolletage, shallow depth of field blurring background",
+        "tight framing focusing on profile, emphasizing chiaroscuro contrast, shallow depth of field blurring background",
+        "tight framing focusing on the hand and lower torso, shallow depth of field blurring the background, composition emphasizing the interplay of light and shadow",
+        "intimate framing focusing on face and upper torso, shallow depth of field",
+        "tightly framed on upper torso and face, shallow depth of field blurs background"
+      ],
+      "tags": [
+        "portrait",
+        "shallow depth of field",
+        "chiaroscuro",
+        "upper torso",
+        "blurred background"
+      ]
+    },
+    "balanced_composition_with_diagonal_lines": {
+      "canonical_name": "balanced composition with diagonal lines",
+      "canonical_name_zh": "平衡构图对角线",
+      "canonical_phrase": "balanced composition with strong diagonal lines leading to subject",
+      "samples": [
+        "medium-long shot capturing full body, composition uses strong diagonal lines from the woman's motion, emphasizing movement and energy",
+        "balanced with foreground elements leading to midground subject, capturing from thighs up",
+        "wide shot capturing full body and background elements, composition balanced with diagonal power line leading to pole",
+        "medium shot capturing from mid-thigh up, composition balanced with natural depth",
+        "medium shot emphasizing back and hips"
+      ],
+      "tags": [
+        "diagonal",
+        "balanced",
+        "depth",
+        "motion",
+        "energy"
+      ]
+    },
+    "centered_woman_cat_shallow_depth_of_field": {
+      "canonical_name": "centered woman cat shallow depth of field",
+      "canonical_name_zh": "居中人物猫景深虚化",
+      "canonical_phrase": "centered on the woman and cat, shallow depth of field blurring the wooden background",
+      "samples": [
+        "centered on the woman and cat, shallow depth of field blurring the wooden background"
+      ],
+      "tags": [
+        "wooden",
+        "shallow",
+        "portrait",
+        "cozy",
+        "blurred"
+      ]
+    },
+    "woman_centered_natural_depth": {
+      "canonical_name": "woman centered natural depth",
+      "canonical_name_zh": "居中女性自然景深",
+      "canonical_phrase": "woman centered, natural depth",
+      "samples": [
+        "woman centered, natural depth"
+      ],
+      "tags": [
+        "portrait",
+        "bokeh",
+        "cotton",
+        "minimalist",
+        "soft_focus"
+      ]
+    },
+    "wide_open_framing_foreground_rock_midground_figure_distant_formations_sharp_focus_on_subject": {
+      "canonical_name": "wide open framing foreground rock midground figure distant formations sharp focus on subject",
+      "canonical_name_zh": "广角前景岩石中景人物远景聚焦",
+      "canonical_phrase": "wide open framing, foreground rock, midground figure, distant formations, sharp focus on subject",
+      "samples": [
+        "wide open framing, foreground rock, midground figure, distant formations, sharp focus on subject"
+      ],
+      "tags": [
+        "landscape",
+        "rock",
+        "figure",
+        "cinematic",
+        "depth"
+      ]
+    },
+    "woman_centered_street_neon_backdrop": {
+      "canonical_name": "woman centered street neon backdrop",
+      "canonical_name_zh": "居中女子霓虹街头背景",
+      "canonical_phrase": "woman centered, street and neon lights forming dynamic backdrop",
+      "samples": [
+        "woman centered, street and neon lights forming dynamic backdrop"
+      ],
+      "tags": [
+        "neon",
+        "streetwear",
+        "urban",
+        "dynamic",
+        "glow"
+      ]
+    },
+    "midthigh_framing_with_foreground_jet_ski_cover": {
+      "canonical_name": "mid-thigh framing with foreground jet ski cover",
+      "canonical_name_zh": "中大腿构图配前景摩托艇罩",
+      "canonical_phrase": "framing her from mid-thigh up, composition balanced with foreground jet ski cover, midground woman, background foliage",
+      "samples": [
+        "framing her from mid-thigh up, composition balanced with foreground jet ski cover, midground woman, background foliage"
+      ],
+      "tags": [
+        "jet",
+        "cover",
+        "woman",
+        "foliage",
+        "balanced"
+      ]
+    },
+    "centered_subject_with_waist_or_midthigh_framing": {
+      "canonical_name": "centered subject with waist or mid-thigh framing",
+      "canonical_name_zh": "居中主体腰部或大腿中构图",
+      "canonical_phrase": "centered subject with waist up or mid-thigh framing against backdrop",
+      "samples": [
+        "subject centered, framing from waist up",
+        "subject on the left with the window on the right, waist up framing",
+        "centered subject with sink in foreground, waist up framing",
+        "centered subject against architectural backdrop, mid-thigh up framing",
+        "centrally placed subject, window creating strong diagonal line, mid-thigh up framing",
+        "balanced with curtain on left framing subject",
+        "centered with subject as focal point, waist up framing",
+        "subject centered, mid-thigh up framing, cluttered foreground and background elements",
+        "waist up framing, centered subject, layered shelves and objects creating depth",
+        "centered subject against rugged backdrop, mid-thigh up crop",
+        "subject centered, windows framing the sides, mid-thigh up crop",
+        "centrally framed subject with urban skyline behind, medium distance waist-up framing",
+        "centered with subject as focal point, mid-thighs up framing",
+        "centered in frame, waist up crop, windows forming strong horizontal line behind subject"
+      ],
+      "tags": [
+        "portrait",
+        "waist-up",
+        "mid-thigh",
+        "architectural",
+        "balanced"
+      ]
+    },
+    "centered_subject_with_diagonal_lines": {
+      "canonical_name": "centered subject with diagonal lines",
+      "canonical_name_zh": "居中主体对角线构图",
+      "canonical_phrase": "centered subject with strong diagonal lines creating dynamic composition",
+      "samples": [
+        "centered on the subject with strong diagonal lines from the ladder",
+        "subject in right foreground, pole and basket creating diagonal leading lines",
+        "centered face, bedsheet forming a diagonal line across the frame",
+        "strong diagonal lines created by the body and metal bar",
+        "subject centered, bed frame forming strong vertical element",
+        "centered with body forming a diagonal line across the frame",
+        "diagonal line",
+        "centered subject with train forming a diagonal line behind",
+        "centered with body forming a dynamic diagonal line",
+        "diagonal lines of sign and pole, sign in midground, depth emphasized, Japanese text in lower left quadrant",
+        "diagonal line created by leg against vertical stripes, focused on foot and lower leg",
+        "centered on the figure, wooden planks forming a diagonal leading line",
+        "emphasizing diagonal lines of legs and patterned background",
+        "emphasizes diagonal lines of ladder"
+      ],
+      "tags": [
+        "diagonal",
+        "centered",
+        "leading lines",
+        "dynamic",
+        "depth"
+      ]
+    },
+    "medium_shot_with_leading_lines": {
+      "canonical_name": "medium shot with leading lines",
+      "canonical_name_zh": "中景引导线构图",
+      "canonical_phrase": "medium shot framing subject with architectural leading lines converging to focus",
+      "samples": [
+        "medium shot framing subject from waist up, composition featuring leading lines from the wall and sidewalk",
+        "medium shot framing from waist up, stone walls as leading lines converging toward subject",
+        "mid-thigh up framing, composition emphasizing leading lines of buildings converging towards subject",
+        "medium shot framing from mid-thigh upwards, alleyway perspective lines drawing focus toward subject",
+        "mid-thigh up framing, composition using corridor's perspective lines to create depth",
+        "medium shot framing from mid-thigh up, balanced composition with leading lines from railing",
+        "waist up framing, hallway perspective used as leading line"
+      ],
+      "tags": [
+        "waist_up",
+        "stone_wall",
+        "alleyway",
+        "perspective",
+        "corridor"
+      ]
+    },
+    "centered_subject_framed_by_rocks": {
+      "canonical_name": "centered subject framed by rocks",
+      "canonical_name_zh": "岩石框景居中构图",
+      "canonical_phrase": "centered with rocks framing the subject",
+      "samples": [
+        "centered with rocks framing the subject"
+      ],
+      "tags": [
+        "gray",
+        "stone",
+        "portrait",
+        "natural",
+        "symmetry"
+      ]
+    },
+    "centered_figure_against_bright_window_shallow_depth_of_field": {
+      "canonical_name": "centered figure against bright window shallow depth of field",
+      "canonical_name_zh": "人物居中明亮窗景浅景深",
+      "canonical_phrase": "centers on the figure against the bright window, shallow depth of field",
+      "samples": [
+        "centers on the figure against the bright window, shallow depth of field"
+      ],
+      "tags": [
+        "bright",
+        "window",
+        "shallow",
+        "portrait",
+        "silhouette"
+      ]
+    },
+    "waist_up_framing_emphasizes_vertical_lines": {
+      "canonical_name": "waist up framing emphasizes vertical lines",
+      "canonical_name_zh": "腰部以上构图强调垂直线条",
+      "canonical_phrase": "waist up framing, emphasizes vertical lines of the dock railing and expansive sky",
+      "samples": [
+        "waist up framing, emphasizes vertical lines of the dock railing and expansive sky"
+      ],
+      "tags": [
+        "sky",
+        "railing",
+        "vertical",
+        "dock",
+        "framing"
+      ]
+    },
+    "centered_shallow_depth_of_field": {
+      "canonical_name": "centered shallow depth of field",
+      "canonical_name_zh": "居中浅景深构图",
+      "canonical_phrase": "centered composition with shallow depth of field focusing on subject",
+      "samples": [
+        "centered on body curves, close-up framing focusing on lower torso and legs, shallow depth of field",
+        "centered on the legs with balanced symmetry, shallow depth of field",
+        "centered on knee and thigh, emphasizes texture of ripped jeans and natural ground, shallow depth of field",
+        "centered on face and upper torso, shallow depth of field",
+        "centers face and upper body, shallow depth of field, thick white rope coiled in foreground",
+        "seated with torso tilted forward, legs crossed at the knee, hands clasped near hip, thighs curved inward, composition emphasizing curve of thigh, shallow depth of field focusing on legs",
+        "centered on upper torso, shallow depth of field",
+        "torso centered in frame, centered composition, shallow depth of field focusing sharply on face and upper body",
+        "tightly framed on face and upper torso, centered composition, shallow depth of field",
+        "centered with hands occupying the upper half, shallow depth of field focusing sharply on hands and water",
+        "centered with body occupying right side of frame, shallow depth of field emphasizing face and upper torso",
+        "centered on the curve of the hip and the gentle curve of the hand, shallow depth of field focuses sharply on the thigh and hand",
+        "tightly framed on torso and neck, shallow depth of field emphasizing the subject",
+        "tightly framed on the lower torso and hips",
+        "centered on the face, shallow depth of field"
+      ],
+      "tags": [
+        "portrait",
+        "shallow_depth_of_field",
+        "centered",
+        "close_up",
+        "blurred_background"
+      ]
+    },
+    "woman_centered_in_frame": {
+      "canonical_name": "woman centered in frame",
+      "canonical_name_zh": "居中构图女性",
+      "canonical_phrase": "woman centered in frame",
+      "samples": [
+        "woman centered in frame"
+      ],
+      "tags": [
+        "gold",
+        "silk",
+        "kimono",
+        "ethereal",
+        "intricate embroidery"
+      ]
+    },
+    "centered_subject_with_shallow_depth_of_field": {
+      "canonical_name": "centered subject with shallow depth of field",
+      "canonical_name_zh": "居中主体浅景深",
+      "canonical_phrase": "centered on the subject, shallow depth of field with subject in sharp focus",
+      "samples": [
+        "centered on the subject, shallow depth of field with subject in sharp focus"
+      ],
+      "tags": [
+        "blue",
+        "denim",
+        "hoodie",
+        "minimalist",
+        "bokeh"
+      ]
+    },
+    "expressive_face_foreground_soft_blur": {
+      "canonical_name": "expressive face foreground soft blur",
+      "canonical_name_zh": "面部特写前景柔焦",
+      "canonical_phrase": "focused on her expressive face with foreground elements softly out of focus",
+      "samples": [
+        "focused on her expressive face with foreground elements softly out of focus"
+      ],
+      "tags": [
+        "portrait",
+        "skin",
+        "denim",
+        "cinematic",
+        "bokeh"
+      ]
+    },
+    "balanced_medium_shot_composition": {
+      "canonical_name": "balanced medium shot composition",
+      "canonical_name_zh": "平衡中景构图",
+      "canonical_phrase": "balanced medium shot framing with centered subject and symmetrical elements",
+      "samples": [
+        "medium shot framing from waist up, balanced composition with natural symmetry",
+        "medium shot framing torso and legs, subject centered, balanced composition",
+        "medium shot framing from mid-thigh up, balancing foreground vegetation with midground road and background hills",
+        "wide shot, balanced with leading lines from snow path",
+        "medium shot framing from thighs up, balanced composition with chair as central focus",
+        "medium shot framing from waist up, balanced composition with chair and table forming diagonal lines",
+        "medium shot framing from mid-thigh up, balanced composition with natural depth",
+        "medium shot framing from mid-thigh up, centered subject with rows stretching into distance",
+        "medium shot framing from knees up, balanced composition with dock edge leading into frame",
+        "centered against the window frame, medium shot capturing from mid-thigh up",
+        "medium shot framing from mid-thigh up, balanced composition with the well as a central anchor point",
+        "medium close-up framing focusing on upper body, balanced composition with tree trunks forming vertical lines on either side",
+        "medium shot framing from mid-thigh up, balanced composition with cliff forming strong diagonal line",
+        "balanced composition with the truck and sky creating depth, camera capturing full figure",
+        "wide frame capturing full scene, subjects in foreground balanced with tent and trees forming mid and background layers",
+        "medium shot framing from mid-thigh up, balances dynamic pose against static urban backdrop",
+        "medium shot framing from waist up, balanced composition with bed as central focus",
+        "full frame shot, balanced composition with trees forming a natural corridor",
+        "medium shot framing from mid-thigh up, balanced composition with table on right, door on left",
+        "medium shot framing torso, balanced with foliage on left and window frame on right",
+        "wide framing capturing full body and surrounding snowscape, diagonal line of bicycle leading the eye",
+        "medium shot framing subject within hay bale, hay bale used as vertical frame",
+        "medium shot framing from mid-thigh up, foreground leaves framing the scene, layered composition",
+        "medium shot framing, balanced composition with strong diagonal lines from vehicle",
+        "medium shot framing from mid-thigh up, subject centered, balanced composition",
+        "medium shot capturing full figure, balanced composition with diagonal line of railing leading to subject",
+        "torso centered in frame, medium shot framing from mid-thigh up, balanced composition with strong horizontal lines from the mobile home and ground",
+        "medium shot framing from mid-thighs up, balanced with tree trunk on right side, soft focus background"
+      ],
+      "tags": [
+        "symmetry",
+        "centered",
+        "depth",
+        "diagonal",
+        "natural"
+      ]
+    },
+    "centered_balanced_composition_with_shallow_depth_of_field": {
+      "canonical_name": "centered balanced composition with shallow depth of field",
+      "canonical_name_zh": "居中平衡构图浅景深",
+      "canonical_phrase": "balanced centered composition with shallow depth of field focusing on face",
+      "samples": [
+        "balanced composition, shallow depth of field focusing on face",
+        "centered composition, focus on facial expression",
+        "intimate close-up framing, centered on face",
+        "balanced composition with dragonfly as focal point, close-up framing focusing on face and dragonfly",
+        "candid composition, focus on subject, clothing texture visible",
+        "balanced composition with subject centered, close-up framing focusing on face and upper torso",
+        "dynamic composition with motion blur on hair and water",
+        "split vertically, sharp focus on facial details",
+        "medium shot composition, shallow depth of field focusing on face",
+        "balanced composition with subject centered, shallow depth of field focusing sharply on face",
+        "centered on joyful expressions, vibrant collage of five frames",
+        "intimate close-up composition, shallow focus emphasizing the foot as central subject",
+        "balanced composition with water channel leading eye toward subject, soft focus on background",
+        "centered composition, intimate framing emphasizing facial features"
+      ],
+      "tags": [
+        "portrait",
+        "shallow_focus",
+        "centered",
+        "intimate",
+        "sharp_details"
+      ]
+    },
+    "wide_frame_balanced_composition_leading_lines_steps": {
+      "canonical_name": "wide frame balanced composition leading lines steps",
+      "canonical_name_zh": "宽画幅平衡构图阶梯引导线",
+      "canonical_phrase": "wide frame, balanced composition with leading lines of steps drawing focus to subject",
+      "samples": [
+        "wide frame, balanced composition with leading lines of steps drawing focus to subject"
+      ],
+      "tags": [
+        "cinematic",
+        "marble",
+        "trench coat",
+        "dramatic",
+        "symmetry"
+      ]
+    },
+    "layered_foreground_flowers_midground_bushes_vast_blue_sky": {
+      "canonical_name": "layered foreground flowers midground bushes vast blue sky",
+      "canonical_name_zh": "前景花丛中景灌木蓝天",
+      "canonical_phrase": "layered with foreground flowers, midground bushes, and vast blue background, camera angled upward capturing expansive sky and thick leafy growth",
+      "samples": [
+        "layered with foreground flowers, midground bushes, and vast blue background, camera angled upward capturing expansive sky and thick leafy growth"
+      ],
+      "tags": [
+        "blue",
+        "leafy",
+        "bushes",
+        "expansive",
+        "upward_angle"
+      ]
+    },
+    "centered_midground_subject_shallow_depth_of_field": {
+      "canonical_name": "centered midground subject shallow depth of field",
+      "canonical_name_zh": "居中中景浅景深",
+      "canonical_phrase": "centered composition with subject occupying midground, shallow depth of field blurring the background",
+      "samples": [
+        "centered composition with subject occupying midground, shallow depth of field blurring the background"
+      ],
+      "tags": [
+        "blue",
+        "silk",
+        "kimono",
+        "ethereal",
+        "floating petals"
+      ]
+    },
+    "dynamic_composition_with_diagonal_flow_and_textured_foreground": {
+      "canonical_name": "dynamic composition with diagonal flow and textured foreground",
+      "canonical_name_zh": "对角线构图与纹理前景",
+      "canonical_phrase": "diagonal flow of movement, textured foreground, off-center or centered subject, shallow depth of field, dappled shadows",
+      "samples": [
+        "top image showing full action and bottom triptych showing progression of sand molding",
+        "diagonal lines of movement, shallow depth of field focusing on lower section, textured asphalt in foreground",
+        "slightly off-center, rock texture filling background",
+        "full body centered, diagonal flow from upper left to lower right, dappled shadows on skin and sand"
+      ],
+      "tags": [
+        "diagonal",
+        "texture",
+        "foreground",
+        "shallow depth",
+        "dappled"
+      ]
+    },
+    "centered_subject_road_receding_shallow_depth_of_field": {
+      "canonical_name": "centered subject road receding shallow depth of field",
+      "canonical_name_zh": "居中主体道路延伸浅景深",
+      "canonical_phrase": "centered on subject with road receding into background, shallow depth of field",
+      "samples": [
+        "centered on subject with road receding into background, shallow depth of field"
+      ],
+      "tags": [
+        "asphalt",
+        "concrete",
+        "vanishing point",
+        "minimalist",
+        "perspective"
+      ]
+    },
+    "centered_balanced_shallow_depth_subject": {
+      "canonical_name": "centered balanced shallow depth subject",
+      "canonical_name_zh": "居中平衡浅景深聚焦",
+      "canonical_phrase": "centered composition with balanced framing, shallow depth of field focusing sharply on the subject",
+      "samples": [
+        "centered composition with balanced framing, shallow depth of field focusing sharply on the subject"
+      ],
+      "tags": [
+        "vibrant",
+        "silk",
+        "evening gown",
+        "elegant",
+        "sharp focus"
+      ]
+    },
+    "centered_vibrant_yellow_umbrella": {
+      "canonical_name": "centered vibrant yellow umbrella",
+      "canonical_name_zh": "居中鲜黄雨伞",
+      "canonical_phrase": "centered with vibrant yellow umbrella dominating upper frame",
+      "samples": [
+        "centered with vibrant yellow umbrella dominating upper frame"
+      ],
+      "tags": [
+        "yellow",
+        "umbrella",
+        "canopy",
+        "bold",
+        "dominant"
+      ]
+    },
+    "centered_subject_balanced_framing": {
+      "canonical_name": "centered subject balanced framing",
+      "canonical_name_zh": "居中构图平衡",
+      "canonical_phrase": "subject centered in frame with balanced composition",
+      "samples": [
+        "centered framing, subject emphasized against natural backdrop",
+        "balanced with signs framing subject",
+        "centered framing, balanced composition with the subject as the focal point",
+        "subject framed from side rear, balancing subject against expansive horizon",
+        "subject centered, balanced framing",
+        "centered framing, balanced with subject as focal point",
+        "centered subject with balanced framing",
+        "centered framing, strong contrast between subject and background",
+        "tightly framed on the fish and glass, subject positioned centrally",
+        "subject dominating the frame, dynamic composition",
+        "centered framing, balanced composition with subject as central focus",
+        "subject centrally framed",
+        "balanced with subject centered in frame"
+      ],
+      "tags": [
+        "centered",
+        "balanced",
+        "symmetry",
+        "focal_point",
+        "framing"
+      ]
+    },
+    "centered_full_body_capture": {
+      "canonical_name": "centered full body capture",
+      "canonical_name_zh": "居中全身特写",
+      "canonical_phrase": "centered composition, full body capture",
+      "samples": [
+        "centered composition, full body capture"
+      ],
+      "tags": [
+        "symmetry",
+        "portrait",
+        "denim",
+        "minimalist",
+        "standing pose"
+      ]
+    },
+    "centered_upper_body_light_shadow_contrast": {
+      "canonical_name": "centered upper body light shadow contrast",
+      "canonical_name_zh": "居中上半身光影对比",
+      "canonical_phrase": "centered framing of upper body with strong light and shadow contrast",
+      "samples": [
+        "tightly focused on midsection, emphasizing interplay of light and shadow",
+        "centered framing of upper body, strong contrast between light and shadow",
+        "centered framing focusing on upper body and legs, vintage-style black lamp base with glowing bulb featuring mosaic pattern positioned between legs as key foreground element",
+        "tightly framed on midsection, sharp focus on skin and hand",
+        "focusing on upper body and face, emphasizing contrast between light and shadow",
+        "emphasizing interplay of light and shadow across skin, camera positioned at close medium shot capturing profile"
+      ],
+      "tags": [
+        "midsection",
+        "skin",
+        "vintage",
+        "mosaic",
+        "profile"
+      ]
+    },
+    "centered_subject_shallow_depth_of_field": {
+      "canonical_name": "centered subject shallow depth of field",
+      "canonical_name_zh": "主体居中浅景深",
+      "canonical_phrase": "centers on the subject, shallow depth of field",
+      "samples": [
+        "centers on the subject, shallow depth of field"
+      ],
+      "tags": [
+        "portrait",
+        "bokeh",
+        "blurred",
+        "focus",
+        "isolated"
+      ]
+    },
+    "centered_subject_with_soft_bokeh_background": {
+      "canonical_name": "centered subject with soft bokeh background",
+      "canonical_name_zh": "居中主体柔焦背景",
+      "canonical_phrase": "balanced composition with subject centered, background softly blurred",
+      "samples": [
+        "balanced composition with subject centered, background softly blurred"
+      ],
+      "tags": [
+        "blue",
+        "silk",
+        "dress",
+        "ethereal",
+        "bokeh"
+      ]
+    },
+    "balanced_with_the_dog_in_the_foreground": {
+      "canonical_name": "balanced with the dog in the foreground",
+      "canonical_name_zh": "前景有狗平衡构图",
+      "canonical_phrase": "balanced with the dog in the foreground",
+      "samples": [
+        "balanced with the dog in the foreground"
+      ],
+      "tags": [
+        "golden",
+        "fluffy",
+        "canine",
+        "symmetrical",
+        "pet"
+      ]
+    },
+    "centered_subject_with_leading_lines_and_shallow_depth_of_field": {
+      "canonical_name": "centered subject with leading lines and shallow depth of field",
+      "canonical_name_zh": "居中主体与引导线浅景深",
+      "canonical_phrase": "centered subject with leading lines guiding eye and shallow depth of field focusing on subject",
+      "samples": [
+        "centered subject with leading lines from roof beams, shallow depth of field focusing on subject",
+        "bench centered in midground, leading lines from pier edge guiding eye toward bench, shallow depth of field focusing on bench",
+        "central position against expansive field, wide-angle perspective",
+        "centered, shallow depth of field focusing on upper bodies"
+      ],
+      "tags": [
+        "centered",
+        "leading lines",
+        "shallow depth of field",
+        "focus",
+        "perspective"
+      ]
+    },
+    "centered_figure_coiled_hose_foreground": {
+      "canonical_name": "centered figure coiled hose foreground",
+      "canonical_name_zh": "居中人物前景盘管",
+      "canonical_phrase": "centered figure with coiled hose in foreground, balanced composition",
+      "samples": [
+        "centered figure with coiled hose in foreground, balanced composition"
+      ],
+      "tags": [
+        "metallic",
+        "hose",
+        "industrial",
+        "symmetrical",
+        "coiled"
+      ]
+    },
+    "centered_on_her_gaze_camera_tilted_downward": {
+      "canonical_name": "centered on her gaze, camera tilted downward",
+      "canonical_name_zh": "聚焦凝视，镜头下倾",
+      "canonical_phrase": "centered on her gaze, camera tilted downward",
+      "samples": [
+        "centered on her gaze, camera tilted downward"
+      ],
+      "tags": [
+        "portrait",
+        "low_angle",
+        "intense_eyes",
+        "cinematic",
+        "close_up"
+      ]
+    },
+    "waist_up_framing_with_strong_light_shadow_contrast": {
+      "canonical_name": "waist up framing with strong light shadow contrast",
+      "canonical_name_zh": "半身构图光影对比",
+      "canonical_phrase": "waist up framing, strong contrast between light and shadow, dramatic lighting",
+      "samples": [
+        "emphasizing backlighting with high contrast, camera capturing torso and head",
+        "waist up framing, strong contrast between bright exterior and dark interior, sunlight illuminating left shoulder and arm casting deep shadows on right side",
+        "centered, strong contrast between light clothing and dark vehicle, waist up framing",
+        "emphasizing curve of back and play of light and shadow, camera positioned low and close",
+        "framing from waist up, emphasizing interplay of light and shadow",
+        "subject balanced against urban backdrop, sunlight streaming from right casting highlights on skin and hair, deep shadows on left"
+      ],
+      "tags": [
+        "contrast",
+        "backlighting",
+        "waist-up",
+        "dramatic",
+        "shadows"
+      ]
+    },
+    "centered_full_frame_composition": {
+      "canonical_name": "centered full frame composition",
+      "canonical_name_zh": "居中满幅构图",
+      "canonical_phrase": "centered composition with subject filling the full frame",
+      "samples": [
+        "centered composition with subject occupying most of frame",
+        "centered composition with the subject occupying the frame",
+        "centered composition with subject filling frame",
+        "centered composition with subject occupying most of the frame",
+        "full frame composition centered on subject",
+        "centered composition with subject occupying the full frame"
+      ],
+      "tags": [
+        "centered",
+        "full-frame",
+        "close-up",
+        "portrait",
+        "symmetrical"
+      ]
+    },
+    "centered_subject_with_leading_lines": {
+      "canonical_name": "centered subject with leading lines",
+      "canonical_name_zh": "居中主体与引导线",
+      "canonical_phrase": "centered subject with leading lines guiding eye toward focal point",
+      "samples": [
+        "centered subject with receding walkway lines guiding eye toward subject",
+        "medium shot centered, composition with leading lines from door frame and steps",
+        "centered subject with leading lines from bales and path, camera positioned at low angle capturing side view",
+        "diagonal wooden steps leading to subject",
+        "centered on subject, leading lines of stairs and structure drawing focus"
+      ],
+      "tags": [
+        "centered",
+        "leading lines",
+        "symmetry",
+        "depth",
+        "perspective"
+      ]
+    },
+    "emphasizes_vertical_lines_and_vastness_of_the_sky": {
+      "canonical_name": "emphasizes vertical lines and vastness of the sky",
+      "canonical_name_zh": "强调垂直线条与广阔天空",
+      "canonical_phrase": "emphasizes vertical lines and vastness of the sky",
+      "samples": [
+        "emphasizes vertical lines and vastness of the sky"
+      ],
+      "tags": [
+        "sky",
+        "vertical",
+        "lines",
+        "vast",
+        "minimalist"
+      ]
+    },
+    "centered_torso_composition_with_balanced_framing": {
+      "canonical_name": "centered torso composition with balanced framing",
+      "canonical_name_zh": "居中躯干平衡构图",
+      "canonical_phrase": "centered torso composition with symmetrical balanced framing",
+      "samples": [
+        "centered with symmetrical framing, torso centered in frame",
+        "centered composition with balanced framing, torso centered in frame",
+        "torso centered in frame, balanced composition centered on the subject",
+        "centered with symmetrical balance, framing from waist up",
+        "centered framing from mid-torso up, vintage brass faucets in foreground",
+        "centered torso, composition emphasizing vertical lines of buildings and upward pose",
+        "centered on torso",
+        "centered with balanced symmetry, torso centered in frame"
+      ],
+      "tags": [
+        "centered",
+        "symmetrical",
+        "balanced",
+        "portrait",
+        "vertical"
+      ]
+    },
+    "centered_balanced_framing_shallow_depth_of_field": {
+      "canonical_name": "centered balanced framing shallow depth of field",
+      "canonical_name_zh": "居中平衡构图浅景深",
+      "canonical_phrase": "centered with balanced framing, shallow depth of field focusing on face",
+      "samples": [
+        "centered with balanced framing, shallow depth of field focusing on face"
+      ],
+      "tags": [
+        "portrait",
+        "silhouette",
+        "velvet",
+        "minimalist",
+        "bokeh"
+      ]
+    },
+    "centered_face_upper_torso_shallow_depth_of_field": {
+      "canonical_name": "centered face upper torso shallow depth of field",
+      "canonical_name_zh": "面部躯干中心浅景深",
+      "canonical_phrase": "centered on her face and upper torso, shallow depth of field",
+      "samples": [
+        "centered on her face and upper torso, shallow depth of field"
+      ],
+      "tags": [
+        "portrait",
+        "skin",
+        "blurred",
+        "intimate",
+        "focus"
+      ]
+    },
+    "centered_woman_dynamic_pose_wall_background": {
+      "canonical_name": "centered woman dynamic pose wall background",
+      "canonical_name_zh": "居中女子动态姿态墙背景",
+      "canonical_phrase": "centered with wall behind, focus on the woman and her dynamic pose",
+      "samples": [
+        "centered with wall behind, focus on the woman and her dynamic pose"
+      ],
+      "tags": [
+        "vibrant",
+        "silk",
+        "dress",
+        "energetic",
+        "twirling"
+      ]
+    },
+    "balanced_centered_medium_closeup_face": {
+      "canonical_name": "balanced centered medium close-up face",
+      "canonical_name_zh": "平衡居中中近景面部",
+      "canonical_phrase": "balanced composition with subject centered, medium close-up framing focusing on her face and upper torso",
+      "samples": [
+        "balanced composition with subject centered, medium close-up framing focusing on her face and upper torso"
+      ],
+      "tags": [
+        "symmetry",
+        "portrait",
+        "silhouette",
+        "intimate",
+        "focus"
+      ]
+    },
+    "warm_golden_light_diagonal_window_composition": {
+      "canonical_name": "warm golden light diagonal window composition",
+      "canonical_name_zh": "暖金斜窗构图",
+      "canonical_phrase": "framed by warm golden light, strong diagonal line from window divides composition, subject emphasized against window",
+      "samples": [
+        "framed by warm golden light, strong diagonal line from window divides composition, subject emphasized against window"
+      ],
+      "tags": [
+        "golden",
+        "wood",
+        "window",
+        "cinematic",
+        "diagonal"
+      ]
+    },
+    "centered_subject_with_leading_lines_leading_line": {
+      "canonical_name": "centered subject with leading lines",
+      "canonical_name_zh": "中心构图引导线",
+      "canonical_phrase": "centered subject with strong leading lines drawing eye into distance",
+      "samples": [
+        "path as a leading line drawing the eye into the distance",
+        "swing chains as leading lines",
+        "centered composition using the road as a leading line towards the horizon",
+        "full lower body to upper torso, curving path as strong leading line drawing eye into distance",
+        "centered full body, strong diagonal lines of tracks leading into distance",
+        "subject on right third, flowing river as leading line",
+        "centered framing capturing full torso and legs, converging railway lines as leading lines",
+        "symmetrical with road as central axis, strong leading lines",
+        "road used as a leading line, subject centered in full body frame",
+        "centered framing on the path with the path acting as a leading line drawing the eye toward the distant hill"
+      ],
+      "tags": [
+        "symmetry",
+        "perspective",
+        "horizon",
+        "depth",
+        "diagonal"
+      ]
+    },
+    "balanced_midthigh_up_framing": {
+      "canonical_name": "balanced mid-thigh up framing",
+      "canonical_name_zh": "平衡中景构图",
+      "canonical_phrase": "balanced composition with mid-thigh up framing and natural leading lines",
+      "samples": [
+        "framing from mid-thigh up, balanced composition with refrigerator as strong vertical element",
+        "framing from waist up to feet, balanced with tree branches forming natural leading lines",
+        "balanced with greenery on right and door on left, framing from mid-thigh up",
+        "mid-thigh up framing, balanced composition with tree branches framing left and right",
+        "balanced with natural leading lines from foliage, mid-thigh up framing",
+        "balanced with tree stump as strong vertical element, waist up framing"
+      ],
+      "tags": [
+        "balanced",
+        "mid-thigh",
+        "vertical",
+        "foliage",
+        "framing"
+      ]
+    },
+    "water_interaction_shallow_depth_of_field": {
+      "canonical_name": "water interaction shallow depth of field",
+      "canonical_name_zh": "水交互浅景深",
+      "canonical_phrase": "focused on interaction with water, shallow depth of field emphasizing subject",
+      "samples": [
+        "focused on interaction with water, shallow depth of field emphasizing subject"
+      ],
+      "tags": [
+        "blue",
+        "wet",
+        "dress",
+        "ethereal",
+        "splashing"
+      ]
+    },
+    "centered_on_the_chair_balanced_layout": {
+      "canonical_name": "centered on the chair balanced layout",
+      "canonical_name_zh": "椅子居中平衡构图",
+      "canonical_phrase": "centered on the chair, balanced layout",
+      "samples": [
+        "centered on the chair, balanced layout"
+      ],
+      "tags": [
+        "gold",
+        "velvet",
+        "armchair",
+        "regal",
+        "ornate"
+      ]
+    },
+    "cinematic_dynamic_composition_with_motion_blur": {
+      "canonical_name": "cinematic dynamic composition with motion blur",
+      "canonical_name_zh": "电影感动态构图带运动模糊",
+      "canonical_phrase": "cinematic and dynamic composition, motion blur visible on background elements",
+      "samples": [
+        "cinematic and dynamic composition, motion blur visible on background elements"
+      ],
+      "tags": [
+        "blue",
+        "leather",
+        "jacket",
+        "urban",
+        "speed"
+      ]
+    },
+    "foreground_subject_balanced_with_background": {
+      "canonical_name": "foreground subject balanced with background",
+      "canonical_name_zh": "前景主体与背景平衡",
+      "canonical_phrase": "foreground subject balanced with background scenery",
+      "samples": [
+        "balanced with foreground pebbles leading to midground figure, background trees and sky",
+        "hand and bear in lower left foreground, vast cityscape in background",
+        "balances subject with natural surroundings",
+        "medium distance, emphasizing contrast between figure and towering cityscape",
+        "subject in foreground balanced with station architecture and winter landscape in background"
+      ],
+      "tags": [
+        "depth",
+        "contrast",
+        "landscape",
+        "architecture",
+        "composition"
+      ]
+    },
+    "subject_silhouette_against_bright_window": {
+      "canonical_name": "subject silhouette against bright window",
+      "canonical_name_zh": "人物剪影映衬明亮窗",
+      "canonical_phrase": "subject's silhouette against the bright window",
+      "samples": [
+        "subject's silhouette against the bright window"
+      ],
+      "tags": [
+        "silhouette",
+        "window",
+        "bright",
+        "backlit",
+        "contrast"
+      ]
+    },
+    "balanced_centered_medium_torso_shot": {
+      "canonical_name": "balanced centered medium torso shot",
+      "canonical_name_zh": "平衡居中中景躯干",
+      "canonical_phrase": "balanced with subject centered, medium shot framing her torso",
+      "samples": [
+        "balanced with subject centered, medium shot framing her torso"
+      ],
+      "tags": [
+        "symmetry",
+        "cotton",
+        "blouse",
+        "minimalist",
+        "collar"
+      ]
+    },
+    "centered_upper_body_shallow_depth_of_field": {
+      "canonical_name": "centered upper body shallow depth of field",
+      "canonical_name_zh": "居中上半身浅景深",
+      "canonical_phrase": "centered composition, shallow depth of field focusing on upper body",
+      "samples": [
+        "centered composition, shallow depth of field focusing on upper body"
+      ],
+      "tags": [
+        "portrait",
+        "denim",
+        "blazer",
+        "minimalist",
+        "bokeh"
+      ]
+    },
+    "wide_and_medium_framing_composition": {
+      "canonical_name": "wide and medium framing composition",
+      "canonical_name_zh": "宽景与中景构图",
+      "canonical_phrase": "wide or medium close-up framing emphasizing subject posture and background context",
+      "samples": [
+        "wide framing, composition emphasizing expansive background",
+        "medium close-up framing, composition emphasizing the subject's relaxed posture against the rugged natural backdrop",
+        "wide framing emphasizing soft curves and relaxed posture",
+        "medium close-up framing, wooden post creating a natural frame on the right",
+        "wide-angle shot capturing expansive foreground and midground, composition emphasizes abandoned industrial site as central focus, framing includes foreground rocks leading eye toward central machinery"
+      ],
+      "tags": [
+        "wide-angle",
+        "close-up",
+        "natural",
+        "industrial",
+        "foreground"
+      ]
+    },
+    "woman_centered_low_angle_vast_landscape": {
+      "canonical_name": "woman centered low angle vast landscape",
+      "canonical_name_zh": "女性居中低角度广阔风景",
+      "canonical_phrase": "woman centered, low camera angle emphasizing her against vast landscape",
+      "samples": [
+        "woman centered, low camera angle emphasizing her against vast landscape"
+      ],
+      "tags": [
+        "blue",
+        "stone",
+        "dress",
+        "epic",
+        "silhouette"
+      ]
+    },
+    "hands_ball_bicycle_window_soft_midground": {
+      "canonical_name": "hands ball bicycle window soft midground",
+      "canonical_name_zh": "手球自行车窗软中景",
+      "canonical_phrase": "focus on hands and ball with bicycle and window forming soft midground, shallow depth of field",
+      "samples": [
+        "focus on hands and ball with bicycle and window forming soft midground, shallow depth of field"
+      ],
+      "tags": [
+        "metallic",
+        "leather",
+        "bicycle",
+        "soft-focus",
+        "shallow-depth"
+      ]
+    },
+    "upward_motion_and_energy_composition": {
+      "canonical_name": "upward motion and energy composition",
+      "canonical_name_zh": "向上动势构图",
+      "canonical_phrase": "balanced composition emphasizing upward motion and energy with leading lines",
+      "samples": [
+        "balanced with the railing leading the eye toward the subject",
+        "balanced with leading lines from the floor guiding to the subject",
+        "emphasizing raised arm and upward gaze",
+        "balanced with the railing leading the eye upward",
+        "emphasizes upward motion and energy",
+        "emphasizing upward energy and freedom",
+        "emphasizes upward motion, subject leaning against wall",
+        "emphasizing upward movement"
+      ],
+      "tags": [
+        "upward",
+        "dynamic",
+        "leading lines",
+        "energetic",
+        "gaze"
+      ]
+    },
+    "woman_centered_ocean_railing_purple_curtain": {
+      "canonical_name": "woman centered ocean railing purple curtain",
+      "canonical_name_zh": "居中女子海栏紫帘",
+      "canonical_phrase": "woman centered, ocean and railing creating horizontal lines, deep purple curtain valance above framing the shot",
+      "samples": [
+        "woman centered, ocean and railing creating horizontal lines, deep purple curtain valance above framing the shot"
+      ],
+      "tags": [
+        "purple",
+        "curtain",
+        "railing",
+        "ocean",
+        "framing"
+      ]
+    },
+    "centered_subject_composition": {
+      "canonical_name": "centered subject composition",
+      "canonical_name_zh": "居中构图",
+      "canonical_phrase": "centered subject as the main focal point",
+      "samples": [
+        "centered with her as the focal point",
+        "centered with her as the main subject",
+        "centers her against the horizon",
+        "centered on her form",
+        "centers the subject with her body angled to the side",
+        "centers her on the rock with strong foreground presence",
+        "centers her reflection in the mirror"
+      ],
+      "tags": [
+        "centered",
+        "focal",
+        "subject",
+        "composition",
+        "symmetry"
+      ]
+    },
+    "foot_emphasized_against_dynamic_water_background": {
+      "canonical_name": "foot emphasized against dynamic water background",
+      "canonical_name_zh": "足部特写动态水景",
+      "canonical_phrase": "foot emphasized against dynamic water background, shallow depth of field focusing on foot and immediate splash",
+      "samples": [
+        "foot emphasized against dynamic water background, shallow depth of field focusing on foot and immediate splash"
+      ],
+      "tags": [
+        "blue",
+        "wet skin",
+        "barefoot",
+        "cinematic",
+        "splash"
+      ]
+    },
+    "centered_diagonal_midthigh_crop": {
+      "canonical_name": "centered diagonal mid-thigh crop",
+      "canonical_name_zh": "居中斜线中大腿裁剪",
+      "canonical_phrase": "centered with body forming a diagonal line, capturing from mid-thigh up",
+      "samples": [
+        "centered with body forming a diagonal line, capturing from mid-thigh up"
+      ],
+      "tags": [
+        "vibrant",
+        "denim",
+        "crop top",
+        "dynamic",
+        "diagonal pose"
+      ]
+    },
+    "dynamic_composition_windblown_hair_leading_line": {
+      "canonical_name": "dynamic composition wind-blown hair leading line",
+      "canonical_name_zh": "动态构图发丝引导线",
+      "canonical_phrase": "full body framing, dynamic composition with wind-blown hair as leading line",
+      "samples": [
+        "full body framing, dynamic composition with wind-blown hair as leading line"
+      ],
+      "tags": [
+        "silk",
+        "flowing",
+        "cinematic",
+        "wind",
+        "hair"
+      ]
+    },
+    "subject_foreground_expansive_motion_blur": {
+      "canonical_name": "subject foreground expansive motion blur",
+      "canonical_name_zh": "前景主体开阔空间动态模糊",
+      "canonical_phrase": "subject in foreground, emphasizes expansive open space, motion blur in limbs",
+      "samples": [
+        "subject in foreground, emphasizes expansive open space, motion blur in limbs"
+      ],
+      "tags": [
+        "blue",
+        "denim",
+        "hoodie",
+        "dynamic",
+        "limbs"
+      ]
+    },
+    "smooth_curves_delicate_fabric_shallow_depth": {
+      "canonical_name": "smooth curves delicate fabric shallow depth",
+      "canonical_name_zh": "曲线柔和面料浅景深",
+      "canonical_phrase": "emphasizing smooth curves and delicate fabric textures, shallow depth of field blurring the background",
+      "samples": [
+        "emphasizing smooth curves and delicate fabric textures, shallow depth of field blurring the background"
+      ],
+      "tags": [
+        "silk",
+        "gown",
+        "elegant",
+        "pastel",
+        "bokeh"
+      ]
+    },
+    "centered_face_shallow_depth_of_field": {
+      "canonical_name": "centered face shallow depth of field",
+      "canonical_name_zh": "居中面部浅景深",
+      "canonical_phrase": "centers face with shallow depth of field",
+      "samples": [
+        "centers face with shallow depth of field"
+      ],
+      "tags": [
+        "portrait",
+        "blur",
+        "bokeh",
+        "focus",
+        "closeup"
+      ]
+    },
+    "centered_subject_diagonal_waistup_framing": {
+      "canonical_name": "centered subject diagonal waist-up framing",
+      "canonical_name_zh": "居中主体对角线半身构图",
+      "canonical_phrase": "centered on subject, log forming a strong diagonal leading line, waist-up framing",
+      "samples": [
+        "centered on subject, log forming a strong diagonal leading line, waist-up framing"
+      ],
+      "tags": [
+        "gold",
+        "silk",
+        "trench coat",
+        "cinematic",
+        "log"
+      ]
+    },
+    "foreground_legs_blurred_industrial_background": {
+      "canonical_name": "foreground legs blurred industrial background",
+      "canonical_name_zh": "前景腿部模糊工业背景",
+      "canonical_phrase": "foreground legs with blurred background, emphasizing contrast between human form and industrial setting",
+      "samples": [
+        "foreground legs with blurred background, emphasizing contrast between human form and industrial setting"
+      ],
+      "tags": [
+        "denim",
+        "concrete",
+        "streetwear",
+        "urban",
+        "bokeh"
+      ]
+    },
+    "centered_upper_body_and_face_closeup": {
+      "canonical_name": "centered upper body and face close-up",
+      "canonical_name_zh": "居中上半身面部特写",
+      "canonical_phrase": "centered tight framing focusing on face and upper torso with downward gaze",
+      "samples": [
+        "framing focused on upper body and face, emphasizing downward gaze and bent posture",
+        "centered framing, tight crop on face and upper chest, strong contrast between subject and background",
+        "tight close-up framing focused on face, centered with face occupying most of the frame",
+        "centered framing focusing on face and upper torso, gaze directing attention downward",
+        "focused tightly on foot and lower leg",
+        "centered framing focusing on upper body and legs, face as main focal point",
+        "centered framing focused on upper body, natural depth",
+        "focuses on the upper torso and shoulder",
+        "centered with face and chest as primary focus, tight framing focusing on upper body and face",
+        "focused on upper body and bent posture",
+        "focused on face and upper chest, emphasizing facial expression and upper body curves",
+        "tight close-up framing face and upper torso, centered on gaze and eating act",
+        "focused on face and hands"
+      ],
+      "tags": [
+        "portrait",
+        "close-up",
+        "upper-body",
+        "centered",
+        "gaze"
+      ]
+    },
+    "balanced_composition_with_layered_foreground_and_background": {
+      "canonical_name": "balanced composition with layered foreground and background",
+      "canonical_name_zh": "平衡构图前景背景分层",
+      "canonical_phrase": "balanced composition with foreground elements leading to midground subject and blurred background",
+      "samples": [
+        "balanced with gate on left and grasses on right, soft focus background",
+        "house centered slightly right, balanced composition with tree on left and open sky above",
+        "balanced with background blurred foliage",
+        "balanced composition with bush in foreground, subject in midground, wall in background",
+        "balanced composition with foreground foliage leading to subject",
+        "balanced composition with foreground flowers, midground subject, background foliage",
+        "natural candid composition, vibrant green grass and yellow wildflowers in foreground",
+        "balanced with foreground foliage, midground subject, and background landscape",
+        "balanced composition with foreground table, midground subject, and background foliage",
+        "balanced composition with straw in foreground and background",
+        "balanced composition with foreground leaves, midground subject, and blurred background",
+        "balanced with leaves in the upper right foreground",
+        "balanced composition with foreground foliage on the left, midground path and subject, background trees and sky"
+      ],
+      "tags": [
+        "balanced",
+        "layered",
+        "depth",
+        "natural",
+        "blurred"
+      ]
+    },
+    "diagonal_bench_framing_torso_legs": {
+      "canonical_name": "diagonal bench framing torso legs",
+      "canonical_name_zh": "对角长凳框住躯干双腿",
+      "canonical_phrase": "framing torso and legs, diagonal lines of bench leading the eye",
+      "samples": [
+        "framing torso and legs, diagonal lines of bench leading the eye"
+      ],
+      "tags": [
+        "wood",
+        "denim",
+        "casual",
+        "dynamic",
+        "leading lines"
+      ]
+    },
+    "centered_face_closeup_shallow_depth": {
+      "canonical_name": "centered face close-up shallow depth",
+      "canonical_name_zh": "居中面部特写浅景深",
+      "canonical_phrase": "close-up framing capturing upper body and face, balanced composition with face centered, shallow depth of field blurring background",
+      "samples": [
+        "close-up framing capturing upper body and face, balanced composition with face centered, shallow depth of field blurring background"
+      ],
+      "tags": [
+        "portrait",
+        "skin",
+        "blurred",
+        "cinematic",
+        "symmetry"
+      ]
+    },
+    "centered_framing_balanced_foreground_stones": {
+      "canonical_name": "centered framing balanced foreground stones",
+      "canonical_name_zh": "居中构图前景石引导",
+      "canonical_phrase": "centered framing, balanced composition with foreground stones leading to midground subject",
+      "samples": [
+        "centered framing, balanced composition with foreground stones leading to midground subject"
+      ],
+      "tags": [
+        "stone",
+        "lead",
+        "symmetry",
+        "depth",
+        "natural"
+      ]
+    },
+    "centered_subject_dominating_shallow_depth_of_field": {
+      "canonical_name": "centered subject dominating shallow depth of field",
+      "canonical_name_zh": "居中主体主导浅景深",
+      "canonical_phrase": "centered with subject dominating the frame, shallow depth of field",
+      "samples": [
+        "centered with subject dominating the frame, shallow depth of field"
+      ],
+      "tags": [
+        "vibrant",
+        "silk",
+        "kimono",
+        "minimalist",
+        "bokeh"
+      ]
+    },
+    "centered_diagonal_hands_to_head_shallow_depth": {
+      "canonical_name": "centered diagonal hands to head shallow depth",
+      "canonical_name_zh": "居中斜线手至头浅景深",
+      "canonical_phrase": "centered, emphasizes diagonal line from hands to head, shallow depth of field implied by cinematic style",
+      "samples": [
+        "centered, emphasizes diagonal line from hands to head, shallow depth of field implied by cinematic style"
+      ],
+      "tags": [
+        "gold",
+        "silk",
+        "tunic",
+        "cinematic",
+        "diagonal"
+      ]
+    },
+    "balanced_composition_with_boat_and_hills": {
+      "canonical_name": "balanced composition with boat and hills",
+      "canonical_name_zh": "平衡构图船与山",
+      "canonical_phrase": "balanced composition with boat on the left and hills on the right, capturing full body",
+      "samples": [
+        "balanced composition with boat on the left and hills on the right, capturing full body"
+      ],
+      "tags": [
+        "blue",
+        "wood",
+        "boat",
+        "serene",
+        "hills"
+      ]
+    },
+    "balanced_offcenter_portrait_focus": {
+      "canonical_name": "balanced off-center portrait focus",
+      "canonical_name_zh": "平衡偏置特写构图",
+      "canonical_phrase": "balanced composition with her positioned slightly off-center, focus on her face and upper torso",
+      "samples": [
+        "balanced composition with her positioned slightly off-center, focus on her face and upper torso"
+      ],
+      "tags": [
+        "portrait",
+        "off-center",
+        "face-focus",
+        "upper-body",
+        "balanced"
+      ]
+    },
+    "figure_balanced_against_expansive_coastal_backdrop": {
+      "canonical_name": "figure balanced against expansive coastal backdrop",
+      "canonical_name_zh": "人物与广阔海岸背景平衡",
+      "canonical_phrase": "figure balanced against expansive coastal backdrop with shoreline dividing frame",
+      "samples": [
+        "centers on the figure against expansive beach backdrop",
+        "figure balanced on left against expansive coastal backdrop",
+        "balanced with shoreline dividing the frame, camera capturing from the side",
+        "balances dynamic pose against serene coastal environment"
+      ],
+      "tags": [
+        "beach",
+        "coastal",
+        "shoreline",
+        "serene",
+        "dynamic pose"
+      ]
+    },
+    "balanced_composition_with_texture_emphasis": {
+      "canonical_name": "balanced composition with texture emphasis",
+      "canonical_name_zh": "平衡构图强调纹理",
+      "canonical_phrase": "balanced composition with natural foreground and emphasized textures",
+      "samples": [
+        "balanced with natural foreground elements, camera capturing from waist up",
+        "subject balanced with expansive background, camera positioned at low angle capturing from side",
+        "emphasizing relaxed posture against the rich texture of the leather, camera positioned at a high angle capturing from above",
+        "emphasizing contrast between classic car's curves and woman's poised posture, camera capturing full rear of car and seated form",
+        "camera focuses tightly on upper torso, emphasizes texture of denim and natural curves of body",
+        "emphasizing diagonal lines of sand and body posture, low camera angle capturing upper body and legs",
+        "focused on curves and textures, capturing midsection and upper thighs"
+      ],
+      "tags": [
+        "denim",
+        "leather",
+        "curves",
+        "diagonal",
+        "waist-up"
+      ]
+    },
+    "centered_subject_with_layered_depth": {
+      "canonical_name": "centered subject with layered depth",
+      "canonical_name_zh": "居中分层景深构图",
+      "canonical_phrase": "centers her with balanced foreground and midground layers, shallow depth of field blurs the background",
+      "samples": [
+        "centers her with balanced foreground and midground layers, shallow depth of field blurs the background"
+      ],
+      "tags": [
+        "silhouette",
+        "velvet",
+        "evening_gown",
+        "ethereal",
+        "bokeh"
+      ]
+    },
+    "balanced_centered_face_torso": {
+      "canonical_name": "balanced centered face torso",
+      "canonical_name_zh": "平衡居中面部躯干",
+      "canonical_phrase": "balanced composition centered on her face, torso centered in frame",
+      "samples": [
+        "balanced composition centered on her face, torso centered in frame"
+      ],
+      "tags": [
+        "symmetry",
+        "portrait",
+        "silhouette",
+        "minimalist",
+        "focus"
+      ]
+    },
+    "split_vertical_identical_closeup_balanced": {
+      "canonical_name": "split vertical identical close-up balanced",
+      "canonical_name_zh": "垂直分割对称特写",
+      "canonical_phrase": "split vertically into two nearly identical close-up shots, balanced composition with plate forming strong horizontal line in foreground",
+      "samples": [
+        "split vertically into two nearly identical close-up shots, balanced composition with plate forming strong horizontal line in foreground"
+      ],
+      "tags": [
+        "portrait",
+        "symmetry",
+        "minimalist",
+        "ceramic",
+        "split-screen"
+      ]
+    },
+    "tight_closeup_glass_tumbler": {
+      "canonical_name": "tight close-up glass tumbler",
+      "canonical_name_zh": "紧框玻璃杯特写",
+      "canonical_phrase": "tight close-up frame, glass tumbler centered in lower third, patterned glass filling upper two-thirds",
+      "samples": [
+        "tight close-up frame, glass tumbler centered in lower third, patterned glass filling upper two-thirds"
+      ],
+      "tags": [
+        "glass",
+        "tumbler",
+        "patterned",
+        "minimalist",
+        "centered"
+      ]
+    },
+    "centered_subject_shallow_depth_of_field_blurring_background": {
+      "canonical_name": "centered subject shallow depth of field",
+      "canonical_name_zh": "居中主体浅景深",
+      "canonical_phrase": "centers subject with shallow depth of field blurring background",
+      "samples": [
+        "centers subject with shallow depth of field blurring background"
+      ],
+      "tags": [
+        "portrait",
+        "bokeh",
+        "silhouette",
+        "minimalist",
+        "isolated"
+      ]
+    },
+    "centered_subject_with_soft_blurred_background": {
+      "canonical_name": "centered subject with soft blurred background",
+      "canonical_name_zh": "居中主体柔焦背景",
+      "canonical_phrase": "centered on subject with background softly blurred, shallow depth of field",
+      "samples": [
+        "centered on subject with background softly blurred, shallow depth of field"
+      ],
+      "tags": [
+        "portrait",
+        "bokeh",
+        "cinematic",
+        "minimalist",
+        "isolated"
+      ]
+    },
+    "centered_midground_subject_lush_vegetation_background": {
+      "canonical_name": "centered midground subject lush vegetation background",
+      "canonical_name_zh": "居中中景主体茂密植被背景",
+      "canonical_phrase": "centered with subject in midground, background filled with lush vegetation",
+      "samples": [
+        "centered with subject in midground, background filled with lush vegetation"
+      ],
+      "tags": [
+        "green",
+        "foliage",
+        "forest",
+        "natural",
+        "depth"
+      ]
+    },
+    "centered_subject_with_blurred_background": {
+      "canonical_name": "centered subject with blurred background",
+      "canonical_name_zh": "居中主体背景虚化",
+      "canonical_phrase": "centered subject in foreground with softly blurred background",
+      "samples": [
+        "centered with subject occupying foreground, background softly blurred",
+        "subject centered with blurred background",
+        "centered on the subject with background slightly blurred",
+        "centered subject in foreground, background slightly blurred"
+      ],
+      "tags": [
+        "centered",
+        "blur",
+        "depth",
+        "portrait",
+        "focus"
+      ]
+    },
+    "centered_subject_with_shallow_depth_of_field_face_focus": {
+      "canonical_name": "centered subject with shallow depth of field",
+      "canonical_name_zh": "居中主体浅景深",
+      "canonical_phrase": "centered subject with shallow depth of field blurring background",
+      "samples": [
+        "centers her in the midground with natural depth, shallow depth of field blurring the background",
+        "mid-torso up framing, trees framing her on both sides creating a natural vignette, shallow depth of field blurring the background foliage",
+        "centers her face with balanced lighting, shallow depth of field focuses sharply on her face",
+        "emphasizing her curve and the chair's texture, shallow depth of field",
+        "focused on her face and upper body, shallow depth of field",
+        "centered with her face as focal point, shallow depth of field focusing on her face",
+        "focused tightly on her form with a shallow depth of field blurring the edges",
+        "shallow depth of field emphasizing her face against a blurred background",
+        "centered with her face occupying the majority of the frame, shallow depth of field focusing on her face"
+      ],
+      "tags": [
+        "portrait",
+        "blurred",
+        "focus",
+        "midground",
+        "vignette"
+      ]
+    },
+    "framed_by_wood_door_panels": {
+      "canonical_name": "framed by wood door panels",
+      "canonical_name_zh": "木门框构图",
+      "canonical_phrase": "framed by the door's vertical and horizontal wood panels creating a natural border, capturing her from the waist up",
+      "samples": [
+        "framed by the door's vertical and horizontal wood panels creating a natural border, capturing her from the waist up"
+      ],
+      "tags": [
+        "brown",
+        "wood",
+        "waist-up",
+        "natural",
+        "vertical-panels"
+      ]
+    },
+    "foreground_barrels_framing_shallow_depth_of_field": {
+      "canonical_name": "foreground barrels framing shallow depth of field",
+      "canonical_name_zh": "前景木桶框架构图浅景深",
+      "canonical_phrase": "foreground barrels framing her, shallow depth of field focusing on her",
+      "samples": [
+        "foreground barrels framing her, shallow depth of field focusing on her"
+      ],
+      "tags": [
+        "wood",
+        "barrel",
+        "portrait",
+        "cinematic",
+        "blur"
+      ]
+    },
+    "centered_framing_with_path_leading_into_background": {
+      "canonical_name": "centered framing with path leading into background",
+      "canonical_name_zh": "居中构图路径引向背景",
+      "canonical_phrase": "centered framing with path leading into background",
+      "samples": [
+        "centered framing with path leading into background"
+      ],
+      "tags": [
+        "symmetry",
+        "perspective",
+        "depth",
+        "leading lines",
+        "vanishing point"
+      ]
+    },
+    "centered_midthigh_framing_with_grass_foreground": {
+      "canonical_name": "centered mid-thigh framing with grass foreground",
+      "canonical_name_zh": "中景草地前景居中构图",
+      "canonical_phrase": "centered framing from mid-thigh up, foreground grass, midground subject, background blur",
+      "samples": [
+        "centered framing from mid-thigh up, foreground grass, midground subject, background blur"
+      ],
+      "tags": [
+        "green",
+        "grass",
+        "denim",
+        "cinematic",
+        "bokeh"
+      ]
+    },
+    "centered_subject_with_shallow_depth_of_field_upper_torso": {
+      "canonical_name": "centered subject with shallow depth of field",
+      "canonical_name_zh": "居中主体浅景深",
+      "canonical_phrase": "centered composition with shallow depth of field blurring background",
+      "samples": [
+        "centered on torso and face, shallow depth of field blurring background elements",
+        "centered on midsection with blurred background, shallow depth of field focusing on hands and fabric",
+        "centered on face, shallow focus blurring background, medium shot framing face and upper neck",
+        "centered on face and upper torso, shallow depth of field blurring background",
+        "centered with subject as focal point, medium close-up shot framed to include upper torso and head, shallow depth of field blurring background elements",
+        "centered on upper body with shallow depth of field blurring background",
+        "centered on face and upper body, shallow depth of field with subject in sharp focus and background softly blurred",
+        "centered on the face, upper torso and shoulders visible, background softly blurred",
+        "centered on the body with strong diagonal lines created by the lace and limbs, shallow depth of field blurring the surroundings slightly"
+      ],
+      "tags": [
+        "portrait",
+        "bokeh",
+        "focus",
+        "blurred",
+        "closeup"
+      ]
+    },
+    "centered_subject_with_natural_depth": {
+      "canonical_name": "centered subject with natural depth",
+      "canonical_name_zh": "居中主体自然景深",
+      "canonical_phrase": "centers the subject with natural depth, background blurred",
+      "samples": [
+        "centers the subject with natural depth, background blurred"
+      ],
+      "tags": [
+        "portrait",
+        "bokeh",
+        "soft",
+        "cinematic",
+        "shallow"
+      ]
+    },
+    "curved_backdrop_display_cases": {
+      "canonical_name": "curved backdrop display cases",
+      "canonical_name_zh": "弧形背景展示柜",
+      "canonical_phrase": "centrally framed, display cases forming a curved backdrop",
+      "samples": [
+        "centrally framed, display cases forming a curved backdrop"
+      ],
+      "tags": [
+        "glass",
+        "metal",
+        "mannequin",
+        "minimalist",
+        "symmetry"
+      ]
+    },
+    "centered_framing_white_lace_blue_sheet": {
+      "canonical_name": "centered framing white lace blue sheet",
+      "canonical_name_zh": "居中构图白蕾丝蓝布",
+      "canonical_phrase": "centered framing, white lace fabric and blue sheet creating contrast",
+      "samples": [
+        "centered framing, white lace fabric and blue sheet creating contrast"
+      ],
+      "tags": [
+        "white",
+        "lace",
+        "fabric",
+        "contrast",
+        "centered"
+      ]
+    },
+    "centered_subject_with_window_framing": {
+      "canonical_name": "centered subject with window framing",
+      "canonical_name_zh": "居中主体配窗框",
+      "canonical_phrase": "centered subject with window framing the background",
+      "samples": [
+        "centers her face in the frame with the window frame forming a diagonal leading line",
+        "centered on the woman with window framing the background",
+        "centered in the frame with the window behind her",
+        "centered on her profile with the window as a strong vertical element"
+      ],
+      "tags": [
+        "portrait",
+        "window",
+        "centered",
+        "diagonal",
+        "vertical"
+      ]
+    },
+    "centered_medium_shot_composition": {
+      "canonical_name": "centered medium shot composition",
+      "canonical_name_zh": "居中中景构图",
+      "canonical_phrase": "centered medium shot framing waist up with balanced symmetry",
+      "samples": [
+        "balanced with her centered, capturing upper body and legs",
+        "framing her from the waist up, balances her figure against the textured wall",
+        "balanced composition with window framing left side, camera capturing her from mid-thigh up",
+        "medium shot framing her from the waist up, composition using the fence as a leading line",
+        "centered on her figure against the textured backdrop, framing her torso and legs",
+        "centers her face and upper torso, tight close-up framing",
+        "centered with strong vertical lines, capturing her from the chest up",
+        "centers her figure against the textured chair fabric, capturing upper body and legs",
+        "medium shot framing her from the waist up, balanced composition with the bag centered",
+        "medium shot framing her from mid-thigh up, balances her against the vibrant urban backdrop",
+        "centered framing her from waist up, strong horizontal lines from the truck bed",
+        "medium shot framing her upper body and surroundings, subject positioned slightly off-center",
+        "centered framing her upper body",
+        "framing tightly on the upper torso and face, emphasizes the curve of her neck and the intricate pattern of the clothing",
+        "centered with balanced symmetry, framing her torso and head"
+      ],
+      "tags": [
+        "waist-up",
+        "centered",
+        "balanced",
+        "portrait",
+        "symmetry"
+      ]
+    },
+    "centered_with_snowball_in_foreground": {
+      "canonical_name": "centered with snowball in foreground",
+      "canonical_name_zh": "前景中心雪球",
+      "canonical_phrase": "centered with snowball in foreground",
+      "samples": [
+        "centered with snowball in foreground"
+      ],
+      "tags": [
+        "white",
+        "ice",
+        "winter",
+        "minimalist",
+        "snowball"
+      ]
+    },
+    "centered_face_occupying_majority_frame": {
+      "canonical_name": "centered face occupying majority frame",
+      "canonical_name_zh": "面部居中占据大部分画面",
+      "canonical_phrase": "centered with her face occupying the majority of frame",
+      "samples": [
+        "centered with her face occupying the majority of frame"
+      ],
+      "tags": [
+        "portrait",
+        "closeup",
+        "symmetry",
+        "skin",
+        "intimate"
+      ]
+    },
+    "centered_composition_with_leading_lines": {
+      "canonical_name": "centered composition with leading lines",
+      "canonical_name_zh": "居中构图引导线",
+      "canonical_phrase": "centered framing with strong leading lines creating depth and focus",
+      "samples": [
+        "medium shot framing, railing used as leading line",
+        "medium shot framing from waist up, chain-link fence forms strong diagonal leading line",
+        "centered on subject with balanced foreground and background layers, strong leading lines from bridge railing and road",
+        "emphasizing vertical lines of railing",
+        "centered framing from behind, strong horizontal lines from the railing",
+        "centered, uses train as a leading line, captures full length of train car",
+        "framed by the door's wooden mullions, door used as a leading line",
+        "centered with strong leading lines from the railings, emphasizing depth",
+        "medium shot framing from chest up, railings used as leading lines",
+        "centered with strong vertical lines of the pier railing",
+        "medium shot centered, composition uses the railing as a leading line",
+        "centered, camera at bottom of stairs, composition leads eye upward along the staircase",
+        "centered on moving figure, leading lines of alleyway drawing focus",
+        "framing centers the subject within the alley, strong leading lines from the alley to draw eye forward",
+        "viewed from behind, stairs as leading line toward background",
+        "medium shot, strong leading lines from railing, composition balanced with vertical structure",
+        "staircase and railing as leading lines, creating depth with foreground, midground, and background layers"
+      ],
+      "tags": [
+        "railing",
+        "staircase",
+        "alleyway",
+        "perspective",
+        "depth"
+      ]
+    },
+    "centered_midground_balanced_framing": {
+      "canonical_name": "centered midground balanced framing",
+      "canonical_name_zh": "居中中景平衡构图",
+      "canonical_phrase": "centered with subject occupying midground, balanced framing",
+      "samples": [
+        "centered with subject occupying midground, balanced framing"
+      ],
+      "tags": [
+        "vibrant",
+        "silk",
+        "kimono",
+        "minimalist",
+        "symmetrical"
+      ]
+    },
+    "light_shadow_interplay_legs_hands": {
+      "canonical_name": "light shadow interplay legs hands",
+      "canonical_name_zh": "光影交错腿部手部",
+      "canonical_phrase": "centered on the interplay of light and shadow across the legs and hands, emphasizing smooth skin texture, subtle curves of the legs, and delicate folds of the dress fabric",
+      "samples": [
+        "centered on the interplay of light and shadow across the legs and hands, emphasizing smooth skin texture, subtle curves of the legs, and delicate folds of the dress fabric"
+      ],
+      "tags": [
+        "skin",
+        "fabric",
+        "dress",
+        "soft",
+        "texture"
+      ]
+    },
+    "centered_shallow_depth_of_field_figure": {
+      "canonical_name": "centered shallow depth of field figure",
+      "canonical_name_zh": "居中浅景深强调人物",
+      "canonical_phrase": "centered with shallow depth of field emphasizing her figure",
+      "samples": [
+        "centered with shallow depth of field emphasizing her figure"
+      ],
+      "tags": [
+        "portrait",
+        "bokeh",
+        "silhouette",
+        "minimalist",
+        "focus"
+      ]
+    },
+    "subject_dominating_left_side_wideangle": {
+      "canonical_name": "subject dominating left side wide-angle",
+      "canonical_name_zh": "主体偏左广角构图",
+      "canonical_phrase": "strong composition with subject dominating left side, wide-angle",
+      "samples": [
+        "strong composition with subject dominating left side, wide-angle"
+      ],
+      "tags": [
+        "blue",
+        "denim",
+        "hoodie",
+        "urban",
+        "asymmetrical"
+      ]
+    },
+    "balanced_diagonal_comb_scissors": {
+      "canonical_name": "balanced diagonal comb scissors",
+      "canonical_name_zh": "平衡对角梳剪",
+      "canonical_phrase": "balanced composition with comb and scissors creating diagonal lines, medium close-up framing capturing upper torso and head",
+      "samples": [
+        "balanced composition with comb and scissors creating diagonal lines, medium close-up framing capturing upper torso and head"
+      ],
+      "tags": [
+        "silver",
+        "metal",
+        "scissors",
+        "minimalist",
+        "diagonal"
+      ]
+    },
+    "centered_midthigh_up_framing": {
+      "canonical_name": "centered mid-thigh up framing",
+      "canonical_name_zh": "居中中景构图",
+      "canonical_phrase": "centered mid-thigh up framing with balanced composition and natural backdrop",
+      "samples": [
+        "framed from mid-thigh up, background slightly blurred, emphasizing subject against backdrop",
+        "centered with balanced symmetry, capturing from mid-thigh up",
+        "mid-thigh upward framing, emphasizing form against natural backdrop",
+        "framed from mid-thigh up, balanced composition with road leading diagonally into background",
+        "framing from mid-thighs upward, balances form against textured background",
+        "mid-thigh up framing, silhouette against horizon",
+        "subject centered, balanced framing from mid-thigh up",
+        "centrally framed subject with horizon line behind, capturing from thighs up",
+        "tightly framed on lower torso and upper thigh, emphasizes contour of hip and delicate pattern",
+        "centered with balanced background elements, framing from mid-thigh up",
+        "centered framing from mid-thigh up, rock in foreground",
+        "tight frame capturing lower torso and upper thigh, emphasizing hip curve and color contrast",
+        "framing from mid-thigh up, balances subject against expansive sky",
+        "framing from mid-thigh upward, emphasizing interplay of light and texture on fabric and wood",
+        "centered, mid-thigh up framing",
+        "centered with natural asymmetry, medium shot framing from mid-thigh up",
+        "centered with symmetrical balance, capturing from mid-thigh up",
+        "centered with soft bokeh in the background, framing from mid-thighs up",
+        "balanced with rock on right and body occupying center, waist up framing",
+        "balanced with subject centered, framing from mid-thigh up",
+        "centered with balanced symmetry, framing from the waist up",
+        "centered framing from mid-thigh upwards, natural depth",
+        "mid-thigh up framing, emphasizing diagonal lines of legs and wooden beam",
+        "mid-thigh up framing, emphasizes vast sky",
+        "framing from mid-thigh up, balances figure against natural environment",
+        "mid-thigh up framing, composition using foreground foliage to frame the subject"
+      ],
+      "tags": [
+        "mid-thigh",
+        "centered",
+        "balanced",
+        "natural",
+        "silhouette"
+      ]
+    },
+    "centered_subject_occupying_most_of_frame": {
+      "canonical_name": "centered subject occupying most of frame",
+      "canonical_name_zh": "居中主体占据大部分画面",
+      "canonical_phrase": "centered composition with subject occupying most of the frame",
+      "samples": [
+        "centered with the subject occupying the left half of the frame",
+        "centered, subject occupying most of the frame",
+        "centered with subject occupying majority of frame",
+        "centered with subject occupying most of frame",
+        "centered with subject occupying most of the frame",
+        "centered with the subject occupying the majority of the frame",
+        "centered with the subject occupying most of the frame",
+        "centered with the subject occupying the majority of the frame, framing focused on her upper torso and draped fabric"
+      ],
+      "tags": [
+        "centered",
+        "close-up",
+        "portrait",
+        "upper-torso",
+        "draped-fabric"
+      ]
+    },
+    "symmetrical_centered_portrait": {
+      "canonical_name": "symmetrical centered portrait",
+      "canonical_name_zh": "对称居中肖像",
+      "canonical_phrase": "balanced, centered in frame",
+      "samples": [
+        "balanced, centered in frame"
+      ],
+      "tags": [
+        "symmetry",
+        "portrait",
+        "minimalist",
+        "studio",
+        "axis"
+      ]
+    },
+    "tight_lower_vehicle_framing": {
+      "canonical_name": "tight lower vehicle framing",
+      "canonical_name_zh": "车辆下半部特写",
+      "canonical_phrase": "framed tightly on the lower half of the vehicle, emphasizing mechanical details and rough terrain",
+      "samples": [
+        "framed tightly on the lower half of the vehicle, emphasizing mechanical details and rough terrain"
+      ],
+      "tags": [
+        "metallic",
+        "rust",
+        "tires",
+        "industrial",
+        "mud"
+      ]
+    },
+    "waist_up_framing_balanced_composition": {
+      "canonical_name": "waist up framing balanced composition",
+      "canonical_name_zh": "半身构图平衡",
+      "canonical_phrase": "waist up framing with subject balanced against background or objects",
+      "samples": [
+        "waist up framing, subject emphasized against mechanical vehicle",
+        "waist up framing, figure balanced against room's furniture",
+        "waist up framing, figure balanced against expansive background, yucca plant framing left side",
+        "waist up framing, balances subject against kitchen backdrop",
+        "chest up framing, emphasizing contrast between vibrant green leaves and blue netted attire",
+        "framing from waist up, balances form against reflective surface",
+        "waist up framing, figure balanced against piano and window",
+        "waist up framing, figure balanced against bright window",
+        "waist up framing, emphasizing form against expansive water",
+        "waist up framing, balances figure against expansive background",
+        "waist up framing, flowering tree filling frame above and to her left creating a natural canopy, emphasizing contrast between warm yellow jacket and cool blue sky",
+        "waist up framing, beads in foreground creating a framing effect, composition emphasizing the joyful expression and the playful gesture",
+        "waist up framing, emphasizing form against natural backdrop",
+        "waist up framing, figure balanced against arid background"
+      ],
+      "tags": [
+        "waist-up",
+        "balanced",
+        "natural",
+        "indoor",
+        "contrast"
+      ]
+    },
+    "centered_woman_waist_up_focal_point": {
+      "canonical_name": "centered woman waist up focal point",
+      "canonical_name_zh": "居中女性半身特写",
+      "canonical_phrase": "centered with woman as focal point, waist up framing",
+      "samples": [
+        "centered with woman as focal point, waist up framing"
+      ],
+      "tags": [
+        "silhouette",
+        "denim",
+        "crop top",
+        "minimalist",
+        "symmetry"
+      ]
+    },
+    "centered_illuminated_skin_patterned_fabric": {
+      "canonical_name": "centered illuminated skin patterned fabric",
+      "canonical_name_zh": "中心光照皮肤花纹织物",
+      "canonical_phrase": "centered on illuminated skin and patterned fabric, shallow depth of field blurring background details",
+      "samples": [
+        "centered on illuminated skin and patterned fabric, shallow depth of field blurring background details"
+      ],
+      "tags": [
+        "gold",
+        "silk",
+        "tunic",
+        "ethereal",
+        "embroidery"
+      ]
+    },
+    "torso_and_upper_legs_focus": {
+      "canonical_name": "torso and upper legs focus",
+      "canonical_name_zh": "躯干与大腿特写",
+      "canonical_phrase": "focusing on torso and upper legs, emphasizes texture of towel and smoothness of skin",
+      "samples": [
+        "focusing on torso and upper legs, emphasizes texture of towel and smoothness of skin"
+      ],
+      "tags": [
+        "towel",
+        "skin",
+        "texture",
+        "closeup",
+        "minimalist"
+      ]
+    },
+    "medium_closeup_offcenter_upper_body": {
+      "canonical_name": "medium close-up off-center upper body",
+      "canonical_name_zh": "中近景非居中上半身",
+      "canonical_phrase": "medium close-up framing focusing on her upper body and face, positioned slightly off-center",
+      "samples": [
+        "medium close-up framing focusing on her upper body and face, positioned slightly off-center"
+      ],
+      "tags": [
+        "portrait",
+        "denim",
+        "casual",
+        "asymmetric",
+        "chin"
+      ]
+    },
+    "full_body_framing_with_motion_blur": {
+      "canonical_name": "full body framing with motion blur",
+      "canonical_name_zh": "全身构图带动态模糊",
+      "canonical_phrase": "full body framing, motion blur on background and subject, shadow cast long and distorted on grass below",
+      "samples": [
+        "full body framing, motion blur on background and subject, shadow cast long and distorted on grass below"
+      ],
+      "tags": [
+        "grass",
+        "shadow",
+        "distorted",
+        "cinematic",
+        "dynamic"
+      ]
+    },
+    "centered_subject_with_framing_elements": {
+      "canonical_name": "centered subject with framing elements",
+      "canonical_name_zh": "居中构图带框架元素",
+      "canonical_phrase": "centered subject framed by foreground or background architectural elements",
+      "samples": [
+        "centered subject, tractor's metal frame and blue engine housing in foreground, composition uses tractor's frame to create leading lines toward her",
+        "framing her centrally with fruit stall in background, composition balanced with foreground fruit and midground display",
+        "centered composition with strong vertical lines from the hallway framing her",
+        "framing her centrally with leading lines from the alley walls, composition balanced with foreground manhole cover",
+        "centered on subject with background elements framing her, shot through doorway"
+      ],
+      "tags": [
+        "centered",
+        "framing",
+        "leading lines",
+        "symmetry",
+        "depth"
+      ]
+    },
+    "centered_subject_composition_with_balanced_framing": {
+      "canonical_name": "centered subject composition with balanced framing",
+      "canonical_name_zh": "居中构图平衡框架",
+      "canonical_phrase": "subject centered in frame with balanced composition and focused foreground",
+      "samples": [
+        "centered with the tattoo as the focal point",
+        "centered with soft bokeh, framed to include upper body and bicycle",
+        "centered on the hands and bracelet with foreground elements slightly out of focus",
+        "balanced with subject centered, bicycle positioned center frame",
+        "subject centered, framing upper body and legs",
+        "centered with subject in midground, focus on face and upper body",
+        "centered on hand and shells",
+        "centered on subject, framing torso and legs",
+        "balanced with the bicycle on the right and the subject centered",
+        "centered with subject occupying middle ground, framing upper torso and head",
+        "centered with subject in foreground, framing tight on upper body",
+        "centered with subject occupying midground, framed to include upper legs",
+        "full upper body centered, balances subject against car and landscape"
+      ],
+      "tags": [
+        "centered",
+        "balanced",
+        "midground",
+        "upper_body",
+        "bokeh"
+      ]
+    },
+    "subject_in_foreground_with_natural_depth": {
+      "canonical_name": "subject in foreground with natural depth",
+      "canonical_name_zh": "前景主体自然景深",
+      "canonical_phrase": "subject in foreground with natural depth",
+      "samples": [
+        "subject in foreground with natural depth"
+      ],
+      "tags": [
+        "blue",
+        "denim",
+        "hoodie",
+        "urban",
+        "bokeh"
+      ]
+    },
+    "centered_subject_with_natural_depth_blurred_background": {
+      "canonical_name": "centered subject with natural depth",
+      "canonical_name_zh": "居中主体自然景深",
+      "canonical_phrase": "centered with natural depth, blurred background",
+      "samples": [
+        "centered with natural depth, blurred background"
+      ],
+      "tags": [
+        "portrait",
+        "bokeh",
+        "cinematic",
+        "symmetry",
+        "soft_focus"
+      ]
+    },
+    "centered_hands_ball_warm_fade_shallow_dof": {
+      "canonical_name": "centered hands ball warm fade shallow dof",
+      "canonical_name_zh": "手球居中暖调浅景深",
+      "canonical_phrase": "centers the hands and ball with the background fading into warm tones, shallow depth of field",
+      "samples": [
+        "centers the hands and ball with the background fading into warm tones, shallow depth of field"
+      ],
+      "tags": [
+        "warm",
+        "leather",
+        "ball",
+        "minimalist",
+        "bokeh"
+      ]
+    },
+    "subject_centered_with_diagonal_leading_lines": {
+      "canonical_name": "subject centered with diagonal leading lines",
+      "canonical_name_zh": "主体居中对角引导线",
+      "canonical_phrase": "woman centered in frame with train or fabric forming strong diagonal leading lines",
+      "samples": [
+        "woman centered, train dominates background creating strong diagonal line",
+        "centers her in the frame with the train forming a diagonal line",
+        "woman slightly off-center, pink fabric and wooden pole creating diagonal leading lines",
+        "centers her within the circular frame of the container"
+      ],
+      "tags": [
+        "woman",
+        "pink",
+        "fabric",
+        "diagonal",
+        "leading lines"
+      ]
+    },
+    "centered_subject_framed_by_background": {
+      "canonical_name": "centered subject framed by background",
+      "canonical_name_zh": "主体居中背景框景",
+      "canonical_phrase": "centered on the subject with background elements framing her",
+      "samples": [
+        "centered on the subject with background elements framing her"
+      ],
+      "tags": [
+        "gold",
+        "silk",
+        "kimono",
+        "ethereal",
+        "floating petals"
+      ]
+    },
+    "vertical_lines_room_form_full_lower_body": {
+      "canonical_name": "vertical lines room form full lower body",
+      "canonical_name_zh": "垂直线条房间形体下半身",
+      "canonical_phrase": "emphasizes vertical lines of the room and her form, camera capturing full lower body",
+      "samples": [
+        "emphasizes vertical lines of the room and her form, camera capturing full lower body"
+      ],
+      "tags": [
+        "vertical",
+        "room",
+        "full-body",
+        "minimalist",
+        "lower-body"
+      ]
+    },
+    "foreground_bowl_upper_left_aquarium": {
+      "canonical_name": "foreground bowl upper left aquarium",
+      "canonical_name_zh": "前景碗左上水族箱",
+      "canonical_phrase": "bowl in foreground, aquarium tank occupying upper left background",
+      "samples": [
+        "bowl in foreground, aquarium tank occupying upper left background"
+      ],
+      "tags": [
+        "ceramic",
+        "glass",
+        "aquatic",
+        "minimalist",
+        "depth"
+      ]
+    },
+    "centered_midthigh_woman_framing": {
+      "canonical_name": "centered mid-thigh woman framing",
+      "canonical_name_zh": "居中中景女子构图",
+      "canonical_phrase": "centered framing the woman from mid-thigh up",
+      "samples": [
+        "centered framing the woman from mid-thigh up"
+      ],
+      "tags": [
+        "portrait",
+        "denim",
+        "casual",
+        "symmetry",
+        "crop"
+      ]
+    },
+    "layered_foreground_midground_background_depth": {
+      "canonical_name": "layered foreground midground background depth",
+      "canonical_name_zh": "前景中景背景分层构图",
+      "canonical_phrase": "layered composition with distinct foreground midground and background elements creating depth",
+      "samples": [
+        "layered with foreground fronds leading into midground trunks and background foliage",
+        "layered with foreground laundry, midground steps, and background buildings and trees, framed from a low angle",
+        "layered with foreground leaves leading to midground legs, focusing on lower legs and feet",
+        "viewed through a window frame, foreground featuring a metal A-frame ladder, midground with the car, background with trees and sky, emphasizing depth and perspective",
+        "layered with foreground dirt, midground vehicles and background sky, subject sharply contrasted against sky",
+        "layered with foreground path, midground figure, and background foliage, side profile emphasis",
+        "layers the doghouse in the foreground, the house in midground, and the expansive sky in the background",
+        "layered with foreground grass, midground plants, and background dense foliage, shallow depth of field focusing on midsection",
+        "layers the building against overgrown vegetation",
+        "layers foreground foliage against midground pool and background trees",
+        "layered with foreground lanterns, midground crane and buildings, background sky, centered verticality",
+        "balances foreground foliage with midground subject and background horizon",
+        "layered with foreground grass midground ladder and background dense vegetation",
+        "foreground foliage, midground subject, background hills",
+        "layered with foreground foliage, midground vehicle, and background hills, focusing on front bumper and hood",
+        "layers foreground roots, midground woman, and background forest creating depth"
+      ],
+      "tags": [
+        "depth",
+        "layers",
+        "perspective",
+        "scenery",
+        "framing"
+      ]
+    },
+    "centered_composition_with_shallow_depth_of_field": {
+      "canonical_name": "centered composition with shallow depth of field",
+      "canonical_name_zh": "居中构图浅景深",
+      "canonical_phrase": "centered composition with subject in foreground and shallow depth of field",
+      "samples": [
+        "centered with subject in foreground, shallow depth of field emphasizing subject",
+        "centered in frame, shallow depth of field",
+        "centered with subject occupying midground, shallow depth of field emphasizing subject against textured ground",
+        "centered, shallow depth of field",
+        "subject occupying right side of frame, composition emphasizes subject against open space, shallow depth of field blurring background",
+        "centered with shallow depth of field",
+        "centered composition with subject occupying midground, shallow depth of field",
+        "centered composition, shallow depth of field emphasizing subject",
+        "centered on marble and fingers, emphasizing reflection within sphere, shallow depth of field",
+        "centered in frame with shallow depth of field emphasizing subject against muted indoor setting",
+        "centered composition, shallow depth of field, large brick in foreground",
+        "subject centered in frame, shallow depth of field with blurred background, composition using hallway perspective lines, focus on face and upper torso",
+        "centered composition, shallow depth of field focusing on subject",
+        "centered composition, shallow depth of field",
+        "centered on the gesture with shallow depth of field",
+        "centered composition with natural leading lines from arms and roofline, shallow depth of field, background softly blurred",
+        "medium shot centered, shallow depth of field",
+        "centered on hands and bowls, shallow depth of field with hands and bowls in foreground",
+        "centered composition with shallow depth of field",
+        "centered on subject with lantern as foreground element, shallow depth of field"
+      ],
+      "tags": [
+        "centered",
+        "shallow depth of field",
+        "foreground",
+        "blurred background",
+        "portrait"
+      ]
+    },
+    "relaxed_posture_against_bright_natural_backdrop": {
+      "canonical_name": "relaxed posture against bright natural backdrop",
+      "canonical_name_zh": "明亮自然背景下的放松姿态",
+      "canonical_phrase": "emphasizes relaxed posture against bright natural backdrop",
+      "samples": [
+        "emphasizes relaxed posture against bright natural backdrop"
+      ],
+      "tags": [
+        "sunlight",
+        "linen",
+        "casual",
+        "serene",
+        "outdoor"
+      ]
+    },
+    "centered_waistup_laundry_symmetry": {
+      "canonical_name": "centered waist-up laundry symmetry",
+      "canonical_name_zh": "居中腰上洗衣对称",
+      "canonical_phrase": "centered framing from waist up, balanced composition with laundry creating visual symmetry",
+      "samples": [
+        "centered framing from waist up, balanced composition with laundry creating visual symmetry"
+      ],
+      "tags": [
+        "white",
+        "cotton",
+        "laundry",
+        "minimalist",
+        "folded"
+      ]
+    },
+    "silo_dominating_midground_vast_desert": {
+      "canonical_name": "silo dominating midground vast desert",
+      "canonical_name_zh": "巨仓主导中景荒漠",
+      "canonical_phrase": "layered with silo dominating midground against vast desert horizon, subject emphasized from below",
+      "samples": [
+        "layered with silo dominating midground against vast desert horizon, subject emphasized from below"
+      ],
+      "tags": [
+        "rusty",
+        "concrete",
+        "silo",
+        "minimalist",
+        "low_angle"
+      ]
+    },
+    "subject_focused_with_blurred_background": {
+      "canonical_name": "subject focused with blurred background",
+      "canonical_name_zh": "主体聚焦背景虚化",
+      "canonical_phrase": "focused on subject with shallow depth of field blurring background",
+      "samples": [
+        "focused on subject with plants to the left, blurred background",
+        "focused on the subject with shallow depth of field blurring the background",
+        "focused on subject with background softly blurred",
+        "focused on the subject with legs in foreground, shallow depth of field blurring the background door and wall"
+      ],
+      "tags": [
+        "shallow",
+        "blur",
+        "depth",
+        "field",
+        "soft"
+      ]
+    },
+    "central_subject_layered_foliage_depth": {
+      "canonical_name": "central subject layered foliage depth",
+      "canonical_name_zh": "中心主体分层 foliage 景深",
+      "canonical_phrase": "subject positioned centrally, layered with foreground leaves, midground subject, and dense background foliage",
+      "samples": [
+        "subject positioned centrally, layered with foreground leaves, midground subject, and dense background foliage"
+      ],
+      "tags": [
+        "green",
+        "organic",
+        "foliage",
+        "depth",
+        "layered"
+      ]
+    },
+    "woman_centered_midground_sunflower_left_foreground": {
+      "canonical_name": "woman centered midground sunflower left foreground",
+      "canonical_name_zh": "女子居中向日葵左前景",
+      "canonical_phrase": "woman centered in midground, sunflower positioned to the left foreground, background layered with vegetation and distant terrain",
+      "samples": [
+        "woman centered in midground, sunflower positioned to the left foreground, background layered with vegetation and distant terrain"
+      ],
+      "tags": [
+        "golden",
+        "cotton",
+        "floral",
+        "rustic",
+        "distant terrain"
+      ]
+    },
+    "medium_closeup_window_frame_leading_line": {
+      "canonical_name": "medium close-up window frame leading line",
+      "canonical_name_zh": "中近景窗框引导线",
+      "canonical_phrase": "medium close-up framing, window frame as leading line, shallow depth of field with hallway softly blurred in background",
+      "samples": [
+        "medium close-up framing, window frame as leading line, shallow depth of field with hallway softly blurred in background"
+      ],
+      "tags": [
+        "warm",
+        "wood",
+        "blazer",
+        "cinematic",
+        "soft blur"
+      ]
+    },
+    "centered_subject_shallow_depth_of_field_majority_frame": {
+      "canonical_name": "centered subject shallow depth of field",
+      "canonical_name_zh": "居中主体浅景深",
+      "canonical_phrase": "centered with subject occupying majority of frame, shallow depth of field focusing sharply on her, background slightly blurred",
+      "samples": [
+        "centered with subject occupying majority of frame, shallow depth of field focusing sharply on her, background slightly blurred"
+      ],
+      "tags": [
+        "portrait",
+        "silhouette",
+        "velvet",
+        "cinematic",
+        "bokeh"
+      ]
+    },
+    "medium_shot_balanced_composition_with_shallow_depth_of_field": {
+      "canonical_name": "medium shot balanced composition with shallow depth of field",
+      "canonical_name_zh": "中景平衡构图浅景深",
+      "canonical_phrase": "medium shot framing, subject centered, balanced composition, shallow depth of field",
+      "samples": [
+        "candid composition, medium shot framing, shallow depth of field",
+        "medium shot framing from waist up, subject centered, balanced composition, shallow depth of field focusing on subject",
+        "medium shot framing, composition uses leading lines of tracks",
+        "medium close-up framing, balanced composition with subject centered, shallow depth of field emphasizing the subject",
+        "medium distance, foreground elements like metal railings and blurred hands frame the scene, layered composition",
+        "medium shot framing, composition with playground structure creating diagonal leading line, shallow depth of field",
+        "medium shot framing, composition balanced with tracks creating leading lines, shallow depth of field with subject in sharp focus"
+      ],
+      "tags": [
+        "medium shot",
+        "centered",
+        "shallow depth of field",
+        "balanced",
+        "leading lines"
+      ]
+    },
+    "centered_figure_with_foreground_water_elements": {
+      "canonical_name": "centered figure with foreground water elements",
+      "canonical_name_zh": "前景水景中心构图",
+      "canonical_phrase": "centered figure composition with foreground water splashes and ripples",
+      "samples": [
+        "centered on her action with water splashes in the foreground",
+        "woman centered, dynamic composition, shallow depth of field blurring background",
+        "focused on the woman and net with water splash in foreground",
+        "layered with foreground water ripples, midground woman, background islands",
+        "centered on her figure against the textured aquatic backdrop"
+      ],
+      "tags": [
+        "water",
+        "splash",
+        "ripples",
+        "aquatic",
+        "dynamic"
+      ]
+    },
+    "centered_subject_slightly_off_right": {
+      "canonical_name": "centered subject slightly off right",
+      "canonical_name_zh": "居中偏右主体",
+      "canonical_phrase": "centered with the dog slightly off to the right",
+      "samples": [
+        "centered with the dog slightly off to the right"
+      ],
+      "tags": [
+        "golden",
+        "leather",
+        "collar",
+        "balanced",
+        "asymmetric"
+      ]
+    },
+    "midthigh_figure_against_textured_backdrop": {
+      "canonical_name": "mid-thigh figure against textured backdrop",
+      "canonical_name_zh": "中大腿人物配纹理背景",
+      "canonical_phrase": "figure against textured backdrop, framing captures from mid-thigh up",
+      "samples": [
+        "figure against textured backdrop, framing captures from mid-thigh up"
+      ],
+      "tags": [
+        "denim",
+        "canvas",
+        "streetwear",
+        "urban",
+        "grunge"
+      ]
+    },
+    "centered_subject_shallow_depth_of_field_soft_focus": {
+      "canonical_name": "centered subject shallow depth of field",
+      "canonical_name_zh": "居中主体浅景深",
+      "canonical_phrase": "centered on the subject, shallow depth of field, soft focus on background, emphasis on light and form",
+      "samples": [
+        "centered on the subject, shallow depth of field, soft focus on background, emphasis on light and form"
+      ],
+      "tags": [
+        "gold",
+        "silk",
+        "evening gown",
+        "ethereal",
+        "bokeh"
+      ]
+    },
+    "centered_composition_with_strong_vertical_emphasis": {
+      "canonical_name": "centered composition with strong vertical emphasis",
+      "canonical_name_zh": "居中构图垂直强调",
+      "canonical_phrase": "centered composition with subject in midground and strong vertical leading lines",
+      "samples": [
+        "centered composition with subject occupying midground",
+        "centered composition, rule of thirds",
+        "centered composition with a strong vertical emphasis",
+        "centered with strong vertical emphasis",
+        "balanced with jacket and hair creating leading lines toward center",
+        "centered composition using leading lines of floorboards",
+        "centered composition with the basketball hoop forming a vertical leading line",
+        "centered composition with the subject occupying the midground",
+        "subject centered, strong contrast between vibrant purple and earthy reds",
+        "centered with hair creating a natural leading line",
+        "centered composition with leading lines from the boardwalk",
+        "centered composition, emphasis on subject's form and lighting",
+        "centered composition"
+      ],
+      "tags": [
+        "centered",
+        "vertical",
+        "midground",
+        "leading lines",
+        "balanced"
+      ]
+    },
+    "low_angle_emphasizing_form_against_nature": {
+      "canonical_name": "low angle emphasizing form against nature",
+      "canonical_name_zh": "低角度强调自然中的身形",
+      "canonical_phrase": "emphasizing her form against the natural setting, camera positioned low",
+      "samples": [
+        "emphasizing her form against the natural setting, camera positioned low"
+      ],
+      "tags": [
+        "green",
+        "silk",
+        "dress",
+        "ethereal",
+        "silhouette"
+      ]
+    },
+    "centered_framing_against_textured_background": {
+      "canonical_name": "centered framing against textured background",
+      "canonical_name_zh": "居中构图配纹理背景",
+      "canonical_phrase": "centered framing against textured background",
+      "samples": [
+        "centered framing against textured background"
+      ],
+      "tags": [
+        "vibrant",
+        "denim",
+        "hoodie",
+        "urban",
+        "grunge"
+      ]
+    },
+    "orange_ring_face_centered_foreground": {
+      "canonical_name": "orange ring face centered foreground",
+      "canonical_name_zh": "橙环脸居中前景",
+      "canonical_phrase": "foreground dominated by orange ring and face, centered subject",
+      "samples": [
+        "foreground dominated by orange ring and face, centered subject"
+      ],
+      "tags": [
+        "orange",
+        "ring",
+        "face",
+        "portrait",
+        "symmetry"
+      ]
+    },
+    "centered_eye_insect_shallow_depth_field": {
+      "canonical_name": "centered eye insect shallow depth field",
+      "canonical_name_zh": "眼虫居中浅景深",
+      "canonical_phrase": "centered on the eye and insect, shallow depth of field blurring the background into soft tones",
+      "samples": [
+        "centered on the eye and insect, shallow depth of field blurring the background into soft tones"
+      ],
+      "tags": [
+        "macro",
+        "insect",
+        "soft",
+        "blur",
+        "focus"
+      ]
+    },
+    "balanced_composition_with_framing": {
+      "canonical_name": "balanced composition with framing",
+      "canonical_name_zh": "平衡构图与框架",
+      "canonical_phrase": "balanced composition with framing, subject centered or offset by environmental elements",
+      "samples": [
+        "balanced composition with tree trunk occupying left side of frame, chest up framing",
+        "balanced composition with curtain occupying the right side of the frame, subject partially framed by doorway",
+        "half-body framing, balanced composition with sofa and plant forming diagonal lines",
+        "tight framing, dense cluttered composition",
+        "naturalistic composition with organic asymmetry, close-up framing focusing on the flower and surrounding foliage",
+        "centered, balanced composition with strong vertical symmetry",
+        "minimalist composition with balanced symmetry, diagonal shoreline curve",
+        "balanced composition with mountain as dominant background, full body framing",
+        "natural composition with balanced framing",
+        "balanced with natural depth, half-length framing, detailed pleats and fabric texture visible",
+        "balanced composition with natural depth",
+        "waist up framing, window occupying right two-thirds of frame, balanced composition",
+        "balanced composition, mid-torso up framing"
+      ],
+      "tags": [
+        "symmetry",
+        "framing",
+        "depth",
+        "natural",
+        "cluttered"
+      ]
+    },
+    "balanced_centered_medium_shot_composition": {
+      "canonical_name": "balanced centered medium shot composition",
+      "canonical_name_zh": "平衡居中中景构图",
+      "canonical_phrase": "balanced centered composition with medium shot framing subject",
+      "samples": [
+        "full body shot framed with foreground foliage, balanced composition with natural depth",
+        "medium shot framing upper torso and head, balanced composition with subject centered",
+        "medium shot framing upper body, balanced composition with water occupying background",
+        "balanced composition with subject centered, medium close-up shot focusing on upper body",
+        "medium shot framed to capture upper body and background elements, balanced composition with subject centered",
+        "medium shot centered on upper body, balanced composition with foreground subject and midground rustic elements",
+        "medium shot framing upper body and part of legs, balanced composition with stone wall occupying background",
+        "medium shot capturing upper legs, composition balanced with natural framing by the rocks",
+        "balanced composition, full-body shot",
+        "balanced with subject centered, medium shot framing upper body",
+        "balanced composition with subject centered, medium close-up shot focusing on upper torso and face",
+        "medium close-up shot, right side of face in focus, left side slightly out of focus, composition emphasizing the subject's contemplative expression",
+        "medium shot capturing full body, balanced with natural elements framing subject",
+        "medium shot framed with upper body visible, composition balanced with floral elements framing top and right side",
+        "medium shot framing upper body and scooter, balanced composition with scooter in foreground, background elements softly blurred",
+        "medium shot framing upper body, balanced with ample negative space above and below",
+        "medium shot framing upper body and background elements, subject centered, balanced composition",
+        "medium close-up shot focused on face and upper torso, chest up framing",
+        "centered composition, wide shot capturing full body",
+        "medium shot capturing full body, composition emphasizes diagonal light beam leading to subject",
+        "wide-angle lens capturing full body and environment, emphasizing dynamic pose against natural backdrop",
+        "medium shot framing upper body and surroundings, balanced composition with foreground elements leading into midground street"
+      ],
+      "tags": [
+        "balanced",
+        "centered",
+        "medium_shot",
+        "natural_depth",
+        "subject_focus"
+      ]
+    },
+    "centered_subject_dominating_frame": {
+      "canonical_name": "centered subject dominating frame",
+      "canonical_name_zh": "居中主体主导画面",
+      "canonical_phrase": "centered composition with subject dominating frame",
+      "samples": [
+        "centered composition with subject dominating frame"
+      ],
+      "tags": [
+        "vibrant",
+        "silk",
+        "kimono",
+        "minimalist",
+        "sharp_focus"
+      ]
+    },
+    "balanced_composition_with_subject_in_foreground_painting_in_midground": {
+      "canonical_name": "balanced composition with subject in foreground, painting in midground",
+      "canonical_name_zh": "前景主体中景画作平衡构图",
+      "canonical_phrase": "balanced composition with subject in foreground, painting in midground",
+      "samples": [
+        "balanced composition with subject in foreground, painting in midground"
+      ],
+      "tags": [
+        "oil",
+        "canvas",
+        "portrait",
+        "classical",
+        "easel"
+      ]
+    },
+    "centered_balanced_composition_framing": {
+      "canonical_name": "centered balanced composition framing",
+      "canonical_name_zh": "居中平衡构图",
+      "canonical_phrase": "balanced composition with subject centered and framed to include immediate surroundings",
+      "samples": [
+        "framed to include both figures and immediate surroundings, balanced composition with subjects centered",
+        "balanced with subject centered, framing torso and head",
+        "subject centered, balanced composition, waist up framing",
+        "subject centered, framing torso and legs, balanced composition",
+        "balanced composition with the horse and rider centered",
+        "balanced composition with subject centered, framed to include upper legs and chair"
+      ],
+      "tags": [
+        "centered",
+        "balanced",
+        "framed",
+        "portrait",
+        "symmetry"
+      ]
+    },
+    "upper_body_head_framing_balanced_diagonal_fence": {
+      "canonical_name": "upper body head framing balanced diagonal fence",
+      "canonical_name_zh": "上半身构图平衡斜向栅栏",
+      "canonical_phrase": "framing her upper body and head, composition balanced with fence diagonal leading to her, background softly blurred",
+      "samples": [
+        "framing her upper body and head, composition balanced with fence diagonal leading to her, background softly blurred"
+      ],
+      "tags": [
+        "fence",
+        "diagonal",
+        "blurred",
+        "portrait",
+        "balanced"
+      ]
+    },
+    "stone_wall_diagonal_leading_line": {
+      "canonical_name": "stone wall diagonal leading line",
+      "canonical_name_zh": "石墙对角引导线",
+      "canonical_phrase": "balanced composition with stone wall forming a strong diagonal leading line, shallow depth of field emphasizing subject",
+      "samples": [
+        "balanced composition with stone wall forming a strong diagonal leading line, shallow depth of field emphasizing subject"
+      ],
+      "tags": [
+        "stone",
+        "wall",
+        "diagonal",
+        "shallow",
+        "depth"
+      ]
+    },
+    "waist_up_framing_with_bicycle_leading_line": {
+      "canonical_name": "waist up framing with bicycle leading line",
+      "canonical_name_zh": "半身构图自行车引导线",
+      "canonical_phrase": "framing captures her from the waist up, composition uses the bicycle as a leading line towards her",
+      "samples": [
+        "framing captures her from the waist up, composition uses the bicycle as a leading line towards her"
+      ],
+      "tags": [
+        "waist-up",
+        "bicycle",
+        "leading-line",
+        "portrait",
+        "dynamic"
+      ]
+    },
+    "subject_centered_fan_window_framing": {
+      "canonical_name": "subject centered fan window framing",
+      "canonical_name_zh": "主体居中扇窗框景",
+      "canonical_phrase": "subject centered, fan and window framing the background",
+      "samples": [
+        "subject centered, fan and window framing the background"
+      ],
+      "tags": [
+        "symmetry",
+        "natural_light",
+        "wood",
+        "elegant",
+        "architectural_detail"
+      ]
+    },
+    "midthigh_up_framing_figure_balanced_against_architectural_elements": {
+      "canonical_name": "mid-thigh up framing figure balanced against architectural elements",
+      "canonical_name_zh": "中大腿上构图建筑平衡",
+      "canonical_phrase": "mid-thigh up framing, figure balanced against architectural elements",
+      "samples": [
+        "mid-thigh up framing, figure balanced against architectural elements"
+      ],
+      "tags": [
+        "stone",
+        "marble",
+        "dress",
+        "minimalist",
+        "columns"
+      ]
+    },
+    "centered_full_figure_with_left_pillar": {
+      "canonical_name": "centered full figure with left pillar",
+      "canonical_name_zh": "居中全身配左侧石柱",
+      "canonical_phrase": "centered framing of full figure, pillar to the left",
+      "samples": [
+        "centered framing of full figure, pillar to the left"
+      ],
+      "tags": [
+        "stone",
+        "marble",
+        "portrait",
+        "symmetrical",
+        "architectural"
+      ]
+    },
+    "centered_medium_shot_balanced_composition": {
+      "canonical_name": "centered medium shot balanced composition",
+      "canonical_name_zh": "居中构图中景平衡",
+      "canonical_phrase": "medium shot centered subject with balanced composition and foreground elements",
+      "samples": [
+        "medium shot, composition balances subject with background",
+        "medium shot framing, composition balanced with subject centered",
+        "medium close-up framing, balanced composition with foreground focus on the subject",
+        "medium shot framing the subject and melons, composition balanced with melons in foreground and background",
+        "medium close-up shot centered in frame, balanced composition with subject occupying central area",
+        "split vertically, left side intimate close-up, right side wide environmental shot",
+        "medium shot, slightly low angle",
+        "medium shot framing both subjects, composition split vertically with left side brighter and right side darker",
+        "tight close-up shot, center composition",
+        "medium shot centered, balanced composition with foreground leaves framing the subject",
+        "medium close-up framing, balanced composition with subject centered",
+        "medium shot framing, composition balanced with vertical post on left, subject centered",
+        "medium shot centered, composition balancing subject and foreground bowls",
+        "full figure within a medium shot, emphasizing vertical flow of water against horizontal spread of leaves",
+        "medium shot framing subject centrally, composition balanced with background architecture",
+        "medium shot framing, subject centered, composition balanced",
+        "medium shot, centered composition with strong foreground elements",
+        "medium shot, centered composition",
+        "medium shot centered, composition with vertical bars leading to subject",
+        "medium shot framed to include background elements, balanced composition with subject centered"
+      ],
+      "tags": [
+        "centered",
+        "balanced",
+        "medium_shot",
+        "foreground",
+        "symmetry"
+      ]
+    },
+    "foreground_framing_with_shallow_depth_of_field": {
+      "canonical_name": "foreground framing with shallow depth of field",
+      "canonical_name_zh": "前景遮挡浅景深",
+      "canonical_phrase": "subject framed by foreground elements with blurred background",
+      "samples": [
+        "subject in foreground with wooden structure partially obscuring lower left, shallow depth of field emphasizing subject",
+        "centered with natural framing by leaves, shallow depth of field with blurred foreground leaves",
+        "foreground foliage framing the subject, shallow depth of field",
+        "dense and layered with foreground fish partially obscuring midground activity, shallow depth of field",
+        "vertical lines of railing and steps emphasized, shallow depth of field blurring distant vegetation",
+        "centered composition, shallow depth of field with foreground plants blurred",
+        "leading lines of road drawing eye into distance, balanced framing with vegetation centered in midground, shallow depth of field focusing on foreground vegetation",
+        "sign in foreground, background recedes into darkness, shallow depth of field",
+        "subject in foreground with blurred background, shallow depth of field with bokeh effect from foliage"
+      ],
+      "tags": [
+        "shallow",
+        "depth",
+        "field",
+        "blur",
+        "bokeh"
+      ]
+    },
+    "focused_subject_with_blurred_background": {
+      "canonical_name": "focused subject with blurred background",
+      "canonical_name_zh": "主体聚焦背景虚化",
+      "canonical_phrase": "focused on the basketball and her hand with background softly blurred",
+      "samples": [
+        "focused on the basketball and her hand with background softly blurred"
+      ],
+      "tags": [
+        "basketball",
+        "hand",
+        "soft",
+        "blur",
+        "depth"
+      ]
+    },
+    "balanced_figure_against_bright_sky": {
+      "canonical_name": "balanced figure against bright sky",
+      "canonical_name_zh": "人物与亮空平衡构图",
+      "canonical_phrase": "balancing figure against bright sky, shallow depth of field with blurred background",
+      "samples": [
+        "balancing figure against bright sky, shallow depth of field with blurred background"
+      ],
+      "tags": [
+        "sky",
+        "blurred",
+        "portrait",
+        "minimalist",
+        "silhouette"
+      ]
+    },
+    "centered_on_her_form_with_soft_shadows_beneath_her_body": {
+      "canonical_name": "centered on her form with soft shadows beneath her body",
+      "canonical_name_zh": "身形居中柔影",
+      "canonical_phrase": "centered on her form with soft shadows beneath her body",
+      "samples": [
+        "centered on her form with soft shadows beneath her body"
+      ],
+      "tags": [
+        "silhouette",
+        "fabric",
+        "minimalist",
+        "draped",
+        "ambient_occlusion"
+      ]
+    },
+    "centered_subject_with_diagonal_lines_diagonal_lines": {
+      "canonical_name": "centered subject with diagonal lines",
+      "canonical_name_zh": "居中构图对角线条",
+      "canonical_phrase": "centered subject, strong diagonal leading lines, shallow depth of field, sharp focus",
+      "samples": [
+        "centered, shallow depth of field, subject emphasized against architectural lines, composition balances figure with diagonal lines of the staircase",
+        "centered subject with diagonal posture, leading lines from wooden beams, shallow depth of field implied by sharp shadows",
+        "subject centered in frame, cinematic composition with strong diagonal lines from the stacked wood, shallow depth of field blurring foreground pallets",
+        "centered composition with strong diagonal light rays, shallow depth of field, tight framing focusing on upper body",
+        "centered with diagonal metal bars as leading lines, shallow depth of field focusing sharply on face",
+        "centered, strong directional light emphasizing form and texture, shallow depth of field",
+        "centered, shallow depth of field with sharp focus on face and upper body, strong diagonal lines from wooden structure"
+      ],
+      "tags": [
+        "centered",
+        "diagonal",
+        "shallow",
+        "sharp",
+        "cinematic"
+      ]
+    },
+    "asymmetrical_weather_vane_lower_left": {
+      "canonical_name": "asymmetrical weather vane lower left",
+      "canonical_name_zh": "左下风车不对称构图",
+      "canonical_phrase": "asymmetrical with the weather vane positioned in the lower left quadrant, framing emphasizes verticality against expansive sky",
+      "samples": [
+        "asymmetrical with the weather vane positioned in the lower left quadrant, framing emphasizes verticality against expansive sky"
+      ],
+      "tags": [
+        "sky",
+        "metal",
+        "vane",
+        "vertical",
+        "rustic"
+      ]
+    },
+    "centered_subject_diagonal_branch_shallow_water": {
+      "canonical_name": "centered subject diagonal branch shallow water",
+      "canonical_name_zh": "居中主体斜枝浅水",
+      "canonical_phrase": "centered subject with branch leading diagonally, shallow clear water foreground",
+      "samples": [
+        "centered subject with branch leading diagonally, shallow clear water foreground"
+      ],
+      "tags": [
+        "diagonal",
+        "water",
+        "branch",
+        "shallow",
+        "centered"
+      ]
+    },
+    "chest_up_framing_shallow_depth_of_field": {
+      "canonical_name": "chest up framing shallow depth of field",
+      "canonical_name_zh": "胸部以上浅景深构图",
+      "canonical_phrase": "chest up framing, shallow depth of field blurring background, composition emphasizes joyful expression",
+      "samples": [
+        "chest up framing, shallow depth of field blurring background, composition emphasizes joyful expression"
+      ],
+      "tags": [
+        "vibrant",
+        "silk",
+        "blazer",
+        "elegant",
+        "sparkling brooch"
+      ]
+    },
+    "centered_composition_with_strong_vertical_lines": {
+      "canonical_name": "centered composition with strong vertical lines",
+      "canonical_name_zh": "居中构图强垂直线条",
+      "canonical_phrase": "centered composition with strong vertical lines from architecture creating depth",
+      "samples": [
+        "balanced with strong vertical lines from bus and oxygen tanks",
+        "emphasizing decay and urban neglect, strong vertical lines from pipes and windows",
+        "emphasizing vertical lines of buildings and horizontal street level, foreground elements sharply in focus, background blurred",
+        "wide angle capturing subject and environment, diagonal lines of rooftop and buildings creating depth",
+        "centered composition, strong vertical lines from door frame",
+        "layered with foreground sidewalk elements, midground crowds, and background towering skyscrapers, capturing the depth of the alleyway",
+        "centered composition with strong vertical lines from the wooden frame",
+        "centered with strong vertical lines from metal beams",
+        "centered composition with strong vertical and horizontal lines from the wall and building",
+        "centered with strong vertical lines from gate and wall",
+        "balanced with strong vertical lines from pole and wall, foreground stone steps leading to midground doorway, background wall and canal",
+        "pole as strong vertical leading line, sign slightly angled, centered pole",
+        "centered with strong vertical lines from the wall and ceiling, soft focus background",
+        "centered composition with leading lines from the bench and wall",
+        "centered with strong vertical and horizontal lines",
+        "emphasizes verticality with leading lines from building structure",
+        "centered with leading lines from beam structure",
+        "centered with truck forming strong horizontal line",
+        "leading lines created by buildings and signs drawing eye toward distant skyscrapers, centered street canyon framing"
+      ],
+      "tags": [
+        "vertical",
+        "centered",
+        "architecture",
+        "leading lines",
+        "depth"
+      ]
+    },
+    "balanced_composition_with_central_focus": {
+      "canonical_name": "balanced composition with central focus",
+      "canonical_name_zh": "平衡构图中心聚焦",
+      "canonical_phrase": "balanced composition with subject centered or slightly off-center",
+      "samples": [
+        "balanced with the woman centered",
+        "balanced with the woman as the central focus",
+        "balanced with her as focal point",
+        "woman centered, foreground featuring scattered leaves and branches, background dominated by towering palms and lush vegetation, balanced composition",
+        "balanced with the woman occupying the center-right",
+        "flowers dominating left side, woman positioned slightly right of center, balanced composition with natural depth"
+      ],
+      "tags": [
+        "symmetry",
+        "centered",
+        "depth",
+        "natural",
+        "focus"
+      ]
+    },
+    "balanced_composition_river_horizontal_centered": {
+      "canonical_name": "balanced composition river horizontal centered",
+      "canonical_name_zh": "平衡构图河流水平居中",
+      "canonical_phrase": "balanced composition with river flowing horizontally across frame, subject centered",
+      "samples": [
+        "balanced composition with river flowing horizontally across frame, subject centered"
+      ],
+      "tags": [
+        "blue",
+        "water",
+        "river",
+        "serene",
+        "symmetry"
+      ]
+    },
+    "centered_symmetrical_chair_arrangement": {
+      "canonical_name": "centered symmetrical chair arrangement",
+      "canonical_name_zh": "居中对称椅组",
+      "canonical_phrase": "centered composition with symmetrical arrangement of chairs",
+      "samples": [
+        "centered composition with symmetrical arrangement of chairs"
+      ],
+      "tags": [
+        "wood",
+        "velvet",
+        "armchair",
+        "minimalist",
+        "mirrored"
+      ]
+    },
+    "centered_subject_filling_frame": {
+      "canonical_name": "centered subject filling frame",
+      "canonical_name_zh": "居中填满画面",
+      "canonical_phrase": "centered subject filling the frame with leading lines",
+      "samples": [
+        "centered with the subject filling the frame",
+        "centered with subject filling the frame",
+        "centered on face with water filling the frame",
+        "centered framing with window creating leading lines",
+        "centered in frame",
+        "centered with sunflowers filling the frame",
+        "centered in the frame",
+        "centered on frame with window behind"
+      ],
+      "tags": [
+        "centered",
+        "filling",
+        "frame",
+        "leading lines",
+        "window"
+      ]
+    },
+    "diagonal_body_against_vertical_beam_in_straw": {
+      "canonical_name": "diagonal body against vertical beam in straw",
+      "canonical_name_zh": "对角身体与垂直梁在稻草中",
+      "canonical_phrase": "balances diagonal line of body against vertical beam, subject lying in straw",
+      "samples": [
+        "balances diagonal line of body against vertical beam, subject lying in straw"
+      ],
+      "tags": [
+        "straw",
+        "beam",
+        "diagonal",
+        "rustic",
+        "reclining"
+      ]
+    },
+    "medium_closeup_woman_face_fragmented_glass": {
+      "canonical_name": "medium close-up woman face fragmented glass",
+      "canonical_name_zh": "中近景女人脸碎玻璃",
+      "canonical_phrase": "medium close-up framing, woman's face as central focus, fragmented glass in foreground balanced with subject",
+      "samples": [
+        "medium close-up framing, woman's face as central focus, fragmented glass in foreground balanced with subject"
+      ],
+      "tags": [
+        "silver",
+        "glass",
+        "portrait",
+        "minimalist",
+        "shards"
+      ]
+    },
+    "subject_centered_layered_composition_shallow_depth_of_field": {
+      "canonical_name": "subject centered layered composition shallow depth of field",
+      "canonical_name_zh": "居中分层构图浅景深",
+      "canonical_phrase": "subject centered in frame, layered composition with foreground dirt path, midground subject, and background elements, shallow depth of field",
+      "samples": [
+        "subject centered in frame, layered composition with foreground dirt path, midground subject, and background elements, shallow depth of field"
+      ],
+      "tags": [
+        "dirt",
+        "path",
+        "layered",
+        "depth",
+        "centered"
+      ]
+    },
+    "diagonal_piano_leading_line_medium_closeup": {
+      "canonical_name": "diagonal piano leading line medium close-up",
+      "canonical_name_zh": "对角钢琴引导线中近景",
+      "canonical_phrase": "balanced composition with the piano forming a diagonal leading line, medium close-up framing focusing on the subject and piano",
+      "samples": [
+        "balanced composition with the piano forming a diagonal leading line, medium close-up framing focusing on the subject and piano"
+      ],
+      "tags": [
+        "wood",
+        "black",
+        "piano",
+        "symmetrical",
+        "diagonal"
+      ]
+    },
+    "centered_composition_with_balanced_framing": {
+      "canonical_name": "centered composition with balanced framing",
+      "canonical_name_zh": "居中构图平衡框架",
+      "canonical_phrase": "centered subject with balanced foreground and background framing",
+      "samples": [
+        "centered with foliage framing sides",
+        "centered figure with horizon line, full figure framing against waterfront setting",
+        "centered against architectural backdrop",
+        "centered framing with slight depth of field",
+        "centered on the figure against the sky",
+        "centered near right edge, framing against open landscape",
+        "centrally placed with balanced foreground and background elements",
+        "central focal point, pool in foreground, house in background"
+      ],
+      "tags": [
+        "centered",
+        "balanced",
+        "framing",
+        "depth",
+        "symmetry"
+      ]
+    },
+    "centered_upper_body_shallow_depth_of_field_upper_body": {
+      "canonical_name": "centered upper body shallow depth of field",
+      "canonical_name_zh": "居中上半身浅景深",
+      "canonical_phrase": "centered upper body portrait with shallow depth of field and soft background",
+      "samples": [
+        "centered on her figure with balanced framing, shallow depth of field focusing on upper body, soft focus on background elements",
+        "framing her profile in a shallow depth of field, focused on her serene expression",
+        "focused on her upper body with balanced framing, shallow depth of field emphasizing her profile against a softly out-of-focus background",
+        "centered on her upper body, shallow depth of field emphasizing her figure",
+        "centered with the subject occupying most of the frame, shallow depth of field emphasizing her form",
+        "centered on her profile, framing from mid-chest up, shallow depth of field emphasizing her form against the textured background"
+      ],
+      "tags": [
+        "portrait",
+        "shallow_depth_of_field",
+        "centered",
+        "upper_body",
+        "soft_focus"
+      ]
+    },
+    "symmetrical_centered_portrait_centered": {
+      "canonical_name": "symmetrical centered portrait",
+      "canonical_name_zh": "对称居中肖像",
+      "canonical_phrase": "centered",
+      "samples": [
+        "centered"
+      ],
+      "tags": [
+        "portrait",
+        "symmetry",
+        "balanced",
+        "frontal",
+        "focus"
+      ]
+    },
+    "centered_subject_against_commercial_backdrop": {
+      "canonical_name": "centered subject against commercial backdrop",
+      "canonical_name_zh": "主体居中商业背景",
+      "canonical_phrase": "centers the subject against the commercial backdrop",
+      "samples": [
+        "centers the subject against the commercial backdrop"
+      ],
+      "tags": [
+        "white",
+        "studio",
+        "t-shirt",
+        "minimalist",
+        "shadow"
+      ]
+    },
+    "dynamic_diagonal_composition_with_leading_lines": {
+      "canonical_name": "dynamic diagonal composition with leading lines",
+      "canonical_name_zh": "动态对角线构图引导线",
+      "canonical_phrase": "balanced or dynamic composition featuring strong diagonal lines and leading lines",
+      "samples": [
+        "dynamic composition with strong diagonal lines formed by limbs and window frame",
+        "dynamic composition with strong diagonal lines created by the tilted perspective",
+        "balanced composition with fence creating diagonal lines",
+        "balanced composition with sofa forming a strong diagonal line",
+        "balanced composition with leading lines from the ladder",
+        "balanced with log leading diagonally",
+        "balanced composition with body forming a diagonal line across the frame",
+        "dynamic composition with diagonal lines from the swing chains, focus on the subject's joyful expression"
+      ],
+      "tags": [
+        "diagonal",
+        "leading",
+        "dynamic",
+        "balanced",
+        "perspective"
+      ]
+    },
+    "candid_composition_shallow_depth_of_field": {
+      "canonical_name": "candid composition shallow depth of field",
+      "canonical_name_zh": "抓拍构图浅景深",
+      "canonical_phrase": "candid composition, shallow depth of field, focus on subject's silhouette against bright window",
+      "samples": [
+        "candid composition, shallow depth of field, focus on subject's silhouette against bright window"
+      ],
+      "tags": [
+        "silhouette",
+        "window",
+        "natural",
+        "portrait",
+        "backlit"
+      ]
+    },
+    "low_angle_view_of_tying_shoes": {
+      "canonical_name": "low angle view of tying shoes",
+      "canonical_name_zh": "系鞋带低角度特写",
+      "canonical_phrase": "centered on the action of tying shoes",
+      "samples": [
+        "centered on the action of tying shoes"
+      ],
+      "tags": [
+        "sneakers",
+        "leather",
+        "knot",
+        "streetwear",
+        "close-up"
+      ]
+    },
+    "waist_up_framing_spine_curve_dark_lingerie_light_bedding": {
+      "canonical_name": "waist up framing spine curve dark lingerie light bedding",
+      "canonical_name_zh": "腰部以上构图脊柱曲线",
+      "canonical_phrase": "waist up framing, emphasizing the curve of her spine and the contrast between dark lingerie and light bedding",
+      "samples": [
+        "waist up framing, emphasizing the curve of her spine and the contrast between dark lingerie and light bedding"
+      ],
+      "tags": [
+        "dark",
+        "lingerie",
+        "silk",
+        "contrast",
+        "spine"
+      ]
+    },
+    "balanced_face_upper_body_vibrant_blue_sky": {
+      "canonical_name": "balanced face upper body vibrant blue sky",
+      "canonical_name_zh": "面部与上半身平衡蓝空",
+      "canonical_phrase": "balances face and upper body against the vibrant blue sky",
+      "samples": [
+        "balances face and upper body against the vibrant blue sky"
+      ],
+      "tags": [
+        "blue",
+        "sky",
+        "portrait",
+        "balanced",
+        "vibrant"
+      ]
+    },
+    "centered_subject_with_balanced_framing": {
+      "canonical_name": "centered subject with balanced framing",
+      "canonical_name_zh": "居中构图平衡框架",
+      "canonical_phrase": "centered subject dominating the frame with balanced composition",
+      "samples": [
+        "subject centered, doorway framing the subject",
+        "centered subject with expansive environment, leading lines of the pier, strong left-right balance",
+        "centered with subject dominating frame",
+        "off-center subject, horizon line dividing the frame",
+        "figure in lower right quadrant with negative space dominating",
+        "centered subject against window, balanced framing",
+        "centered with subject dominating the frame",
+        "subject centered against vehicle, waist-up framing",
+        "centered with the subject dominating the frame"
+      ],
+      "tags": [
+        "centered",
+        "balanced",
+        "dominant",
+        "framing",
+        "symmetry"
+      ]
+    },
+    "centered_chest_or_waist_up_framing": {
+      "canonical_name": "centered chest or waist up framing",
+      "canonical_name_zh": "居中胸部或腰部以上构图",
+      "canonical_phrase": "centered framing capturing subject from chest up or waist up",
+      "samples": [
+        "centered, chest up framing",
+        "centered framing from chest up, face centered with flowers in foreground creating layered effect",
+        "centered framing subject from chest up, tanks forming layered background",
+        "centered framing capturing subject from chest up",
+        "centered framing from waist up against the horizon",
+        "centered, waist up framing",
+        "framing from waist up, centered slightly off-center"
+      ],
+      "tags": [
+        "portrait",
+        "centered",
+        "layered",
+        "horizon",
+        "foreground"
+      ]
+    },
+    "layered_composition_with_three_overlapping_photos": {
+      "canonical_name": "layered composition with three overlapping photos",
+      "canonical_name_zh": "三层重叠照片构图",
+      "canonical_phrase": "layered composition with three overlapping photos",
+      "samples": [
+        "layered composition with three overlapping photos"
+      ],
+      "tags": [
+        "vintage",
+        "paper",
+        "collage",
+        "nostalgic",
+        "frayed_edges"
+      ]
+    },
+    "low_angle_waist_up_balanced_composition": {
+      "canonical_name": "low angle waist up balanced composition",
+      "canonical_name_zh": "低角度半身平衡构图",
+      "canonical_phrase": "camera positioned at a low angle capturing from the waist up, composition emphasizing her face and upper body with balanced foreground and background",
+      "samples": [
+        "camera positioned at a low angle capturing from the waist up, composition emphasizing her face and upper body with balanced foreground and background"
+      ],
+      "tags": [
+        "silhouette",
+        "denim",
+        "urban",
+        "cinematic",
+        "depth"
+      ]
+    },
+    "balanced_medium_shot_with_fence": {
+      "canonical_name": "balanced medium shot with fence",
+      "canonical_name_zh": "平衡中景带栅栏",
+      "canonical_phrase": "medium shot framing her torso and head, balanced composition with the fence on the left and open space on the right, shallow depth of field emphasizing her and the book",
+      "samples": [
+        "medium shot framing her torso and head, balanced composition with the fence on the left and open space on the right, shallow depth of field emphasizing her and the book"
+      ],
+      "tags": [
+        "fence",
+        "book",
+        "shallow depth of field",
+        "balanced",
+        "open space"
+      ]
+    },
+    "centered_balanced_composition_framing_architectural_elements": {
+      "canonical_name": "centered balanced composition framing",
+      "canonical_name_zh": "居中平衡构图",
+      "canonical_phrase": "centered composition with balanced framing and symmetrical elements",
+      "samples": [
+        "centered in the frame, balanced composition",
+        "balances figure against architectural elements, full length captured",
+        "balanced figure against window frame, medium shot centered",
+        "centered composition with subject in midground, balanced framing",
+        "centered composition, medium close-up framing",
+        "centered composition, tight framing",
+        "centered composition with balanced framing",
+        "centered composition, balanced framing",
+        "close framing, dynamic composition",
+        "centered framing",
+        "centered framing, balanced composition with subject occupying central vertical axis",
+        "centered framing, rich in detail",
+        "centered medium framing, subject balanced against textured wall",
+        "centered with balanced framing",
+        "centered figure balanced against architectural elements",
+        "framing fills the entire view with natural elements, focuses on intricate patterns formed by overlapping organic forms",
+        "centered framing, emphasizes symmetry with circular architecture",
+        "subject centrally framed, balanced composition with pillar on right, architectural lines leading into background",
+        "centered framing, balanced with natural depth"
+      ],
+      "tags": [
+        "centered",
+        "symmetry",
+        "balanced",
+        "architectural",
+        "natural"
+      ]
+    },
+    "woman_and_bus_sidebyside_medium_shot": {
+      "canonical_name": "woman and bus side-by-side medium shot",
+      "canonical_name_zh": "人与巴士并排中景",
+      "canonical_phrase": "medium shot framing the woman and the bus side-by-side",
+      "samples": [
+        "medium shot framing the woman and the bus side-by-side"
+      ],
+      "tags": [
+        "blue",
+        "denim",
+        "bus",
+        "urban",
+        "reflection"
+      ]
+    },
+    "centered_subject_shallow_depth_of_field_subject_emphasized": {
+      "canonical_name": "centered subject shallow depth of field",
+      "canonical_name_zh": "居中主体浅景深",
+      "canonical_phrase": "centered, shallow depth of field, subject emphasized against backdrop",
+      "samples": [
+        "centered, shallow depth of field, subject emphasized against backdrop"
+      ],
+      "tags": [
+        "vibrant",
+        "silk",
+        "evening gown",
+        "elegant",
+        "bokeh"
+      ]
+    },
+    "centered_subject_with_blurred_background_vegetation": {
+      "canonical_name": "centered subject with blurred background",
+      "canonical_name_zh": "居中主体模糊背景",
+      "canonical_phrase": "centered within the frame, natural depth created by blurred background vegetation",
+      "samples": [
+        "centered within the frame, natural depth created by blurred background vegetation"
+      ],
+      "tags": [
+        "green",
+        "bokeh",
+        "portrait",
+        "organic",
+        "depth"
+      ]
+    },
+    "centered_subject_with_strong_diagonal_lines": {
+      "canonical_name": "centered subject with strong diagonal lines",
+      "canonical_name_zh": "居中主体配强对角线",
+      "canonical_phrase": "centered subject with strong diagonal lines from environment or light",
+      "samples": [
+        "centered with leading lines from blinds, soft focus on background elements",
+        "focused on upper body with strong diagonal line from red surface",
+        "tight framing focusing on face and upper torso, strong diagonal lines from light fixture and arm",
+        "strong diagonal line created by the path, foreground grass and lower skirt out of focus, subject centered vertically",
+        "centrally framed subject with shadow forming a strong diagonal line across the ground",
+        "emphasizing the diagonal line of the concrete slope, camera positioned low",
+        "centered in frame with strong diagonal light patterns",
+        "centered focus using alley's diagonal lines",
+        "diagonal line of body leading to pillar, full body in medium shot",
+        "slightly off-center with strong diagonal light",
+        "centered with birds as focal points",
+        "bird positioned slightly left of center, emphasizes bird against empty sky, minimalistic",
+        "emphasizing diagonal light path, focus sharp on foot and mat surface"
+      ],
+      "tags": [
+        "diagonal",
+        "centered",
+        "leading lines",
+        "minimalist",
+        "sharp focus"
+      ]
+    },
+    "centered_balanced_upper_body_composition": {
+      "canonical_name": "centered balanced upper body composition",
+      "canonical_name_zh": "居中平衡上半身构图",
+      "canonical_phrase": "balanced centered composition framing upper body and partial legs",
+      "samples": [
+        "centered, framing full upper body",
+        "framing full body, composition balanced with subject centered",
+        "balanced with body centered",
+        "intimate composition of upper body and limbs, close-up frame",
+        "balanced with subject positioned slightly off-center, framing upper body and legs",
+        "subject centered, balanced composition capturing upper body and partial legs",
+        "centered with figure dominating frame, capturing full upper body and part of legs",
+        "balanced with subject positioned slightly off-center, focusing on head and shoulders",
+        "balanced with subject centered, framing upper body and legs"
+      ],
+      "tags": [
+        "portrait",
+        "balanced",
+        "centered",
+        "upper-body",
+        "intimate"
+      ]
+    },
+    "centered_diagonal_limbs_shallow_depth": {
+      "canonical_name": "centered diagonal limbs shallow depth",
+      "canonical_name_zh": "中心对角肢体浅景深",
+      "canonical_phrase": "centered with strong diagonal lines from her limbs, shallow depth of field, softly blurred background",
+      "samples": [
+        "centered with strong diagonal lines from her limbs, shallow depth of field, softly blurred background"
+      ],
+      "tags": [
+        "vibrant",
+        "silk",
+        "dress",
+        "dynamic",
+        "limb_diagonal"
+      ]
+    },
+    "centered_mirror_reflection_face": {
+      "canonical_name": "centered mirror reflection face",
+      "canonical_name_zh": "居中镜面反射面部",
+      "canonical_phrase": "centered with mirror reflecting face, back softly blurred, reflection in focus",
+      "samples": [
+        "centered with mirror reflecting face, back softly blurred, reflection in focus"
+      ],
+      "tags": [
+        "silver",
+        "glass",
+        "portrait",
+        "minimalist",
+        "reflection"
+      ]
+    },
+    "foreground_stalks_blur_woman_focus": {
+      "canonical_name": "foreground stalks blur woman focus",
+      "canonical_name_zh": "前景模糊中景聚焦",
+      "canonical_phrase": "woman partially obscured by foreground stalks, foreground stalks blurred, midground woman in focus, background softly out of focus, emphasizing contrast between cool blue dress and warm green foliage",
+      "samples": [
+        "woman partially obscured by foreground stalks, foreground stalks blurred, midground woman in focus, background softly out of focus, emphasizing contrast between cool blue dress and warm green foliage"
+      ],
+      "tags": [
+        "blue",
+        "green",
+        "dress",
+        "depth_of_field",
+        "foliage"
+      ]
+    },
+    "centered_subject_with_shallow_depth_of_field_brick": {
+      "canonical_name": "centered subject with shallow depth of field",
+      "canonical_name_zh": "居中主体浅景深",
+      "canonical_phrase": "centered subject with shallow depth of field blurring background",
+      "samples": [
+        "centered with the brick as the dominant subject, shallow depth of field blurring surrounding elements",
+        "centered with the subject occupying the foreground, shallow depth of field blurring the distant foliage",
+        "centers the subject, shallow depth of field, background softly blurred",
+        "centers the subject with background slightly blurred, shallow depth of field"
+      ],
+      "tags": [
+        "centered",
+        "shallow",
+        "blur",
+        "foreground",
+        "soft"
+      ]
+    }
+  },
+  "statistics": {
+    "total_clusters": 206,
+    "multi_sample_clusters": 64,
+    "single_sample_clusters": 142
+  }
+}

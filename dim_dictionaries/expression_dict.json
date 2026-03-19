@@ -1,0 +1,1362 @@
+{
+  "dimension": "expression",
+  "version": "1.0",
+  "generated_date": "2026-03-18",
+  "mode": "clustered",
+  "clusters": {
+    "subtle_closedmouth_smile": {
+      "canonical_name": "subtle closed-mouth smile",
+      "canonical_name_zh": "含蓄闭唇微笑",
+      "canonical_phrase": "subtle closed-mouth smile",
+      "samples": [
+        "subtle closed-mouth smile"
+      ],
+      "tags": [
+        "neutral",
+        "skin",
+        "face",
+        "soft",
+        "lips"
+      ]
+    },
+    "wide_joyful_smiling_expression": {
+      "canonical_name": "wide joyful smiling expression",
+      "canonical_name_zh": "宽大的喜悦笑容",
+      "canonical_phrase": "wide joyful smile with broad grin and parted lips",
+      "samples": [
+        "wide joyful smile",
+        "wide grin",
+        "smiling joyfully",
+        "joyful",
+        "smiling broadly",
+        "smiling broadly with wide joyful grin and parted lips",
+        "smiling broadly, joyful",
+        "wide and joyful smile"
+      ],
+      "tags": [
+        "happy",
+        "grin",
+        "open mouth",
+        "cheerful",
+        "bright"
+      ]
+    },
+    "gentle_smiling_with_parted_lips": {
+      "canonical_name": "gentle smiling with parted lips",
+      "canonical_name_zh": "温柔微笑唇微张",
+      "canonical_phrase": "gentle smiling with lips parted slightly in joy",
+      "samples": [
+        "smiling gently with lips parted",
+        "smiling with parted lips",
+        "smiling gently with lips slightly parted",
+        "smiling gently, lips parted",
+        "radiant smile, lips parted in joy",
+        "joyful smile, lips parted",
+        "smiling warmly, lips parted, joyful",
+        "smiling with lips parted slightly",
+        "smiling with lips parted",
+        "joyful, lips parted",
+        "smiling softly with lips parted",
+        "smiling gently with lips parted in a soft curve",
+        "smiling gently, lips parted slightly",
+        "smiling warmly with lips parted slightly",
+        "smiling with lips slightly parted"
+      ],
+      "tags": [
+        "soft",
+        "warm",
+        "joyful",
+        "expression",
+        "parted_lips"
+      ]
+    },
+    "joyful_openmouthed_smile": {
+      "canonical_name": "joyful open-mouthed smile",
+      "canonical_name_zh": "开心张嘴笑",
+      "canonical_phrase": "bright joyful expression with mouth wide open",
+      "samples": [
+        "bright open-mouthed smile",
+        "joyful, mouth slightly open",
+        "joyful expression with wide open mouth",
+        "mouth wide open in a joyful shout, eyebrows slightly arched"
+      ],
+      "tags": [
+        "happy",
+        "face",
+        "smile",
+        "shout",
+        "arched_eyebrows"
+      ]
+    },
+    "joyful_scream": {
+      "canonical_name": "joyful scream",
+      "canonical_name_zh": "喜悦尖叫",
+      "canonical_phrase": "joyful scream",
+      "samples": [
+        "joyful scream"
+      ],
+      "tags": [
+        "vibrant",
+        "cotton",
+        "hoodie",
+        "energetic",
+        "open mouth"
+      ]
+    },
+    "broad_open_mouth_smiling_teeth": {
+      "canonical_name": "broad open mouth smiling teeth",
+      "canonical_name_zh": "张嘴露齿大笑",
+      "canonical_phrase": "broad open mouth smiling with visible teeth",
+      "samples": [
+        "playful open-mouthed grin showing teeth",
+        "smiling broadly with open mouth showing teeth",
+        "smiling widely with visible teeth in one panel, mouth slightly open in a surprised expression in the other",
+        "smiling broadly with mouth open showing teeth",
+        "smiling with a wide open mouth showing teeth",
+        "smiling broadly with mouth open revealing teeth"
+      ],
+      "tags": [
+        "grin",
+        "teeth",
+        "happy",
+        "expression",
+        "mouth"
+      ]
+    },
+    "broad_smile_with_crinkled_eyes": {
+      "canonical_name": "broad smile with crinkled eyes",
+      "canonical_name_zh": "露齿大笑眼角弯弯",
+      "canonical_phrase": "smiling broadly with visible teeth and eyes crinkled at corners",
+      "samples": [
+        "smiling broadly with visible teeth, eyes crinkled at corners, eyebrows arched",
+        "smiling broadly with teeth showing, eyes crinkling at the corners, cheeks slightly flushed",
+        "gentle smile showing white teeth, eyes crinkled at the corners",
+        "bright smile showing upper teeth, eyes crinkled at the corners, eyebrows arched",
+        "smiling broadly with visible teeth, eyes crinkled at corners, eyebrows slightly arched",
+        "smiling broadly with visible teeth, eyes crinkled at the corners",
+        "smiling broadly with visible upper teeth, eyes crinkling at the corners, eyebrows slightly arched",
+        "smiling broadly with teeth showing, eyes crinkled at the corners",
+        "smiling broadly with visible teeth, eyes crinkled at the corners, eyebrows slightly arched",
+        "smiling broadly with visible teeth, eyes crinkled at corners",
+        "smiling broadly with visible teeth, eyes crinkled at corners, eyebrows softly arched",
+        "smiling broadly with visible teeth, eyes crinkled at corners, cheeks raised",
+        "smiling broadly with visible teeth, eyes slightly crinkled at the corners, eyebrows naturally arched",
+        "smiling broadly with bright white teeth, eyes crinkling at the corners",
+        "smiling broadly with her head tilted slightly right, showing teeth, eyes crinkled at the corners, visible laugh lines"
+      ],
+      "tags": [
+        "teeth",
+        "crinkled",
+        "arched",
+        "laugh",
+        "bright"
+      ]
+    },
+    "slightly_parted_lips_wide_expressive_eyes": {
+      "canonical_name": "slightly parted lips wide expressive eyes",
+      "canonical_name_zh": "微张嘴唇宽眼",
+      "canonical_phrase": "slightly parted lips, eyes wide and expressive, eyebrows naturally arched",
+      "samples": [
+        "slightly parted lips, eyes wide and expressive, eyebrows naturally arched"
+      ],
+      "tags": [
+        "lips",
+        "skin",
+        "portrait",
+        "emotional",
+        "arched_brows"
+      ]
+    },
+    "joyful_open_mouth_smile_showing_teeth": {
+      "canonical_name": "joyful open mouth smile showing teeth",
+      "canonical_name_zh": "露齿开怀大笑",
+      "canonical_phrase": "joyful open-mouthed smile showing upper teeth with raised cheeks",
+      "samples": [
+        "joyful open-mouthed smile showing upper teeth",
+        "mouth slightly open in surprise",
+        "joyful grin with open mouth revealing upper teeth",
+        "smiling joyfully with wide open mouth showing upper teeth",
+        "bright open smile revealing upper teeth, cheeks raised with visible laugh lines",
+        "smiling with a wide open mouth, showing upper teeth",
+        "mouth open in an excited expression showing upper teeth",
+        "smiling brightly, joyful grin showing upper teeth",
+        "mouth open in an expressive shout, teeth visible"
+      ],
+      "tags": [
+        "teeth",
+        "smile",
+        "joyful",
+        "open-mouth",
+        "laugh-lines"
+      ]
+    },
+    "neutral_expression_lips_closed": {
+      "canonical_name": "neutral expression lips closed",
+      "canonical_name_zh": "中性表情闭唇",
+      "canonical_phrase": "neutral expression with lips closed in relaxed natural position",
+      "samples": [
+        "neutral expression, lips closed in relaxed natural position",
+        "neutral expression, lips closed",
+        "neutral expression with lips closed",
+        "lips closed neutrally",
+        "neutral, lips closed",
+        "neutral expression, lips closed and relaxed",
+        "neutral expression, lips softly closed"
+      ],
+      "tags": [
+        "neutral",
+        "closed",
+        "lips",
+        "relaxed",
+        "natural"
+      ]
+    },
+    "mouth_slightly_open": {
+      "canonical_name": "mouth slightly open",
+      "canonical_name_zh": "嘴唇微张",
+      "canonical_phrase": "mouth slightly open",
+      "samples": [
+        "mouth slightly open"
+      ],
+      "tags": [
+        "lips",
+        "skin",
+        "natural",
+        "soft",
+        "teeth"
+      ]
+    },
+    "bright_smiling_facial_expression": {
+      "canonical_name": "bright smiling facial expression",
+      "canonical_name_zh": "明亮微笑表情",
+      "canonical_phrase": "bright smiling face with cheerful expression",
+      "samples": [
+        "bright cheerful (woman); neutral (boy)",
+        "bright smiling face",
+        "smiling",
+        "smiling brightly",
+        "faint smile",
+        "bright smile"
+      ],
+      "tags": [
+        "smile",
+        "cheerful",
+        "happy",
+        "face",
+        "expression"
+      ]
+    },
+    "laughing_joyfully": {
+      "canonical_name": "laughing joyfully",
+      "canonical_name_zh": "开怀大笑",
+      "canonical_phrase": "laughing joyfully",
+      "samples": [
+        "laughing joyfully"
+      ],
+      "tags": [
+        "bright",
+        "skin",
+        "t-shirt",
+        "playful",
+        "crinkled-eyes"
+      ]
+    },
+    "neutral_expression_with_soft_eyes": {
+      "canonical_name": "neutral expression with soft eyes",
+      "canonical_name_zh": "中性表情柔和眼神",
+      "canonical_phrase": "neutral expression, lips slightly parted, soft eyes",
+      "samples": [
+        "neutral with lips slightly parted",
+        "neutral lips, soft eyes",
+        "neutral lips",
+        "neutral, lips slightly parted",
+        "neutral lip position, soft eyes",
+        "neutral lips slightly parted",
+        "neutral with full lips painted bright red"
+      ],
+      "tags": [
+        "neutral",
+        "soft",
+        "parted",
+        "lips",
+        "calm"
+      ]
+    },
+    "wide_genuine_smile_with_visible_teeth": {
+      "canonical_name": "wide genuine smile with visible teeth",
+      "canonical_name_zh": "露齿宽幅真笑",
+      "canonical_phrase": "wide genuine smile showing white teeth with raised cheeks",
+      "samples": [
+        "radiant joy, cheeks slightly flushed",
+        "smiling broadly with teeth visible, cheeks slightly flushed",
+        "soft smile, lips curved gently upward, cheeks slightly flushed",
+        "wide genuine smile showing white teeth, cheeks slightly raised, eyebrows naturally arched",
+        "wide genuine smile showing teeth, raised eyebrows",
+        "smiling gently with eyes slightly narrowed, lips curved upward, cheeks slightly flushed",
+        "smiling broadly with teeth showing, cheeks slightly raised",
+        "wide smiling mouth with visible teeth, cheeks raised with dimples",
+        "smiling broadly with lips parted showing teeth, cheeks slightly flushed",
+        "bright smile showing white teeth, cheeks slightly raised, lips parted",
+        "smiling broadly showing teeth, eyebrows slightly arched, cheeks slightly flushed",
+        "smiling broadly with visible teeth, cheeks raised, lips parted",
+        "wide smile showing teeth, cheeks slightly flushed",
+        "smiling broadly with teeth visible, cheeks flushed",
+        "wide smiling eyes, bright teeth showing, cheeks slightly flushed",
+        "soft natural smile with lips parted slightly, cheeks subtly flushed",
+        "wide genuine smile showing teeth"
+      ],
+      "tags": [
+        "teeth",
+        "cheeks",
+        "flushed",
+        "arched",
+        "dimples"
+      ]
+    },
+    "soft_focused_expression_lips_parted": {
+      "canonical_name": "soft focused expression lips parted",
+      "canonical_name_zh": "柔焦微张唇",
+      "canonical_phrase": "soft focused expression, lips slightly parted",
+      "samples": [
+        "soft focused expression, lips slightly parted"
+      ],
+      "tags": [
+        "skin",
+        "matte",
+        "portrait",
+        "dreamy",
+        "parted_lips"
+      ]
+    },
+    "broad_smile_with_visible_teeth": {
+      "canonical_name": "broad smile with visible teeth",
+      "canonical_name_zh": "露齿大笑",
+      "canonical_phrase": "person smiling broadly with teeth clearly visible",
+      "samples": [
+        "smiling broadly with visible teeth",
+        "smiling widely with visible teeth",
+        "smiling widely showing teeth",
+        "bright smiling with teeth showing",
+        "smiling broadly with teeth visible",
+        "smiling broadly showing teeth",
+        "smiling with visible teeth",
+        "teeth bared in a grin",
+        "smiling broadly with teeth showing"
+      ],
+      "tags": [
+        "happy",
+        "grin",
+        "teeth",
+        "expression",
+        "joyful"
+      ]
+    },
+    "joyful_chewing_smile_with_parted_lips": {
+      "canonical_name": "joyful chewing smile with parted lips",
+      "canonical_name_zh": "开心咀嚼露齿笑",
+      "canonical_phrase": "joyful smile, lips parted as she chews",
+      "samples": [
+        "joyful smile, lips parted as she chews"
+      ],
+      "tags": [
+        "warm",
+        "skin",
+        "casual",
+        "playful",
+        "chewing"
+      ]
+    },
+    "soft_expression_with_parted_lips": {
+      "canonical_name": "soft expression with parted lips",
+      "canonical_name_zh": "柔和表情微张唇",
+      "canonical_phrase": "soft natural expression with lips slightly parted",
+      "samples": [
+        "soft expression, lips parted",
+        "soft expression, lips parted slightly",
+        "soft natural expression, lips slightly parted",
+        "soft downcast expression, lips slightly parted",
+        "soft natural expression with parted lips",
+        "soft expression with slightly parted lips",
+        "soft surprise with slightly parted lips",
+        "soft expression, lips slightly parted"
+      ],
+      "tags": [
+        "soft",
+        "natural",
+        "parted",
+        "lips",
+        "gentle"
+      ]
+    },
+    "wide_open_mouth_joyful_smile_showing_teeth": {
+      "canonical_name": "wide open mouth joyful smile showing teeth",
+      "canonical_name_zh": "张嘴露齿开心笑",
+      "canonical_phrase": "wide open mouth joyful smile revealing teeth",
+      "samples": [
+        "joyful, open mouth revealing teeth",
+        "exuberant joyful shout with visible teeth and broad smile",
+        "wide open-mouthed joyful smile showing teeth",
+        "wide joyful smile revealing teeth",
+        "wide joyful smile showing teeth",
+        "joyful grin with visible teeth",
+        "open-mouthed joyful smile showing teeth",
+        "joyful wide smile showing teeth",
+        "joyful smile revealing teeth"
+      ],
+      "tags": [
+        "teeth",
+        "smile",
+        "joyful",
+        "open mouth",
+        "grin"
+      ]
+    },
+    "broad_smile_with_crinkled_eyes_upper_teeth": {
+      "canonical_name": "broad smile with crinkled eyes",
+      "canonical_name_zh": "眼角皱纹的灿烂笑容",
+      "canonical_phrase": "smiling broadly with eyes crinkled at corners and lips parted showing teeth",
+      "samples": [
+        "smiling broadly with eyes crinkled at the corners, lips curved upward showing upper teeth",
+        "smiling widely with lips parted revealing white teeth, eyes crinkling at the corners",
+        "smiling broadly with lips parted showing teeth, eyes crinkled at corners",
+        "laughing with wide open eyes and crinkled corners, lips parted showing upper teeth",
+        "smiling brightly with eyes crinkled at the corners, lips parted showing upper teeth",
+        "smiling broadly with eyes crinkled at the corners, lips parted upward revealing teeth",
+        "smiling broadly with eyes crinkled at corners and lips parted showing upper teeth",
+        "smiling broadly with eyes crinkled at the corners and lips parted showing teeth",
+        "smiling broadly with eyes crinkled at corners, lips parted showing teeth",
+        "smiling broadly with lips parted showing teeth, eyes crinkled at the corners",
+        "smiling broadly with eyes crinkled at corners, lips parted showing upper teeth",
+        "smiling with eyes crinkled at the corners, lips curved upwards revealing upper teeth",
+        "smiling broadly with eyes crinkled at the corners, lips parted upward showing teeth",
+        "smiling broadly with eyes crinkled at the corners, lips parted showing teeth",
+        "smiling brightly with parted lips showing upper teeth, eyes crinkled at the corners"
+      ],
+      "tags": [
+        "happy",
+        "teeth",
+        "crinkled",
+        "bright",
+        "joyful"
+      ]
+    },
+    "calm_gentle_expression_with_parted_lips": {
+      "canonical_name": "calm gentle expression with parted lips",
+      "canonical_name_zh": "温和平静微张唇",
+      "canonical_phrase": "calm and gentle facial expression with lips slightly parted",
+      "samples": [
+        "calm expression with slightly parted lips",
+        "gentle expression, lips parted slightly",
+        "calm",
+        "gentle facial expression, lips slightly parted",
+        "soft",
+        "gentle expression, lips slightly parted",
+        "alert",
+        "calm expression, lips softly closed",
+        "calm expression, lips slightly parted",
+        "serene expression with lips slightly parted"
+      ],
+      "tags": [
+        "serene",
+        "soft",
+        "relaxed",
+        "parted_lips",
+        "gentle"
+      ]
+    },
+    "natural_smiling_expression_with_parted_lips": {
+      "canonical_name": "natural smiling expression with parted lips",
+      "canonical_name_zh": "自然微笑露齿表情",
+      "canonical_phrase": "natural smiling expression with slightly parted lips showing upper teeth and crinkled eyes",
+      "samples": [
+        "slight smile, lips parted showing upper teeth, natural eyebrows",
+        "smiling with slightly parted lips, eyebrows naturally arched, cheeks showing faint smile lines",
+        "smiling brightly with head slightly tilted, eyes crinkled at corners, lips curved in a cheerful grin showing upper teeth",
+        "smiling broadly with lips parted showing upper teeth, eyes crinkled at corners, eyebrows naturally arched"
+      ],
+      "tags": [
+        "smile",
+        "teeth",
+        "eyes",
+        "cheerful",
+        "natural"
+      ]
+    },
+    "softly_arched_eyebrows_parted_lips_smile": {
+      "canonical_name": "softly arched eyebrows parted lips smile",
+      "canonical_name_zh": "挑眉露齿微笑",
+      "canonical_phrase": "smiling with parted lips revealing upper teeth, eyebrows softly arched",
+      "samples": [
+        "smiling with parted lips revealing upper teeth, eyebrows softly arched"
+      ],
+      "tags": [
+        "skin",
+        "natural",
+        "casual",
+        "joyful",
+        "upper teeth"
+      ]
+    },
+    "lips_slightly_parted_neutral_eyebrows": {
+      "canonical_name": "lips slightly parted neutral eyebrows",
+      "canonical_name_zh": "微张嘴唇中性眉",
+      "canonical_phrase": "lips slightly parted, eyebrows neutral",
+      "samples": [
+        "lips slightly parted, eyebrows neutral"
+      ],
+      "tags": [
+        "skin",
+        "face",
+        "neutral",
+        "soft",
+        "parted"
+      ]
+    },
+    "wide_eyes_parted_lips_natural_eyebrows": {
+      "canonical_name": "wide eyes parted lips natural eyebrows",
+      "canonical_name_zh": "睁眼微唇自然眉",
+      "canonical_phrase": "wide eyes with slightly parted lips and natural defined eyebrows",
+      "samples": [
+        "wide eyes, slightly parted lips, natural eyebrows",
+        "lips slightly parted, natural makeup enhancing defined eyebrows and almond-shaped eyes",
+        "soft lips, defined eyebrows",
+        "lips slightly parted, eyebrows natural and defined",
+        "lips slightly parted, eyes wide and alert, eyebrows softly arched, subtle blush on cheeks",
+        "soft eyes, natural eyebrows, lips slightly parted",
+        "parted lips, eyes wide and alert, eyebrows slightly arched",
+        "lips slightly parted, eyebrows gently arched, eyes wide and clear",
+        "slightly parted lips, eyebrows natural, eyes wide",
+        "lips slightly parted, eyes wide and expressive, dark eyebrows arched",
+        "wide eyes, natural makeup",
+        "lips slightly parted, eyebrows natural, eyes softly focused",
+        "soft eyes, defined eyebrows, lips slightly parted",
+        "slightly parted lips, defined eyebrows"
+      ],
+      "tags": [
+        "eyes",
+        "lips",
+        "eyebrows",
+        "natural",
+        "alert"
+      ]
+    },
+    "softly_parted_lips_with_focused_eyes": {
+      "canonical_name": "softly parted lips with focused eyes",
+      "canonical_name_zh": "微张嘴唇专注眼神",
+      "canonical_phrase": "lips slightly parted, soft focused eyes, calm and intense gaze",
+      "samples": [
+        "lips slightly parted, eyes soft and focused",
+        "lips slightly parted, focused",
+        "focused expression, lips slightly parted",
+        "softly parted lips, calm eyes",
+        "intense gaze, lips slightly parted",
+        "eyes wide, lips slightly parted with visible teeth",
+        "focused",
+        "lips parted, eyes wide and soft",
+        "lips parted slightly, soft eyes",
+        "lips slightly parted, intense gaze",
+        "focused expression with slightly narrowed eyes and parted lips",
+        "focused, lips parted slightly",
+        "expressive, curious",
+        "intense eyes, lips slightly parted",
+        "slightly parted lips, soft focused eyes",
+        "slightly parted lips, eyes wide and focused"
+      ],
+      "tags": [
+        "lips",
+        "eyes",
+        "soft",
+        "focused",
+        "calm"
+      ]
+    },
+    "broad_smiling_expression_with_parted_lips": {
+      "canonical_name": "broad smiling expression with parted lips",
+      "canonical_name_zh": "开怀大笑表情",
+      "canonical_phrase": "smiling broadly with eyes crinkling or closed and lips parted",
+      "samples": [
+        "smiling broadly with eyes crinkling, lips parted",
+        "smiling with eyes closed, lips parted",
+        "smiling broadly with eyes crinkled and lips parted",
+        "smiling with eyes closed"
+      ],
+      "tags": [
+        "happy",
+        "joyful",
+        "open mouth",
+        "crinkled eyes",
+        "cheerful"
+      ]
+    },
+    "slightly_parted_lips_with_arched_eyebrows": {
+      "canonical_name": "slightly parted lips with arched eyebrows",
+      "canonical_name_zh": "微张嘴唇配挑眉",
+      "canonical_phrase": "lips slightly parted, eyebrows naturally arched, soft expression",
+      "samples": [
+        "lips parted slightly, eyebrows naturally arched",
+        "lips slightly parted, eyebrows natural",
+        "slightly parted lips, naturally arched eyebrows",
+        "lips slightly parted, eyebrows softly arched",
+        "slightly parted lips, eyebrows naturally arched",
+        "lips slightly parted, delicate eyebrows",
+        "parted lips, slightly raised eyebrows",
+        "lips slightly parted, eyebrows gently arched",
+        "lips slightly parted, eyebrows delicately arched",
+        "lips parted, eyebrows slightly arched",
+        "lips parted slightly showing upper teeth, eyebrows naturally arched",
+        "lips parted subtly, eyebrows softly arched",
+        "lips parted subtly, dark eyebrows arched",
+        "lips naturally parted, eyebrows relaxed",
+        "lips parted slightly, eyebrows softly arched",
+        "lips parted slightly, eyebrows neutral",
+        "lips softly parted, eyebrows naturally arched",
+        "parted lips and slightly arched eyebrows",
+        "lips softly parted, eyebrows neutral",
+        "parted lips, eyebrows naturally arched",
+        "lips parted with a hint of red lipstick, natural arched eyebrows",
+        "lips parted slightly, eyebrows slightly arched",
+        "lips parted with subtle tension, eyebrows naturally arched",
+        "lips slightly parted, eyebrows naturally arched"
+      ],
+      "tags": [
+        "lips",
+        "eyebrows",
+        "arched",
+        "natural",
+        "soft"
+      ]
+    },
+    "bright_smiling_face_with_wide_eyes": {
+      "canonical_name": "bright smiling face with wide eyes",
+      "canonical_name_zh": "明亮笑脸宽眼",
+      "canonical_phrase": "bright smiling face with wide eyes, arched eyebrows, and wide open mouth showing teeth",
+      "samples": [
+        "bright smiling face with wide eyes, arched eyebrows, and wide open mouth showing teeth"
+      ],
+      "tags": [
+        "teeth",
+        "arched",
+        "smile",
+        "skin",
+        "joyful"
+      ]
+    },
+    "lips_parted_eyebrows_arched": {
+      "canonical_name": "lips parted eyebrows arched",
+      "canonical_name_zh": "唇微张眉微扬",
+      "canonical_phrase": "lips gently parted, eyebrows natural and subtly arched",
+      "samples": [
+        "lips gently parted, eyebrows natural and subtly arched"
+      ],
+      "tags": [
+        "skin",
+        "face",
+        "soft",
+        "natural",
+        "parted_lips"
+      ]
+    },
+    "broad_joyful_smiling_expression": {
+      "canonical_name": "broad joyful smiling expression",
+      "canonical_name_zh": "开怀大笑表情",
+      "canonical_phrase": "smiling broadly with eyes crinkled and teeth visible",
+      "samples": [
+        "smiling broadly, eyes crinkled, lips parted, teeth visible",
+        "smiling broadly with eyes crinkled, lips parted, teeth visible, joyful",
+        "smiling broadly with eyes crinkled, lips parted revealing teeth",
+        "smiling broadly with eyes looking forward, lips parted in joyful expression, eyebrows slightly arched, visible smile lines"
+      ],
+      "tags": [
+        "happy",
+        "teeth",
+        "crinkled",
+        "joyful",
+        "open-mouthed"
+      ]
+    },
+    "soft_neutral_expression_with_parted_lips": {
+      "canonical_name": "soft neutral expression with parted lips",
+      "canonical_name_zh": "柔和中性微张唇",
+      "canonical_phrase": "soft neutral expression, lips slightly parted, calm face",
+      "samples": [
+        "soft neutral expression, lips parted slightly",
+        "neutral expression with soft parted lips",
+        "neutral expression, lips closed and slightly parted",
+        "neutral facial expression",
+        "soft neutral expression with lips parted",
+        "calm neutral expression, lips slightly parted",
+        "neutral expression, lips closed, eyes slightly narrowed"
+      ],
+      "tags": [
+        "neutral",
+        "soft",
+        "parted_lips",
+        "calm",
+        "subtle"
+      ]
+    },
+    "neutral_expression_with_parted_lips": {
+      "canonical_name": "neutral expression with parted lips",
+      "canonical_name_zh": "中性微张唇表情",
+      "canonical_phrase": "neutral expression, lips slightly parted, natural eyebrows",
+      "samples": [
+        "neutral, lips slightly parted, eyebrows naturally arched",
+        "soft natural makeup enhancing defined eyebrows and long dark lashes",
+        "lips parted, eyebrows natural",
+        "red lips slightly parted, eyebrows well-defined and arched",
+        "neutral, lips slightly parted, eyebrows natural",
+        "neutral lips, natural eyebrows",
+        "subtle pout, lips slightly parted, eyebrows gently arched"
+      ],
+      "tags": [
+        "neutral",
+        "lips",
+        "parted",
+        "natural",
+        "arched"
+      ]
+    },
+    "smiling_broadly_with_bright_eyes_and_parted_lips": {
+      "canonical_name": "smiling broadly with bright eyes and parted lips",
+      "canonical_name_zh": "咧嘴笑亮眼微张唇",
+      "canonical_phrase": "smiling broadly with bright eyes and parted lips",
+      "samples": [
+        "smiling broadly with bright eyes and parted lips"
+      ],
+      "tags": [
+        "bright",
+        "skin",
+        "face",
+        "joyful",
+        "parted_lips"
+      ]
+    },
+    "thoughtful_expression_with_softly_parted_lips": {
+      "canonical_name": "thoughtful expression with softly parted lips",
+      "canonical_name_zh": "若有所思嘴唇微张",
+      "canonical_phrase": "thoughtful, lips softly parted",
+      "samples": [
+        "thoughtful, lips softly parted"
+      ],
+      "tags": [
+        "contemplative",
+        "skin",
+        "face",
+        "pensive",
+        "parted_lips"
+      ]
+    },
+    "warm_smile_revealing_upper_teeth": {
+      "canonical_name": "warm smile revealing upper teeth",
+      "canonical_name_zh": "露齿温暖微笑",
+      "canonical_phrase": "warm smile with parted lips revealing upper teeth",
+      "samples": [
+        "gentle smile revealing upper teeth",
+        "smiling broadly with visible upper teeth, soft smile lines around the mouth",
+        "smiling with parted lips showing upper teeth",
+        "subtle expression with slightly parted lips revealing upper teeth",
+        "warm smile with parted lips revealing upper teeth",
+        "warm smile revealing upper teeth",
+        "smiling warmly, lips parted in a gentle grin revealing upper teeth",
+        "smiles gently with visible upper teeth",
+        "subtle smile showing upper teeth",
+        "smiling broadly with parted lips showing upper teeth"
+      ],
+      "tags": [
+        "warm",
+        "teeth",
+        "lips",
+        "grin",
+        "soft"
+      ]
+    },
+    "wide_dark_eyes_slightly_parted_lips": {
+      "canonical_name": "wide dark eyes slightly parted lips",
+      "canonical_name_zh": "宽眼微张唇",
+      "canonical_phrase": "wide dark eyes, slightly parted lips revealing a hint of teeth",
+      "samples": [
+        "wide dark eyes, slightly parted lips revealing a hint of teeth"
+      ],
+      "tags": [
+        "dark",
+        "skin",
+        "lips",
+        "realistic",
+        "teeth"
+      ]
+    },
+    "soft_smile_showing_hint_of_teeth": {
+      "canonical_name": "soft smile showing hint of teeth",
+      "canonical_name_zh": "微露齿的柔和微笑",
+      "canonical_phrase": "soft smile showing a hint of teeth",
+      "samples": [
+        "soft smile showing a hint of teeth"
+      ],
+      "tags": [
+        "skin",
+        "white",
+        "casual",
+        "gentle",
+        "teeth"
+      ]
+    },
+    "slightly_parted_lips_defined_eyebrows": {
+      "canonical_name": "slightly parted lips defined eyebrows",
+      "canonical_name_zh": "微张嘴唇清晰眉毛",
+      "canonical_phrase": "slightly parted lips, defined eyebrows, subtle makeup, wide eyes",
+      "samples": [
+        "lips slightly parted, defined eyebrows",
+        "slightly parted lips, defined eyebrows, subtle makeup",
+        "wide eyes, defined eyebrows, lips slightly parted",
+        "neutral lips slightly parted, subtle defined eyebrows"
+      ],
+      "tags": [
+        "lips",
+        "eyebrows",
+        "makeup",
+        "neutral",
+        "parted"
+      ]
+    },
+    "soft_gentle_smile_with_soft_eyes": {
+      "canonical_name": "soft gentle smile with soft eyes",
+      "canonical_name_zh": "柔和温柔微笑",
+      "canonical_phrase": "soft eyes and a gentle smile with lips slightly parted",
+      "samples": [
+        "soft eyes and a gentle smile",
+        "gentle smile with lips curved upward",
+        "soft smile, lips slightly parted, eyes wide with gentle expression",
+        "smiling with a slight upward curve of her lips",
+        "soft eyes and a slight smile",
+        "gentle smile with slightly parted lips",
+        "soft smile",
+        "gentle smile with slight upward curve"
+      ],
+      "tags": [
+        "soft",
+        "gentle",
+        "smile",
+        "eyes",
+        "parted_lips"
+      ]
+    },
+    "lips_parted_neutral_brows_wide_eyes": {
+      "canonical_name": "lips parted neutral brows wide eyes",
+      "canonical_name_zh": "唇微张眉平眼大",
+      "canonical_phrase": "lips slightly parted, eyebrows neutral, eyes wide",
+      "samples": [
+        "lips slightly parted, eyebrows neutral, eyes wide"
+      ],
+      "tags": [
+        "skin",
+        "face",
+        "surprised",
+        "portrait",
+        "neutral"
+      ]
+    },
+    "lips_slightly_parted_thoughtful": {
+      "canonical_name": "lips slightly parted thoughtful",
+      "canonical_name_zh": "微张嘴唇沉思",
+      "canonical_phrase": "lips slightly parted, thoughtful",
+      "samples": [
+        "lips slightly parted, thoughtful"
+      ],
+      "tags": [
+        "skin",
+        "face",
+        "contemplative",
+        "natural",
+        "mouth"
+      ]
+    },
+    "broad_toothy_smile_with_arched_eyebrows": {
+      "canonical_name": "broad toothy smile with arched eyebrows",
+      "canonical_name_zh": "露齿大笑配挑眉",
+      "canonical_phrase": "smiling broadly with visible upper teeth and slightly arched eyebrows",
+      "samples": [
+        "smiling broadly with visible upper teeth, eyebrows naturally arched, cheeks slightly raised",
+        "smiling broadly with teeth visible, eyebrows slightly arched, cheeks flushed",
+        "smiling broadly with visible teeth, eyebrows slightly arched",
+        "smiling broadly with visible teeth, eyebrows slightly arched, cheeks showing dimples",
+        "smiling broadly with visible upper teeth, eyebrows gently arched, cheeks slightly flushed",
+        "broad toothy smile showing upper teeth, eyebrows slightly arched",
+        "smiling broadly with teeth showing, eyebrows naturally arched",
+        "smiling broadly with visible upper teeth, eyebrows slightly arched, cheeks raised with smile lines",
+        "smiling broadly with visible teeth, eyebrows slightly arched, cheeks raised with natural smile lines",
+        "smiling broadly with visible upper teeth, eyebrows arched slightly"
+      ],
+      "tags": [
+        "teeth",
+        "arched",
+        "cheeks",
+        "dimples",
+        "flushed"
+      ]
+    },
+    "thoughtful_expression_with_parted_lips": {
+      "canonical_name": "thoughtful expression with parted lips",
+      "canonical_name_zh": "沉思微张唇",
+      "canonical_phrase": "thoughtful, lips slightly parted",
+      "samples": [
+        "thoughtful, lips slightly parted"
+      ],
+      "tags": [
+        "contemplative",
+        "skin",
+        "face",
+        "pensive",
+        "parted_lips"
+      ]
+    },
+    "broad_smile_with_parted_lips_showing_teeth": {
+      "canonical_name": "broad smile with parted lips showing teeth",
+      "canonical_name_zh": "露齿开怀大笑",
+      "canonical_phrase": "smiling broadly with parted lips revealing teeth and joyful expression",
+      "samples": [
+        "smiling broadly with lips parted showing teeth",
+        "smiling with parted lips showing teeth",
+        "joyful with lips parted in a wide smile showing teeth",
+        "smiling with lips parted showing teeth",
+        "smiling with lips parted revealing teeth",
+        "smiling broadly with eyes looking upward, lips parted showing teeth, bright and cheerful",
+        "joyful expression, lips parted in a wide smile revealing teeth, eyebrows slightly arched",
+        "smiling broadly with lips parted revealing teeth",
+        "smiling broadly with lips parted, showing teeth",
+        "smiling with closed eyes and upturned lips revealing teeth, cheeks slightly raised",
+        "smiling broadly with teeth showing, lips parted in a joyful expression",
+        "smiling broadly with parted lips showing teeth"
+      ],
+      "tags": [
+        "teeth",
+        "parted lips",
+        "joyful",
+        "cheerful",
+        "wide smile"
+      ]
+    },
+    "broad_smiling_with_crinkled_eyes": {
+      "canonical_name": "broad smiling with crinkled eyes",
+      "canonical_name_zh": "开怀大笑眼含笑意",
+      "canonical_phrase": "smiling broadly with crinkled eyes and visible smile lines",
+      "samples": [
+        "smiling broadly with crinkled eyes and visible smile lines",
+        "smiling broadly with visible smile lines",
+        "smiling broadly with crinkled eyes and upturned lips",
+        "smiling broadly with eyes crinkled",
+        "smiling broadly with visible laugh lines"
+      ],
+      "tags": [
+        "happy",
+        "laugh",
+        "wrinkles",
+        "joyful",
+        "face"
+      ]
+    },
+    "softly_parted_lips_with_thoughtful_gaze": {
+      "canonical_name": "softly parted lips with thoughtful gaze",
+      "canonical_name_zh": "微张唇 thoughtful 凝视",
+      "canonical_phrase": "softly parted lips, naturally arched eyebrows, and a thoughtful upward gaze",
+      "samples": [
+        "lips softly parted, eyebrows natural and arched, eyes wide and expressive",
+        "contemplative, lips slightly parted, eyebrows gently arched",
+        "lips slightly parted, eyebrows natural and softly arched",
+        "soft gaze directed slightly upward, lips parted slightly, eyebrows natural and arched",
+        "thoughtful, lips slightly parted, relaxed eyebrows",
+        "thoughtful, lips softly parted, eyebrows naturally arched",
+        "thoughtful, eyebrows softly arched, lips slightly parted",
+        "soft gaze, lips slightly parted, eyebrows naturally arched"
+      ],
+      "tags": [
+        "contemplative",
+        "soft",
+        "arched",
+        "parted",
+        "gaze"
+      ]
+    },
+    "playful_pursed_lips_kiss_expression": {
+      "canonical_name": "playful pursed lips kiss expression",
+      "canonical_name_zh": "俏皮嘟嘴亲吻表情",
+      "canonical_phrase": "lips pursed in a playful kiss",
+      "samples": [
+        "lips pursed in a playful kiss"
+      ],
+      "tags": [
+        "red",
+        "skin",
+        "face",
+        "cute",
+        "pursed"
+      ]
+    },
+    "gentle_smile_with_lips_parted": {
+      "canonical_name": "gentle smile with lips parted",
+      "canonical_name_zh": "唇微张的温柔微笑",
+      "canonical_phrase": "gentle smile with lips parted softly and slightly",
+      "samples": [
+        "soft smile, lips parted gently",
+        "subtle smile with lips gently parted",
+        "gentle smile, lips parted slightly",
+        "gentle smile, lips parted softly",
+        "gentle smile, lips slightly parted",
+        "gentle smile with lips parted",
+        "gentle smile with lips softly parted",
+        "serene smile, lips parted slightly",
+        "gentle smile, lips parted",
+        "gentle smile with lips parted softly",
+        "gentle smile with lips slightly parted"
+      ],
+      "tags": [
+        "soft",
+        "serene",
+        "subtle",
+        "parted_lips",
+        "calm"
+      ]
+    },
+    "smiling_broadly_with_crinkled_eyes": {
+      "canonical_name": "smiling broadly with crinkled eyes",
+      "canonical_name_zh": "咧嘴笑眼含笑意",
+      "canonical_phrase": "smiling broadly with crinkled eyes and visible upper teeth",
+      "samples": [
+        "smiling broadly with crinkled eyes and visible upper teeth"
+      ],
+      "tags": [
+        "warm",
+        "skin",
+        "face",
+        "joyful",
+        "teeth"
+      ]
+    },
+    "softly_parted_lips_focused_eyes": {
+      "canonical_name": "softly parted lips focused eyes",
+      "canonical_name_zh": "微张嘴唇专注眼神",
+      "canonical_phrase": "lips softly parted, eyes softly focused, gentle expression",
+      "samples": [
+        "lips parted, eyes softly focused",
+        "lips softly parted, eyes focused intently",
+        "slightly parted lips, eyes softly focused",
+        "lips parted slightly, eyes softly focused",
+        "lips parted softly, eyes half-lidded",
+        "lips slightly parted, eyes softly focused"
+      ],
+      "tags": [
+        "lips",
+        "eyes",
+        "soft",
+        "focused",
+        "gentle"
+      ]
+    },
+    "gentle_subtle_smile_with_parted_lips": {
+      "canonical_name": "gentle subtle smile with parted lips",
+      "canonical_name_zh": "温柔微启唇浅笑",
+      "canonical_phrase": "gentle subtle smile with slightly parted lips and warm expression",
+      "samples": [
+        "soft smile with slightly parted lips",
+        "subtle smile with slight parting lips",
+        "smiling warmly",
+        "subtle natural smile with lips parted",
+        "slight smile",
+        "smiling with a gentle curve of her lips",
+        "smiling broadly with lips parted",
+        "gentle smile with upturned lips showing slight dimples",
+        "smiling with upturned lips",
+        "gentle expression with subtle smile lines",
+        "gentle smile",
+        "smiling gently",
+        "smiling warmly with upturned lips and visible dimples",
+        "gentle smile with lips parted slightly",
+        "smiling warmly with lips curved into a genuine grin",
+        "slight smile, lips parted",
+        "bright smiling face with upturned lips and visible dimples",
+        "subtle smile lines visible, lips softly parted",
+        "subtle smile, lips softly parted",
+        "soft subtle smile, lips slightly parted"
+      ],
+      "tags": [
+        "soft",
+        "natural",
+        "warm",
+        "parted_lips",
+        "genuine"
+      ]
+    },
+    "wide_open_eyes_parted_lips_subtle_makeup": {
+      "canonical_name": "wide open eyes parted lips subtle makeup",
+      "canonical_name_zh": "睁大双眼微张唇淡妆",
+      "canonical_phrase": "wide open eyes, slightly parted lips, subtle makeup on eyelashes and cheeks",
+      "samples": [
+        "wide open eyes, slightly parted lips, subtle makeup on eyelashes and cheeks"
+      ],
+      "tags": [
+        "eyes",
+        "lips",
+        "makeup",
+        "natural",
+        "lashes"
+      ]
+    },
+    "wide_eyes_with_slightly_parted_lips": {
+      "canonical_name": "wide eyes with slightly parted lips",
+      "canonical_name_zh": "睁大的眼睛微张的嘴唇",
+      "canonical_phrase": "wide eyes and slightly parted lips with natural expression",
+      "samples": [
+        "slightly parted lips, wide eyes",
+        "lips parted, eyes wide",
+        "eyes wide and dark, upper lip slightly parted",
+        "wide eyes and slightly parted lips",
+        "lips parted, eyes slightly narrowed",
+        "eyes slightly narrowed, lips parted with a natural curve",
+        "eyes wide, lips slightly parted",
+        "lips slightly parted, wide pupils",
+        "lips slightly parted, eyes wide",
+        "wide eyes, slightly parted lips",
+        "lips parted slightly, eyes slightly narrowed",
+        "wide dark eyes, full lips slightly parted"
+      ],
+      "tags": [
+        "eyes",
+        "lips",
+        "surprised",
+        "realistic",
+        "portrait"
+      ]
+    },
+    "intense_direct_gaze_defined_eyebrows": {
+      "canonical_name": "intense direct gaze defined eyebrows",
+      "canonical_name_zh": "凝视眼神挑眉",
+      "canonical_phrase": "intense direct gaze with defined eyebrows and natural lips slightly parted",
+      "samples": [
+        "intense direct gaze with defined eyebrows and natural lips slightly parted"
+      ],
+      "tags": [
+        "gaze",
+        "eyebrows",
+        "lips",
+        "portrait",
+        "natural"
+      ]
+    },
+    "soft_gentle_smile_with_parted_lips": {
+      "canonical_name": "soft gentle smile with parted lips",
+      "canonical_name_zh": "柔和微笑微张唇",
+      "canonical_phrase": "soft gentle smile with lips slightly parted",
+      "samples": [
+        "soft gentle smile, lips slightly parted",
+        "soft smile with lips parted",
+        "soft smile with lips slightly parted",
+        "soft smile, lips parted slightly",
+        "soft smile, lips slightly parted",
+        "soft smile, lips parted",
+        "soft smile, lips parted slightly upward"
+      ],
+      "tags": [
+        "soft",
+        "gentle",
+        "smile",
+        "parted",
+        "lips"
+      ]
+    },
+    "smiling_with_lips_parted_showing_upper_teeth": {
+      "canonical_name": "smiling with lips parted showing upper teeth",
+      "canonical_name_zh": "露齿微笑",
+      "canonical_phrase": "smiling with lips parted showing upper teeth",
+      "samples": [
+        "smiling with lips parted showing upper teeth"
+      ],
+      "tags": [
+        "warm",
+        "skin",
+        "natural",
+        "joyful",
+        "teeth"
+      ]
+    },
+    "wide_open_mouth_joyful_laugh": {
+      "canonical_name": "wide open mouth joyful laugh",
+      "canonical_name_zh": "张嘴大笑",
+      "canonical_phrase": "joyful laugh with wide open mouth revealing white teeth",
+      "samples": [
+        "laughing with mouth open",
+        "joyful laugh with wide open mouth revealing white teeth",
+        "laughing with wide open mouth",
+        "laughing joyfully with eyes crinkled shut and wide open mouth revealing white teeth",
+        "wide open-mouthed joyful laugh showing bright white teeth",
+        "joyful laugh with wide open mouth, teeth visible, cheeks raised",
+        "laughing with eyes crinkled and mouth open showing teeth",
+        "joyful laugh with mouth open",
+        "laughing joyfully with wide eyes and a broad open-mouthed smile showing teeth"
+      ],
+      "tags": [
+        "teeth",
+        "crinkled_eyes",
+        "cheeks_raised",
+        "bright",
+        "expression"
+      ]
+    },
+    "broad_smiling_expression_with_visible_teeth": {
+      "canonical_name": "broad smiling expression with visible teeth",
+      "canonical_name_zh": "露齿开怀大笑",
+      "canonical_phrase": "smiling broadly with visible upper teeth and joyful expression",
+      "samples": [
+        "smiling broadly, bright joyful expression, crinkled eyes, wide open mouth showing upper teeth",
+        "smiling broadly with visible upper teeth",
+        "smiling broadly with visible upper teeth and dimples",
+        "smiling broadly with bright eyes, wide grin with visible upper teeth",
+        "smiling broadly with visible teeth, joyful grin",
+        "smiling broadly with crinkled eyes and showing her upper teeth"
+      ],
+      "tags": [
+        "smile",
+        "teeth",
+        "joyful",
+        "crinkled_eyes",
+        "grin"
+      ]
+    },
+    "focused_expression_with_parted_lips": {
+      "canonical_name": "focused expression with parted lips",
+      "canonical_name_zh": "专注神情微张唇",
+      "canonical_phrase": "eyes wide and focused intently with lips slightly parted",
+      "samples": [
+        "focused and curious, lips slightly parted",
+        "lips parted, eyes focused intently",
+        "eyes wide and focused, lips slightly parted",
+        "parted lips, focused eyes",
+        "lips slightly parted, eyes wide and focused",
+        "eyes wide and focused forward, lips parted mid-scoop",
+        "lips slightly parted, eyes focused",
+        "lips parted slightly, eyes wide and focused"
+      ],
+      "tags": [
+        "focused",
+        "curious",
+        "parted_lips",
+        "wide_eyes",
+        "intense_gaze"
+      ]
+    },
+    "smiling_broadly_with_eyes_closed": {
+      "canonical_name": "smiling broadly with eyes closed",
+      "canonical_name_zh": "闭眼开怀大笑",
+      "canonical_phrase": "smiling broadly with eyes closed",
+      "samples": [
+        "smiling broadly with eyes closed"
+      ],
+      "tags": [
+        "joy",
+        "face",
+        "expression",
+        "happy",
+        "relaxed"
+      ]
+    },
+    "broad_smile_with_upper_teeth_visible": {
+      "canonical_name": "broad smile with upper teeth visible",
+      "canonical_name_zh": "露齿大笑",
+      "canonical_phrase": "smiling broadly with wide open mouth showing upper teeth, eyebrows slightly arched",
+      "samples": [
+        "smiling broadly with wide open mouth showing upper teeth, eyebrows slightly arched"
+      ],
+      "tags": [
+        "teeth",
+        "arched",
+        "skin",
+        "joyful",
+        "mouth"
+      ]
+    },
+    "broad_smiling_face_with_parted_lips": {
+      "canonical_name": "broad smiling face with parted lips",
+      "canonical_name_zh": "露齿开怀笑容",
+      "canonical_phrase": "smiling broadly with parted lips showing teeth and slightly arched eyebrows",
+      "samples": [
+        "smiling brightly with lips parted showing upper teeth, eyebrows naturally arched, cheeks slightly flushed",
+        "smiling broadly with lips parted showing teeth, eyebrows slightly arched, cheeks flushed",
+        "smiling broadly with lips parted revealing teeth, eyebrows slightly arched",
+        "smiling broadly with lips parted revealing upper teeth, cheeks raised with visible dimples, eyebrows gently arched",
+        "smiling broadly with visible teeth, eyebrows slightly arched, lips parted",
+        "smiling broadly with upturned lips, showing teeth, eyebrows slightly arched",
+        "smiling broadly with bright eyes, lips parted in an open grin showing upper teeth, eyebrows slightly arched, visible smile lines"
+      ],
+      "tags": [
+        "teeth",
+        "arched",
+        "flushed",
+        "dimples",
+        "grin"
+      ]
+    },
+    "neutral_expression_lips_parted": {
+      "canonical_name": "neutral expression lips parted",
+      "canonical_name_zh": "中性表情微张唇",
+      "canonical_phrase": "neutral expression with lips slightly parted softly",
+      "samples": [
+        "neutral expression with lips parted",
+        "neutral expression, lips parted",
+        "neutral expression, lips parted slightly",
+        "neutral expression, lips softly parted",
+        "neutral expression, lips slightly parted",
+        "soft neutral expression, lips slightly parted",
+        "neutral expression with lips slightly parted"
+      ],
+      "tags": [
+        "neutral",
+        "lips",
+        "parted",
+        "soft",
+        "face"
+      ]
+    },
+    "wide_alert_eyes_parted_lips": {
+      "canonical_name": "wide alert eyes parted lips",
+      "canonical_name_zh": "睁眼微张唇",
+      "canonical_phrase": "eyes wide open and alert with lips slightly parted revealing a hint of tongue",
+      "samples": [
+        "eyes wide open, lips slightly parted revealing a hint of tongue",
+        "lips slightly parted, eyes wide and alert",
+        "slightly parted lips, eyes wide and alert",
+        "eyes wide open looking upward, lips parted mid-bite, cheeks slightly flushed",
+        "lips slightly parted, wide alert eyes",
+        "lips parted slightly, eyes wide and alert"
+      ],
+      "tags": [
+        "alert",
+        "wide_eyes",
+        "parted_lips",
+        "tongue",
+        "flushed"
+      ]
+    },
+    "wide_open_mouth_joyful_smile": {
+      "canonical_name": "wide open mouth joyful smile",
+      "canonical_name_zh": "张嘴大笑喜悦表情",
+      "canonical_phrase": "wide open mouth showing teeth, bright joyful expression, radiant smile",
+      "samples": [
+        "wide open eyes, bright joyful expression, mouth open in wide smile showing teeth",
+        "joyful grin with wide open mouth showing teeth, cheeks raised with visible smile lines",
+        "joyful open-mouthed smile showing teeth, eyes crinkling at corners",
+        "bright eyes crinkled in joy, wide open mouth showing teeth in a radiant grin",
+        "joyful laughter, mouth open wide showing teeth, cheeks raised, radiant smile lines visible"
+      ],
+      "tags": [
+        "teeth",
+        "smile",
+        "joyful",
+        "laughing",
+        "crinkled_eyes"
+      ]
+    }
+  },
+  "statistics": {
+    "total_clusters": 67,
+    "multi_sample_clusters": 42,
+    "single_sample_clusters": 25
+  }
+}

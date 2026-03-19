@@ -1,0 +1,583 @@
+{
+  "dimension": "hair_color",
+  "version": "1.0",
+  "generated_date": "2026-03-18",
+  "mode": "enum",
+  "clusters": {
+    "black": {
+      "canonical_name": "Black",
+      "canonical_name_zh": "黑色",
+      "canonical_phrase": "black",
+      "samples": [
+        "black"
+      ],
+      "tags": [
+        "black",
+        "hair",
+        "color",
+        "hair color",
+        "hair color"
+      ]
+    },
+    "dark_brown": {
+      "canonical_name": "Dark Brown",
+      "canonical_name_zh": "深棕色",
+      "canonical_phrase": "dark brown",
+      "samples": [
+        "dark brown"
+      ],
+      "tags": [
+        "dark brown",
+        "hair",
+        "color",
+        "hair color",
+        "hair color"
+      ]
+    },
+    "brown": {
+      "canonical_name": "Brown",
+      "canonical_name_zh": "棕色",
+      "canonical_phrase": "brown",
+      "samples": [
+        "brown"
+      ],
+      "tags": [
+        "brown",
+        "hair",
+        "color",
+        "hair color",
+        "hair color"
+      ]
+    },
+    "light_brown": {
+      "canonical_name": "Light Brown",
+      "canonical_name_zh": "浅棕色",
+      "canonical_phrase": "light brown",
+      "samples": [
+        "light brown"
+      ],
+      "tags": [
+        "light brown",
+        "hair",
+        "color",
+        "hair color",
+        "hair color"
+      ]
+    },
+    "dark_blonde": {
+      "canonical_name": "Dark Blonde",
+      "canonical_name_zh": "深金色",
+      "canonical_phrase": "dark blonde",
+      "samples": [
+        "dark blonde"
+      ],
+      "tags": [
+        "dark blonde",
+        "hair",
+        "color",
+        "hair color",
+        "hair color"
+      ]
+    },
+    "blonde": {
+      "canonical_name": "Blonde",
+      "canonical_name_zh": "金色",
+      "canonical_phrase": "blonde",
+      "samples": [
+        "blonde"
+      ],
+      "tags": [
+        "blonde",
+        "hair",
+        "color",
+        "hair color",
+        "hair color"
+      ]
+    },
+    "light_blonde": {
+      "canonical_name": "Light Blonde",
+      "canonical_name_zh": "浅金色",
+      "canonical_phrase": "light blonde",
+      "samples": [
+        "light blonde"
+      ],
+      "tags": [
+        "light blonde",
+        "hair",
+        "color",
+        "hair color",
+        "hair color"
+      ]
+    },
+    "red": {
+      "canonical_name": "Red",
+      "canonical_name_zh": "红色",
+      "canonical_phrase": "red",
+      "samples": [
+        "red"
+      ],
+      "tags": [
+        "red",
+        "hair",
+        "color",
+        "hair color",
+        "hair color"
+      ]
+    },
+    "auburn": {
+      "canonical_name": "Auburn",
+      "canonical_name_zh": "红褐色",
+      "canonical_phrase": "auburn",
+      "samples": [
+        "auburn"
+      ],
+      "tags": [
+        "auburn",
+        "hair",
+        "color",
+        "hair color",
+        "hair color"
+      ]
+    },
+    "chestnut": {
+      "canonical_name": "Chestnut",
+      "canonical_name_zh": "栗色",
+      "canonical_phrase": "chestnut",
+      "samples": [
+        "chestnut"
+      ],
+      "tags": [
+        "chestnut",
+        "hair",
+        "color",
+        "hair color",
+        "hair color"
+      ]
+    },
+    "dark_blue": {
+      "canonical_name": "Dark Blue",
+      "canonical_name_zh": "深蓝色",
+      "canonical_phrase": "dark blue",
+      "samples": [
+        "dark blue"
+      ],
+      "tags": [
+        "dark blue",
+        "hair",
+        "color",
+        "hair color",
+        "hair color"
+      ]
+    },
+    "blue": {
+      "canonical_name": "Blue",
+      "canonical_name_zh": "蓝色",
+      "canonical_phrase": "blue",
+      "samples": [
+        "blue"
+      ],
+      "tags": [
+        "blue",
+        "hair",
+        "color",
+        "hair color",
+        "hair color"
+      ]
+    },
+    "dark_purple": {
+      "canonical_name": "Dark Purple",
+      "canonical_name_zh": "深紫色",
+      "canonical_phrase": "dark purple",
+      "samples": [
+        "dark purple"
+      ],
+      "tags": [
+        "dark purple",
+        "hair",
+        "color",
+        "hair color",
+        "hair color"
+      ]
+    },
+    "purple": {
+      "canonical_name": "Purple",
+      "canonical_name_zh": "紫色",
+      "canonical_phrase": "purple",
+      "samples": [
+        "purple"
+      ],
+      "tags": [
+        "purple",
+        "hair",
+        "color",
+        "hair color",
+        "hair color"
+      ]
+    },
+    "pink": {
+      "canonical_name": "Pink",
+      "canonical_name_zh": "粉色",
+      "canonical_phrase": "pink",
+      "samples": [
+        "pink"
+      ],
+      "tags": [
+        "pink",
+        "hair",
+        "color",
+        "hair color",
+        "hair color"
+      ]
+    },
+    "silver": {
+      "canonical_name": "Silver",
+      "canonical_name_zh": "银色",
+      "canonical_phrase": "silver",
+      "samples": [
+        "silver"
+      ],
+      "tags": [
+        "silver",
+        "hair",
+        "color",
+        "hair color",
+        "hair color"
+      ]
+    },
+    "grey": {
+      "canonical_name": "Grey",
+      "canonical_name_zh": "灰色",
+      "canonical_phrase": "grey",
+      "samples": [
+        "grey"
+      ],
+      "tags": [
+        "grey",
+        "hair",
+        "color",
+        "hair color",
+        "hair color"
+      ]
+    },
+    "white": {
+      "canonical_name": "White",
+      "canonical_name_zh": "白色",
+      "canonical_phrase": "white",
+      "samples": [
+        "white"
+      ],
+      "tags": [
+        "white",
+        "hair",
+        "color",
+        "hair color",
+        "hair color"
+      ]
+    },
+    "dark_with_subtle_blueish_highlights": {
+      "canonical_name": "Dark With Subtle Blueish Highlights",
+      "canonical_name_zh": "深色带淡蓝挑染",
+      "canonical_phrase": "dark with subtle blueish highlights",
+      "samples": [
+        "dark with subtle blueish highlights"
+      ],
+      "tags": [
+        "dark",
+        "subtle",
+        "blueish",
+        "highlights",
+        "hair"
+      ]
+    },
+    "dark_brown_with_subtle_reddish_highlights_at_the_ends": {
+      "canonical_name": "Dark Brown With Subtle Reddish Highlights At The Ends",
+      "canonical_name_zh": "深棕发尾带淡红挑染",
+      "canonical_phrase": "dark brown with subtle reddish highlights at the ends",
+      "samples": [
+        "dark brown with subtle reddish highlights at the ends"
+      ],
+      "tags": [
+        "dark",
+        "brown",
+        "subtle",
+        "reddish",
+        "highlights"
+      ]
+    },
+    "dark_brown_with_sunlit_highlights": {
+      "canonical_name": "Dark Brown With Sunlit Highlights",
+      "canonical_name_zh": "深棕阳光挑染",
+      "canonical_phrase": "dark brown with sunlit highlights",
+      "samples": [
+        "dark brown with sunlit highlights"
+      ],
+      "tags": [
+        "dark",
+        "brown",
+        "sunlit",
+        "highlights",
+        "hair"
+      ]
+    },
+    "dark_brown_with_reddish_tint_at_ends": {
+      "canonical_name": "Dark Brown With Reddish Tint At Ends",
+      "canonical_name_zh": "深棕发尾泛红",
+      "canonical_phrase": "dark brown with reddish tint at ends",
+      "samples": [
+        "dark brown with reddish tint at ends"
+      ],
+      "tags": [
+        "dark",
+        "brown",
+        "reddish",
+        "tint",
+        "ends"
+      ]
+    },
+    "dark_brown_with_lighter_highlights": {
+      "canonical_name": "Dark Brown With Lighter Highlights",
+      "canonical_name_zh": "深棕浅色挑染",
+      "canonical_phrase": "dark brown with lighter highlights",
+      "samples": [
+        "dark brown with lighter highlights"
+      ],
+      "tags": [
+        "dark",
+        "brown",
+        "lighter",
+        "highlights",
+        "hair"
+      ]
+    },
+    "dark_brown_with_subtle_golden_highlights": {
+      "canonical_name": "Dark Brown With Subtle Golden Highlights",
+      "canonical_name_zh": "深棕带淡金挑染",
+      "canonical_phrase": "dark brown with subtle golden highlights",
+      "samples": [
+        "dark brown with subtle golden highlights"
+      ],
+      "tags": [
+        "dark",
+        "brown",
+        "subtle",
+        "golden",
+        "highlights"
+      ]
+    },
+    "dark_brown_with_subtle_lighter_highlights": {
+      "canonical_name": "Dark Brown With Subtle Lighter Highlights",
+      "canonical_name_zh": "深棕带淡亮挑染",
+      "canonical_phrase": "dark brown with subtle lighter highlights",
+      "samples": [
+        "dark brown with subtle lighter highlights"
+      ],
+      "tags": [
+        "dark",
+        "brown",
+        "subtle",
+        "lighter",
+        "highlights"
+      ]
+    },
+    "dark_brown_with_sunkissed_highlights": {
+      "canonical_name": "Dark Brown With Sun-Kissed Highlights",
+      "canonical_name_zh": "深棕阳光吻痕",
+      "canonical_phrase": "dark brown with sun-kissed highlights",
+      "samples": [
+        "dark brown with sun-kissed highlights"
+      ],
+      "tags": [
+        "dark",
+        "brown",
+        "sun",
+        "kissed",
+        "highlights"
+      ]
+    },
+    "dark_brown_with_soft_highlights": {
+      "canonical_name": "Dark Brown With Soft Highlights",
+      "canonical_name_zh": "深棕柔和挑染",
+      "canonical_phrase": "dark brown with soft highlights",
+      "samples": [
+        "dark brown with soft highlights"
+      ],
+      "tags": [
+        "dark",
+        "brown",
+        "soft",
+        "highlights",
+        "hair"
+      ]
+    },
+    "dark_with_subtle_highlights": {
+      "canonical_name": "Dark With Subtle Highlights",
+      "canonical_name_zh": "深色带淡挑染",
+      "canonical_phrase": "dark with subtle highlights",
+      "samples": [
+        "dark with subtle highlights"
+      ],
+      "tags": [
+        "dark",
+        "subtle",
+        "highlights",
+        "hair",
+        "hair"
+      ]
+    },
+    "dark_brown_with_lighter_brown_highlights": {
+      "canonical_name": "Dark Brown With Lighter Brown Highlights",
+      "canonical_name_zh": "深棕浅棕挑染",
+      "canonical_phrase": "dark brown with lighter brown highlights",
+      "samples": [
+        "dark brown with lighter brown highlights"
+      ],
+      "tags": [
+        "dark",
+        "brown",
+        "lighter",
+        "highlights",
+        "hair"
+      ]
+    },
+    "dark_brown_with_subtle_highlights": {
+      "canonical_name": "Dark Brown With Subtle Highlights",
+      "canonical_name_zh": "深棕带淡挑染",
+      "canonical_phrase": "dark brown with subtle highlights",
+      "samples": [
+        "dark brown with subtle highlights"
+      ],
+      "tags": [
+        "dark",
+        "brown",
+        "subtle",
+        "highlights",
+        "hair"
+      ]
+    },
+    "dark_brown_with_reddish_highlights": {
+      "canonical_name": "Dark Brown With Reddish Highlights",
+      "canonical_name_zh": "深棕带红挑染",
+      "canonical_phrase": "dark brown with reddish highlights",
+      "samples": [
+        "dark brown with reddish highlights"
+      ],
+      "tags": [
+        "dark",
+        "brown",
+        "reddish",
+        "highlights",
+        "hair"
+      ]
+    },
+    "dark_brown_with_reddish_highlights_and_subtle_blue_streaks": {
+      "canonical_name": "Dark Brown With Reddish Highlights And Subtle Blue Streaks",
+      "canonical_name_zh": "深棕红挑染蓝纹",
+      "canonical_phrase": "dark brown with reddish highlights and subtle blue streaks",
+      "samples": [
+        "dark brown with reddish highlights and subtle blue streaks"
+      ],
+      "tags": [
+        "dark",
+        "brown",
+        "reddish",
+        "highlights",
+        "subtle"
+      ]
+    },
+    "dark_brown_with_subtle_reddish_highlights": {
+      "canonical_name": "Dark Brown With Subtle Reddish Highlights",
+      "canonical_name_zh": "深棕带淡红挑染",
+      "canonical_phrase": "dark brown with subtle reddish highlights",
+      "samples": [
+        "dark brown with subtle reddish highlights"
+      ],
+      "tags": [
+        "dark",
+        "brown",
+        "subtle",
+        "reddish",
+        "highlights"
+      ]
+    },
+    "dark_brown_wet": {
+      "canonical_name": "Dark Brown, Wet",
+      "canonical_name_zh": "深棕湿润",
+      "canonical_phrase": "dark brown, wet",
+      "samples": [
+        "dark brown, wet"
+      ],
+      "tags": [
+        "dark",
+        "brown",
+        "wet",
+        "hair",
+        "hair"
+      ]
+    },
+    "dark_brown_and_white": {
+      "canonical_name": "Dark Brown And White",
+      "canonical_name_zh": "深棕白",
+      "canonical_phrase": "dark brown and white",
+      "samples": [
+        "dark brown and white"
+      ],
+      "tags": [
+        "dark",
+        "brown",
+        "white",
+        "hair",
+        "hair"
+      ]
+    },
+    "dark_with_subtle_purple_undertones": {
+      "canonical_name": "Dark With Subtle Purple Undertones",
+      "canonical_name_zh": "深色带淡紫底",
+      "canonical_phrase": "dark with subtle purple undertones",
+      "samples": [
+        "dark with subtle purple undertones"
+      ],
+      "tags": [
+        "dark",
+        "subtle",
+        "purple",
+        "undertones",
+        "hair"
+      ]
+    },
+    "chestnut_brown": {
+      "canonical_name": "Chestnut Brown",
+      "canonical_name_zh": "栗棕色",
+      "canonical_phrase": "chestnut brown",
+      "samples": [
+        "chestnut brown"
+      ],
+      "tags": [
+        "chestnut",
+        "brown",
+        "hair",
+        "hair",
+        "hair"
+      ]
+    },
+    "dark": {
+      "canonical_name": "Dark",
+      "canonical_name_zh": "深色",
+      "canonical_phrase": "dark",
+      "samples": [
+        "dark"
+      ],
+      "tags": [
+        "dark",
+        "hair",
+        "hair",
+        "hair",
+        "hair"
+      ]
+    }
+  },
+  "statistics": {
+    "total_clusters": 38,
+    "multi_sample_clusters": 0,
+    "single_sample_clusters": 38
+  }
+}

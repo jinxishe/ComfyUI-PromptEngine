@@ -1,0 +1,1639 @@
+{
+  "dimension": "hair_style",
+  "version": "1.0",
+  "generated_date": "2026-03-18",
+  "mode": "clustered",
+  "clusters": {
+    "long_dark_straight_shoulder_hair": {
+      "canonical_name": "long dark straight shoulder hair",
+      "canonical_name_zh": "深色长直发",
+      "canonical_phrase": "long dark straight hair falling past shoulders with natural parting",
+      "samples": [
+        "long dark straight hair falling past shoulders with soft strands",
+        "dark straight shoulder-length hair flowing behind",
+        "long straight dark hair parted mid-left, strands falling over shoulders",
+        "straight hair falling naturally around shoulders",
+        "straight hair with natural parting, falling past shoulders",
+        "straight hair with center part, falling past shoulders",
+        "dark straight hair flowing behind"
+      ],
+      "tags": [
+        "dark",
+        "straight",
+        "long",
+        "shoulder-length",
+        "natural"
+      ]
+    },
+    "long_straight_hair_over_shoulders": {
+      "canonical_name": "long straight hair over shoulders",
+      "canonical_name_zh": "长直发垂落肩头",
+      "canonical_phrase": "long straight hair falling loosely over shoulders and back",
+      "samples": [
+        "long straight hair falling loosely around shoulders",
+        "loose hair falling across shoulders",
+        "long straight hair falling loosely over shoulders",
+        "straight hair falling past shoulders",
+        "loose hair falling around shoulders",
+        "long straight hair falling over shoulders and back",
+        "long straight hair falling over shoulders",
+        "long straight hair falling over shoulders and forehead",
+        "straight hair falling over shoulders",
+        "straight wet hair falling around shoulders"
+      ],
+      "tags": [
+        "straight",
+        "shoulder-length",
+        "loose",
+        "natural",
+        "wet"
+      ]
+    },
+    "long_hair_cascading_over_shoulders": {
+      "canonical_name": "long hair cascading over shoulders",
+      "canonical_name_zh": "长发垂落肩头",
+      "canonical_phrase": "long hair flowing or cascading loosely over shoulders",
+      "samples": [
+        "long hair flowing over shoulders",
+        "long straight hair flowing over shoulders",
+        "long straight hair cascading over shoulders",
+        "dark wet hair cascading over shoulders",
+        "long hair flowing down back",
+        "wet hair falling over shoulders",
+        "long dark wavy hair cascading over shoulders",
+        "long straight hair flowing down back",
+        "long wavy hair cascading over shoulders",
+        "wavy hair falling over shoulders",
+        "long dark brown wavy hair cascading loosely around shoulders",
+        "dark wavy hair cascading over shoulders",
+        "dark wavy hair falling loosely around shoulders"
+      ],
+      "tags": [
+        "long",
+        "wavy",
+        "straight",
+        "shoulders",
+        "cascading"
+      ]
+    },
+    "shoulder_length_hair_with_soft_waves": {
+      "canonical_name": "shoulder length hair with soft waves",
+      "canonical_name_zh": "及肩微卷长发",
+      "canonical_phrase": "shoulder-length hair with soft waves and natural parting",
+      "samples": [
+        "medium-length, wet, clinging to shoulders",
+        "shoulder-length, falling forward",
+        "shoulder-length, fanned out",
+        "shoulder-length with slight layers, partially tied back",
+        "shoulder-length, slightly tousled",
+        "shoulder-length with soft waves and natural parting",
+        "shoulder-length with soft layers",
+        "varied styles from short to shoulder length, one with visible parting",
+        "shoulder-length with natural waves and a slight parting",
+        "wavy shoulder-length",
+        "shoulder-length with soft waves",
+        "shoulder-length, loose",
+        "shoulder-length with soft waves, parted slightly off-center",
+        "shoulder-length with subtle layers and gentle waves",
+        "shoulder-length",
+        "shoulder-length with a middle part",
+        "shoulder-length, slightly tousled by wind",
+        "medium-length with a side part"
+      ],
+      "tags": [
+        "shoulder-length",
+        "wavy",
+        "natural",
+        "soft",
+        "tousled"
+      ]
+    },
+    "long_loose_flowing_strands": {
+      "canonical_name": "long loose flowing strands",
+      "canonical_name_zh": "长松散飘逸发丝",
+      "canonical_phrase": "long, loose strands",
+      "samples": [
+        "long, loose strands"
+      ],
+      "tags": [
+        "hair",
+        "blonde",
+        "silk",
+        "natural",
+        "wavy"
+      ]
+    },
+    "loose_tousled_windswept_hair": {
+      "canonical_name": "loose tousled wind-swept hair",
+      "canonical_name_zh": "松散凌乱风吹发",
+      "canonical_phrase": "loose tousled hair flowing in the wind",
+      "samples": [
+        "medium-length, tousled by wind",
+        "short, tousled by wind",
+        "tousled and slightly messy",
+        "loosely gathered",
+        "short tousled",
+        "tousled by wind",
+        "straight, loose",
+        "short straight, slightly tousled by wind",
+        "long, blowing in wind",
+        "loose and slightly damp",
+        "tousled",
+        "flowing in the wind",
+        "loose, slightly tousled",
+        "loose and tousled",
+        "loosely spread",
+        "long, flowing in the wind",
+        "short straight, slightly tousled",
+        "short, wet, tousled by wind",
+        "long, flowing freely in the wind",
+        "tousled and flowing",
+        "loose",
+        "slightly tousled",
+        "short straight, wind-swept and tousled",
+        "pulled back loosely",
+        "wet and tousled",
+        "tousled updo",
+        "short straight, slightly damp and tousled",
+        "loose and slightly tousled",
+        "tousled and windswept",
+        "short straight, tousled and slightly messy"
+      ],
+      "tags": [
+        "hair",
+        "tousled",
+        "wind",
+        "messy",
+        "loose"
+      ]
+    },
+    "loose_tied_back_hair_style": {
+      "canonical_name": "loose tied back hair style",
+      "canonical_name_zh": "松散束发造型",
+      "canonical_phrase": "loose flowing hair tied back with a braid",
+      "samples": [
+        "loose braid tied back",
+        "tied back",
+        "loose flowing hair",
+        "loose braid"
+      ],
+      "tags": [
+        "hair",
+        "braid",
+        "tied",
+        "loose",
+        "flowing"
+      ]
+    },
+    "midlength_dark_brown_wavy_hair": {
+      "canonical_name": "mid-length dark brown wavy hair",
+      "canonical_name_zh": "中长深棕波浪发",
+      "canonical_phrase": "mid-length dark brown hair with natural waves and loose strands framing face",
+      "samples": [
+        "mid-length dark brown hair with natural waves and loose strands framing face"
+      ],
+      "tags": [
+        "brown",
+        "wavy",
+        "hair",
+        "natural",
+        "face-framing"
+      ]
+    },
+    "short_straight_hair_with_bangs": {
+      "canonical_name": "short straight hair with bangs",
+      "canonical_name_zh": "短发直发配刘海",
+      "canonical_phrase": "short straight hair with various styles of bangs",
+      "samples": [
+        "short straight hair with natural parted bangs",
+        "short straight hair with wispy bangs",
+        "short straight hair with soft bangs",
+        "short straight hair with straight fringe",
+        "short straight hair with layered bangs",
+        "short straight hair with blunt bangs",
+        "short straight hair with bangs and pigtails",
+        "short straight hair with bangs, parted slightly off-center",
+        "short straight hair with layered fringe",
+        "short straight hair with bangs",
+        "short straight hair with bangs, tied back in a low ponytail",
+        "short straight hair with a fringe",
+        "short straight hair with soft layered fringe"
+      ],
+      "tags": [
+        "straight",
+        "short",
+        "bangs",
+        "fringe",
+        "natural"
+      ]
+    },
+    "short_straight_hair_parted_offcenter": {
+      "canonical_name": "short straight hair parted off-center",
+      "canonical_name_zh": "短发直发偏分",
+      "canonical_phrase": "short straight hair parted slightly off-center falling to shoulders",
+      "samples": [
+        "short straight hair, parted slightly off-center, falling to shoulders",
+        "short straight, parted slightly off-center, falling over shoulders",
+        "short straight, parted slightly off-center",
+        "short, straight, parted slightly off-center",
+        "short, straight, center part"
+      ],
+      "tags": [
+        "straight",
+        "short",
+        "off-center",
+        "shoulder-length",
+        "natural"
+      ]
+    },
+    "shoulderlength_loose_faceframing_strands": {
+      "canonical_name": "shoulder-length loose face-framing strands",
+      "canonical_name_zh": "及肩松散碎发",
+      "canonical_phrase": "shoulder-length with loose strands framing her face",
+      "samples": [
+        "shoulder-length with loose strands framing her face"
+      ],
+      "tags": [
+        "hair",
+        "loose",
+        "strands",
+        "soft",
+        "natural"
+      ]
+    },
+    "loose_pulled_back_hair_with_face_framing_strands": {
+      "canonical_name": "loose pulled back hair with face framing strands",
+      "canonical_name_zh": "松散束发配碎发",
+      "canonical_phrase": "pulled back loosely with some strands framing her face",
+      "samples": [
+        "pulled back loosely with some strands framing her face"
+      ],
+      "tags": [
+        "hair",
+        "loose",
+        "pulled-back",
+        "casual",
+        "face-framing"
+      ]
+    },
+    "medium_to_long_hair_with_bangs": {
+      "canonical_name": "medium to long hair with bangs",
+      "canonical_name_zh": "中长发型配刘海",
+      "canonical_phrase": "medium to long hair with bangs, straight or wavy texture",
+      "samples": [
+        "shoulder-length, slightly tousled, mid-length bangs, soft curls at ends",
+        "short to mid-length, soft waves, side-swept bangs",
+        "long, straight, bangs framing forehead",
+        "medium-length straight with bangs",
+        "long, straight, bangs",
+        "long, straight with bangs framing face",
+        "shoulder-length straight with bangs",
+        "shoulder-length with bangs",
+        "shoulder-length with soft bangs",
+        "medium-length wavy with bangs",
+        "long straight with bangs",
+        "shoulder-length with straight bangs",
+        "long with bangs, slightly tousled",
+        "medium-length with layered bangs, loose waves cascading over shoulders",
+        "long with bangs",
+        "long, wind-swept bangs"
+      ],
+      "tags": [
+        "hair",
+        "bangs",
+        "straight",
+        "wavy",
+        "medium-length"
+      ]
+    },
+    "short_straight_hair_in_motion": {
+      "canonical_name": "short straight hair in motion",
+      "canonical_name_zh": "短发直发动态",
+      "canonical_phrase": "short straight hair swept back or flying in motion",
+      "samples": [
+        "short straight hair partially tucked behind ear",
+        "short straight hair pulled back",
+        "short hair in motion",
+        "short straight hair swept back by motion",
+        "short straight hair tied up",
+        "short straight hair flying in motion",
+        "short hair flowing upwards in motion",
+        "short straight hair tied back",
+        "short straight hair pulled back loosely",
+        "short straight hair falling to jawline",
+        "short straight hair pulled back neatly",
+        "short straight hair falling forward"
+      ],
+      "tags": [
+        "short",
+        "straight",
+        "dynamic",
+        "windblown",
+        "tucked"
+      ]
+    },
+    "medium_length_soft_loose_waves": {
+      "canonical_name": "medium length soft loose waves",
+      "canonical_name_zh": "中长发柔和波浪",
+      "canonical_phrase": "medium length hair with soft natural loose waves",
+      "samples": [
+        "medium-length, slightly tousled with soft natural waves",
+        "medium-length loose waves",
+        "short to mid-length with soft waves",
+        "medium-length, soft waves, parted slightly off-center",
+        "loose waves",
+        "loose waves, slightly damp and tousled",
+        "medium-length with soft waves",
+        "medium length, slightly tousled, damp-looking, soft waves",
+        "soft waves",
+        "side part with soft waves",
+        "natural waves",
+        "medium-length loose waves with visible strands framing face",
+        "medium length with loose waves",
+        "long, slight wave"
+      ],
+      "tags": [
+        "hair",
+        "wavy",
+        "natural",
+        "soft",
+        "medium"
+      ]
+    },
+    "short_straight_hair_side_part": {
+      "canonical_name": "short straight hair side part",
+      "canonical_name_zh": "短直发侧分",
+      "canonical_phrase": "short straight hair with side part and strands falling across forehead",
+      "samples": [
+        "short straight hair, parted slightly off-center, strands falling gently across forehead",
+        "short straight hair with a side part, strands falling across forehead",
+        "short straight hair with damp strands clinging to forehead and neck",
+        "short straight hair with slight parting, strands clinging to forehead",
+        "short straight hair, slight tousled texture, parted slightly off-center, strands falling across forehead and shoulders",
+        "short straight hair with fine strands falling across forehead",
+        "short straight dark hair, parted slightly off-center, strands falling over forehead and shoulders",
+        "short straight dark hair with slight tousled texture, side-parted, strands falling across forehead and shoulders",
+        "short straight hair clinging to face with visible strands",
+        "short straight hair with damp strands clinging to forehead and cheeks",
+        "short straight hair, damp with strands falling across forehead",
+        "short straight hair, damp strands clinging to forehead and cheeks",
+        "short straight hair with strands falling across forehead",
+        "short straight hair with wet strands clinging to face and shoulders",
+        "short straight hair falling across face",
+        "short straight dark hair with strands falling across forehead",
+        "short straight hair with slight dampness and soft strands falling across forehead",
+        "short straight hair, parted to one side, strands clinging to forehead",
+        "short straight dark hair with visible strands clinging to forehead and cheeks",
+        "short straight hair with visible strands falling across forehead",
+        "short straight dark hair, tousled and layered, falling around face",
+        "straight shoulder-length hair with slight sheen falling across forehead",
+        "short straight dark hair with soft strands falling across forehead",
+        "short straight hair with damp strands clinging to forehead",
+        "short straight hair falling across forehead",
+        "short straight hair falling across forehead and framing face",
+        "short straight hair with wet strands clinging to forehead and cheeks",
+        "short straight hair with slight inward part and wispy strands across forehead"
+      ],
+      "tags": [
+        "short",
+        "straight",
+        "side-part",
+        "forehead",
+        "damp"
+      ]
+    },
+    "long_straight_black_hair_center_part": {
+      "canonical_name": "long straight black hair center part",
+      "canonical_name_zh": "长直黑发中分",
+      "canonical_phrase": "long straight black hair with a center part, strands softly framing her face",
+      "samples": [
+        "long straight black hair with a center part, strands softly framing her face"
+      ],
+      "tags": [
+        "black",
+        "straight",
+        "center-part",
+        "soft",
+        "framing"
+      ]
+    },
+    "short_straight_dark_hair_with_bangs": {
+      "canonical_name": "short straight dark hair with bangs",
+      "canonical_name_zh": "短直黑发带刘海",
+      "canonical_phrase": "short straight dark hair with bangs, slightly damp or glossy strands",
+      "samples": [
+        "short straight hair ending at jawline",
+        "short straight black hair with blunt bangs",
+        "short straight black hair with bangs, slightly damp strands clinging to forehead and cheeks",
+        "short straight dark hair with slight waves",
+        "short straight dark hair with bangs, slightly tousled strands",
+        "short straight dark hair with wet strands",
+        "short straight hair with bangs, glossy strands falling near cheeks",
+        "short straight dark hair with a slight wave",
+        "short black hair neatly combed",
+        "short straight black hair with bangs",
+        "short straight with bangs, loose strands near shoulders",
+        "long straight black hair tied in a low ponytail with bangs framing face",
+        "short straight dark hair with a side part",
+        "short straight hair with bangs falling forward",
+        "low ponytail with bangs framing face"
+      ],
+      "tags": [
+        "short",
+        "straight",
+        "black",
+        "bangs",
+        "wet"
+      ]
+    },
+    "medium_straight_black_hair_center_part": {
+      "canonical_name": "medium straight black hair center part",
+      "canonical_name_zh": "中分直发黑发",
+      "canonical_phrase": "medium-length straight black hair with a center part, strands falling across forehead and shoulders",
+      "samples": [
+        "medium-length straight black hair with a center part, strands falling across forehead and shoulders"
+      ],
+      "tags": [
+        "black",
+        "straight",
+        "center-part",
+        "casual",
+        "forelock"
+      ]
+    },
+    "wavy_shoulderlength_hair_loose_strands": {
+      "canonical_name": "wavy shoulder-length hair loose strands",
+      "canonical_name_zh": "波浪肩发碎发",
+      "canonical_phrase": "wavy shoulder-length hair with loose strands framing her face",
+      "samples": [
+        "wavy shoulder-length hair with loose strands framing her face"
+      ],
+      "tags": [
+        "wavy",
+        "hair",
+        "shoulder-length",
+        "loose",
+        "framing"
+      ]
+    },
+    "shoulder_length_wavy_with_bangs": {
+      "canonical_name": "shoulder length wavy with bangs",
+      "canonical_name_zh": "及肩波浪带刘海",
+      "canonical_phrase": "shoulder-length wavy hair with bangs partially covering forehead",
+      "samples": [
+        "shoulder-length straight with bangs partially covering forehead",
+        "medium length with bangs partially covering forehead, strands clinging to neck and shoulders",
+        "wavy, partially covering forehead",
+        "shoulder-length, partially obscuring forehead",
+        "shoulder-length, wavy, with bangs falling over forehead",
+        "medium-length with loose waves, some strands swept across forehead"
+      ],
+      "tags": [
+        "hair",
+        "wavy",
+        "bangs",
+        "shoulder-length",
+        "casual"
+      ]
+    },
+    "short_straight_dark_brown_hair": {
+      "canonical_name": "short straight dark brown hair",
+      "canonical_name_zh": "短直深棕发",
+      "canonical_phrase": "short straight dark brown hair with loose strands framing her face",
+      "samples": [
+        "short straight dark brown hair with loose strands framing her face"
+      ],
+      "tags": [
+        "brown",
+        "straight",
+        "short",
+        "loose",
+        "framing"
+      ]
+    },
+    "short_straight_hair_with_bangs_wispy": {
+      "canonical_name": "short straight hair with bangs",
+      "canonical_name_zh": "短直发配刘海",
+      "canonical_phrase": "short straight hair with bangs falling across forehead",
+      "samples": [
+        "straight shoulder-length hair with bangs falling across forehead",
+        "short straight with bangs covering forehead",
+        "short straight hair with bangs, strands gently swept across forehead",
+        "short straight hair with wispy bangs partially covering forehead",
+        "long straight hair with bangs framing forehead",
+        "short straight hair with bangs framing forehead",
+        "short straight hair with bangs falling across forehead",
+        "short straight hair with bangs partially covering forehead"
+      ],
+      "tags": [
+        "straight",
+        "bangs",
+        "forehead",
+        "short",
+        "casual"
+      ]
+    },
+    "dark_wet_hair_falling_around_face": {
+      "canonical_name": "dark wet hair falling around face",
+      "canonical_name_zh": "深色湿发垂落遮面",
+      "canonical_phrase": "dark wet hair falling loosely around face with strands framing forehead",
+      "samples": [
+        "long, wet, falling over face",
+        "dark hair pulled back loosely with strands falling across forehead",
+        "dark wet hair falling around face",
+        "dark wet hair falling across forehead",
+        "dark hair partially obscuring face",
+        "dark straight hair falling to mid-back with loose strands framing face",
+        "wet hair falling around face",
+        "partially pulled back with loose strands framing face",
+        "wavy hair falling around face"
+      ],
+      "tags": [
+        "dark",
+        "wet",
+        "hair",
+        "loose",
+        "framing"
+      ]
+    },
+    "shoulder_length_straight_hair": {
+      "canonical_name": "shoulder length straight hair",
+      "canonical_name_zh": "及肩直发",
+      "canonical_phrase": "shoulder-length straight hair with natural part",
+      "samples": [
+        "medium-length straight",
+        "shoulder-length, straight",
+        "straight, shoulder-length",
+        "straight shoulder-length",
+        "shoulder-length straight",
+        "medium length, straight with slight layers",
+        "shoulder-length straight with straight fringe",
+        "shoulder-length straight with a natural part"
+      ],
+      "tags": [
+        "straight",
+        "shoulder-length",
+        "medium",
+        "natural",
+        "fringe"
+      ]
+    },
+    "short_straight_hair_swept_by_wind": {
+      "canonical_name": "short straight hair swept by wind",
+      "canonical_name_zh": "短发被风吹拂",
+      "canonical_phrase": "short straight hair swept by wind across forehead",
+      "samples": [
+        "long dark brown hair swept back by wind",
+        "short straight dark hair, slightly tousled by wind",
+        "short straight hair swept by wind across forehead",
+        "short straight hair with strands swept across forehead by wind",
+        "short straight hair swept by wind",
+        "short straight hair swept across forehead by wind",
+        "short straight hair partially swept by wind"
+      ],
+      "tags": [
+        "straight",
+        "short",
+        "wind",
+        "swept",
+        "tousled"
+      ]
+    },
+    "long_dark_brown_wavy_hair": {
+      "canonical_name": "long dark brown wavy hair",
+      "canonical_name_zh": "深棕色长卷发",
+      "canonical_phrase": "long dark brown hair with soft waves, parted slightly off-center, strands gently framing her face",
+      "samples": [
+        "long dark brown hair with soft waves, parted slightly off-center, strands gently framing her face"
+      ],
+      "tags": [
+        "brown",
+        "wavy",
+        "long",
+        "soft",
+        "off-center"
+      ]
+    },
+    "long_wavy_hair_loose_strands": {
+      "canonical_name": "long wavy hair loose strands",
+      "canonical_name_zh": "长卷发松散发丝",
+      "canonical_phrase": "long wavy hair with loose strands",
+      "samples": [
+        "long wavy hair with loose strands"
+      ],
+      "tags": [
+        "hair",
+        "wavy",
+        "loose",
+        "natural",
+        "strands"
+      ]
+    },
+    "long_dark_straight_hair": {
+      "canonical_name": "long dark straight hair",
+      "canonical_name_zh": "深色长直发",
+      "canonical_phrase": "long dark straight hair with center or side part",
+      "samples": [
+        "long straight black hair with a center part",
+        "medium-length straight black hair with a center part",
+        "long dark straight hair",
+        "long hair in a side ponytail",
+        "dark straight long hair with side part",
+        "dark straight hair",
+        "long straight dark hair with a center part"
+      ],
+      "tags": [
+        "dark",
+        "straight",
+        "long",
+        "ponytail",
+        "center_part"
+      ]
+    },
+    "shoulder_length_straight_or_wavy_hair": {
+      "canonical_name": "shoulder length straight or wavy hair",
+      "canonical_name_zh": "及肩直发或卷发",
+      "canonical_phrase": "shoulder-length straight or wavy hair with natural parting and loose strands",
+      "samples": [
+        "long straight hair with natural parting",
+        "curly",
+        "shoulder-length wavy hair with loose strands",
+        "straight shoulder-length hair",
+        "shoulder-length wavy hair",
+        "straight shoulder-length hair with soft waves",
+        "straight hair",
+        "straight shoulder-length hair with a center part",
+        "shoulder-length wavy hair with soft strands framing face",
+        "straight shoulder-length hair parted in center with fine strands visible",
+        "shoulder-length straight hair",
+        "shoulder-length straight hair with soft waves, parted to left",
+        "dark wavy shoulder-length hair with natural layers, strands falling loosely around face",
+        "straight shoulder-length hair with natural layers",
+        "long straight hair",
+        "wavy shoulder-length hair",
+        "dark wavy shoulder-length hair with soft natural waves, parted slightly off-center",
+        "medium-length flowing hair",
+        "straight shoulder-length hair with a natural parting",
+        "dark straight shoulder-length hair with soft natural parting",
+        "shoulder-length straight hair with center part",
+        "short straight hair cut to shoulder length"
+      ],
+      "tags": [
+        "shoulder-length",
+        "straight",
+        "wavy",
+        "natural",
+        "loose-strands"
+      ]
+    },
+    "short_tousled_hair_with_visible_strands": {
+      "canonical_name": "short tousled hair with visible strands",
+      "canonical_name_zh": "短碎发凌乱有发丝",
+      "canonical_phrase": "short tousled hair with visible strands sticking up or swept by wind",
+      "samples": [
+        "fine strands",
+        "tousled by wind, strands framing face",
+        "short, slightly tousled with strands sticking up",
+        "fine, slightly tousled, strands swept across face by wind",
+        "long, natural tousled texture, strands swept across face by wind",
+        "short tousled with natural texture and visible strands",
+        "short, tousled, strands flying upward",
+        "short tousled with visible strands sticking up"
+      ],
+      "tags": [
+        "short",
+        "tousled",
+        "strands",
+        "windblown",
+        "messy"
+      ]
+    },
+    "short_straight_dark_brown_hair_with_bangs": {
+      "canonical_name": "short straight dark brown hair with bangs",
+      "canonical_name_zh": "短直深棕发配刘海",
+      "canonical_phrase": "short straight dark brown hair with bangs falling across forehead",
+      "samples": [
+        "short straight dark brown hair with blunt bangs, hair strands swept across forehead",
+        "long straight black hair with bangs falling softly across forehead",
+        "long straight glossy black hair with bangs falling softly across forehead",
+        "long straight dark hair with bangs falling across forehead",
+        "short straight dark brown hair with slight layers, parted to one side, strands falling across forehead",
+        "short straight dark brown hair with a few strands falling across her forehead",
+        "short straight dark brown hair falling to mid-shoulder length, slight bangs framing face",
+        "short straight dark brown hair with loose strands falling across forehead and cheek",
+        "short straight dark brown hair with a center part, fine strands falling near forehead",
+        "short straight dark brown hair with visible strands falling across forehead",
+        "dark brown hair partially obscuring face, strands falling across forehead",
+        "short straight dark brown hair with soft strands falling across forehead",
+        "short straight dark brown hair, parted slightly off-center, strands falling across forehead",
+        "short straight dark brown hair with slight layers and soft strands falling around face",
+        "short straight dark brown hair with wispy bangs falling across forehead",
+        "short straight dark brown hair with fine strands falling across forehead",
+        "long dark brown hair with loose waves and visible strands falling across forehead",
+        "dark brown ponytail with a visible strand falling near her temple",
+        "short straight dark brown hair, damp strands clinging to forehead and cheeks",
+        "short straight dark brown hair with a center parting, fine strands falling near forehead",
+        "short straight dark brown hair with glossy wet strands clinging to forehead and cheeks",
+        "short straight dark brown hair, strands falling across forehead",
+        "short straight dark brown hair with bangs falling across forehead",
+        "short straight dark brown hair with a center part, strands falling across forehead",
+        "medium-length wavy dark brown hair with loose strands falling across forehead",
+        "short straight dark brown hair with slight layers, glossy strands falling near cheek",
+        "short straight dark brown hair, parted slightly off-center, damp strands clinging to forehead and cheeks",
+        "short straight dark brown hair with layered bangs falling across forehead, glossy strands clinging to cheeks",
+        "short straight dark brown hair with a slight wave, wet strands clinging to forehead and cheeks",
+        "long dark straight hair with bangs falling over forehead",
+        "short straight dark brown hair reaching mid-neck length, slight parting on left side, soft strands falling near cheek",
+        "short straight dark brown hair with strands falling across forehead",
+        "long straight dark brown hair with soft layers, partially covering forehead",
+        "long straight dark brown hair with bangs falling across forehead",
+        "short straight dark brown hair with blunt bangs, parted centrally, strands falling across forehead",
+        "short dark brown hair with visible strands falling across forehead"
+      ],
+      "tags": [
+        "dark brown",
+        "straight hair",
+        "bangs",
+        "forehead strands",
+        "blunt cut"
+      ]
+    },
+    "two_braids_falling_over_shoulders": {
+      "canonical_name": "two braids falling over shoulders",
+      "canonical_name_zh": "双辫垂肩",
+      "canonical_phrase": "two braids falling over shoulders",
+      "samples": [
+        "two braids falling over shoulders"
+      ],
+      "tags": [
+        "braided",
+        "hair",
+        "shoulder",
+        "casual",
+        "plait"
+      ]
+    },
+    "loose_strands_framing_face": {
+      "canonical_name": "loose strands framing face",
+      "canonical_name_zh": "碎发修饰脸型",
+      "canonical_phrase": "hair with loose strands framing face",
+      "samples": [
+        "soft updo with loose strands framing face",
+        "shoulder-length, slightly tousled with loose strands framing face",
+        "medium length wavy with loose strands framing face",
+        "shoulder-length, straight, center part, strands framing face",
+        "messy updo with loose strands framing the face",
+        "medium-length, wavy, loose strands framing face",
+        "tousled and partially pulled back, strands framing face",
+        "casual messy updo with loose strands framing face",
+        "medium-length with soft strands framing face",
+        "shoulder-length, wind-swept strands framing face",
+        "loosely tied back in a casual updo with loose strands framing face",
+        "partially framing shoulders",
+        "short, textured, loose strands framing face",
+        "shoulder-length wavy with loose strands framing face",
+        "medium-length with soft layers, side-swept bangs, loose strands framing face",
+        "medium-length, slightly tousled, framing face",
+        "loose framing face",
+        "messy updo with loose strands framing face"
+      ],
+      "tags": [
+        "hair",
+        "strands",
+        "face",
+        "loose",
+        "casual"
+      ]
+    },
+    "short_straight_hair_center_part": {
+      "canonical_name": "short straight hair center part",
+      "canonical_name_zh": "短发直发中分",
+      "canonical_phrase": "short straight hair parted in the middle or slightly off-center",
+      "samples": [
+        "short straight hair parted in the middle",
+        "short straight hair parted center",
+        "medium-length straight hair parted in the middle",
+        "short straight hair with slight tousled texture, parted slightly off-center",
+        "short straight black hair, parted center",
+        "short straight dark hair, parted center",
+        "short straight hair, parted slightly off-center",
+        "short straight hair with center part",
+        "shoulder-length straight hair parted slightly off-center",
+        "long straight black hair parted down the middle",
+        "short straight hair parted in center",
+        "short straight hair, center parting",
+        "short straight hair parted slightly off-center",
+        "short straight hair with a center part"
+      ],
+      "tags": [
+        "straight",
+        "short",
+        "center-part",
+        "black",
+        "tousled"
+      ]
+    },
+    "short_straight_dark_brown_windswept_hair": {
+      "canonical_name": "short straight dark brown wind-swept hair",
+      "canonical_name_zh": "短直深棕风掠发",
+      "canonical_phrase": "short straight dark brown hair with gentle layers, wind-swept strands framing face",
+      "samples": [
+        "short straight dark brown hair with gentle layers, wind-swept strands framing face"
+      ],
+      "tags": [
+        "brown",
+        "straight",
+        "layers",
+        "wind-swept",
+        "framing"
+      ]
+    },
+    "dark_straight_shoulder_length_hair": {
+      "canonical_name": "dark straight shoulder length hair",
+      "canonical_name_zh": "深色直发及肩",
+      "canonical_phrase": "dark straight hair falling past shoulders with center or off-center parting",
+      "samples": [
+        "dark straight hair, center parting, falling past shoulders, strands gently framing face",
+        "dark straight hair parted in center falling past shoulders",
+        "dark straight hair falling to shoulders, parted slightly off-center",
+        "dark straight hair, parted slightly off-center, falls past shoulders",
+        "long straight dark hair with a center part falling over shoulders",
+        "dark straight hair with center parting falling to shoulders",
+        "dark straight hair, shoulder length, center parted, falling straight",
+        "dark straight hair with natural parting, falling past shoulders",
+        "dark straight hair falling past shoulders, parted slightly off-center"
+      ],
+      "tags": [
+        "dark",
+        "straight",
+        "shoulder-length",
+        "center-part",
+        "natural"
+      ]
+    },
+    "wet_dark_hair_clinging_to_face_and_shoulders": {
+      "canonical_name": "wet dark hair clinging to face and shoulders",
+      "canonical_name_zh": "湿发贴脸肩",
+      "canonical_phrase": "wet dark hair clinging to face neck and shoulders",
+      "samples": [
+        "wet dark brown hair clinging to face and shoulders",
+        "wet hair clinging to shoulders",
+        "wet hair clinging to neck and shoulders",
+        "wet dark hair clinging to forehead and neck",
+        "wavy, partially wet, clinging to neck and shoulders",
+        "dark wet hair clinging to neck and shoulders",
+        "wet dark brown hair cascading over shoulders, strands clinging to neck and cheeks",
+        "dark wet hair clinging to forehead and shoulders"
+      ],
+      "tags": [
+        "wet",
+        "dark",
+        "brown",
+        "clinging",
+        "strands"
+      ]
+    },
+    "long_straight_dark_brown_hair_subtle_highlights": {
+      "canonical_name": "long straight dark brown hair subtle highlights",
+      "canonical_name_zh": "长直深棕发微高光",
+      "canonical_phrase": "long straight dark brown hair with subtle highlights, strands gently framing her face",
+      "samples": [
+        "long straight dark brown hair with subtle highlights, strands gently framing her face"
+      ],
+      "tags": [
+        "brown",
+        "straight",
+        "hair",
+        "natural",
+        "framing"
+      ]
+    },
+    "short_straight_dark_brown_hair_off_center_part": {
+      "canonical_name": "short straight dark brown hair",
+      "canonical_name_zh": "短直深棕发",
+      "canonical_phrase": "short straight dark brown hair parted off-center with soft strands framing face",
+      "samples": [
+        "short straight dark brown hair, parted slightly off-center, with soft strands falling around her face",
+        "short straight dark brown hair with soft layers, parted slightly off-center, some strands framing her face",
+        "short straight dark brown hair, parted slightly off-center, with soft strands framing her face",
+        "short straight dark brown hair with subtle highlights, parted slightly off-center, strands gently framing her face",
+        "short straight dark brown hair, parted slightly off-center, strands falling softly near her temples",
+        "short straight dark brown hair, parted slightly off-center, fine strands framing her face",
+        "short straight dark brown hair, parted to her left, with soft strands framing her face",
+        "short straight dark brown hair, parted slightly off-center, with a few loose strands framing her face"
+      ],
+      "tags": [
+        "dark brown",
+        "straight",
+        "short",
+        "soft",
+        "face framing"
+      ]
+    },
+    "long_dark_hair_partially_obscuring_face": {
+      "canonical_name": "long dark hair partially obscuring face",
+      "canonical_name_zh": "长发遮面",
+      "canonical_phrase": "long dark hair partially obscuring face",
+      "samples": [
+        "long dark hair partially obscuring face"
+      ],
+      "tags": [
+        "dark",
+        "hair",
+        "long",
+        "shadow",
+        "mysterious"
+      ]
+    },
+    "strands_falling_across_forehead": {
+      "canonical_name": "strands falling across forehead",
+      "canonical_name_zh": "刘海垂落额头",
+      "canonical_phrase": "hair strands falling across forehead with natural movement",
+      "samples": [
+        "short, slightly tousled with strands falling across forehead",
+        "tousled, slightly damp with strands falling across forehead",
+        "strands falling across forehead and cheek, slightly damp or textured with natural movement",
+        "strands falling across forehead",
+        "long, some strands falling across forehead",
+        "strands falling across forehead and shoulders",
+        "loose strands falling around shoulders",
+        "damp and tousled, falling across forehead",
+        "strands falling near neck",
+        "spiked upward with strands falling across forehead",
+        "short straight, center parting, strands falling gently across forehead"
+      ],
+      "tags": [
+        "hair",
+        "bangs",
+        "forehead",
+        "tousled",
+        "strands"
+      ]
+    },
+    "long_loose_flowing_hair": {
+      "canonical_name": "long loose flowing hair",
+      "canonical_name_zh": "长松散飘逸发型",
+      "canonical_phrase": "long loose flowing hair cascading down the back",
+      "samples": [
+        "long, spread out",
+        "long, flowing loosely",
+        "loose and flowing",
+        "long, loose flowing",
+        "long, slightly tousled, cascading down back",
+        "long, cascading down back",
+        "long, loose",
+        "long",
+        "long, loose and flowing",
+        "long, wet, cascading down back",
+        "long, wet"
+      ],
+      "tags": [
+        "long",
+        "loose",
+        "flowing",
+        "cascading",
+        "natural"
+      ]
+    },
+    "short_straight_hair": {
+      "canonical_name": "short straight hair",
+      "canonical_name_zh": "短直发",
+      "canonical_phrase": "short straight hair with natural texture and slight tousle",
+      "samples": [
+        "short straight hair with a natural parting",
+        "short straight hair",
+        "short straight hair with slight dampness and flyaways",
+        "short straight hair with slight tousled texture",
+        "short straight hair, slightly tousled strands",
+        "short straight hair with slight tousle",
+        "short straight wet hair",
+        "short straight hair with a side parting",
+        "short straight hair with a side part",
+        "short straight hair with natural texture",
+        "short straight hair with a slight tousle",
+        "short smooth coat",
+        "short straight hair lying on right side"
+      ],
+      "tags": [
+        "short",
+        "straight",
+        "hair",
+        "natural",
+        "tousled"
+      ]
+    },
+    "short_straight_hair_at_shoulders": {
+      "canonical_name": "short straight hair at shoulders",
+      "canonical_name_zh": "及肩短直发",
+      "canonical_phrase": "short straight hair falling loosely to shoulders",
+      "samples": [
+        "short straight hair falling to shoulders",
+        "short straight hair falling around shoulders",
+        "short straight hair falling over shoulders",
+        "short straight hair reaching shoulders",
+        "short hair falling over left shoulder",
+        "short straight hair falling loosely around shoulders",
+        "short straight hair ending at shoulders"
+      ],
+      "tags": [
+        "straight",
+        "shoulder-length",
+        "loose",
+        "natural",
+        "casual"
+      ]
+    },
+    "short_straight_dark_brown_hair_pulled_back_loosely": {
+      "canonical_name": "short straight dark brown hair pulled back loosely",
+      "canonical_name_zh": "短直深棕松挽发",
+      "canonical_phrase": "short straight dark brown hair pulled back loosely",
+      "samples": [
+        "short straight dark brown hair pulled back loosely"
+      ],
+      "tags": [
+        "brown",
+        "straight",
+        "loose",
+        "pulled-back",
+        "natural"
+      ]
+    },
+    "shoulder_length_natural_hair": {
+      "canonical_name": "shoulder length natural hair",
+      "canonical_name_zh": "及肩自然发型",
+      "canonical_phrase": "shoulder-length hair with natural texture falling loosely around face and shoulders",
+      "samples": [
+        "shoulder-length, slightly damp, falling naturally around face and shoulders",
+        "long, straight, falling past shoulders",
+        "shoulder-length wavy",
+        "mid-length, tousled",
+        "medium-length, falling loosely around shoulders",
+        "side part falling in loose waves over shoulders",
+        "short, natural texture, falling over shoulders",
+        "shoulder-length, wet",
+        "tousled, falling just past shoulders",
+        "long, straight, falling loosely around shoulders",
+        "shoulder-length, flowing slightly",
+        "shoulder-length with soft natural waves and loose strands falling around face"
+      ],
+      "tags": [
+        "hair",
+        "shoulder-length",
+        "natural",
+        "loose",
+        "wavy"
+      ]
+    },
+    "mediumlength_dark_brown_wavy_hair": {
+      "canonical_name": "medium-length dark brown wavy hair",
+      "canonical_name_zh": "中长发深棕波浪发",
+      "canonical_phrase": "medium-length dark brown hair with soft waves, glossy strands falling around her face",
+      "samples": [
+        "medium-length dark brown hair with soft waves, glossy strands falling around her face"
+      ],
+      "tags": [
+        "brown",
+        "glossy",
+        "wavy",
+        "soft",
+        "strands"
+      ]
+    },
+    "short_straight_dark_brown_hair_tousled": {
+      "canonical_name": "short straight dark brown hair",
+      "canonical_name_zh": "短直深棕发",
+      "canonical_phrase": "short straight dark brown hair with slight tousle or parted center",
+      "samples": [
+        "short straight dark brown hair, slightly tousled",
+        "short straight dark brown hair, parted center, falling over shoulders, slight shine",
+        "short straight dark brown hair, parted center",
+        "short straight dark brown hair, parted slightly off-center",
+        "short straight dark brown hair with slight tousle, parted slightly off-center",
+        "short straight dark brown hair, tousled at the front",
+        "short straight dark brown hair with slight tousle, partially pulled back from face"
+      ],
+      "tags": [
+        "dark brown",
+        "straight",
+        "short",
+        "tousled",
+        "center part"
+      ]
+    },
+    "short_straight_dark_brown_hair_soft_layers": {
+      "canonical_name": "short straight dark brown hair",
+      "canonical_name_zh": "短直深棕色头发",
+      "canonical_phrase": "short straight dark brown hair with soft layers framing face",
+      "samples": [
+        "short straight dark brown hair with soft layers framing her face",
+        "short straight dark brown hair with soft layers, some strands gently framing her face",
+        "short straight dark brown hair with a side part, fine strands framing her face",
+        "short straight dark brown hair with a side part, glossy strands framing her face",
+        "short straight dark brown hair with subtle layers framing her face",
+        "short straight dark brown hair with a center parting, soft layered cut, fine strands framing her face",
+        "short straight dark brown hair with blunt bangs, glossy strands framing her face",
+        "short straight dark brown hair with a side parting, glossy strands framing her face",
+        "long straight dark brown hair with subtle shine, strands gently framing her face",
+        "short straight dark brown hair, parted center, fine strands framing her face",
+        "short straight dark brown hair with a center part, slight strands framing her face"
+      ],
+      "tags": [
+        "dark brown",
+        "straight hair",
+        "short cut",
+        "soft layers",
+        "face framing"
+      ]
+    },
+    "short_straight_dark_brown_layered_hair": {
+      "canonical_name": "short straight dark brown layered hair",
+      "canonical_name_zh": "短直深棕分层发",
+      "canonical_phrase": "short straight dark brown hair with soft layers and natural texture",
+      "samples": [
+        "short straight dark brown hair with slight layers and a natural tousled texture",
+        "shoulder-length straight dark brown with subtle layering",
+        "short straight dark brown hair, slightly tousled with soft layers",
+        "short straight dark brown hair with slight layers",
+        "short straight dark brown hair with soft layers and subtle shine",
+        "short straight dark brown hair with soft layers and slight tousle",
+        "short straight dark brown hair with subtle layering",
+        "short straight dark brown hair with subtle layers and slight shine",
+        "short straight dark brown hair with subtle layers and natural texture",
+        "long straight dark brown hair with subtle shine",
+        "short straight dark brown hair with subtle layers",
+        "short straight dark brown hair with visible layers and slight movement",
+        "short straight dark brown hair with soft layers",
+        "short straight dark brown hair with subtle layers and soft shine",
+        "fine dark brown hair with layered texture and subtle shine"
+      ],
+      "tags": [
+        "dark brown",
+        "straight",
+        "layered",
+        "tousled",
+        "natural"
+      ]
+    },
+    "short_dark_brown_wavy_hair": {
+      "canonical_name": "short dark brown wavy hair",
+      "canonical_name_zh": "短深棕波浪发",
+      "canonical_phrase": "short dark brown hair with soft waves and loose strands framing face",
+      "samples": [
+        "short dark brown hair with soft waves and loose strands framing face"
+      ],
+      "tags": [
+        "brown",
+        "wavy",
+        "short",
+        "soft",
+        "framing"
+      ]
+    },
+    "short_straight_dark_brown_hair_shoulder_length": {
+      "canonical_name": "short straight dark brown hair",
+      "canonical_name_zh": "短直深棕发",
+      "canonical_phrase": "short straight dark brown hair with subtle layers and off-center part",
+      "samples": [
+        "short straight dark brown hair, shoulder length, center part",
+        "short straight dark brown hair with soft layers, parted slightly off-center",
+        "short straight dark brown hair with soft layered ends, parted slightly off-center",
+        "short straight dark brown hair with subtle layers, parted slightly off-center",
+        "short straight dark brown hair with slight layers, parted to the side",
+        "medium-length straight dark brown hair with subtle layering, parted slightly off-center",
+        "short straight dark brown hair with slight layering, parted slightly off-center"
+      ],
+      "tags": [
+        "dark brown",
+        "straight hair",
+        "short length",
+        "layered",
+        "off-center part"
+      ]
+    },
+    "long_flowing_hair_over_shoulders": {
+      "canonical_name": "long flowing hair over shoulders",
+      "canonical_name_zh": "长发垂肩飘逸",
+      "canonical_phrase": "long hair flowing loosely over shoulders and down back",
+      "samples": [
+        "flowing loosely around shoulders",
+        "medium length flowing dynamically backward",
+        "long, cascading over shoulder",
+        "flowing loosely over shoulders",
+        "shoulder-length flowing down her back",
+        "long, flowing loosely around shoulders",
+        "shoulder-length, flowing freely",
+        "long, flowing past shoulders",
+        "long flowing with soft natural texture",
+        "flows down her back",
+        "mid-length flowing freely",
+        "long, flowing loosely over shoulders",
+        "flowing down back and over right shoulder",
+        "flowing upward and backward"
+      ],
+      "tags": [
+        "hair",
+        "flowing",
+        "shoulder-length",
+        "natural",
+        "loose"
+      ]
+    },
+    "short_straight_dark_brown_hair_loose_face_frame": {
+      "canonical_name": "short straight dark brown hair loose face frame",
+      "canonical_name_zh": "短直深棕发松边脸框",
+      "canonical_phrase": "short straight dark brown hair with loose strands framing face",
+      "samples": [
+        "short straight dark brown hair with loose strands framing face"
+      ],
+      "tags": [
+        "brown",
+        "straight",
+        "short",
+        "casual",
+        "loose_strands"
+      ]
+    },
+    "short_straight_dark_brown_hair_center_part": {
+      "canonical_name": "short straight dark brown hair",
+      "canonical_name_zh": "短直深棕发",
+      "canonical_phrase": "short straight dark brown hair with glossy or fine strands framing the face",
+      "samples": [
+        "short straight dark brown hair, parted center, glossy strands falling around her face",
+        "short straight dark brown hair with bangs, parted slightly off-center, glossy strands framing her face",
+        "short straight dark brown hair cut to chin length, slightly tousled strands framing her face",
+        "short straight dark brown hair with a center part, glossy strands framing her face",
+        "short straight dark brown hair tied in two high pigtails with visible strands framing her face",
+        "short straight dark brown hair with fine strands framing her face",
+        "short straight dark brown hair with bangs, parted slightly off-center, fine strands framing her face",
+        "short straight dark brown hair styled sleekly away from her face"
+      ],
+      "tags": [
+        "dark brown",
+        "straight",
+        "short",
+        "glossy",
+        "framing strands"
+      ]
+    },
+    "short_straight_hair_framing_face": {
+      "canonical_name": "short straight hair framing face",
+      "canonical_name_zh": "短发直发框脸",
+      "canonical_phrase": "short straight hair with loose strands framing face",
+      "samples": [
+        "short straight hair framing face",
+        "short straight hair with windblown strands framing face",
+        "short straight hair tied up loosely with strands framing face",
+        "short tousled with bangs framing face",
+        "short straight with bangs framing face",
+        "short straight hair with bangs framing face",
+        "short straight hair, parted slightly off-center, fine strands framing face",
+        "short straight hair parted in the middle with loose strands framing face",
+        "short hair framing face",
+        "short straight with bangs, glossy strands framing face",
+        "short straight hair, windswept strands framing face",
+        "short straight hair tied up with bangs framing face"
+      ],
+      "tags": [
+        "short",
+        "straight",
+        "bangs",
+        "windswept",
+        "loose"
+      ]
+    },
+    "straight_dark_hair_with_bangs": {
+      "canonical_name": "straight dark hair with bangs",
+      "canonical_name_zh": "深色直发配刘海",
+      "canonical_phrase": "straight dark hair with bangs falling forward",
+      "samples": [
+        "long straight dark hair with bangs",
+        "long straight black hair with bangs",
+        "medium-length straight black hair with bangs",
+        "dark straight hair with bangs",
+        "medium-length straight dark hair with bangs, strands falling across shoulders",
+        "dark straight shoulder-length hair with bangs",
+        "dark straight shoulder-length hair with bangs falling forward",
+        "shoulder-length straight black hair with straight bangs",
+        "shoulder-length straight dark hair with wispy bangs"
+      ],
+      "tags": [
+        "dark",
+        "straight",
+        "bangs",
+        "shoulder-length",
+        "wispy"
+      ]
+    },
+    "short_straight_dark_brown_windswept_hair_subtle_layers": {
+      "canonical_name": "short straight dark brown wind-swept hair",
+      "canonical_name_zh": "短直深棕风掠发",
+      "canonical_phrase": "short straight dark brown hair with subtle layers, wind-swept strands framing her face",
+      "samples": [
+        "short straight dark brown hair with subtle layers, wind-swept strands framing her face"
+      ],
+      "tags": [
+        "brown",
+        "straight",
+        "layers",
+        "wind-swept",
+        "framing"
+      ]
+    },
+    "medium_shoulder_length_tousled_hair": {
+      "canonical_name": "medium shoulder length tousled hair",
+      "canonical_name_zh": "中长微乱发",
+      "canonical_phrase": "medium shoulder length hair with loose strands falling over forehead and shoulders",
+      "samples": [
+        "short to medium length, natural tousled texture, strands clinging to forehead and cheeks",
+        "long wavy, parted slightly off-center, strands falling over shoulders",
+        "long, parted slightly to one side, strands falling over shoulders",
+        "medium length with slight tousle, strands falling over forehead and shoulders",
+        "medium-length with loose strands falling across forehead and shoulders",
+        "shoulder-length, wavy texture, strands falling across shoulders and forehead",
+        "slightly tousled with strands falling around face",
+        "shoulder-length with loose strands falling around face",
+        "shoulder-length, slightly tousled with visible strands falling around face",
+        "medium-length with a side part, glossy strands falling over shoulders",
+        "shoulder-length, slightly damp with strands clinging to forehead"
+      ],
+      "tags": [
+        "hair",
+        "tousled",
+        "shoulder-length",
+        "natural",
+        "strands"
+      ]
+    },
+    "shoulderlength_straight_black_hair": {
+      "canonical_name": "shoulder-length straight black hair",
+      "canonical_name_zh": "及肩直黑发",
+      "canonical_phrase": "shoulder-length straight black hair with subtle shine, parting on the left side",
+      "samples": [
+        "shoulder-length straight black hair with subtle shine, parting on the left side"
+      ],
+      "tags": [
+        "black",
+        "straight",
+        "hair",
+        "shiny",
+        "left-parted"
+      ]
+    },
+    "dark_hair_framing_face": {
+      "canonical_name": "dark hair framing face",
+      "canonical_name_zh": "深色头发修饰脸庞",
+      "canonical_phrase": "long dark hair partially framing face with loose strands",
+      "samples": [
+        "dark hair partially framing her face",
+        "fine dark hair strands framing her face",
+        "dark brown hair partially framing her face",
+        "long dark brown hair partially framing her face",
+        "long straight black hair partially framing her face",
+        "long dark brown hair loosely framing face; long dark brown hair partially obscuring face",
+        "long dark brown hair flowing down her back",
+        "dark wavy hair loosely falling around her face",
+        "medium-length wavy dark brown hair with loose strands framing her face",
+        "dark hair framing the side of her face",
+        "dark hair falling around her face",
+        "dark hair spread out around her head",
+        "straight shoulder-length hair framing her face",
+        "long dark hair flowing down her back",
+        "soft waves framing her face",
+        "long dark hair cascading down her back",
+        "long dark brown hair with soft waves and loose strands framing her face"
+      ],
+      "tags": [
+        "dark",
+        "brown",
+        "hair",
+        "framing",
+        "wavy"
+      ]
+    },
+    "short_dark_brown_straight_hair": {
+      "canonical_name": "short dark brown straight hair",
+      "canonical_name_zh": "深棕色短发直发",
+      "canonical_phrase": "short straight dark brown hair with face framing strands",
+      "samples": [
+        "short straight dark brown hair, center parting, smooth texture, slight shine, strands framing face",
+        "short straight dark brown hair, parted slightly off-center, fine strands framing face",
+        "medium-length wavy dark brown hair with soft layers, parted slightly off-center",
+        "short straight dark brown hair with layered ends, slightly tousled, framing face"
+      ],
+      "tags": [
+        "dark brown",
+        "straight hair",
+        "short hair",
+        "face framing",
+        "smooth texture"
+      ]
+    },
+    "short_straight_hair_with_loose_strands": {
+      "canonical_name": "short straight hair with loose strands",
+      "canonical_name_zh": "短直发配松散发丝",
+      "canonical_phrase": "short straight hair parted variously with loose strands falling around face and neck",
+      "samples": [
+        "short straight, parted slightly off-center, strands falling across forehead",
+        "short straight, center parting, strands falling near cheek",
+        "high center part with loose strands falling around face",
+        "short straight with loose strands around face",
+        "medium length with soft strands falling around face",
+        "messy short bob with strands falling over forehead and around ears",
+        "short straight, parted mid-left, slightly tousled by wind, strands clinging to neck and cheek"
+      ],
+      "tags": [
+        "straight",
+        "bob",
+        "messy",
+        "loose",
+        "forehead"
+      ]
+    },
+    "dark_straight_hair_falling_over_shoulders": {
+      "canonical_name": "dark straight hair falling over shoulders",
+      "canonical_name_zh": "深色直发垂落肩头",
+      "canonical_phrase": "dark straight hair falling loosely over shoulders with natural shine",
+      "samples": [
+        "dark glossy hair fanned across shoulders",
+        "dark hair falling forward",
+        "dark straight long hair falling loosely",
+        "dark straight hair falling past shoulders with bangs framing face",
+        "dark straight hair falling naturally over shoulders",
+        "dark straight hair falling past shoulders with gentle wave at ends",
+        "dark wavy hair falling over shoulders",
+        "long dark hair falling loosely around shoulders",
+        "dark straight hair with subtle shine falling over right shoulder",
+        "dark glossy hair falling over shoulders",
+        "straight dark hair falling over shoulders",
+        "dark straight hair falling naturally around shoulders",
+        "dark straight hair cascading over shoulders",
+        "dark straight hair falling to shoulders",
+        "dark straight hair falling loosely around her shoulders",
+        "dark straight hair falling past shoulders",
+        "dark hair falling over shoulders",
+        "dark straight hair falling over shoulders",
+        "dark straight hair falling loosely around shoulders",
+        "dark straight hair falling in soft layers over shoulders"
+      ],
+      "tags": [
+        "dark",
+        "straight",
+        "shoulders",
+        "loose",
+        "glossy"
+      ]
+    },
+    "short_straight_dark_brown_hair_soft_layered_fringe": {
+      "canonical_name": "short straight dark brown hair",
+      "canonical_name_zh": "短直深棕发",
+      "canonical_phrase": "short straight dark brown hair with soft fringe and subtle layering",
+      "samples": [
+        "shoulder-length straight dark brown hair with a natural part, soft layered fringe",
+        "short straight dark brown hair with subtle layering and soft fringe",
+        "short straight dark brown hair with layered ends and a slight fringe",
+        "short straight dark brown hair with layered cut and slight movement",
+        "short straight dark brown hair with a blunt fringe",
+        "short straight dark brown hair with layered ends",
+        "short straight dark brown hair with soft layered fringe",
+        "short straight dark brown hair with subtle layers and soft fringe",
+        "short straight dark brown hair styled with a center part",
+        "short straight dark brown hair styled with two braids",
+        "short dark brown hair styled with a large white bow",
+        "short straight dark brown hair with soft fringe",
+        "short straight dark brown hair styled in two braids",
+        "short straight dark brown hair with soft layered fringe, slightly tousled strands",
+        "short straight dark brown hair styled in a neat pixie cut"
+      ],
+      "tags": [
+        "dark brown",
+        "straight",
+        "short",
+        "fringe",
+        "layered"
+      ]
+    },
+    "loose_hair_framing_face": {
+      "canonical_name": "loose hair framing face",
+      "canonical_name_zh": "松散发丝框脸",
+      "canonical_phrase": "loose hair framing face",
+      "samples": [
+        "loose hair framing face"
+      ],
+      "tags": [
+        "hair",
+        "brown",
+        "silky",
+        "casual",
+        "fringe"
+      ]
+    },
+    "dark_brown_hair_tied_back_with_loose_strands": {
+      "canonical_name": "dark brown hair tied back with loose strands",
+      "canonical_name_zh": "深色棕色头发束起带碎发",
+      "canonical_phrase": "short or long dark brown hair tied back with loose strands framing face",
+      "samples": [
+        "short straight dark brown hair partially pulled back with loose strands framing her face",
+        "short straight dark brown hair pulled back from her face",
+        "long dark brown hair loosely tied back with strands framing her face",
+        "short dark hair tied back with loose strands framing her face"
+      ],
+      "tags": [
+        "dark brown",
+        "hair",
+        "tied back",
+        "loose strands",
+        "face framing"
+      ]
+    },
+    "loose_falling_face_visible_strands": {
+      "canonical_name": "loose falling face visible strands",
+      "canonical_name_zh": "松散垂落可见发丝",
+      "canonical_phrase": "loose, falling around face with visible strands",
+      "samples": [
+        "loose, falling around face with visible strands"
+      ],
+      "tags": [
+        "hair",
+        "strands",
+        "flowing",
+        "natural",
+        "texture"
+      ]
+    },
+    "short_dark_straight_hair": {
+      "canonical_name": "short dark straight hair",
+      "canonical_name_zh": "深色短发直发",
+      "canonical_phrase": "short dark straight hair with slight layers and soft fringe",
+      "samples": [
+        "short straight dark hair with slight layers and a soft fringe",
+        "short straight black hair with a slight layer cut",
+        "short dark hair neatly styled",
+        "short straight dark hair with slight layers",
+        "short cropped dark hair with natural texture",
+        "short dark hair"
+      ],
+      "tags": [
+        "dark",
+        "straight",
+        "short",
+        "cropped",
+        "fringe"
+      ]
+    },
+    "long_flowing_wavy_hair": {
+      "canonical_name": "long flowing wavy hair",
+      "canonical_name_zh": "长卷发",
+      "canonical_phrase": "long, wavy, loose hair flowing freely",
+      "samples": [
+        "loose and wavy",
+        "long and straight",
+        "long, fanned across pillow",
+        "fanned out",
+        "long, flowing freely",
+        "long wavy",
+        "long, wavy, loose",
+        "wavy",
+        "long straight",
+        "long, wavy"
+      ],
+      "tags": [
+        "long",
+        "wavy",
+        "loose",
+        "flowing",
+        "hair"
+      ]
+    },
+    "dark_brown_straight_hair_with_side_or_center_part": {
+      "canonical_name": "dark brown straight hair with side or center part",
+      "canonical_name_zh": "深色棕色直发侧分或中分",
+      "canonical_phrase": "short to shoulder-length dark brown straight hair with side or center part",
+      "samples": [
+        "short straight dark brown hair with a soft side part",
+        "short straight dark brown hair with a slight tousle",
+        "short straight dark brown hair with a subtle side part",
+        "short straight dark brown hair with subtle layers and soft shine, parted slightly off-center",
+        "long straight dark brown hair parted down the middle",
+        "short straight dark brown hair with a side parting",
+        "short straight dark brown hair with a side part, slightly tousled strands",
+        "shoulder-length wavy dark brown hair with soft layers, parted slightly off-center",
+        "dark brown hair in motion, strands flying upward and sideways",
+        "short straight dark brown hair with layered ends and soft bangs, slightly parted to the side",
+        "short straight dark brown hair with a side part",
+        "short straight dark brown hair, parted center, falling loosely around shoulders"
+      ],
+      "tags": [
+        "dark brown",
+        "straight hair",
+        "side part",
+        "center part",
+        "soft layers"
+      ]
+    }
+  },
+  "statistics": {
+    "total_clusters": 72,
+    "multi_sample_clusters": 50,
+    "single_sample_clusters": 22
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "dimension": "shot_distance",
+  "version": "1.0",
+  "generated_date": "2026-03-18",
+  "mode": "enum",
+  "clusters": {
+    "extreme_closeup": {
+      "canonical_name": "Extreme Close-Up",
+      "canonical_name_zh": "极近景",
+      "canonical_phrase": "extreme close-up",
+      "samples": [
+        "extreme close-up"
+      ],
+      "tags": [
+        "extreme close-up",
+        "face",
+        "detail",
+        "tight",
+        "macro"
+      ]
+    },
+    "closeup": {
+      "canonical_name": "Close-Up",
+      "canonical_name_zh": "近景",
+      "canonical_phrase": "close-up",
+      "samples": [
+        "close-up"
+      ],
+      "tags": [
+        "close-up",
+        "face",
+        "portrait",
+        "head",
+        "tight"
+      ]
+    },
+    "medium": {
+      "canonical_name": "Medium",
+      "canonical_name_zh": "中景",
+      "canonical_phrase": "medium",
+      "samples": [
+        "medium"
+      ],
+      "tags": [
+        "medium",
+        "waist",
+        "half-body",
+        "standard",
+        "balanced"
+      ]
+    },
+    "full_body": {
+      "canonical_name": "Full Body",
+      "canonical_name_zh": "全身",
+      "canonical_phrase": "full body",
+      "samples": [
+        "full body"
+      ],
+      "tags": [
+        "full body",
+        "head to toe",
+        "standing",
+        "complete",
+        "figure"
+      ]
+    },
+    "wide_shot": {
+      "canonical_name": "Wide Shot",
+      "canonical_name_zh": "广角",
+      "canonical_phrase": "wide shot",
+      "samples": [
+        "wide shot"
+      ],
+      "tags": [
+        "wide",
+        "environmental",
+        "establishing",
+        "distant",
+        "scene"
+      ]
+    },
+    "macro": {
+      "canonical_name": "Macro",
+      "canonical_name_zh": "微距",
+      "canonical_phrase": "macro",
+      "samples": [
+        "macro"
+      ],
+      "tags": [
+        "macro",
+        "feature",
+        "feature",
+        "feature",
+        "feature"
+      ]
+    },
+    "ultra_wide_shot": {
+      "canonical_name": "Ultra Wide Shot",
+      "canonical_name_zh": "超广角",
+      "canonical_phrase": "ultra wide shot",
+      "samples": [
+        "ultra wide shot"
+      ],
+      "tags": [
+        "ultra",
+        "wide",
+        "shot",
+        "feature",
+        "feature"
+      ]
+    },
+    "medium_full_shot": {
+      "canonical_name": "medium full shot",
+      "canonical_name_zh": "中全景",
+      "canonical_phrase": "medium full shot",
+      "samples": [
+        "medium full shot"
+      ],
+      "tags": [
+        "medium",
+        "full",
+        "shot",
+        "feature",
+        "feature"
+      ]
+    },
+    "medium_shot": {
+      "canonical_name": "medium shot",
+      "canonical_name_zh": "中景",
+      "canonical_phrase": "medium shot",
+      "samples": [
+        "medium shot"
+      ],
+      "tags": [
+        "medium",
+        "shot",
+        "feature",
+        "feature",
+        "feature"
+      ]
+    },
+    "split_vertical_composition_intimate_closeup_and_wide_environmental_shot": {
+      "canonical_name": "split vertical composition (intimate close-up and wide environmental shot)",
+      "canonical_name_zh": "分割构图 (近景与广角)",
+      "canonical_phrase": "split vertical composition (intimate close-up and wide environmental shot)",
+      "samples": [
+        "split vertical composition (intimate close-up and wide environmental shot)"
+      ],
+      "tags": [
+        "split",
+        "vertical",
+        "composition",
+        "(intimate",
+        "close"
+      ]
+    },
+    "closeup_to_medium": {
+      "canonical_name": "close-up to medium",
+      "canonical_name_zh": "近景至中景",
+      "canonical_phrase": "close-up to medium",
+      "samples": [
+        "close-up to medium"
+      ],
+      "tags": [
+        "close",
+        "medium",
+        "feature",
+        "feature",
+        "feature"
+      ]
+    },
+    "split_composition_closeup_and_full_body": {
+      "canonical_name": "split composition (close-up and full body)",
+      "canonical_name_zh": "分割构图 (近景与全身)",
+      "canonical_phrase": "split composition (close-up and full body)",
+      "samples": [
+        "split composition (close-up and full body)"
+      ],
+      "tags": [
+        "split",
+        "composition",
+        "(close",
+        "full",
+        "body)"
+      ]
+    },
+    "medium_closeup": {
+      "canonical_name": "medium close-up",
+      "canonical_name_zh": "中近景",
+      "canonical_phrase": "medium close-up",
+      "samples": [
+        "medium close-up"
+      ],
+      "tags": [
+        "medium",
+        "close",
+        "feature",
+        "feature",
+        "feature"
+      ]
+    },
+    "split_composition_closeup_left_medium_right": {
+      "canonical_name": "split composition (close-up left, medium right)",
+      "canonical_name_zh": "分割构图 (左近右中)",
+      "canonical_phrase": "split composition (close-up left, medium right)",
+      "samples": [
+        "split composition (close-up left, medium right)"
+      ],
+      "tags": [
+        "split",
+        "composition",
+        "(close",
+        "left",
+        "medium"
+      ]
+    },
+    "medium_fullbody": {
+      "canonical_name": "medium full-body",
+      "canonical_name_zh": "中全景",
+      "canonical_phrase": "medium full-body",
+      "samples": [
+        "medium full-body"
+      ],
+      "tags": [
+        "medium",
+        "full",
+        "body",
+        "feature",
+        "feature"
+      ]
+    }
+  },
+  "statistics": {
+    "total_clusters": 15,
+    "multi_sample_clusters": 0,
+    "single_sample_clusters": 15
+  }
+}

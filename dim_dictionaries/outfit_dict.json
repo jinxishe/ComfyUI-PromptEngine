@@ -1,0 +1,3348 @@
+{
+  "dimension": "outfit",
+  "version": "1.0",
+  "generated_date": "2026-03-18",
+  "mode": "clustered",
+  "clusters": {
+    "white_vneck_floral_shirt": {
+      "canonical_name": "white V-neck floral shirt",
+      "canonical_name_zh": "白色V领花卉衬衫",
+      "canonical_phrase": "white V-neck shirt with small colorful floral pattern",
+      "samples": [
+        "white V-neck shirt with small colorful floral pattern"
+      ],
+      "tags": [
+        "white",
+        "cotton",
+        "v-neck",
+        "floral",
+        "casual"
+      ]
+    },
+    "rustorange_vest_over_dark_dress": {
+      "canonical_name": "rust-orange vest over dark dress",
+      "canonical_name_zh": "锈橙马甲配深色裙",
+      "canonical_phrase": "rust-orange button-up vest over a dark dress, brown heeled boots",
+      "samples": [
+        "rust-orange button-up vest over a dark dress, brown heeled boots"
+      ],
+      "tags": [
+        "rust-orange",
+        "vest",
+        "dark-dress",
+        "boots",
+        "layered"
+      ]
+    },
+    "light_colored_crochet_bikini_with_thin_straps": {
+      "canonical_name": "light colored crochet bikini with thin straps",
+      "canonical_name_zh": "浅色细带钩针比基尼",
+      "canonical_phrase": "light blue or cream crochet bikini with thin straps and textured fabric",
+      "samples": [
+        "light blue crocheted bikini with thin straps and adjustable ties",
+        "turquoise crochet bikini with thin straps and scalloped edges, textured fabric with visible stitches",
+        "light blue crocheted bikini with thin straps and tied back",
+        "white crochet bikini top with thin straps, white bikini bottom with tied side strings",
+        "cream-colored crocheted bikini top with thin white straps",
+        "light blue crocheted bikini with thin straps and triangular cut top, low-rise brief bottom with scalloped edge",
+        "light beige crochet bikini with thin straps and textured fabric"
+      ],
+      "tags": [
+        "crochet",
+        "bikini",
+        "light blue",
+        "thin straps",
+        "textured"
+      ]
+    },
+    "polka_dot_bikini_with_trim_details": {
+      "canonical_name": "polka dot bikini with trim details",
+      "canonical_name_zh": "波点比基尼配饰细节",
+      "canonical_phrase": "two-piece polka dot bikini with colored trim and tie sides",
+      "samples": [
+        "black halter top bikini with white polka dots and pink trim, matching bikini bottoms with pink tie sides",
+        "brown bikini with white polka dots and pink trim, top with halter straps, bottom with ruffled pink ties",
+        "white bikini with small dark blue polka dots, top featuring thin straps and a deep V-neckline, bottom with side ties",
+        "white bikini with small dark blue polka dots, halter top and matching bottoms, fabric appears smooth with visible seams",
+        "white two-piece bikini with thin straps and tie-backs, top featuring small scattered blue and silver sequins or beads, bottom with matching ties",
+        "two-piece brown bikini with white polka dots, halter top with thin straps, bikini bottom with pink lace trim and side ties"
+      ],
+      "tags": [
+        "polka dot",
+        "bikini",
+        "trim",
+        "tie sides",
+        "swimwear"
+      ]
+    },
+    "loose_fitting_white_cotton_dress": {
+      "canonical_name": "loose fitting white cotton dress",
+      "canonical_name_zh": "宽松白色棉质连衣裙",
+      "canonical_phrase": "loose fitting white cotton dress with soft folds and visible seams",
+      "samples": [
+        "form-fitting textured red short-sleeved dress with ribbed vertical knit pattern and subtle shimmer",
+        "black and white plaid knee-length dress with visible seams and slight fabric creases",
+        "loose-fitting cream-colored long-sleeved dress with soft satin-like texture, V-neckline with thin tie strings",
+        "loose white garment with soft folds",
+        "white dress with thin vertical stripes, lightweight and slightly translucent fabric draping loosely over hips and thighs",
+        "loose-fitting textured yellow knit dress covering torso and extending to mid-thigh",
+        "loose white cotton dress with soft folds and a visible seam along the side",
+        "loose oversized teal knitted sweater dress with textured fabric, visible seam lines, frayed hemline",
+        "loose white cotton garment with ruffled edges, partially slipping off shoulders",
+        "form-fitting short-sleeved red dress with V-neckline, fabric draping over curves",
+        "white cotton salon cape with visible fabric folds and stray hair strands",
+        "loose-fitting white dress with thin straps, fabric draping in soft folds",
+        "flowing white wrap dress with tie belt at waist, fabric draping with soft folds"
+      ],
+      "tags": [
+        "white",
+        "cotton",
+        "dress",
+        "loose",
+        "folds"
+      ]
+    },
+    "dark_blue_knit_top_floral_dress_green_pants": {
+      "canonical_name": "dark blue knit top floral dress green pants",
+      "canonical_name_zh": "深蓝针织上衣碎花裙绿裤",
+      "canonical_phrase": "dark blue long-sleeve knit top under light blue and white floral patterned dress with lace trim at neckline, cropped dark green pants",
+      "samples": [
+        "dark blue long-sleeve knit top under light blue and white floral patterned dress with lace trim at neckline, cropped dark green pants"
+      ],
+      "tags": [
+        "knit",
+        "floral",
+        "dress",
+        "cropped",
+        "lace"
+      ]
+    },
+    "light_blue_white_patterned_bikini": {
+      "canonical_name": "light blue white patterned bikini",
+      "canonical_name_zh": "浅蓝白纹比基尼",
+      "canonical_phrase": "light blue and white patterned bikini with thin straps, adorned with small black sequins scattered across the fabric",
+      "samples": [
+        "light blue and white patterned bikini with thin straps, adorned with small black sequins scattered across the fabric"
+      ],
+      "tags": [
+        "bikini",
+        "sequins",
+        "patterned",
+        "blue",
+        "strappy"
+      ]
+    },
+    "textured_ribbed_knit_sleeveless_tops": {
+      "canonical_name": "textured ribbed knit sleeveless tops",
+      "canonical_name_zh": "纹理罗纹针织无袖上衣",
+      "canonical_phrase": "soft textured ribbed knit sleeveless top in muted pastel colors",
+      "samples": [
+        "soft textured light pink knit top with visible shoulder seam",
+        "thick textured deep purple woolen blanket covering head and shoulders",
+        "ribbed knit sleeveless top in muted pink with thin white lace-up detail across the back",
+        "light blue short-sleeved ribbed knit top layered over a white undergarment",
+        "textured gray knit top",
+        "light blue sleeveless knit top with ribbed texture",
+        "textured knit top in muted purple and white with red speckles, featuring thin lacing across the upper back, fabric showing vertical ribbing and a soft drape over the shoulder",
+        "sleeless high-neck fuzzy lavender knit top",
+        "sleeless ribbed knit top in muted red and gray tones",
+        "light pink ribbed knit sleeveless top with scoop neckline",
+        "fitted sleeveless pinkish-gray textured knit top",
+        "light pink ribbed knit sleeveless top with fine vertical texture"
+      ],
+      "tags": [
+        "knit",
+        "ribbed",
+        "sleeveless",
+        "pastel",
+        "textured"
+      ]
+    },
+    "black_and_white_checkered_sleeveless_romper": {
+      "canonical_name": "black and white checkered sleeveless romper",
+      "canonical_name_zh": "黑白格无袖连体衣",
+      "canonical_phrase": "black and white checkered sleeveless romper with drawstring waist",
+      "samples": [
+        "black and white checkered sleeveless romper with drawstring waist"
+      ],
+      "tags": [
+        "checkered",
+        "romper",
+        "sleeveless",
+        "drawstring",
+        "casual"
+      ]
+    },
+    "light_blue_floral_bikini_top": {
+      "canonical_name": "light blue floral bikini top",
+      "canonical_name_zh": "浅蓝碎花比基尼上衣",
+      "canonical_phrase": "light blue bikini top with floral pattern and thin straps",
+      "samples": [
+        "light blue and white floral patterned bikini top with thin straps",
+        "light blue bikini top with small white polka dots, thin straps, soft slightly textured fabric",
+        "vibrant blue bikini top with thin straps and gathered fabric at the neckline",
+        "light blue bikini top with thin straps and matching tie detail at center, sheer white short-sleeved blouse with buttoned front",
+        "light blue floral patterned bikini top with thin straps, matching bikini bottoms with visible ties",
+        "light blue string bikini top, blue denim shorts",
+        "blue bikini top, unbuttoned plaid shirt with dark blue and gray pattern",
+        "dark blue patterned bikini top with floral embroidery, solid dark blue bikini bottoms"
+      ],
+      "tags": [
+        "blue",
+        "bikini",
+        "floral",
+        "summer",
+        "straps"
+      ]
+    },
+    "textured_bra_top_with_skirt": {
+      "canonical_name": "textured bra top with skirt",
+      "canonical_name_zh": "纹理bra上衣配裙",
+      "canonical_phrase": "black or dark textured bra top paired with light colored skirt featuring a slit",
+      "samples": [
+        "black textured bra top, light gray skirt with a slit",
+        "dark brown textured bra, light blue jeans",
+        "dark patterned bra",
+        "black textured bralette, light gray wrap skirt with front slit",
+        "black textured triangle bra with thin straps, light gray oversized skirt with a large bow at the waist"
+      ],
+      "tags": [
+        "textured",
+        "bralette",
+        "slit",
+        "skirt",
+        "casual"
+      ]
+    },
+    "light_blue_white_patterned_bikini_tied_sides": {
+      "canonical_name": "light blue white patterned bikini",
+      "canonical_name_zh": "浅蓝白纹比基尼",
+      "canonical_phrase": "light blue and white patterned bikini with thin straps and tied sides",
+      "samples": [
+        "light blue and white patterned bikini with thin straps and tied sides"
+      ],
+      "tags": [
+        "bikini",
+        "blue",
+        "patterned",
+        "straps",
+        "tied"
+      ]
+    },
+    "short_sleeve_checkered_shirt_outfit": {
+      "canonical_name": "short sleeve checkered shirt outfit",
+      "canonical_name_zh": "短袖格纹衬衫套装",
+      "canonical_phrase": "short sleeve checkered shirt paired with shorts and accessories",
+      "samples": [
+        "light blue and white checkered short-sleeve shirt knotted at the waist, beige shorts",
+        "black and white checkered short-sleeved shirt with visible white buttons",
+        "light blue and white checkered short-sleeve shirt over a dark collared shirt, white shorts",
+        "light blue and white checkered short-sleeved shirt, dark blue patterned neckerchief tied loosely, white shorts",
+        "dark navy blue short-sleeved polo shirt, matching dark blue shorts"
+      ],
+      "tags": [
+        "checkered",
+        "short sleeve",
+        "shirt",
+        "casual",
+        "knotted"
+      ]
+    },
+    "white_floral_dress_short_sleeves_vneck": {
+      "canonical_name": "white floral dress short sleeves V-neck",
+      "canonical_name_zh": "白色碎花短袖V领连衣裙",
+      "canonical_phrase": "white floral dress with short sleeves and a V-neck featuring small multicolored floral patterns",
+      "samples": [
+        "white floral dress with short sleeves and a V-neck featuring small multicolored floral patterns"
+      ],
+      "tags": [
+        "white",
+        "cotton",
+        "dress",
+        "floral",
+        "v-neck"
+      ]
+    },
+    "white_blouse_with_varied_bottoms": {
+      "canonical_name": "white blouse with varied bottoms",
+      "canonical_name_zh": "白色上衣配多样下装",
+      "canonical_phrase": "white blouse with lace or floral details paired with skirts or shorts",
+      "samples": [
+        "white short-sleeve blouse with a fitted waist, dark blue textured mini skirt with scalloped hem",
+        "white long-sleeved blouse with ruffled cuffs, partially lifted to expose midriff, black bikini bottoms with white floral pattern",
+        "white long-sleeved blouse with detailed floral embroidery in red, green, and blue along the front placket, black capri pants",
+        "white short-sleeved blouse with buttoned front, fabric showing soft pleats and natural folds",
+        "white short-sleeved blouse with lace trim at the neckline, patterned shorts with floral design",
+        "white long-sleeved blouse with a scoop neckline, delicate lace trim at the neckline, tie-front detail, soft pleated fabric",
+        "white short-sleeved blouse, dark blue sheer skirt with small white polka dots",
+        "white sheer short-sleeved blouse with tied waist revealing a hint of cleavage, dark blue patterned high-waisted skirt with vertical white stripes",
+        "crisp white short-sleeved blouse with delicate lace trim at collar and sleeves, knee-length floral shorts in blue, white, and purple hues, classic black high-top sneakers with white laces and rubber soles",
+        "white short-sleeved blouse with delicate lace trim at neckline and sleeve hems",
+        "white short-sleeved blouse tied at the waist, black skirt with white polka dots",
+        "white loose-fitting blouse with a gathered neckline and subtle pleats",
+        "black semi-sheer blouse with white embroidered floral patterns on sleeves and hem, white piping along collar and seams, fitted silhouette",
+        "white short-sleeved blouse with small dark floral pattern, plain white skirt",
+        "loose-fitting white blouse with tie-front neckline and three-quarter sleeves",
+        "sheer white long-sleeved blouse with lace cuffs, green bikini bottoms"
+      ],
+      "tags": [
+        "white",
+        "blouse",
+        "skirt",
+        "lace",
+        "casual"
+      ]
+    },
+    "striped_pink_blue_tank_top_with_shorts": {
+      "canonical_name": "striped pink blue tank top with shorts",
+      "canonical_name_zh": "粉蓝条纹背心配短裤",
+      "canonical_phrase": "pink and blue striped tank top with light blue shorts",
+      "samples": [
+        "striped tank top with thin pink straps featuring horizontal stripes in white, pink, and thin blue, light blue shorts with visible button details and relaxed fit",
+        "striped tank top with pink, blue, and white horizontal bands, thin white straps visible beneath",
+        "vibrant pink tank top, high-waisted shorts with bold leopard print pattern in shades of pink and white, drawstring waistband with small tassel detail",
+        "striped tank top with pink straps, light blue shorts",
+        "form-fitting pink tank top with thin straps, blue patterned sarong draped low on hips",
+        "striped tank top with pink blue and white horizontal bands, light blue denim shorts with visible pocket seams"
+      ],
+      "tags": [
+        "striped",
+        "pink",
+        "tank top",
+        "shorts",
+        "casual"
+      ]
+    },
+    "light_beige_strapless_soft_fabric_garment": {
+      "canonical_name": "light beige strapless soft fabric garment",
+      "canonical_name_zh": "浅米色软质无肩带服装",
+      "canonical_phrase": "light beige strapless garment with soft fabric texture",
+      "samples": [
+        "light beige strapless garment with soft fabric texture"
+      ],
+      "tags": [
+        "beige",
+        "soft",
+        "strapless",
+        "elegant",
+        "fabric"
+      ]
+    },
+    "white_sailor_school_uniform": {
+      "canonical_name": "white sailor school uniform",
+      "canonical_name_zh": "白色水手校服",
+      "canonical_phrase": "white short-sleeved sailor uniform shirt with dark collar and tie",
+      "samples": [
+        "white sailor uniform with dark blue trim on collar and sleeves, dark blue satin neckerchief tied in a bow",
+        "white sailor uniform with navy blue collar stripes and bow",
+        "light blue short-sleeved sailor uniform shirt with dark blue sailor collar and white trim on sleeves, dark pleated skirt",
+        "white short-sleeved sailor collar shirt, black pleated skirt ending mid-thigh, white knee-high socks, white lace-up sneakers",
+        "light blue collared shirt with white sailor-style collar",
+        "white short-sleeved sailor uniform shirt with navy blue sailor collar and sleeve stripes, navy blue necktie tied in a bow, dark navy pleated skirt",
+        "white sailor-style school uniform shirt with black double stripes on collar and sleeves, navy blue necktie tied in a bow",
+        "white sailor-style school uniform with black trim on collar and sleeves",
+        "white short-sleeved sailor-style blouse with navy blue collar and tie, black pleated skirt",
+        "white short-sleeved sailor uniform shirt with navy blue collar and sleeve trim, navy blue necktie, black pleated skirt ending mid-thigh, white knee-high socks, black leather loafers",
+        "white short-sleeved sailor uniform shirt with navy blue collar and tie, navy blue pleated skirt",
+        "white short-sleeved sailor-style school uniform shirt with navy blue sailor collar, navy blue pleated skirt, white knee-high socks, white sneakers",
+        "white short-sleeved shirt with dark blue sailor-style necktie"
+      ],
+      "tags": [
+        "white",
+        "sailor",
+        "school uniform",
+        "pleated skirt",
+        "navy blue"
+      ]
+    },
+    "navy_blue_denim_bikini_with_rose_appliqués": {
+      "canonical_name": "navy blue denim bikini with rose appliqués",
+      "canonical_name_zh": "海军蓝牛仔玫瑰比基尼",
+      "canonical_phrase": "navy blue denim bikini with rose appliqués on the top",
+      "samples": [
+        "navy blue denim bikini with rose appliqués on the top"
+      ],
+      "tags": [
+        "navy",
+        "denim",
+        "bikini",
+        "floral",
+        "appliqué"
+      ]
+    },
+    "yellow_sleeveless_top_with_green_accents_and_dark_bottoms": {
+      "canonical_name": "yellow sleeveless top with green accents and dark bottoms",
+      "canonical_name_zh": "黄色无袖上衣配绿色点缀深色下装",
+      "canonical_phrase": "bright yellow sleeveless top with green trim or graphics paired with dark athletic pants or shorts",
+      "samples": [
+        "bright yellow strapless top with white text and green graphic, dark blue denim shorts",
+        "bright yellow sleeveless top with green trim and green graphic, dark gray track pants with white side stripes",
+        "colorful polka dot strapless top with red yellow blue and white dots, olive green loose-fitting cargo pants with pink graphic print on the thigh",
+        "yellow sleeveless top with light blue collar, dark shorts, white canvas sneakers with black laces",
+        "light yellow sleeveless jersey with large green number  37, dark gray track pants with white stripes along the sides",
+        "yellow tank top with green trim and large green number 37, dark gray track pants with white side stripes",
+        "bright yellow sleeveless athletic top with large green number 37 printed on chest, dark gray athletic pants with white stripes down sides",
+        "bright yellow sleeveless athletic top with large green number 37 across the chest and green trim along the neckline and hem, dark navy shorts"
+      ],
+      "tags": [
+        "yellow",
+        "green",
+        "sleeveless",
+        "athletic",
+        "graphic"
+      ]
+    },
+    "white_crew_neck_tshirt_with_partial_text": {
+      "canonical_name": "white crew neck t-shirt with partial text",
+      "canonical_name_zh": "带部分文字的白色圆领T恤",
+      "canonical_phrase": "white crew neck t-shirt with partial white text visible",
+      "samples": [
+        "white crew neck t-shirt with partial white text visible"
+      ],
+      "tags": [
+        "white",
+        "cotton",
+        "t-shirt",
+        "casual",
+        "text"
+      ]
+    },
+    "black_sheer_lace_lingerie_set": {
+      "canonical_name": "black sheer lace lingerie set",
+      "canonical_name_zh": "黑色蕾丝透视内衣",
+      "canonical_phrase": "black sheer lace-trimmed lingerie set with matching briefs",
+      "samples": [
+        "black lace-trimmed bandeau top and matching briefs",
+        "black sheer long-sleeved top over a black bra",
+        "sheer light teal bra and matching high-waisted briefs",
+        "black sheer top being pulled over head, white lace bra, black sheer shorts with scalloped hem"
+      ],
+      "tags": [
+        "black",
+        "sheer",
+        "lingerie",
+        "lace",
+        "matching"
+      ]
+    },
+    "black_textured_triangle_bikini_top": {
+      "canonical_name": "black textured triangle bikini top",
+      "canonical_name_zh": "黑色纹理三角比基尼上衣",
+      "canonical_phrase": "black textured triangle bikini top, light blue denim skirt draped open at the front",
+      "samples": [
+        "black textured triangle bikini top, light blue denim skirt draped open at the front"
+      ],
+      "tags": [
+        "black",
+        "textured",
+        "bikini",
+        "denim",
+        "draped"
+      ]
+    },
+    "sheer_white_lace_draped_garment": {
+      "canonical_name": "sheer white lace draped garment",
+      "canonical_name_zh": "白色薄纱蕾丝垂坠装",
+      "canonical_phrase": "sheer white lace garment draped loosely on hips or held in hand",
+      "samples": [
+        "sheer white lace-trimmed garment draped low on hips",
+        "white lace garment with delicate floral patterns on the shoulder",
+        "white lace garment held in hand and draped over lap and thighs",
+        "sheer white garment with thin straps, fabric draping loosely over her form",
+        "sheer white lace garment draped low on hips with floral embroidery",
+        "beige lace garment held in hand"
+      ],
+      "tags": [
+        "white",
+        "lace",
+        "sheer",
+        "draped",
+        "floral"
+      ]
+    },
+    "orange_bikini_with_brown_leather_boots": {
+      "canonical_name": "orange bikini with brown leather boots",
+      "canonical_name_zh": "橙色比基尼配棕色皮靴",
+      "canonical_phrase": "orange bikini top and matching bottoms, tall brown leather boots",
+      "samples": [
+        "orange bikini top and matching bottoms, tall brown leather boots"
+      ],
+      "tags": [
+        "orange",
+        "leather",
+        "bikini",
+        "boots",
+        "tall"
+      ]
+    },
+    "black_bikini_with_thin_straps": {
+      "canonical_name": "black bikini with thin straps",
+      "canonical_name_zh": "黑色细带比基尼",
+      "canonical_phrase": "black string bikini top with thin straps and matching bottoms",
+      "samples": [
+        "black string bikini with triangle top and low-rise briefs, black denim shorts with belt loops and metal buckle held in hand",
+        "black string bikini top with thin straps, matching black bikini bottom",
+        "black bikini top, matching high-waisted bottoms",
+        "black string bikini top with thin straps and white beaded trim along the neckline",
+        "black string bikini with thin straps and metal clasp",
+        "black fishnet bikini top and matching bottoms, fabric stretched taut over torso and hips",
+        "black string bikini top with thin straps",
+        "black bikini top with thin straps",
+        "black fishnet bikini top with thin beige straps",
+        "black string bikini with silver buckle details",
+        "black string bikini with thin straps and side ties",
+        "black string bikini with thin straps",
+        "metallic gray bikini top with thin straps, matching bottom",
+        "black halter bikini top, black denim shorts with a wide black leather belt featuring a silver buckle",
+        "black bikini top with thin straps and small metallic embellishments, black bikini bottoms",
+        "black bikini top",
+        "black V-neck bikini top with smooth fabric",
+        "black string bikini top and matching bottoms, wide black belt",
+        "black triangle bikini top, matching high-waisted shorts cinched by a wide brown leather belt with metal buckle",
+        "black bikini with thin straps and scalloped edges",
+        "black strapless bandeau top with ruffled straps, matching black thong bikini bottoms"
+      ],
+      "tags": [
+        "black",
+        "bikini",
+        "string",
+        "thin straps",
+        "swimwear"
+      ]
+    },
+    "light_blue_bralette_open_plaid_shirt": {
+      "canonical_name": "light blue bralette open plaid shirt",
+      "canonical_name_zh": "浅蓝bralette开格纹衬衫",
+      "canonical_phrase": "light blue bralette under an open brown and white plaid shirt, low-rise blue denim jeans",
+      "samples": [
+        "light blue bralette under an open brown and white plaid shirt, low-rise blue denim jeans"
+      ],
+      "tags": [
+        "bralette",
+        "plaid",
+        "denim",
+        "casual",
+        "layered"
+      ]
+    },
+    "white_sleeveless_knit_mini_skirt": {
+      "canonical_name": "white sleeveless knit mini skirt",
+      "canonical_name_zh": "白色无袖针织迷你裙",
+      "canonical_phrase": "white sleeveless tank top, white textured knit mini skirt with scalped hem",
+      "samples": [
+        "white sleeveless tank top, white textured knit mini skirt with scalped hem"
+      ],
+      "tags": [
+        "white",
+        "knit",
+        "tank top",
+        "textured",
+        "scalped"
+      ]
+    },
+    "black_collared_shirt_with_white_shoulder_stripes": {
+      "canonical_name": "black collared shirt with white shoulder stripes",
+      "canonical_name_zh": "黑底白肩条纹衬衫",
+      "canonical_phrase": "black collared shirt with white vertical stripes on the shoulders",
+      "samples": [
+        "black collared shirt with white vertical stripes on the shoulders"
+      ],
+      "tags": [
+        "black",
+        "cotton",
+        "collared",
+        "nautical",
+        "stripes"
+      ]
+    },
+    "ribbed_knit_longsleeve_top": {
+      "canonical_name": "ribbed knit long-sleeve top",
+      "canonical_name_zh": "罗纹针织长袖上衣",
+      "canonical_phrase": "ribbed knit long-sleeve top, light-colored underwear",
+      "samples": [
+        "ribbed knit long-sleeve top, light-colored underwear"
+      ],
+      "tags": [
+        "ribbed",
+        "knit",
+        "long-sleeve",
+        "casual",
+        "underwear"
+      ]
+    },
+    "sheer_floral_patterned_open_tops": {
+      "canonical_name": "sheer floral patterned open tops",
+      "canonical_name_zh": "透视花卉开衫",
+      "canonical_phrase": "sheer floral patterned open-front top revealing bra underneath",
+      "samples": [
+        "sheer lavender long-sleeved blouse with visible seams and delicate fabric texture, patterned blue lace bra underneath",
+        "vibrant pink floral patterned open shirt over a black lace bra",
+        "floral patterned long sleeve top with large pink rose motifs on a light blue and white background, fabric draped loosely over hips",
+        "floral patterned open-front top with large pink and blue rose motifs, fabric sheer and clinging, revealing ample cleavage and a visible orange bra strap"
+      ],
+      "tags": [
+        "sheer",
+        "floral",
+        "open-front",
+        "lace",
+        "bra-visible"
+      ]
+    },
+    "dark_swimsuit_with_thin_straps": {
+      "canonical_name": "dark swimsuit with thin straps",
+      "canonical_name_zh": "深色细肩带泳衣",
+      "canonical_phrase": "dark swimsuit with thin straps and light trim",
+      "samples": [
+        "thin-strapped dark swimsuit with light-colored trim",
+        "dark green swimsuit with visible shoulder straps",
+        "fitted red one-piece swimsuit with thin straps and a draped hemline",
+        "red swimsuit with thin straps and horizontal stripes of white and black",
+        "dark green bikini top with white trim along straps and neckline"
+      ],
+      "tags": [
+        "swimsuit",
+        "dark",
+        "thin_straps",
+        "bikini",
+        "trim"
+      ]
+    },
+    "crisp_white_collared_shirt_with_bow_tie": {
+      "canonical_name": "crisp white collared shirt with bow tie",
+      "canonical_name_zh": "白色衬衫配领结",
+      "canonical_phrase": "crisp white collared shirt with neatly tied bow tie",
+      "samples": [
+        "crisp white long-sleeved collared shirt with a black bow tie, black pleated knee-length skirt",
+        "white collared shirt with smooth and slightly shiny fabric, dark navy blue bow tie at the neckline with symmetrical neat folds",
+        "crisp white collared shirt with a navy blue bow tie",
+        "crisp white long-sleeved collared shirt with neatly tied black bow tie at neck, high-waisted black skirt fitting closely to hips",
+        "white button-up shirt with visible seams and folds, large dark blue bow tie at the collar neatly tied with symmetrical loops",
+        "crisp white polo shirt with a neat collar"
+      ],
+      "tags": [
+        "white",
+        "cotton",
+        "collared shirt",
+        "formal",
+        "bow tie"
+      ]
+    },
+    "white_graphic_tee_with_plaid_cardigan": {
+      "canonical_name": "white graphic tee with plaid cardigan",
+      "canonical_name_zh": "白底印花T恤配格纹开衫",
+      "canonical_phrase": "white crew neck t-shirt with a black graphic print featuring the text 'HHP!', dark blue plaid cardigan",
+      "samples": [
+        "white crew neck t-shirt with a black graphic print featuring the text 'HHP!', dark blue plaid cardigan"
+      ],
+      "tags": [
+        "white",
+        "cotton",
+        "cardigan",
+        "casual",
+        "text"
+      ]
+    },
+    "white_lace_bodice_floral_embroidery_plaid_skirt": {
+      "canonical_name": "white lace bodice floral embroidery plaid skirt",
+      "canonical_name_zh": "白蕾丝绣花格纹裙",
+      "canonical_phrase": "white lace bodice with delicate floral embroidery, multicolored plaid skirt with orange, blue, gray, and beige stripes, beige knee-high boots with small metallic buckles",
+      "samples": [
+        "white lace bodice with delicate floral embroidery, multicolored plaid skirt with orange, blue, gray, and beige stripes, beige knee-high boots with small metallic buckles"
+      ],
+      "tags": [
+        "lace",
+        "plaid",
+        "embroidery",
+        "boots",
+        "buckles"
+      ]
+    },
+    "loose_white_highneck_jacket": {
+      "canonical_name": "loose white high-neck jacket",
+      "canonical_name_zh": "宽松白色高领夹克",
+      "canonical_phrase": "loose-fitting white high-necked jacket with visible zipper and seam lines",
+      "samples": [
+        "loose-fitting white high-necked jacket with visible zipper and seam lines"
+      ],
+      "tags": [
+        "white",
+        "cotton",
+        "jacket",
+        "minimalist",
+        "zipper"
+      ]
+    },
+    "white_shortsleeved_polo_shirt": {
+      "canonical_name": "white short-sleeved polo shirt",
+      "canonical_name_zh": "白色短袖Polo衫",
+      "canonical_phrase": "white short-sleeved polo shirt with a small dark logo on the left chest",
+      "samples": [
+        "white short-sleeved polo shirt with a small dark logo on the left chest"
+      ],
+      "tags": [
+        "white",
+        "cotton",
+        "polo",
+        "casual",
+        "logo"
+      ]
+    },
+    "white_sleeveless_dress_with_denim_jacket": {
+      "canonical_name": "white sleeveless dress with denim jacket",
+      "canonical_name_zh": "白无袖连衣裙配牛仔外套",
+      "canonical_phrase": "white sleeveless dress, medium-wash blue denim jacket with visible stitching, button closures, and pocket details",
+      "samples": [
+        "white sleeveless dress, medium-wash blue denim jacket with visible stitching, button closures, and pocket details"
+      ],
+      "tags": [
+        "white",
+        "denim",
+        "dress",
+        "casual",
+        "stitching"
+      ]
+    },
+    "white_short_sleeve_tshirt_with_patterned_skirt": {
+      "canonical_name": "white short sleeve t-shirt with patterned skirt",
+      "canonical_name_zh": "白短袖T恤配图案裙",
+      "canonical_phrase": "white short sleeve t-shirt paired with a polka dot or plaid patterned skirt",
+      "samples": [
+        "white V-neck t-shirt with green text, yellow polka dot ruffled skirt with a large yellow bow on the left side",
+        "white short-sleeved collared shirt, black skirt with white polka dots",
+        "white short-sleeved t-shirt, red plaid skirt with black and thin green stripes",
+        "white short-sleeve t-shirt with green lettering, light yellow polka-dot skirt with ruffled hem",
+        "fitted black short-sleeved t-shirt, knee-length floral skirt with blue and white pattern, dark footwear",
+        "white short-sleeved shirt with black stripes on collar and sleeves",
+        "white short-sleeved t-shirt with visible collar and sleeve seams"
+      ],
+      "tags": [
+        "white",
+        "cotton",
+        "t-shirt",
+        "skirt",
+        "polka dot"
+      ]
+    },
+    "colorful_polka_dot_bikini_tops": {
+      "canonical_name": "colorful polka dot bikini tops",
+      "canonical_name_zh": "彩色波点比基尼上衣",
+      "canonical_phrase": "colorful polka dot bikini top with matching bottoms",
+      "samples": [
+        "white bikini top adorned with multicolored polka dots in red, green, pink, and black",
+        "white bikini top with red polka dots and thin adjustable straps",
+        "red and white polka dot bikini top and matching bottoms",
+        "colorful polka dot bikini top with red yellow and blue dots, olive green loose-fitting pants",
+        "red polka dot bikini top with black trim",
+        "colorful polka-dot bikini with a bow at the top and matching bottoms"
+      ],
+      "tags": [
+        "polka dot",
+        "bikini",
+        "colorful",
+        "swimwear",
+        "patterned"
+      ]
+    },
+    "purple_patterned_top_with_lace_details": {
+      "canonical_name": "purple patterned top with lace details",
+      "canonical_name_zh": "紫色花纹蕾丝上衣",
+      "canonical_phrase": "purple floral or polka dot top with sheer white lace accents",
+      "samples": [
+        "purple satin bandeau top with gold floral embroidery, sheer white lace cardigan draped over one shoulder",
+        "purple sleeveless top with small white polka dots",
+        "dark purple cropped top with lace trim over a light blue patterned shirt, light gray cargo pants",
+        "sleeveless purple top with fine white polka dot pattern and visible shoulder seams",
+        "purple floral patterned bandeau top with deep plunging neckline, sheer white lace cropped jacket draped over shoulders, matching purple floral patterned skirt with high slit revealing thigh",
+        "thick textured purple woolen blanket draped over head and shoulders, plain white garment visible beneath at neckline",
+        "strapless purple top with floral embroidery in gold and white, sheer white lace sleeve draped over one shoulder",
+        "long-sleeved deep purple knit top with textured lace detail at neckline, light-colored shorts with subtle pattern",
+        "purple floral patterned strapless crop top, purple floral patterned high slit skirt, white lace short-sleeved bolero jacket",
+        "deep purple high-necked garment with distinct textured dot pattern",
+        "layered top with dark purple long sleeves and light blue floral patterned bodice"
+      ],
+      "tags": [
+        "purple",
+        "lace",
+        "patterned",
+        "sleeveless",
+        "crop"
+      ]
+    },
+    "light_blue_cotton_collared_shirt": {
+      "canonical_name": "light blue cotton collared shirt",
+      "canonical_name_zh": "浅蓝棉质翻领衬衫",
+      "canonical_phrase": "light blue collared shirt",
+      "samples": [
+        "light blue collared shirt"
+      ],
+      "tags": [
+        "light blue",
+        "cotton",
+        "shirt",
+        "casual",
+        "collar"
+      ]
+    },
+    "black_plaid_blanket_with_red_green_stripes": {
+      "canonical_name": "black plaid blanket with red green stripes",
+      "canonical_name_zh": "黑红绿条纹格纹毯",
+      "canonical_phrase": "black plaid blanket with red and green intersecting stripes wrapped around body",
+      "samples": [
+        "black plaid blanket with red and green intersecting stripes wrapped around body"
+      ],
+      "tags": [
+        "plaid",
+        "blanket",
+        "red",
+        "green",
+        "wrapped"
+      ]
+    },
+    "light_colored_bikini_with_thin_straps": {
+      "canonical_name": "light colored bikini with thin straps",
+      "canonical_name_zh": "浅色细带比基尼",
+      "canonical_phrase": "light colored two-piece bikini with thin straps and minimal coverage",
+      "samples": [
+        "light-colored string bikini with thin straps",
+        "teal and black bikini with lace-up straps",
+        "beige patterned two-piece bikini with thin straps and tie details",
+        "light beige bikini with thin straps and textured fabric",
+        "vibrant purple bikini with thin straps",
+        "two-piece bikini with lace-textured cream top and solid white bottom with tied bow at side",
+        "light beige bikini with thin straps, matching red long-sleeved cardigan draped open",
+        "beige two-piece bikini with a tied halter top and matching string bottoms with gold-colored rings, red open-knit cardigan with a mesh pattern",
+        "light brown seamless bikini with thin straps",
+        "light beige bikini top with thin straps and textured fabric, matching bikini bottom with minimal coverage",
+        "vibrant purple bikini with smooth fabric and minimal coverage",
+        "bright orange two-piece bikini with thin straps"
+      ],
+      "tags": [
+        "bikini",
+        "beige",
+        "thin_straps",
+        "minimal_coverage",
+        "summer_vibe"
+      ]
+    },
+    "soft_gray_sleeveless_knit_vest": {
+      "canonical_name": "soft gray sleeveless knit vest",
+      "canonical_name_zh": "软灰无袖针织背心",
+      "canonical_phrase": "soft gray sleeveless knit vest with ribbed hem, dark pleated skirt",
+      "samples": [
+        "soft gray sleeveless knit vest with ribbed hem, dark pleated skirt"
+      ],
+      "tags": [
+        "gray",
+        "knit",
+        "vest",
+        "casual",
+        "ribbed"
+      ]
+    },
+    "dark_brown_lacetrimmed_dress_with_gray_shawl": {
+      "canonical_name": "dark brown lace-trimmed dress with gray shawl",
+      "canonical_name_zh": "深棕蕾丝裙配灰披肩",
+      "canonical_phrase": "dark brown lace-trimmed dress, light gray fringed shawl draped over shoulders",
+      "samples": [
+        "dark brown lace-trimmed dress, light gray fringed shawl draped over shoulders"
+      ],
+      "tags": [
+        "brown",
+        "lace",
+        "shawl",
+        "fringed",
+        "vintage"
+      ]
+    },
+    "red_triangle_bikini_with_white_blue_stripes": {
+      "canonical_name": "red triangle bikini with white blue stripes",
+      "canonical_name_zh": "红白蓝条纹三角比基尼",
+      "canonical_phrase": "red triangle bikini top with thin straps and horizontal stripes of white and dark blue",
+      "samples": [
+        "red triangle bikini top with thin straps and horizontal stripes of white and dark blue"
+      ],
+      "tags": [
+        "red",
+        "cotton",
+        "bikini",
+        "summer",
+        "striped"
+      ]
+    },
+    "sleeveless_knit_top_with_ribbed_collar": {
+      "canonical_name": "sleeveless knit top with ribbed collar",
+      "canonical_name_zh": "无袖针织领口",
+      "canonical_phrase": "white sleeveless knit top with dark brown ribbed collar",
+      "samples": [
+        "white sleeveless knit top with dark brown ribbed collar",
+        "white sleeveless knit top with a dark brown ribbed collar",
+        "white sleeveless top with dark brown ribbed collar",
+        "white sleeveless knit top with dark brown collar, light gray pinstripe trousers",
+        "black sleeveless top with a white ruffled collar",
+        "plain white sleeveless knit top",
+        "white sleeveless top with dark brown collar detail",
+        "white sleeveless knit top with a dark brown ribbed Peter Pan collar",
+        "dark brown long-sleeved top with light pink collar",
+        "white sleeveless top with ribbed texture"
+      ],
+      "tags": [
+        "sleeveless",
+        "knit",
+        "ribbed",
+        "casual",
+        "collar"
+      ]
+    },
+    "red_and_white_striped_bikini_set": {
+      "canonical_name": "red and white striped bikini set",
+      "canonical_name_zh": "红白条纹比基尼套装",
+      "canonical_phrase": "red and white horizontally striped bikini with thin straps and decorative details",
+      "samples": [
+        "red and white striped bikini with circular white rings at the front",
+        "red and white striped bikini with circular white clasp details",
+        "red and white horizontally striped bikini top with thin straps, white overalls with blue stitching featuring buttoned straps and cutout back",
+        "red and white striped bikini with circular white rings at top and bottom",
+        "red and white horizontally striped bikini with thin straps, triangle cut top, high-cut brief bottom with silver rectangular buckle at hip",
+        "red and white striped bikini top with thin straps, white denim shorts with rolled cuffs and visible stitching",
+        "red and white horizontally striped bikini top with thin straps"
+      ],
+      "tags": [
+        "red",
+        "white",
+        "striped",
+        "bikini",
+        "summer"
+      ]
+    },
+    "dark_blue_denim_strapless_garment": {
+      "canonical_name": "dark blue denim strapless garment",
+      "canonical_name_zh": "深蓝牛仔无肩带",
+      "canonical_phrase": "dark blue denim strapless garment",
+      "samples": [
+        "dark blue denim strapless garment"
+      ],
+      "tags": [
+        "denim",
+        "strapless",
+        "blue",
+        "casual",
+        "denim"
+      ]
+    },
+    "loose_white_shortsleeved_shirt_with_white_pants": {
+      "canonical_name": "loose white short-sleeved shirt with white pants",
+      "canonical_name_zh": "宽松白色短袖衬衫配白裤",
+      "canonical_phrase": "loose white short-sleeved shirt, white pants",
+      "samples": [
+        "loose white short-sleeved shirt, white pants"
+      ],
+      "tags": [
+        "white",
+        "cotton",
+        "shirt",
+        "casual",
+        "short-sleeved"
+      ]
+    },
+    "loose_white_buttonup_shirt_with_rolled_sleeves": {
+      "canonical_name": "loose white button-up shirt with rolled sleeves",
+      "canonical_name_zh": "宽松白色纽扣衬衫卷袖",
+      "canonical_phrase": "loose white button-up shirt with rolled sleeves and visible fabric texture",
+      "samples": [
+        "white ribbed knit shirt with visible buttons and texture",
+        "sheer white button-up shirt tied at the waist with visible fabric texture and natural folds",
+        "vibrant red button-up shirt with long sleeves rolled up to elbows, light blue pants",
+        "crisp white button-up shirt with sleeves rolled up",
+        "white button-up shirt with sleeves rolled up to the elbows, fabric showing creases and folds around arms and torso, light blue sneakers",
+        "loose white cotton shirt with rolled sleeves and open front",
+        "oversized white button-up shirt with rolled-up sleeves and deep V-neck",
+        "white button-up shirt with small red floral pattern, white ribbed skirt",
+        "vibrant red button-up shirt with a slightly open collar, fabric draping loosely over her torso",
+        "oversized white button-up shirt unbuttoned at the front exposing her midriff and upper thighs",
+        "loose-fitting light gray button-up shirt with visible fabric texture and soft folds",
+        "loose white textured shirt with visible collar and soft folds",
+        "white long-sleeved shirt with sleeves rolled to forearms",
+        "white button-up shirt unbuttoned low",
+        "white button-up shirt with deep V-neckline, lightweight sheer fabric with visible stitching and button details",
+        "blue and white striped button-up shirt tied at the waist",
+        "partially unbuttoned blue and white striped shirt with visible fabric texture and folds, open low at the neckline",
+        "loose white linen shirt with visible seams and natural folds",
+        "white button-up shirt with rolled sleeves, light beige trousers tucked into dark rubber boots",
+        "loose white button-up shirt with visible fabric texture and soft folds"
+      ],
+      "tags": [
+        "white",
+        "cotton",
+        "button-up",
+        "casual",
+        "rolled-sleeves"
+      ]
+    },
+    "light_shirt_black_floral_vest": {
+      "canonical_name": "light shirt black floral vest",
+      "canonical_name_zh": "浅色衬衫黑底花卉马甲",
+      "canonical_phrase": "light-colored short-sleeved shirt under a black sleeveless vest with small white floral patterns",
+      "samples": [
+        "light-colored short-sleeved shirt under a black sleeveless vest with small white floral patterns"
+      ],
+      "tags": [
+        "light",
+        "black",
+        "vest",
+        "floral",
+        "layered"
+      ]
+    },
+    "white_lace_halter_bikini_with_sheer_sleeves": {
+      "canonical_name": "white lace halter bikini with sheer sleeves",
+      "canonical_name_zh": "白色蕾丝挂脖比基尼配薄纱袖",
+      "canonical_phrase": "white lace halter bikini top with long sheer sleeves, matching white bikini bottoms",
+      "samples": [
+        "white lace halter bikini top with long sheer sleeves, matching white bikini bottoms"
+      ],
+      "tags": [
+        "white",
+        "lace",
+        "halter",
+        "sheer",
+        "bikini"
+      ]
+    },
+    "colorful_lingerie_set_with_thin_straps": {
+      "canonical_name": "colorful lingerie set with thin straps",
+      "canonical_name_zh": "彩色细带内衣套装",
+      "canonical_phrase": "colorful two-piece lingerie set with thin straps and delicate details",
+      "samples": [
+        "sheer pink two-piece outfit with thin straps",
+        "yellow and pink lingerie set with thin straps",
+        "bright yellow thong with delicate pink ruffled trim along the waistband and leg openings",
+        "light purple two-piece lingerie set with thin straps and small white polka dots, classic underwire style bra, high-cut panties",
+        "pink lace bodysuit with thin straps"
+      ],
+      "tags": [
+        "lingerie",
+        "two-piece",
+        "thin-straps",
+        "colorful",
+        "lace"
+      ]
+    },
+    "sleeveless_highneck_fuzzy_knit_vest": {
+      "canonical_name": "sleeveless high-neck fuzzy knit vest",
+      "canonical_name_zh": "无袖高领毛绒针织背心",
+      "canonical_phrase": "sleeveless high-necked light gray fuzzy knit vest over a dark navy pleated skirt",
+      "samples": [
+        "sleeveless high-necked light gray fuzzy knit vest over a dark navy pleated skirt"
+      ],
+      "tags": [
+        "light gray",
+        "fuzzy knit",
+        "vest",
+        "layered",
+        "high-neck"
+      ]
+    },
+    "simple_gray_tshirt_soft_fabric": {
+      "canonical_name": "simple gray t-shirt soft fabric",
+      "canonical_name_zh": "简约灰色软质T恤",
+      "canonical_phrase": "simple gray t-shirt with soft fabric texture",
+      "samples": [
+        "simple gray t-shirt with soft fabric texture"
+      ],
+      "tags": [
+        "gray",
+        "cotton",
+        "t-shirt",
+        "casual",
+        "soft"
+      ]
+    },
+    "vibrant_graphic_sleeveless_tank_tops": {
+      "canonical_name": "vibrant graphic sleeveless tank tops",
+      "canonical_name_zh": "鲜艳印花无袖背心",
+      "canonical_phrase": "vibrant graphic sleeveless tank top with palm tree or city print",
+      "samples": [
+        "yellow and white striped knit beanie, royal blue sleeveless tank top with gold number 20 and stars print, dark pants, dark sneakers with bright green accents",
+        "orange tank top with red graphic print",
+        "light blue tank top with black lace trim featuring a 'diesel lost resort' graphic print with palm trees and a sunset in red yellow and orange stripes",
+        "yellow tank top with teal trim and faded Los Angeles graphic",
+        "wet sleeveless tank top with green and yellow trim and faded graphic print of palm trees and text including 'Los Angeles' and 'Costa Bongo', dark brown shorts partially submerged",
+        "vibrant orange sleeveless tank top with a black cursive print, olive green loose-fitting cropped pants with fabric ties at the ankles",
+        "beige and orange striped knit beanie, navy blue sleeveless tank top with large gold number 20 printed across the chest, dark blue pants rolled at the cuffs, black athletic sneakers with bright green soles",
+        "light yellow tank top with faded Los Angeles graphic print",
+        "yellow sleeveless tank top with small graphic print on chest, brown shorts",
+        "yellow tank top with faded graphic print, light blue inner shirt visible at neckline, brown cargo shorts",
+        "yellow sleeveless tank top with palm tree graphic, brown shorts",
+        "yellow tank top with light blue trim and a palm tree graphic",
+        "sleeless green and teal patterned tank top with white trim, dark brown wet shorts",
+        "sleeveless yellow tank top with blue collar and faded palm tree graphic, dark shorts",
+        "bright orange sleeveless tank top with a black graphic print, olive green cropped pants with rolled cuffs"
+      ],
+      "tags": [
+        "tank top",
+        "graphic print",
+        "sleeveless",
+        "bright colors",
+        "casual wear"
+      ]
+    },
+    "white_and_black_patterned_string_bikini": {
+      "canonical_name": "white and black patterned string bikini",
+      "canonical_name_zh": "黑白条纹系带比基尼",
+      "canonical_phrase": "white and black patterned string bikini with thin straps and tied sides",
+      "samples": [
+        "white lace bikini top with intricate floral patterns, visible fabric texture and delicate seams",
+        "black and white striped bikini top with thin straps, matching bottoms",
+        "black bikini with white lace trim, sheer white patterned wrap draped over left shoulder and thigh",
+        "white string bikini top with thin straps, ruched fabric at neckline, tied front closure",
+        "white lace top bikini, white tie-side bottom bikini",
+        "white lace-trimmed string bikini with thin straps and tied side ties",
+        "black bikini with white polka dots, triangle cut top with thin straps, matching snug bottoms",
+        "black and white striped bikini with thin straps and visible seam along waistband",
+        "white string bikini with thin straps, tied sides, and minimal coverage",
+        "white ribbed bikini top",
+        "white lace bikini top, matching white bikini bottoms with tied sides, sheer light pink long-sleeve cover-up draped over body",
+        "white string bikini top with thin straps",
+        "white frayed bikini top with thin straps and visible wear, loose white checkered shirt draped over body",
+        "white textured bikini top with thin straps, matching high-cut bottoms",
+        "white ribbed bikini top with thin straps and a front knot detail",
+        "white crochet bikini top and matching bottoms, sheer white lace cover-up draped open",
+        "white bikini with twisted front top and high-cut briefs",
+        "white satin robe with blue embroidered trim featuring floral and butterfly motifs, red string bikini top with dark brown dangling beads",
+        "white textured bikini top with delicate lace trim along the edges and thin straps tied in bows at the shoulders",
+        "white strapless bikini top with a twisted bow at the center",
+        "white string bikini with thin straps and a twisted knot at the center of the top",
+        "dark brown textured bikini top and matching bottoms with smooth fabric and visible seams",
+        "black and white patterned bikini top with thin straps",
+        "white string bikini top with central ring closure",
+        "fitted olive green bikini top and matching bottoms, sheer white patterned button-up shirt with lace detailing on collar and cuffs",
+        "white top and pink bottom bikini with thin straps and ruffled edges",
+        "white string bikini top with ruched center, matching briefs",
+        "white bikini top with thin orange and black trim straps and a central yellow buckle detail, high-waisted blue denim jeans"
+      ],
+      "tags": [
+        "bikini",
+        "white",
+        "black",
+        "lace",
+        "string"
+      ]
+    },
+    "white_longsleeved_floral_shirt": {
+      "canonical_name": "white long-sleeved floral shirt",
+      "canonical_name_zh": "白色长袖碎花衬衫",
+      "canonical_phrase": "white long-sleeved shirt with small pink floral pattern",
+      "samples": [
+        "white long-sleeved shirt with small pink floral pattern"
+      ],
+      "tags": [
+        "white",
+        "cotton",
+        "shirt",
+        "casual",
+        "floral"
+      ]
+    },
+    "bright_yellow_zipup_jacket_with_white_graphic_print": {
+      "canonical_name": "bright yellow zip-up jacket with white graphic print",
+      "canonical_name_zh": "亮黄拉链夹克配白色印花",
+      "canonical_phrase": "bright yellow zip-up jacket with white graphic print on the chest and sleeves, white crew-neck t-shirt",
+      "samples": [
+        "bright yellow zip-up jacket with white graphic print on the chest and sleeves, white crew-neck t-shirt"
+      ],
+      "tags": [
+        "yellow",
+        "cotton",
+        "jacket",
+        "streetwear",
+        "graphic"
+      ]
+    },
+    "dark_navy_blue_traditional_shortsleeved_shirt": {
+      "canonical_name": "dark navy blue traditional short-sleeved shirt",
+      "canonical_name_zh": "深蓝传统短袖衬衫",
+      "canonical_phrase": "dark navy blue traditional-style short-sleeved shirt with white button details",
+      "samples": [
+        "dark navy blue traditional-style short-sleeved shirt with white button details"
+      ],
+      "tags": [
+        "navy",
+        "cotton",
+        "shirt",
+        "traditional",
+        "buttons"
+      ]
+    },
+    "sleeless_top_paired_with_skirt_or_pants": {
+      "canonical_name": "sleeless top paired with skirt or pants",
+      "canonical_name_zh": "无袖上衣配裙裤",
+      "canonical_phrase": "sleeveless top with skirt or pants in dark blue, grey, or purple tones",
+      "samples": [
+        "sleeveless deep purple top, plaid skirt in teal, black, and white",
+        "sleeveless grey knit top, dark pleated skirt",
+        "dark blue strapless jumpsuit with flared legs",
+        "sleeveless navy blue top, plaid skirt with blue and black tones",
+        "dark navy blue sleeveless top with small white floral pattern",
+        "sleeveless light blue patterned top with a subtle grid texture, dark green skirt",
+        "dark blue strapless top, matching dark blue pants",
+        "loose gray sleeveless top",
+        "sleeveless top with small floral pattern",
+        "light blue sleeveless knit top with dark trim at neckline, light-colored striped pants",
+        "dark blue sleeveless top, black skirt"
+      ],
+      "tags": [
+        "sleeveless",
+        "skirt",
+        "pants",
+        "dark_colors",
+        "knit"
+      ]
+    },
+    "white_sleeveless_bodysuit_with_floral_cardigan": {
+      "canonical_name": "white sleeveless bodysuit with floral cardigan",
+      "canonical_name_zh": "白色无袖连体衣配花卉开衫",
+      "canonical_phrase": "white sleeveless bodysuit, white long-sleeved cardigan with subtle floral pattern on sleeves",
+      "samples": [
+        "white sleeveless bodysuit, white long-sleeved cardigan with subtle floral pattern on sleeves"
+      ],
+      "tags": [
+        "white",
+        "cotton",
+        "bodysuit",
+        "floral",
+        "layered"
+      ]
+    },
+    "sleeveless_dress_with_varied_fabric_textures": {
+      "canonical_name": "sleeveless dress with varied fabric textures",
+      "canonical_name_zh": "无袖纹理连衣裙",
+      "canonical_phrase": "sleeveless dress with textured fabric, V-neckline, lace trim, or smooth material",
+      "samples": [
+        "sleeveless white dress with smooth fabric and subtle vertical seams",
+        "teal sleeveless dress with thin straps, textured vertical ribbed fabric on the skirt hem",
+        "vibrant turquoise sleeveless dress with V-neckline and gathered bodice",
+        "loose white sleeveless dress with soft folds",
+        "white sleeveless dress with delicate lace trim along the neckline and straps",
+        "fitted turquoise sleeveless dress with lace trim at the hem",
+        "sleeveless dark denim dress with visible stitching and slightly fitted silhouette",
+        "white sleeveless dress with V-neckline and textured fabric",
+        "white sleeveless dress with fitted waist, loose white shorts",
+        "teal sleeveless slip dress with thin straps, V-neckline, and textured fabric"
+      ],
+      "tags": [
+        "sleeveless",
+        "dress",
+        "textured",
+        "lace",
+        "v-neck"
+      ]
+    },
+    "white_longsleeved_ribbed_knit_top": {
+      "canonical_name": "white long-sleeved ribbed knit top",
+      "canonical_name_zh": "白色长袖罗纹针织上衣",
+      "canonical_phrase": "white long-sleeved ribbed knit top",
+      "samples": [
+        "white long-sleeved ribbed knit top"
+      ],
+      "tags": [
+        "white",
+        "knit",
+        "top",
+        "ribbed",
+        "casual"
+      ]
+    },
+    "fitted_tank_top_and_shorts_combo": {
+      "canonical_name": "fitted tank top and shorts combo",
+      "canonical_name_zh": "紧身背心短裤套装",
+      "canonical_phrase": "fitted tank top paired with high-waisted shorts featuring zippers or buttons",
+      "samples": [
+        "black tank top, bright red shorts",
+        "fitted orange tank top, dark green shorts with a zipper on the side",
+        "red strappy crop top, beige shorts with button closures",
+        "red cropped tank top, beige high-waisted shorts",
+        "fitted peach-colored tank top, dark gray shorts with a zipper and circular patch on the left thigh",
+        "black tank top with thin straps, red shorts with a snug fit",
+        "red tank top, beige shorts",
+        "red strapless crop top, beige high-waisted shorts with dark buttons",
+        "red strapless top, light beige shorts",
+        "white ribbed crop top, white shorts with thin red vertical stripes and red waistband"
+      ],
+      "tags": [
+        "tank top",
+        "shorts",
+        "crop top",
+        "fitted",
+        "zipper"
+      ]
+    },
+    "white_lace_floral_crop_top": {
+      "canonical_name": "white lace floral crop top",
+      "canonical_name_zh": "白色蕾丝花卉短上衣",
+      "canonical_phrase": "white lace crop top with floral pattern, purple floral skirt with high slit, black high heels with gold straps",
+      "samples": [
+        "white lace crop top with floral pattern, purple floral skirt with high slit, black high heels with gold straps"
+      ],
+      "tags": [
+        "lace",
+        "floral",
+        "crop top",
+        "elegant",
+        "gold straps"
+      ]
+    },
+    "short_sleeve_knit_tops_with_patterned_skirts": {
+      "canonical_name": "short sleeve knit tops with patterned skirts",
+      "canonical_name_zh": "短袖针织上衣配印花裙",
+      "canonical_phrase": "short sleeve knit top paired with floral or patterned skirt",
+      "samples": [
+        "white long-sleeved turtleneck, frilly orange floral mini skirt, brown fringe boots",
+        "cream long-sleeved turtleneck, floral patterned mini skirt",
+        "pale blue short-sleeved knit top, white pleated skirt",
+        "fitted short-sleeved dark gray ribbed knit top, high-waisted floral skirt with a light blue, purple, and white pattern, fabric appearing soft and slightly gathered at the waist",
+        "light green short-sleeved knit top with white scalloped neckline, light beige plaid skirt with lace trim at hem falling to mid-calf",
+        "black and white checkered short-sleeved top, light-colored skirt with floral pattern"
+      ],
+      "tags": [
+        "knit",
+        "floral",
+        "skirt",
+        "casual",
+        "turtleneck"
+      ]
+    },
+    "silver_satin_bikini_with_twisted_front": {
+      "canonical_name": "silver satin bikini with twisted front",
+      "canonical_name_zh": "银色缎面扭结比基尼",
+      "canonical_phrase": "silver satin bikini with twisted front top and high-cut bottoms",
+      "samples": [
+        "silver satin bikini with twisted front top and high-cut bottoms"
+      ],
+      "tags": [
+        "silver",
+        "satin",
+        "bikini",
+        "twisted",
+        "high-cut"
+      ]
+    },
+    "blue_satin_bra_with_black_lace_trim": {
+      "canonical_name": "blue satin bra with black lace trim",
+      "canonical_name_zh": "蓝缎黑蕾丝胸罩",
+      "canonical_phrase": "blue satin bra with black lace trim, black thong bikini, sheer black kimono with floral pattern held open",
+      "samples": [
+        "blue satin bra with black lace trim, black thong bikini, sheer black kimono with floral pattern held open"
+      ],
+      "tags": [
+        "blue",
+        "satin",
+        "kimono",
+        "sheer",
+        "floral"
+      ]
+    },
+    "loose_flowing_open_robe_with_exposed_torso": {
+      "canonical_name": "loose flowing open robe with exposed torso",
+      "canonical_name_zh": "宽松敞开露胸长袍",
+      "canonical_phrase": "loose flowing open robe revealing bare chest and abdomen",
+      "samples": [
+        "loose-fitting white robe with wide sleeves and V-neckline, fabric draping over lap and legs",
+        "loose-fitting white linen robe with rolled-up sleeves and a tied waist, dark red high-heeled shoes",
+        "loose white robe with soft fabric folds, pooling around ankles, revealing bare shoulders and upper chest",
+        "open floral robe featuring large blue and yellow rose patterns, fabric drapes loosely over hips and legs, torso exposed, robe covers lower body minimally",
+        "white sheer robe draped open revealing torso, hanging in loose folds over thighs",
+        "light pink silk robe open at the front revealing bare chest and abdomen",
+        "flowing white robe with wide sleeves, cinched waist tie, shiny metallic loafers"
+      ],
+      "tags": [
+        "white",
+        "silk",
+        "robe",
+        "flowing",
+        "open-front"
+      ]
+    },
+    "light_blue_sleeveless_dress": {
+      "canonical_name": "light blue sleeveless dress",
+      "canonical_name_zh": "浅蓝无袖连衣裙",
+      "canonical_phrase": "light blue sleeveless dress with flowing fabric and thin straps",
+      "samples": [
+        "light blue floral patterned strapless dress with thin straps, lightweight and slightly sheer fabric",
+        "sleeveless blue dress with a V-neckline and a denim-like hem",
+        "light blue sleeveless dress with soft fabric folds",
+        "flowing pale blue chiffon dress with gathered waistline",
+        "form-fitting navy blue sleeveless dress with draped neckline",
+        "light blue textured sleeveless dress with thin straps, white button-up shirt partially unbuttoned",
+        "white cotton dress with scalloped lace bodice and ruffled hem, light blue short-sleeved cardigan",
+        "light blue floral-patterned sleeveless dress with lace trim at the neckline and hem, fabric draping loosely",
+        "light blue textured dress with thin straps; white button-up shirt unbuttoned at the top",
+        "sleeless knee-length blue dress with a subtle sheen, fabric draping smoothly over her hips and thighs",
+        "light blue sleeveless dress with fitted bodice and flowing skirt, lightweight slightly translucent fabric",
+        "light blue lace dress with floral embroidery and scalloed hem",
+        "sleeveless blue floral patterned dress with fitted bodice and flared skirt",
+        "sleeveless blue dress with white floral pattern on lower half and checkered pattern on upper half, lightweight fabric with visible folds and seams",
+        "loose-fitting light blue linen shirt dress with visible stitching, button details, and soft fabric folds",
+        "partially unbuttoned white shirt revealing light blue bra",
+        "light blue sleeveless knee-length dress with subtle texture, thin straps, natural fabric folds",
+        "light blue sleeveless dress with white polka dots, fitted bodice, flared skirt ending mid-thigh, lightweight slightly textured fabric"
+      ],
+      "tags": [
+        "light blue",
+        "sleeveless",
+        "dress",
+        "flowing",
+        "floral"
+      ]
+    },
+    "black_bra_with_light_blue_straps": {
+      "canonical_name": "black bra with light blue straps",
+      "canonical_name_zh": "黑底蓝带文胸",
+      "canonical_phrase": "black bra with light blue straps being pulled down, black thong bikini bottom",
+      "samples": [
+        "black bra with light blue straps being pulled down, black thong bikini bottom"
+      ],
+      "tags": [
+        "black",
+        "light blue",
+        "bra",
+        "bikini",
+        "straps"
+      ]
+    },
+    "sleeveless_shimmering_silver_sequined_top": {
+      "canonical_name": "sleeveless shimmering silver sequined top",
+      "canonical_name_zh": "无袖亮片银上衣",
+      "canonical_phrase": "sleeveless shimmering silver sequined top, matching satin briefs",
+      "samples": [
+        "sleeveless shimmering silver sequined top, matching satin briefs"
+      ],
+      "tags": [
+        "silver",
+        "sequin",
+        "top",
+        "shimmer",
+        "satin"
+      ]
+    },
+    "blue_denim_jeans_with_blue_crop_top": {
+      "canonical_name": "blue denim jeans with blue crop top",
+      "canonical_name_zh": "蓝色牛仔配蓝色短上衣",
+      "canonical_phrase": "blue denim jeans paired with a blue cropped tank top featuring white lettering",
+      "samples": [
+        "blue denim crop top with white 'Replay' text across the chest, blue jeans",
+        "fitted blue tank top revealing mid-back and waist, dark blue jeans with visible seams and back pockets",
+        "blue cropped tank top with white 'REPLAY' logo across the chest, loose-fitting blue denim jeans with visible stitching, gray hoodie held by sleeves",
+        "blue cropped tank top with faded white script lettering, navy blue and gray zip-up hoodie partially unzipped and worn open",
+        "fitted blue crop top, loose blue jeans",
+        "dark blue cropped tank top revealing lower back, loose-fitting blue denim jeans, dark blue denim jacket held by collar in right hand",
+        "light blue tank top under unbuttoned white shirt with visible collar and front placket, dark blue flared jeans with belt loop detail",
+        "blue cropped tank top with white lettering, blue denim jeans"
+      ],
+      "tags": [
+        "blue",
+        "denim",
+        "crop top",
+        "casual",
+        "logo"
+      ]
+    },
+    "light_pink_cherry_blossom_kimono": {
+      "canonical_name": "light pink cherry blossom kimono",
+      "canonical_name_zh": "浅粉樱花纹和服",
+      "canonical_phrase": "light pink kimono with red and white cherry blossom patterns, red obi belt with textured pattern",
+      "samples": [
+        "light pink kimono with red and white cherry blossom patterns, red obi belt with textured pattern"
+      ],
+      "tags": [
+        "pink",
+        "silk",
+        "kimono",
+        "traditional",
+        "cherry blossom"
+      ]
+    },
+    "flowing_sleeveless_floral_dress": {
+      "canonical_name": "flowing sleeveless floral dress",
+      "canonical_name_zh": "飘逸无袖碎花裙",
+      "canonical_phrase": "flowing sleeveless floral dress with soft fabric and lace hem",
+      "samples": [
+        "pink and white floral dress with small red flowers, fitted bodice, flowing skirt, lace hem",
+        "knee-length sleeveless dress with white base and small colorful floral pattern in red blue and green, lightweight fabric with visible seams and soft folds",
+        "white sleeveless knee-length dress with pleated skirt, fabric appearing lightweight and flowing",
+        "sleeveless floral dress with green, red, and white pattern, soft fabric with visible seams and gentle folds",
+        "strapless dress with pink satin bodice featuring gathered pleats and ruffled trim, white skirt with red floral print and lace hem",
+        "long peach-colored sleeveless dress made of smooth, flowing fabric draping loosely over curves",
+        "strapless dress with fitted pink bodice featuring ruffled texture, white skirt with small red floral print and lace trim along the hem",
+        "light pink thin-strapped flowing dress with a deep plunging neckline",
+        "long sleeveless dress with light pink and white floral pattern, fabric draping loosely over torso and legs",
+        "sleeless floral dress with vibrant pink orange and purple patterns, fabric draping loosely over shoulders",
+        "strapless dress with pink ruffled bodice, white skirt adorned with small red floral patterns, lace trim at hem",
+        "strapless floral patterned dress with large pink rose prints and white base, fabric draping loosely",
+        "patterned sleeveless dress with floral print in muted tones, fabric flowing around hips and thighs",
+        "strapless floral print dress in white with pinkish tones, fabric draping loosely over torso and thighs, sheer net-like material draped over right shoulder and arm"
+      ],
+      "tags": [
+        "floral",
+        "sleeveless",
+        "flowing",
+        "lace",
+        "soft"
+      ]
+    },
+    "warm_red_cream_floral_kimono_with_white_obi": {
+      "canonical_name": "warm red cream floral kimono with white obi",
+      "canonical_name_zh": "暖红奶油色花卉和服配白腰带",
+      "canonical_phrase": "traditional Japanese kimono in warm red and cream tones with white floral patterns, fabric draping loosely around waist, white obi belt",
+      "samples": [
+        "traditional Japanese kimono in warm red and cream tones with white floral patterns, fabric draping loosely around waist, white obi belt"
+      ],
+      "tags": [
+        "red",
+        "silk",
+        "kimono",
+        "traditional",
+        "white obi"
+      ]
+    },
+    "spaghetti_strap_top_or_dress": {
+      "canonical_name": "spaghetti strap top or dress",
+      "canonical_name_zh": "细肩带上衣或连衣裙",
+      "canonical_phrase": "white, red, teal, or light blue spaghetti strap top or dress with thin straps",
+      "samples": [
+        "white spaghetti strap top, white shorts with thin red vertical stripes and a red waistband",
+        "red spaghetti strap dress with subtle white speckled pattern",
+        "teal spaghetti strap top with lace trim",
+        "red spaghetti strap one-piece swimsuit",
+        "light blue patterned spaghetti strap swimsuit with floral and heart motifs",
+        "white spaghetti strap camisole with thin straps, fabric smooth and slightly wrinkled",
+        "white spaghetti strap swimsuit with textured fabric",
+        "light green spaghetti strap top with thin straps and a visible backband"
+      ],
+      "tags": [
+        "spaghetti strap",
+        "thin straps",
+        "summer wear",
+        "casual style",
+        "patterned fabric"
+      ]
+    },
+    "white_tee_black_vest_black_pants_pink_boot": {
+      "canonical_name": "white tee black vest black pants pink boot",
+      "canonical_name_zh": "白T黑背心黑裤粉靴",
+      "canonical_phrase": "white t-shirt under a black sleeveless vest, black pants, tall pink rubber boot on right foot",
+      "samples": [
+        "white t-shirt under a black sleeveless vest, black pants, tall pink rubber boot on right foot"
+      ],
+      "tags": [
+        "white",
+        "rubber",
+        "vest",
+        "streetwear",
+        "asymmetrical"
+      ]
+    },
+    "black_shortsleeved_striped_shirt": {
+      "canonical_name": "black short-sleeved striped shirt",
+      "canonical_name_zh": "黑白条纹短袖衫",
+      "canonical_phrase": "black short-sleeved shirt with white vertical stripes",
+      "samples": [
+        "black short-sleeved shirt with white vertical stripes"
+      ],
+      "tags": [
+        "black",
+        "cotton",
+        "t-shirt",
+        "casual",
+        "stripes"
+      ]
+    },
+    "white_blouse_with_black_bow_tie_and_dark_skirt": {
+      "canonical_name": "white blouse with black bow tie and dark skirt",
+      "canonical_name_zh": "白衬衫配黑领结与深色裙",
+      "canonical_phrase": "white collared blouse with black bow tie and dark pleated skirt",
+      "samples": [
+        "white collared blouse with a black bow tie",
+        "crisp white long-sleeved blouse with black satin bow tie at collar, dark navy pleated skirt reaching mid-thigh",
+        "white long-sleeved blouse with black bow tie at collar, dark gray pleated skirt",
+        "white collared blouse with a black bow tie, dark pleated skirt",
+        "white long-sleeved blouse with soft fabric texture, black bow tie at the collar",
+        "white cropped blouse with tie-front detail, dark blue pleated midi skirt",
+        "white collared blouse with black bow tie, dark gray pleated skirt",
+        "dark navy short-sleeved blouse with visible collar and button details, matching dark navy knee-length skirt",
+        "crisp white long-sleeved blouse with black bow tie at collar, black pleated skirt ending mid-thigh, white ankle socks, black loafers"
+      ],
+      "tags": [
+        "white",
+        "bow tie",
+        "pleated skirt",
+        "school uniform",
+        "formal"
+      ]
+    },
+    "sleeveless_tank_top_with_varied_details": {
+      "canonical_name": "sleeveless tank top with varied details",
+      "canonical_name_zh": "无袖背心",
+      "canonical_phrase": "sleeveless tank top with soft fabric texture and visible straps",
+      "samples": [
+        "sleeveless tank top with horizontal stripes of blue, white, and pink, fabric appearing soft with visible seams and gentle folds",
+        "white tank top under a dark gray sleeveless apron with visible straps",
+        "sleeless tank top with horizontal stripes in pink, blue, and white, pink trim along neckline and armholes, small round button on left shoulder strap",
+        "white sleeveless tank top with thin straps",
+        "light blue sleeveless tank top with soft fabric texture and visible shoulder straps",
+        "white sleeveless tank top with smooth fabric texture",
+        "sleeveless tank top with horizontal stripes in pink, blue, and white featuring pink trim and three gold buttons down the front, paired with light blue shorts",
+        "white sleeveless tank top with black trim, light-colored floral skirt",
+        "peach-colored sleeveless tank top made of smooth satin-like fabric with a deep V-neckline and rounded armholes",
+        "black sleeveless tank top with smooth fabric texture and deep V-neckline",
+        "white sleeveless tank top",
+        "sleeveless tank top with horizontal pink and white stripes, red button placket"
+      ],
+      "tags": [
+        "tank top",
+        "sleeveless",
+        "soft fabric",
+        "casual",
+        "striped"
+      ]
+    },
+    "white_shortsleeved_shirt_dark_sleeveless_vest": {
+      "canonical_name": "white short-sleeved shirt dark sleeveless vest",
+      "canonical_name_zh": "白短袖衬衫配深色无袖马甲",
+      "canonical_phrase": "white short-sleeved shirt under a dark sleeveless vest with visible collar and button",
+      "samples": [
+        "white short-sleeved shirt under a dark sleeveless vest with visible collar and button"
+      ],
+      "tags": [
+        "white",
+        "cotton",
+        "vest",
+        "layered",
+        "button"
+      ]
+    },
+    "yellow_shirt_denim_overalls_pink_pinafore": {
+      "canonical_name": "yellow shirt denim overalls pink pinafore",
+      "canonical_name_zh": "黄衫牛仔背带裤粉围裙",
+      "canonical_phrase": "denim overalls over a yellow shirt, pink pinafore dress, t-shirts, shorts, sandals, tennis racket held in hand",
+      "samples": [
+        "denim overalls over a yellow shirt, pink pinafore dress, t-shirts, shorts, sandals, tennis racket held in hand"
+      ],
+      "tags": [
+        "yellow",
+        "denim",
+        "overalls",
+        "sporty",
+        "tennis racket"
+      ]
+    },
+    "patterned_halter_top_with_shorts_or_skirt": {
+      "canonical_name": "patterned halter top with shorts or skirt",
+      "canonical_name_zh": "印花挂脖上衣配短裤或短裙",
+      "canonical_phrase": "colorful patterned halter top with thin straps paired with denim or crochet shorts",
+      "samples": [
+        "brown floral patterned halter top with thin straps, light-colored crochet shorts",
+        "red cropped halter top with thin straps and a front tie, beige high-waisted shorts with dark brown buttons down the front",
+        "patterned halter top with red, yellow, and beige stripes, fabric draped low at the back",
+        "dark textured knit halter top with visible weave pattern",
+        "yellow halter top, blue denim shorts with frayed hem",
+        "light cream-colored halter top with thin straps, fitted blue denim mini skirt with frayed hem",
+        "black and white striped off-shoulder top with red trim on the neckline, matching striped bottoms with red trim",
+        "sleeless halter top with geometric pattern in pink beige and red, fabric draping over hips",
+        "patterned brown and green halter top, white crochet shorts",
+        "bright red halter top, ripped blue denim jeans with large frayed tear exposing right knee",
+        "halter neck top with pink, yellow, and beige stripes, fabric draping over shoulders and upper chest"
+      ],
+      "tags": [
+        "halter",
+        "patterned",
+        "denim",
+        "crochet",
+        "summer"
+      ]
+    },
+    "thin_strap_string_bikini_tops": {
+      "canonical_name": "thin strap string bikini tops",
+      "canonical_name_zh": "细带系绳比基尼上衣",
+      "canonical_phrase": "string bikini top with thin straps in various colors",
+      "samples": [
+        "royal blue string bikini top with thin straps and smooth fabric",
+        "light beige string bikini top with thin straps tied at lower back, high-waisted blue denim shorts with visible stitching and pockets",
+        "light blue bikini top with thin straps, matching light blue bikini bottoms",
+        "light gray string bikini top with thin straps, matching light gray string bikini bottoms with thin straps",
+        "light-colored string bikini top with thin straps",
+        "dark blue string bikini with thin straps",
+        "fitted purple bikini top with thin straps",
+        "dark brown string bikini top with thin straps and tied back",
+        "light blue denim bikini top with frayed edges and thin straps",
+        "dark navy blue bikini top with thin straps, matching shorts"
+      ],
+      "tags": [
+        "bikini",
+        "string",
+        "thin_straps",
+        "swimwear",
+        "colorful"
+      ]
+    },
+    "white_sleeveless_top_with_red_patterned_trim": {
+      "canonical_name": "white sleeveless top with red patterned trim",
+      "canonical_name_zh": "白无袖红纹上衣",
+      "canonical_phrase": "white sleeveless top with red patterned trim, gray overalls",
+      "samples": [
+        "white sleeveless top with red patterned trim, gray overalls"
+      ],
+      "tags": [
+        "white",
+        "cotton",
+        "sleeveless",
+        "casual",
+        "patterned"
+      ]
+    },
+    "white_sleeveless_top_with_lace_trim": {
+      "canonical_name": "white sleeveless top with lace trim",
+      "canonical_name_zh": "白色无袖蕾丝上衣",
+      "canonical_phrase": "white sleeveless top with delicate lace trim along neckline and shoulders",
+      "samples": [
+        "white sleeveless top with delicate lace trim along the neckline",
+        "white sleeveless top, light-colored floral-patterned skirt, dark blue jacket with red stripes held in right hand",
+        "navy blue sleeveless top with white lace trim and white text reading 'A Walk to Cystic F...' over a white skirt",
+        "white sleeveless knit top with intricate lace pattern across chest",
+        "white sleeveless top with delicate lace ruffled trim along the shoulder",
+        "sleeveless off-white textured top with subtle diamond-shaped embroidery, long olive green wrap skirt with a blue patterned waistband and small floral motifs scattered across the fabric",
+        "sleeless white top with intricate lace detailing on the neckline",
+        "white sleeveless top with delicate lace ruffled shoulder straps",
+        "white sleeveless V-neck top with delicate lace trim along the neckline and armholes",
+        "white sleeveless top with blue trim waistband, pale yellow ruffled skirt with small white polka dots",
+        "white sleeveless top with ruffled shoulder straps, layered white skirt with ruffles at the waist",
+        "white sleeveless top with delicate lace ruffles along shoulder straps",
+        "white sleeveless top with soft fabric folds, white skirt",
+        "white long-sleeved top with lace detailing at the neckline, flowing white midi skirt",
+        "white sleeveless top with delicate lace detailing on the shoulder",
+        "white sleeveless top with a light blue waistband, yellow ruffled skirt with polka dots and a large yellow ribbon tied at the side",
+        "white sleeveless top with delicate lace trim along the neckline and armholes",
+        "white sleeveless top with ruffled shoulder details, layered white skirt with ruffles at the hem",
+        "sleeveless white top with a round neckline, white skirt",
+        "white sleeveless top with delicate lace ruffles along the shoulder straps",
+        "pale beige sleeveless top with delicate lace trim at the neckline, thick white blanket draped over head and body"
+      ],
+      "tags": [
+        "white",
+        "sleeveless",
+        "lace",
+        "ruffled",
+        "elegant"
+      ]
+    },
+    "dark_green_satin_slip_with_thin_straps": {
+      "canonical_name": "dark green satin slip with thin straps",
+      "canonical_name_zh": "深绿缎面细带吊带裙",
+      "canonical_phrase": "dark green satin slip with thin straps and reddish-brown lining",
+      "samples": [
+        "dark green satin slip with thin straps and reddish-brown lining"
+      ],
+      "tags": [
+        "dark green",
+        "satin",
+        "slip dress",
+        "minimalist",
+        "reddish-brown lining"
+      ]
+    },
+    "white_short_sleeve_shirt_with_colored_trim": {
+      "canonical_name": "white short sleeve shirt with colored trim",
+      "canonical_name_zh": "白短袖配色边",
+      "canonical_phrase": "white short-sleeved t-shirt with dark blue or navy trim on collar and sleeves",
+      "samples": [
+        "white short-sleeved jersey with navy blue stripes on cuffs",
+        "white short-sleeved shirt with dark blue trim, dark blue shorts, white socks",
+        "loose white short-sleeved shirt with lace trim at collar and cuffs, patterned blue and white floral shorts",
+        "white short-sleeved t-shirt with navy blue ribbed collar and sleeve cuffs",
+        "white t-shirt with black trim on the sleeves",
+        "white short-sleeved t-shirt with dark blue trim around collar and sleeves, black shorts ending mid-thigh",
+        "white t-shirt with dark blue short sleeves, light blue denim shorts with frayed hem",
+        "dark plaid shirt over a light-colored t-shirt with a faint graphic print",
+        "white short-sleeved t-shirt with dark blue trim on collar and sleeves, dark blue shorts ending mid-thigh",
+        "white short-sleeved shirt with blue stripes on the sleeves",
+        "cropped blue and white plaid short-sleeve shirt revealing midriff, dark denim shorts with visible red leather brand patch",
+        "white t-shirt with navy blue raglan sleeves and faded orange graphic print on chest"
+      ],
+      "tags": [
+        "white",
+        "short-sleeved",
+        "t-shirt",
+        "navy trim",
+        "casual"
+      ]
+    },
+    "white_shortsleeved_polo_shirt_small_logo": {
+      "canonical_name": "white short-sleeved polo shirt",
+      "canonical_name_zh": "白色短袖Polo衫",
+      "canonical_phrase": "white short-sleeved polo shirt with a collar and small logo on the left chest",
+      "samples": [
+        "white short-sleeved polo shirt with a collar and small logo on the left chest"
+      ],
+      "tags": [
+        "white",
+        "cotton",
+        "polo",
+        "casual",
+        "logo"
+      ]
+    },
+    "white_drawstring_jacket_with_dark_blue_pants": {
+      "canonical_name": "white drawstring jacket with dark blue pants",
+      "canonical_name_zh": "白色抽绳夹克配深蓝裤",
+      "canonical_phrase": "white long-sleeved jacket with drawstring waist, dark blue cuffed pants",
+      "samples": [
+        "white long-sleeved jacket with drawstring waist, dark blue cuffed pants"
+      ],
+      "tags": [
+        "white",
+        "cotton",
+        "jacket",
+        "casual",
+        "drawstring"
+      ]
+    },
+    "casual_white_sneakers_with_jeans_and_shirts": {
+      "canonical_name": "casual white sneakers with jeans and shirts",
+      "canonical_name_zh": "休闲白鞋配牛仔裤衬衫",
+      "canonical_phrase": "white canvas sneakers paired with blue jeans and casual button-up or t-shirts",
+      "samples": [
+        "white button-up shirt over a light blue t-shirt, dark blue jeans, white sneakers, light blue plaid shirt over a white t-shirt, blue jeans, white sneakers",
+        "short-sleeved purple and white plaid shirt, dark shorts, white socks, light brown lace-up sneakers",
+        "light blue shirt, white hoodie, casual street clothes including jackets, hoodies, and jeans",
+        "white canvas sneakers with black rubber toe caps and heel tabs, All Star logo visible",
+        "white short-sleeved blouse, dark blue necktie, dark pleated skirt, white knee-high socks, white sneakers with pink accents",
+        "white sneakers with red stripes and beige accents, laces untied",
+        "white translucent barber cape, white canvas sneakers with black laces, dark t-shirt, blue jeans",
+        "white t-shirt with navy blue trim on collar and sleeves, white socks pulled up to mid-calf, white low-top sneakers with red stitching",
+        "casual plaid and white button-up shirts, blue jeans, light gray sneakers"
+      ],
+      "tags": [
+        "white sneakers",
+        "blue jeans",
+        "casual shirts",
+        "streetwear",
+        "canvas shoes"
+      ]
+    },
+    "sleeveless_tops_with_varied_patterns": {
+      "canonical_name": "sleeveless tops with varied patterns",
+      "canonical_name_zh": "各式图案无袖上衣",
+      "canonical_phrase": "sleeveless top with thin straps, soft fabric texture, and subtle geometric or striped patterns",
+      "samples": [
+        "light blue sleeveless top with gathered neckline",
+        "white patterned crop top with red geometric designs, dark green overalls with white straps",
+        "black deep V-neck sleeveless top, patterned shorts",
+        "dark blue strapless top with smooth texture",
+        "white sleeveless top with thin straps",
+        "white sleeveless top",
+        "simple black sleeveless top with soft fabric folds",
+        "light blue sleeveless top with subtle pattern, matching light blue shorts, light blue athletic shoes",
+        "white sleeveless top with soft fabric texture",
+        "pale yellow sleeveless top with white trim",
+        "black and white horizontally striped long-sleeve top with pink zipper detail at collar, matching striped shorts with pink elastic waistband",
+        "white sleeveless top, blue and white patterned shorts",
+        "light blue sleeveless top with small white polka dots, dark green shorts",
+        "sleeless top with pink, blue, and white horizontal stripes, pink trim around neckline and armholes, single round silver button with red stitching at the front",
+        "light blue sleeveless top with thin straps",
+        "black sleeveless top with wide neckline, light gray scarf draped over shoulder",
+        "sleeveless top with pink straps and a striped pattern of thin blue and white lines",
+        "black sleeveless top with smooth fabric texture",
+        "white sleeveless top with thin straps and a subtle grid pattern",
+        "black sleeveless top with thin straps, matching black skirt with visible belt buckle",
+        "white sleeveless top with soft fabric texture and gentle folds",
+        "dark sleeveless top with faint shimmering texture",
+        "black sleeveless top with thin straps",
+        "dark sleeveless top",
+        "form-fitting black sleeveless top with thin straps and vertical pleats",
+        "green sleeveless top with white polka dots and thin straps",
+        "white sleeveless top with visible button details and fabric texture",
+        "sleeveless top with vertical stripes in pink, blue, and white, featuring pink trim and three visible buttons at the neckline",
+        "light blue sleeveless top with thin straps, fabric draping over shoulders",
+        "vibrant yellow sleeveless top with black trim",
+        "sleeveless top with thin pink and white horizontal stripes, light blue denim shorts",
+        "dark sleeveless top, dark shorts",
+        "white sleeveless top with red knit pattern, dark grey overalls with visible seams and pockets",
+        "loose-fitting blue sleeveless top with ruffled neckline"
+      ],
+      "tags": [
+        "sleeveless",
+        "patterned",
+        "fabric",
+        "casual",
+        "straps"
+      ]
+    },
+    "vibrant_red_longsleeved_top": {
+      "canonical_name": "vibrant red long-sleeved top",
+      "canonical_name_zh": "鲜红长袖上衣",
+      "canonical_phrase": "vibrant red long-sleeved top with soft fabric texture and natural folds",
+      "samples": [
+        "vibrant red long-sleeved top with soft fabric texture and natural folds"
+      ],
+      "tags": [
+        "red",
+        "soft fabric",
+        "long-sleeved",
+        "casual",
+        "natural folds"
+      ]
+    },
+    "dark_blue_lace_bikini_set": {
+      "canonical_name": "dark blue lace bikini set",
+      "canonical_name_zh": "深蓝蕾丝比基尼套装",
+      "canonical_phrase": "dark blue two-piece bikini with lace detailing on the top and solid fabric on the bottom",
+      "samples": [
+        "dark blue two-piece bikini with lace detailing on the top and solid fabric on the bottom"
+      ],
+      "tags": [
+        "dark blue",
+        "lace",
+        "bikini",
+        "two-piece",
+        "solid fabric"
+      ]
+    },
+    "strapless_floral_patterned_top_and_skirt": {
+      "canonical_name": "strapless floral patterned top and skirt",
+      "canonical_name_zh": "无肩带花卉上衣与裙装",
+      "canonical_phrase": "strapless floral patterned top with ruffles paired with flowing skirt or shorts",
+      "samples": [
+        "sleeless pink top with soft folds, flowing bright red skirt with smooth fabric texture",
+        "floral strapless top with white base, pink orange and yellow flowers, black stitching details, denim shorts with lace trim",
+        "pink ruffled strapless top, white lace skirt with red floral patterns",
+        "sleeveless patterned top with red floral motifs, flowing bright red skirt",
+        "floral patterned strapless top, denim shorts with natural creases and folds",
+        "pink strapless top, white ruffled skirt",
+        "strapless floral-patterned top with white base, pink and orange flowers, green stems, and black stitched trim along the edge",
+        "vibrant pink strapless top with gathered ruffles along the bodice",
+        "pink ruffled strapless top, white floral patterned skirt with lace trim",
+        "white strapless top with floral pattern and vertical ruching, light blue denim shorts featuring white lace trim along the back seam",
+        "floral strapless top with white base, pink and orange blooms, ruched bodice, light blue denim shorts with faded wash and visible stitching",
+        "strapless floral print top with ruched waistband, denim shorts",
+        "pink strapless top with ruffled texture, white floral skirt with lace trim",
+        "sleeless black lace top with floral pattern, fitted black skirt",
+        "form-fitting bright red sleeveless top, matching shiny red skirt with a thin white waistband",
+        "strapless floral patterned top with pink orange and green hues",
+        "strapless top with geometric pattern of peach and yellow stripes, sheer red layered skirt with ruffled hem",
+        "strapless floral romper with fitted ruched bodice and flared shorts, fabric displaying large pink and purple rose blooms on a light beige background",
+        "sleeveless orange top, flowing green floral-patterned wrap skirt with frayed edges"
+      ],
+      "tags": [
+        "floral",
+        "strapless",
+        "ruffles",
+        "denim",
+        "romantic"
+      ]
+    },
+    "white_shirt_dark_skirt_outfit": {
+      "canonical_name": "white shirt dark skirt outfit",
+      "canonical_name_zh": "白衬衫深色裙装",
+      "canonical_phrase": "white collared shirt paired with dark pleated skirt and white socks",
+      "samples": [
+        "white sleeveless collared shirt, black pleated skirt, white knee-high socks, black flat shoes with white straps",
+        "crisp white sleeveless collared shirt, black pleated skirt, white knee-high socks, black Mary Jane shoes",
+        "white short-sleeved collared shirt, dark navy tie, dark navy pleated skirt, white socks, black shoes",
+        "white short-sleeved shirt with dark blue trim, dark blue pleated skirt, white knee-high socks, dark shoes",
+        "white short-sleeved t-shirt with dark blue ribbed collar and sleeve cuffs, black shorts, white socks, white low-top sneakers with red stitching",
+        "white short-sleeved shirt, dark blue pleated skirt, white socks",
+        "loose white long-sleeved shirt, dark blue jeans, white lace-up shoes"
+      ],
+      "tags": [
+        "white",
+        "dark",
+        "pleated",
+        "school",
+        "socks"
+      ]
+    },
+    "patterned_lace_top_lifted_distressed_denim_shorts": {
+      "canonical_name": "patterned lace top lifted distressed denim shorts",
+      "canonical_name_zh": "提蕾丝上衣配破洞牛仔短裤",
+      "canonical_phrase": "patterned lace top being lifted, distressed denim shorts with frayed hem and rolled cuffs, white undergarment visible at waistline",
+      "samples": [
+        "patterned lace top being lifted, distressed denim shorts with frayed hem and rolled cuffs, white undergarment visible at waistline"
+      ],
+      "tags": [
+        "lace",
+        "denim",
+        "shorts",
+        "casual",
+        "frayed"
+      ]
+    },
+    "delicate_lacetrimmed_lighttoned_bikini": {
+      "canonical_name": "delicate lace-trimmed light-toned bikini",
+      "canonical_name_zh": "蕾丝边浅色比基尼",
+      "canonical_phrase": "delicate lace-trimmed light-toned bikini top and matching bottom with a tied side string",
+      "samples": [
+        "delicate lace-trimmed light-toned bikini top and matching bottom with a tied side string"
+      ],
+      "tags": [
+        "lace",
+        "bikini",
+        "light",
+        "tied",
+        "delicate"
+      ]
+    },
+    "white_tank_top_with_patterned_bottoms": {
+      "canonical_name": "white tank top with patterned bottoms",
+      "canonical_name_zh": "白色背心配图案下装",
+      "canonical_phrase": "white tank top paired with blue or patterned shorts and bikini bottoms",
+      "samples": [
+        "white tank top, black and white striped bikini bottoms",
+        "white fitted tank top, blue and white patterned shorts",
+        "white tank top with a beaded neckline, navy blue open-front jacket with orange stripes on the sleeves, light-colored floral-patterned pants",
+        "dark blue tank top with white lace trim at the neckline and white graphic lettering, white shorts",
+        "white tank top",
+        "patterned blue and green geometric print tank top with thin yellow straps, solid light yellow bikini bottoms",
+        "blue tank top, white shirt draped over arms",
+        "white fitted tank top, blue patterned bikini bottoms",
+        "white ribbed tank top, white floral patterned pajama pants",
+        "white ribbed tank top with thin straps and visible seams",
+        "white textured tank top with thin straps",
+        "light blue tank top under an unbuttoned white shirt with visible seams and folds, dark blue flared jeans, white sneakers",
+        "white tank top with black lace-trimmed straps, dark blue bikini bottoms with ruffled hem",
+        "white tank top with lace trim at the neckline",
+        "white cropped tank top with thin straps, blue and white patterned bikini bottoms with abstract floral shapes",
+        "white fitted tank top with blue trim along seams, blue and white patterned bikini bottoms"
+      ],
+      "tags": [
+        "white",
+        "tank top",
+        "patterned",
+        "casual",
+        "bikini bottoms"
+      ]
+    },
+    "open_outerwear_over_bikini": {
+      "canonical_name": "open outerwear over bikini",
+      "canonical_name_zh": "敞开的比基尼外套",
+      "canonical_phrase": "open button-up shirt or jacket draped over bikini top and bottoms",
+      "samples": [
+        "white button-up shirt with ruffled sleeves open over a black bikini",
+        "white bikini top, dark blue denim jacket draped open over shoulders",
+        "loose purple windbreaker jacket over a white bikini top",
+        "white satin kimono jacket with blue floral and butterfly embroidery along collar and sleeves, unbuttoned, red bikini top with beaded tie front, matching red bikini bottoms",
+        "vibrant blue hooded zip-up jacket open to reveal a striped bikini top, bright orange platform flip-flops",
+        "red floral bikini with white trim, white ribbed knit cover-up shirt open at the front",
+        "open white button-up shirt with small pattern, dark bikini top and bottoms",
+        "white textured bandeau top, matching white bikini bottoms, dark denim jacket held open with both hands",
+        "white bikini top, white bikini bottoms, red zip-up jacket open over the top",
+        "dark blue sports bra, matching bikini bottoms, white button-up shirt held open in front",
+        "white textured bikini top and matching bottoms, unbuttoned dark denim jacket with red inner lining",
+        "white bikini top and bottom, red open-front jacket",
+        "white off-the-shoulder shirt partially open revealing a striped blue and white bikini top"
+      ],
+      "tags": [
+        "open",
+        "bikini",
+        "jacket",
+        "denim",
+        "white"
+      ]
+    },
+    "white_highneck_zippered_jacket": {
+      "canonical_name": "white high-neck zippered jacket",
+      "canonical_name_zh": "白色高领拉链夹克",
+      "canonical_phrase": "white high-necked zippered jacket",
+      "samples": [
+        "white high-necked zippered jacket"
+      ],
+      "tags": [
+        "white",
+        "nylon",
+        "jacket",
+        "minimalist",
+        "zipper"
+      ]
+    },
+    "layered_graphic_print_tshirt_outfit": {
+      "canonical_name": "layered graphic print t-shirt outfit",
+      "canonical_name_zh": "印花叠穿T恤",
+      "canonical_phrase": "white or grey graphic t-shirt layered over another shirt with text or print",
+      "samples": [
+        "white t-shirt with red graphic print featuring bold stylized text and black trim around neckline and sleeves",
+        "white t-shirt with red graphic print under a dark blue short-sleeved shirt",
+        "plain white short-sleeved t-shirt with faint light gray graphic print across the chest",
+        "white t-shirt with red circular graphic print, dark blue short sleeves",
+        "loose-fitting grey oversized t-shirt with faded black text reading 'IN DAILY HORIZON' across the chest, layered over a pink and teal patterned tank top",
+        "gray oversized t-shirt with faded black text print over a pink lace-trimmed top",
+        "white t-shirt with red graphic print, navy blue short-sleeved shirt underneath"
+      ],
+      "tags": [
+        "graphic tee",
+        "layered",
+        "oversized",
+        "text print",
+        "casual wear"
+      ]
+    },
+    "red_hip_fabric_with_patterned_scarf": {
+      "canonical_name": "red hip fabric with patterned scarf",
+      "canonical_name_zh": "红腰布配花纹围巾",
+      "canonical_phrase": "red fabric wrapped around hips tied with a patterned pink and beige scarf, draping in soft folds",
+      "samples": [
+        "red fabric wrapped around hips tied with a patterned pink and beige scarf, draping in soft folds"
+      ],
+      "tags": [
+        "red",
+        "fabric",
+        "hip-wrap",
+        "boho",
+        "patterned-scarf"
+      ]
+    },
+    "thinstrapped_tank_tops_with_varied_bottoms": {
+      "canonical_name": "thin-strapped tank tops with varied bottoms",
+      "canonical_name_zh": "细肩带背心配下装",
+      "canonical_phrase": "thin-strapped tank top in various colors paired with skirts or pants",
+      "samples": [
+        "green patterned tank top, blue pleated skirt, red ankle socks, black heels",
+        "form-fitting light blue ribbed tank top with thin straps",
+        "thin-strapped light beige tank top with visible fabric folds and seams",
+        "fitted olive green tank top, patterned beige and white apron over dark pants",
+        "dark navy blue tank top with thin straps",
+        "light blue tank top with thin straps, dark pants",
+        "light green tank top with thin straps",
+        "light gray tank top with thin straps and low neckline",
+        "patterned blue and green tank top with thin yellow straps"
+      ],
+      "tags": [
+        "tank top",
+        "thin straps",
+        "casual",
+        "ribbed fabric",
+        "colorful"
+      ]
+    },
+    "light_floral_short_sleeve_blouse": {
+      "canonical_name": "light floral short sleeve blouse",
+      "canonical_name_zh": "浅色碎花短袖衬衫",
+      "canonical_phrase": "light floral patterned blouse with short sleeves",
+      "samples": [
+        "light floral patterned blouse with short sleeves"
+      ],
+      "tags": [
+        "floral",
+        "cotton",
+        "blouse",
+        "casual",
+        "short sleeve"
+      ]
+    },
+    "white_textured_bikini_top_with_black_trim": {
+      "canonical_name": "white textured bikini top with black trim",
+      "canonical_name_zh": "白纹黑边比基尼上衣",
+      "canonical_phrase": "white textured bikini top with black trim and small pendant at center, black and white striped shorts",
+      "samples": [
+        "white textured bikini top with black trim and small pendant at center, black and white striped shorts"
+      ],
+      "tags": [
+        "bikini",
+        "textured",
+        "striped",
+        "pendant",
+        "black-white"
+      ]
+    },
+    "light_blue_string_bikini_with_bow_details": {
+      "canonical_name": "light blue string bikini with bow details",
+      "canonical_name_zh": "浅蓝系带比基尼配蝴蝶结",
+      "canonical_phrase": "light blue string bikini with thin straps and bow front detail",
+      "samples": [
+        "light blue bikini with a large bow on the back of the bottom, smooth and form-fitting fabric",
+        "light blue string bikini with visible braided trim on the straps",
+        "light blue string bikini, denim jeans draped over the stove",
+        "bright blue bow-front bikini bottom",
+        "light blue string bikini",
+        "light blue string bikini with thin straps and a tied front detail"
+      ],
+      "tags": [
+        "light blue",
+        "string bikini",
+        "bow detail",
+        "form-fitting",
+        "swimwear"
+      ]
+    },
+    "vibrant_red_twopiece_bikini": {
+      "canonical_name": "vibrant red two-piece bikini",
+      "canonical_name_zh": "鲜艳红色两件式比基尼",
+      "canonical_phrase": "vibrant red two-piece bikini with thin straps and minimal coverage",
+      "samples": [
+        "vibrant red two-piece bikini with halter neck top and low-rise bottoms",
+        "vibrant red string bikini top with thin straps and a deep V-neckline",
+        "red strap bikini top, dark blue bikini bottoms",
+        "red string bikini with thin straps and minimal coverage",
+        "red string bikini with thin straps and a tied bow at the nape of her neck",
+        "red string bikini with thin straps, fabric draping across shoulders and torso",
+        "vibrant red two-piece bikini",
+        "deep red string bikini with thin straps and side ties",
+        "bright red two-piece bikini with thin straps and high-cut bottoms",
+        "red string-tie bikini top, matching high-cut bottoms with red straps tied in a bow at lower back",
+        "vibrant red two-piece bikini with thin straps and minimal coverage",
+        "bright red string bikini with thin straps and minimal coverage",
+        "fitted red triangle bikini top with thin straps and a gathered center seam",
+        "vibrant red two-piece bikini with thin straps and a smooth fitted fabric",
+        "red bikini top with thin straps, beige shorts",
+        "vibrant red string bikini with thin straps and a smooth fit",
+        "bright red two-piece bikini with thin straps and a fitted bottom",
+        "red bikini top, sheer pink dotted slip dress with thin straps and loose fit"
+      ],
+      "tags": [
+        "red",
+        "bikini",
+        "two-piece",
+        "string",
+        "minimal"
+      ]
+    },
+    "bold_vertical_stripe_twopiece_outfit": {
+      "canonical_name": "bold vertical stripe two-piece outfit",
+      "canonical_name_zh": "黑白竖条纹两件式套装",
+      "canonical_phrase": "form-fitting off-shoulder two-piece outfit with bold vertical black and white stripes, top revealing midriff, long skirt flowing to the ground",
+      "samples": [
+        "form-fitting off-shoulder two-piece outfit with bold vertical black and white stripes, top revealing midriff, long skirt flowing to the ground"
+      ],
+      "tags": [
+        "black",
+        "white",
+        "two-piece",
+        "off-shoulder",
+        "midriff"
+      ]
+    },
+    "light_pink_and_white_knit_tank_tops": {
+      "canonical_name": "light pink and white knit tank tops",
+      "canonical_name_zh": "粉白针织背心",
+      "canonical_phrase": "light pink and white textured knit tank top with scoop neckline",
+      "samples": [
+        "light pink textured knit tank top with scoop neckline",
+        "white tank top with black and pink graphic print, dark blue plaid cardigan with button closure",
+        "light pink and white textured knit tank top with a rounded neckline",
+        "light pink ribbed knit tank top with visible seam lines and fabric texture",
+        "white top, light pink bottoms",
+        "light pink textured knit tank top with visible ribbed fabric pattern",
+        "light pink ribbed knit tank top with scoop neckline",
+        "pink floral patterned open cardigan over a matching pink swimsuit",
+        "white tank top with black lace trim featuring a colorful sunset palm tree graphic print, black lace-trimmed underwear",
+        "coral pink zip-up jacket over a white tank top",
+        "white tank top with black and pink graphic print featuring lips and text, dark navy plaid cardigan with rolled sleeves, dark gray trousers"
+      ],
+      "tags": [
+        "pink",
+        "white",
+        "knit",
+        "tank top",
+        "ribbed"
+      ]
+    },
+    "white_lace_fringed_top_red_skirt": {
+      "canonical_name": "white lace fringed top red skirt",
+      "canonical_name_zh": "白色蕾丝流苏上衣红裙",
+      "canonical_phrase": "white lace top with fringed hem, red skirt",
+      "samples": [
+        "white lace top with fringed hem, red skirt"
+      ],
+      "tags": [
+        "white",
+        "lace",
+        "skirt",
+        "fringed",
+        "romantic"
+      ]
+    },
+    "casual_layered_tops_with_pants_and_boots": {
+      "canonical_name": "casual layered tops with pants and boots",
+      "canonical_name_zh": "休闲分层上衣配裤靴",
+      "canonical_phrase": "casual layered long-sleeved tops paired with pants and boots",
+      "samples": [
+        "dark denim jacket, denim shorts, tall brown leather boots",
+        "black long-sleeved top, olive green pants",
+        "dark long-sleeved top, light patterned pants, boots reaching mid-calf",
+        "bright yellow long-sleeved top with navy blue waistband, white briefs, white slip-on shoes"
+      ],
+      "tags": [
+        "casual",
+        "layered",
+        "pants",
+        "boots",
+        "denim"
+      ]
+    },
+    "strapless_white_lace_garment": {
+      "canonical_name": "strapless white lace garment",
+      "canonical_name_zh": "白色蕾丝无肩带",
+      "canonical_phrase": "strapless white lace garment",
+      "samples": [
+        "strapless white lace garment"
+      ],
+      "tags": [
+        "white",
+        "lace",
+        "strapless",
+        "elegant",
+        "garment"
+      ]
+    },
+    "short_sleeve_floral_patterned_top": {
+      "canonical_name": "short sleeve floral patterned top",
+      "canonical_name_zh": "短袖花卉图案上衣",
+      "canonical_phrase": "soft short-sleeved top with floral embroidery or pattern",
+      "samples": [
+        "black short-sleeved top with white floral embroidery on the sleeve and vertical white stripes on the torso, soft fabric with visible seams and gentle folds",
+        "white long-sleeved top with floral embroidery on the chest",
+        "black short-sleeved top with white floral embroidery along sleeve edges, fabric appearing soft and slightly sheer at the shoulder",
+        "white sleeve with red stitching",
+        "white short-sleeved polka dot top with a deep V-neck, orange underwear",
+        "short-sleeved floral patterned top with small colorful flowers on a light cream background, fabric appears soft and slightly textured",
+        "white short-sleeved top with visible fabric texture",
+        "white textured knit top under a dark plaid flannel shirt with red yellow and blue stripes",
+        "loose white short-sleeved top",
+        "white short-sleeved top with small floral pattern",
+        "navy blue short-sleeved top with white maple leaf pattern",
+        "plain white short-sleeved top with soft fabric texture and visible seams along the neckline",
+        "black short-sleeved top with white satin trim along seams and floral embroidery on sleeves"
+      ],
+      "tags": [
+        "short sleeve",
+        "floral",
+        "soft fabric",
+        "embroidery",
+        "casual top"
+      ]
+    },
+    "light_green_sleeveless_dress_with_black_trim": {
+      "canonical_name": "light green sleeveless dress with black trim",
+      "canonical_name_zh": "浅绿无袖黑边连衣裙",
+      "canonical_phrase": "light green sleeveless dress with thin black trim along the straps and hem",
+      "samples": [
+        "light green sleeveless dress with thin black trim along the straps and hem"
+      ],
+      "tags": [
+        "green",
+        "sleeveless",
+        "dress",
+        "minimalist",
+        "black trim"
+      ]
+    },
+    "bikini_with_thin_straps_and_varied_bottoms": {
+      "canonical_name": "bikini with thin straps and varied bottoms",
+      "canonical_name_zh": "细带比基尼套装",
+      "canonical_phrase": "bikini set with thin straps, featuring various colors and bottom styles",
+      "samples": [
+        "dark blue string bikini top with thin straps",
+        "brown bikini top with thin straps, dark green satin-like slip skirt draping loosely over hips and thighs",
+        "pink striped bikini top with thin straps, matching bottoms",
+        "floral print bikini with thin straps",
+        "brown string bikini top with thin straps and visible seams, light blue sheer fabric tied around waist",
+        "light-colored bikini top with thin straps and visible waistband",
+        "light beige bikini top with thin straps and fitted cut, matching light beige bikini bottoms with minimal coverage",
+        "dark pink satin bikini top with thin straps"
+      ],
+      "tags": [
+        "bikini",
+        "thin_straps",
+        "satin",
+        "floral",
+        "sheer"
+      ]
+    },
+    "white_halter_top_with_deep_vneckline": {
+      "canonical_name": "white halter top with deep V-neckline",
+      "canonical_name_zh": "白色深V挂脖上衣",
+      "canonical_phrase": "white halter top with deep V-neckline, white and gray striped high-waisted swim shorts",
+      "samples": [
+        "white halter top with deep V-neckline, white and gray striped high-waisted swim shorts"
+      ],
+      "tags": [
+        "halter",
+        "striped",
+        "swimwear",
+        "casual",
+        "deep-v"
+      ]
+    },
+    "loose_blue_white_striped_pajamas": {
+      "canonical_name": "loose blue white striped pajamas",
+      "canonical_name_zh": "蓝白条纹宽松睡衣",
+      "canonical_phrase": "loose-fitting blue and white striped pajamas with button-front shirt and matching pants",
+      "samples": [
+        "loose-fitting blue and white striped pajamas with button-front shirt and matching pants"
+      ],
+      "tags": [
+        "blue",
+        "cotton",
+        "pajamas",
+        "casual",
+        "button-front"
+      ]
+    },
+    "bikini_with_open_cardigan_or_sheer_shirt": {
+      "canonical_name": "bikini with open cardigan or sheer shirt",
+      "canonical_name_zh": "比基尼配开衫或薄衬衫",
+      "canonical_phrase": "patterned bikini top with open front cardigan or sheer button-up shirt",
+      "samples": [
+        "brown bikini with white hibiscus and palm leaf print, white lightweight open-front cardigan with frayed hem and delicate lace trim at the cuffs",
+        "yellow floral bikini top with thin straps, white open-front cardigan with blue embroidered text on sleeve",
+        "patterned bikini top with blue pink and white geometric design, sheer translucent purple button-up shirt open at front draped over shoulders",
+        "sheer lavender button-up shirt open to reveal a patterned blue and white bikini top underneath",
+        "translucent yellow button-up shirt with blue and white floral embroidery along the left side, light blue bikini top underneath",
+        "dark brown bikini top with white floral pattern, loose white cardigan draped open",
+        "brown bikini with white hibiscus and leaf pattern, bandeau cut top, high-cut sides bottom, loose white cardigan with lace trim along neckline and hem",
+        "dark blue bikini, pink open-front cardigan",
+        "blue patterned bikini, sheer lavender button-up shirt",
+        "floral patterned cardigan with deep V-neck, buttons down front, long sleeves rolled to mid-forearm, solid coral orange bikini bottoms",
+        "sheer yellow short-sleeved top with floral embroidery near the hem, light blue bikini bottom",
+        "black bikini top, loose pink cardigan with ruffled sleeves",
+        "dark blue bikini with thin straps, matching high-cut bottom, light pink open-front cardigan with visible buttons"
+      ],
+      "tags": [
+        "bikini",
+        "cardigan",
+        "sheer",
+        "floral",
+        "open-front"
+      ]
+    },
+    "casual_short_sleeve_top_and_pants": {
+      "canonical_name": "casual short sleeve top and pants",
+      "canonical_name_zh": "休闲短袖上衣长裤",
+      "canonical_phrase": "casual short sleeve top with matching or contrasting pants",
+      "samples": [
+        "navy blue short-sleeve top with gold toggle buttons, light purple capri pants with rolled cuffs, blue and white sneakers",
+        "dark blue short-sleeved shirt with frog closures, matching dark blue capri pants",
+        "navy blue short-sleeved blouse with traditional frog closures, light gray trousers",
+        "light blue shorts, dark top",
+        "light blue and white striped short-sleeve top with a tied waistband, light gray capri pants"
+      ],
+      "tags": [
+        "short sleeve",
+        "pants",
+        "casual",
+        "cotton",
+        "toggle buttons"
+      ]
+    },
+    "black_and_white_plaid_school_dress": {
+      "canonical_name": "black and white plaid school dress",
+      "canonical_name_zh": "黑白格纹校服裙",
+      "canonical_phrase": "black and white plaid short-sleeved school uniform dress with a fitted bodice and pleated skirt",
+      "samples": [
+        "black and white plaid short-sleeved school uniform dress with a fitted bodice and pleated skirt"
+      ],
+      "tags": [
+        "plaid",
+        "cotton",
+        "dress",
+        "preppy",
+        "pleated"
+      ]
+    },
+    "twopiece_bikini_with_thin_straps": {
+      "canonical_name": "two-piece bikini with thin straps",
+      "canonical_name_zh": "细带两件式比基尼",
+      "canonical_phrase": "two-piece bikini with thin straps and fitted cut",
+      "samples": [
+        "gold-colored two-piece bikini with thin straps and fitted bottom",
+        "coral pink two-piece bikini with thin straps and snug fit",
+        "light purple two-piece bikini with ruched fabric on the top and smooth texture on the bottom",
+        "two-piece bikini with black base, white polka dots, pink satin trim and bows, fabric smooth with visible seams",
+        "bright pink two-piece bikini with textured fabric",
+        "lavender two-piece bikini with thin straps and a high-cut bottom",
+        "lavender two-piece bikini with thin straps and tied sides",
+        "teal two-piece bikini with thin straps and wide waistband, smooth and fitted fabric",
+        "rust-orange two-piece bikini with twisted bandeau top featuring central pearl-like clasp and matching high-cut bottoms with similar clasp",
+        "bright blue two-piece bikini with thin straps and high-cut bottoms",
+        "vibrant blue two-piece bikini with thin straps and high-cut bottoms",
+        "vibrant pink and purple textured bikini with thin straps",
+        "form-fitting metallic silver two-piece bikini with thin straps and smooth reflective fabric",
+        "black two-piece bikini with smooth fabric, classic triangle cut top, high-cut brief bottom",
+        "white two-piece bikini with thin straps, fabric clinging to curves",
+        "two-piece olive green bikini with white trim, fabric clinging to skin with visible seams and folds",
+        "vibrant pink two-piece bikini with thin straps and side ties",
+        "light beige two-piece bikini with ruched fabric and thin straps",
+        "shiny metallic silver two-piece bikini with thin straps",
+        "lavender two-piece bikini with thin straps and fitted cut",
+        "lavender two-piece bikini with thin straps and side ties",
+        "vibrant royal blue two-piece bikini with thin straps and high-cut bottoms",
+        "light purple two-piece bikini with thin straps and smooth fabric texture"
+      ],
+      "tags": [
+        "bikini",
+        "two-piece",
+        "thin-strap",
+        "fitted",
+        "swimwear"
+      ]
+    },
+    "sheer_black_longsleeve_top_with_thin_straps": {
+      "canonical_name": "sheer black long-sleeve top with thin straps",
+      "canonical_name_zh": "薄纱黑长袖细肩带上衣",
+      "canonical_phrase": "sheer black long-sleeved top with thin black straps, black high-waisted pants",
+      "samples": [
+        "sheer black long-sleeved top with thin black straps, black high-waisted pants"
+      ],
+      "tags": [
+        "sheer",
+        "black",
+        "long-sleeve",
+        "minimalist",
+        "high-waisted"
+      ]
+    },
+    "thinstrapped_patterned_or_solid_bra_sets": {
+      "canonical_name": "thin-strapped patterned or solid bra sets",
+      "canonical_name_zh": "细肩带花纹或纯色文胸套装",
+      "canonical_phrase": "light beige or purple thin-strapped bra with matching underwear",
+      "samples": [
+        "tight-fitting pale yellow bra with thin straps",
+        "light beige patterned bra, white unbuttoned shirt open over torso, frayed denim shorts",
+        "light purple patterned bra and matching underwear",
+        "dark blue cropped sports bra, matching high-waisted shorts",
+        "light beige thin-strapped bra and matching briefs",
+        "teal-colored bra with thin straps and smooth fabric texture, fitting snugly across chest",
+        "light beige bra with thin straps and front bow tie, matching high-waisted underwear",
+        "light purple patterned bra with thin straps and gathered cups"
+      ],
+      "tags": [
+        "bra",
+        "underwear",
+        "thin-strap",
+        "patterned",
+        "beige"
+      ]
+    },
+    "vibrant_red_textured_bikini": {
+      "canonical_name": "vibrant red textured bikini",
+      "canonical_name_zh": "鲜艳红色纹理比基尼",
+      "canonical_phrase": "vibrant red textured bikini with triangle top and high-cut bottoms",
+      "samples": [
+        "vibrant red textured bikini top with a deep V-neckline",
+        "red bikini with triangle top and high-cut bottoms",
+        "red bikini with visible straps",
+        "red textured bikini",
+        "red sparkly bikini with triangle top and high-cut bottoms",
+        "vibrant red frilly bikini top with thin straps and ruffled texture"
+      ],
+      "tags": [
+        "red",
+        "bikini",
+        "textured",
+        "sparkly",
+        "frilly"
+      ]
+    },
+    "yellow_white_striped_bikini_top_red_shorts": {
+      "canonical_name": "yellow white striped bikini top red shorts",
+      "canonical_name_zh": "黄白条纹比基尼上衣红短裤",
+      "canonical_phrase": "yellow and white striped bikini top with thin straps, red shorts with white trim at the hem",
+      "samples": [
+        "yellow and white striped bikini top with thin straps, red shorts with white trim at the hem"
+      ],
+      "tags": [
+        "striped",
+        "bikini",
+        "shorts",
+        "summer",
+        "trim"
+      ]
+    },
+    "twotoned_oneshoulder_top": {
+      "canonical_name": "two-toned one-shoulder top",
+      "canonical_name_zh": "双色单肩上衣",
+      "canonical_phrase": "two-toned top with one shoulder strap in deep blue and the other in vibrant purple, soft fabric with natural folds",
+      "samples": [
+        "two-toned top with one shoulder strap in deep blue and the other in vibrant purple, soft fabric with natural folds"
+      ],
+      "tags": [
+        "blue",
+        "purple",
+        "soft fabric",
+        "one-shoulder",
+        "asymmetric"
+      ]
+    },
+    "shortsleeved_plaid_patterned_shirt": {
+      "canonical_name": "short-sleeved plaid patterned shirt",
+      "canonical_name_zh": "短袖格纹衬衫",
+      "canonical_phrase": "short-sleeved plaid shirt with intersecting colored stripes and natural fabric texture",
+      "samples": [
+        "short-sleeved plaid shirt with purple blue and white stripes",
+        "short-sleeved plaid shirt with intersecting black and white lines, fabric showing natural creases",
+        "red and beige plaid shirt over a gray t-shirt",
+        "plaid shirt with purple, pink, and white pattern",
+        "plaid shirt with black and white pattern, collar button fastened",
+        "plaid shirt with purple, pink, and white stripes"
+      ],
+      "tags": [
+        "plaid",
+        "short-sleeved",
+        "shirt",
+        "patterned",
+        "casual"
+      ]
+    },
+    "red_string_bikini_top_with_thin_straps": {
+      "canonical_name": "red string bikini top with thin straps",
+      "canonical_name_zh": "红细带比基尼上衣",
+      "canonical_phrase": "red string bikini top with thin straps",
+      "samples": [
+        "red string bikini top with thin straps"
+      ],
+      "tags": [
+        "red",
+        "string",
+        "bikini",
+        "minimalist",
+        "thin_straps"
+      ]
+    },
+    "white_bikini_with_red_polka_dots": {
+      "canonical_name": "white bikini with red polka dots",
+      "canonical_name_zh": "白底红波点比基尼",
+      "canonical_phrase": "white bikini with red polka dots, top with thin straps, bottom with high-cut sides",
+      "samples": [
+        "white bikini with red polka dots, top with thin straps, bottom with high-cut sides"
+      ],
+      "tags": [
+        "white",
+        "polka dots",
+        "bikini",
+        "summer",
+        "high-cut"
+      ]
+    },
+    "red_strapless_or_ribbed_top_with_blue_jeans": {
+      "canonical_name": "red strapless or ribbed top with blue jeans",
+      "canonical_name_zh": "红色无袖上衣配蓝色牛仔裤",
+      "canonical_phrase": "bright red strapless or ribbed top paired with blue denim jeans",
+      "samples": [
+        "bright red strapless bikini top, blue denim jeans with frayed hems and visible stitching",
+        "form-fitting bright red strapless top revealing cleavage, ripped blue denim jeans showing frayed knees",
+        "bright red strapless top, ripped blue jeans",
+        "vibrant red ribbed sleeveless top, medium-wash blue jeans with white drawstring",
+        "bright red strapless bandeau top, low-rise blue denim jeans",
+        "fitted red ribbed turtleneck top, blue denim jeans"
+      ],
+      "tags": [
+        "red",
+        "denim",
+        "strapless",
+        "casual",
+        "ripped"
+      ]
+    },
+    "white_collared_shirt_pleated_skirt": {
+      "canonical_name": "white collared shirt pleated skirt",
+      "canonical_name_zh": "白衬衫百褶裙",
+      "canonical_phrase": "crisp white short-sleeved collared shirt paired with dark pleated skirt",
+      "samples": [
+        "white short-sleeved collared shirt, navy blue pleated skirt with white drawstrings",
+        "white short-sleeved collared shirt with a red ribbon tie at the neck, gray pleated skirt ending above the knees, black knee-high socks, black dress shoes, dark blue shoulder bag with gray straps held in right hand",
+        "blue and white striped cropped short-sleeved shirt tied at the waist, dark denim skirt with a side slit",
+        "crisp white sleeveless collared shirt, black pleated skirt",
+        "crisp white short-sleeved shirt with a red necktie, dark gray pleated skirt ending above the knees",
+        "white short-sleeved collared shirt with dark blue trim, black pleated skirt",
+        "white cropped short-sleeved shirt tied at waist, blue pleated skirt",
+        "crisp white short-sleeved collared shirt tucked into navy blue pleated skirt with white drawstrings",
+        "crisp white short-sleeved collared shirt tied at the waist with a fabric bow, black skirt featuring large white polka dots",
+        "white short-sleeved collared shirt, dark blue pleated skirt",
+        "crisp white short-sleeved collared shirt with visible seams and natural folds, dark gray pleated skirt",
+        "crisp white short-sleeved collared shirt, pleated blue skirt with visible seams and folds, white slip-on shoes with blue trim",
+        "crisp white short-sleeved collared shirt with red ribbon tie at the neck, dark blue pleated skirt reaching mid-thigh, black knee-high socks",
+        "white short-sleeved collared shirt, navy blue pleated skirt with white drawstring"
+      ],
+      "tags": [
+        "white",
+        "pleated",
+        "collared",
+        "school",
+        "skirt"
+      ]
+    },
+    "rust_satin_bandeau_bikini_top": {
+      "canonical_name": "rust satin bandeau bikini top",
+      "canonical_name_zh": "锈色缎面比基尼上衣",
+      "canonical_phrase": "rust-colored satin bandeau bikini top with a central knot and pearl-like bead fastening",
+      "samples": [
+        "rust-colored satin bandeau bikini top with a central knot and pearl-like bead fastening"
+      ],
+      "tags": [
+        "rust",
+        "satin",
+        "bandeau",
+        "beachwear",
+        "knot"
+      ]
+    },
+    "pink_sleeveless_strapless_top_with_texture": {
+      "canonical_name": "pink sleeveless strapless top with texture",
+      "canonical_name_zh": "粉色无袖纹理上衣",
+      "canonical_phrase": "pink sleeveless strapless top with textured fabric and ruffled details",
+      "samples": [
+        "light pink strapless bandeau top with gathered fabric at the neckline",
+        "sleeveless top with sequin embellishments, leopard print fabric visible on lap",
+        "light pink textured off-the-shoulder top",
+        "strapless pink top with ruffled pleated texture",
+        "bright pink sleeveless top with textured fabric and visible seams along armholes",
+        "sleeveless top with pink and white patterned fabric",
+        "pink strapless top with visible fabric texture",
+        "pink sleeveless top with visible fabric texture",
+        "pink strapless top with textured fabric",
+        "patterned pink fabric covering tree root (worn as a seat)",
+        "strapless pink top with ruffled pleated texture across the bust"
+      ],
+      "tags": [
+        "pink",
+        "sleeveless",
+        "strapless",
+        "textured",
+        "ruffled"
+      ]
+    },
+    "colorful_ruffled_bikini_top_with_denim_jacket": {
+      "canonical_name": "colorful ruffled bikini top with denim jacket",
+      "canonical_name_zh": "彩色荷叶边比基尼上衣配牛仔夹克",
+      "canonical_phrase": "colorful bikini top with blue and yellow fabric ruffles, black denim jacket draped over shoulders, brown boots",
+      "samples": [
+        "colorful bikini top with blue and yellow fabric ruffles, black denim jacket draped over shoulders, brown boots"
+      ],
+      "tags": [
+        "bikini",
+        "denim",
+        "ruffles",
+        "colorful",
+        "boots"
+      ]
+    },
+    "patterned_draped_fabric_garment": {
+      "canonical_name": "patterned draped fabric garment",
+      "canonical_name_zh": "印花垂坠织物服饰",
+      "canonical_phrase": "flowing patterned fabric garment with intricate leaf or geometric designs draped over body",
+      "samples": [
+        "floral patterned fabric draped over chest and hips featuring large green, brown, and white leaf motifs",
+        "patterned brown fabric tied at the chest",
+        "light green patterned garment with white geometric designs, fabric draping softly over lap",
+        "flowing pinkish-brown fabric with intricate paisley-like patterns",
+        "patterned yukata with geometric black and white design",
+        "flowing pinkish-red fabric with intricate paisley pattern, rich textured material, folds cascading over lap and thighs",
+        "vibrant pink floral shirt with white hibiscus patterns, thin light brown strings forming a halter top underneath"
+      ],
+      "tags": [
+        "patterned",
+        "draped",
+        "fabric",
+        "floral",
+        "yukata"
+      ]
+    },
+    "fitted_orange_knit_top": {
+      "canonical_name": "fitted orange knit top",
+      "canonical_name_zh": "修身橙色针织上衣",
+      "canonical_phrase": "fitted orange long-sleeved knit top with decorative stitching along the neckline",
+      "samples": [
+        "fitted orange long-sleeved knit top with decorative stitching along the neckline"
+      ],
+      "tags": [
+        "orange",
+        "knit",
+        "top",
+        "fitted",
+        "stitching"
+      ]
+    },
+    "green_tshirt_with_yellow_text": {
+      "canonical_name": "green t-shirt with yellow text",
+      "canonical_name_zh": "绿底黄字T恤",
+      "canonical_phrase": "green short-sleeved t-shirt with yellow text or graphic on chest",
+      "samples": [
+        "green crew neck t-shirt with yellow 'Bombers' lettering across the chest, denim shorts",
+        "green short-sleeved t-shirt with yellow text on the chest",
+        "bright green short-sleeve t-shirt with yellow graphic print across the chest, light blue denim shorts, white low-top sneakers with red trim",
+        "vibrant green crew neck t-shirt with bold yellow script reading Bombers and smaller yellow text above it",
+        "yellow and black striped t-shirt with a cartoon bear graphic, blue denim shorts, dark red open-toe sandals",
+        "green cotton t-shirt with yellow text and logo on the chest",
+        "dark green t-shirt with faint white lettering",
+        "green short-sleeved t-shirt with faint yellow graphic on chest, blue denim jeans with visible waistband",
+        "fitted green t-shirt with yellow text print, denim shorts"
+      ],
+      "tags": [
+        "green",
+        "cotton",
+        "t-shirt",
+        "casual",
+        "yellow text"
+      ]
+    },
+    "loose_white_pleated_midi_skirt": {
+      "canonical_name": "loose white pleated midi skirt",
+      "canonical_name_zh": "宽松白色百褶中长裙",
+      "canonical_phrase": "loose-fitting white pleated midi skirt with subtle dot texture",
+      "samples": [
+        "loose-fitting white pleated midi skirt with subtle dot texture"
+      ],
+      "tags": [
+        "white",
+        "cotton",
+        "midi_skirt",
+        "casual",
+        "dot_pattern"
+      ]
+    },
+    "colorful_bikini_tops_with_varied_bottoms": {
+      "canonical_name": "colorful bikini tops with varied bottoms",
+      "canonical_name_zh": "多彩比基尼上衣配多样下装",
+      "canonical_phrase": "vibrant red or patterned bikini top paired with skirts, shorts, or towels",
+      "samples": [
+        "patterned light-colored top with red trim, red bikini bottoms",
+        "red bikini top, pink and white pleated skirt",
+        "vibrant red bikini top and matching bottoms with visible red zipper detail on the hip",
+        "red triangle bikini top, white towel wrapped around waist",
+        "red triangle bikini top, light pink towel wrapped around waist",
+        "red bikini top, pink and white button-up skirt",
+        "black and white striped bikini top, matching skirt, white open shirt layered over",
+        "red string bikini top and matching bottoms, light pink towel wrapped around waist",
+        "black bikini top with white trim, red-and-white checkered capri pants",
+        "red bikini top, white wrap skirt",
+        "red bikini top with decorative pom-pom embellishment on left side, black bikini bottoms",
+        "red bikini top with white polka dots and black trim, fabric clinging to skin with visible texture and folds",
+        "red textured bikini top with floral embellishments, black bikini bottoms",
+        "yellow and white striped bikini top, red shorts with blue trim",
+        "red halter top bikini with white polka dots and black trim along the edges",
+        "black string bikini top, light blue towel wrapped around waist"
+      ],
+      "tags": [
+        "bikini",
+        "red",
+        "swimwear",
+        "summer",
+        "towel"
+      ]
+    },
+    "pink_string_bikini_with_thin_straps": {
+      "canonical_name": "pink string bikini with thin straps",
+      "canonical_name_zh": "粉色细带比基尼",
+      "canonical_phrase": "pink string bikini with thin straps and tied back design",
+      "samples": [
+        "pink string bikini with thin straps, halter neck design top, tied back, low-rise cut bottom with side ties",
+        "floral patterned bikini with small pink and orange blossoms on white fabric",
+        "pink string bikini with floral embellishments on the hips",
+        "pink and white patterned bikini top with thin straps and a tie-front design",
+        "light pink bikini top with thin straps, white bikini bottoms, sheer light blue cover-up draped over torso",
+        "light pink string bikini top with thin straps and matching ties, light blue denim shorts with a white waistband and pink ties, white shirt with black polka dots held in left hand",
+        "bright pink string bikini top with thin straps and visible back ties"
+      ],
+      "tags": [
+        "pink",
+        "bikini",
+        "string",
+        "thin straps",
+        "tied back"
+      ]
+    },
+    "tight_pink_underwear_loose_red_longsleeved_top": {
+      "canonical_name": "tight pink underwear loose red long-sleeved top",
+      "canonical_name_zh": "紧身粉内裤松红长袖上衣",
+      "canonical_phrase": "tight pink underwear, loose red long-sleeved top bunched at the waist",
+      "samples": [
+        "tight pink underwear, loose red long-sleeved top bunched at the waist"
+      ],
+      "tags": [
+        "pink",
+        "red",
+        "underwear",
+        "casual",
+        "bunched"
+      ]
+    },
+    "white_lace_lingerie_with_thin_straps": {
+      "canonical_name": "white lace lingerie with thin straps",
+      "canonical_name_zh": "白色蕾丝细带内衣",
+      "canonical_phrase": "white lace lingerie with thin straps and delicate trim",
+      "samples": [
+        "white textured thong underwear, black lace lingerie",
+        "white lace lingerie with thin straps and delicate lace trim",
+        "white lace-trimmed top with thin straps revealing cleavage",
+        "delicate lace-trimmed white lingerie with thin straps and a bow at the side of the waistband"
+      ],
+      "tags": [
+        "white",
+        "lace",
+        "lingerie",
+        "delicate",
+        "thin_straps"
+      ]
+    },
+    "dark_green_satin_slip_skirt_pulled_low": {
+      "canonical_name": "dark green satin slip skirt pulled low",
+      "canonical_name_zh": "深绿缎面低腰睡裙",
+      "canonical_phrase": "brown thong, dark green satin slip skirt pulled low, thin brown bra strap visible at lower back",
+      "samples": [
+        "brown thong, dark green satin slip skirt pulled low, thin brown bra strap visible at lower back"
+      ],
+      "tags": [
+        "satin",
+        "slip_skirt",
+        "dark_green",
+        "low_waist",
+        "brown_thong"
+      ]
+    },
+    "textured_blue_bikini_with_gray_tshirt": {
+      "canonical_name": "textured blue bikini with gray t-shirt",
+      "canonical_name_zh": "纹理蓝比基尼配灰T恤",
+      "canonical_phrase": "bright blue textured bikini with visible seams, light gray oversized t-shirt draped revealing red logo on chest",
+      "samples": [
+        "bright blue textured bikini with visible seams, light gray oversized t-shirt draped revealing red logo on chest"
+      ],
+      "tags": [
+        "blue",
+        "textured",
+        "bikini",
+        "oversized",
+        "logo"
+      ]
+    },
+    "dark_blue_denim_jeans_and_tops": {
+      "canonical_name": "dark blue denim jeans and tops",
+      "canonical_name_zh": "深蓝牛仔套装",
+      "canonical_phrase": "dark blue denim jeans, crop top, overall, shorts, rolled up",
+      "samples": [
+        "patterned crop top, dark blue jeans",
+        "dark blue denim overall-style garment with thin straps and visible stitching",
+        "dark blue denim one-piece outfit with thin straps and a fitted waist",
+        "dark blue denim jeans",
+        "light blue denim shorts",
+        "denim jeans rolled up to mid-calf"
+      ],
+      "tags": [
+        "dark blue",
+        "denim",
+        "jeans",
+        "casual",
+        "fitted"
+      ]
+    },
+    "white_collared_shirt_with_neck_accessory": {
+      "canonical_name": "white collared shirt with neck accessory",
+      "canonical_name_zh": "白色领口衬衫配颈饰",
+      "canonical_phrase": "white collared shirt with visible collar and neck accessory like ribbon or bow tie",
+      "samples": [
+        "white collared shirt with visible collar and shoulder seams",
+        "crisp white short-sleeved collared shirt with a red ribbon tie at the neckline",
+        "white collared shirt with a black bow tie, dark skirt with a visible front seam",
+        "red collar with metal chain leash attached",
+        "simple collared shirts, one white, one dark blue, fabric clinging to damp skin",
+        "white collared shirt with soft fabric texture",
+        "white short-sleeved collared shirt with red ribbon tie at the neckline",
+        "white collared shirt"
+      ],
+      "tags": [
+        "white",
+        "cotton",
+        "collared shirt",
+        "formal",
+        "ribbon tie"
+      ]
+    },
+    "white_sleeveless_top_dark_gray_cropped_hoodie": {
+      "canonical_name": "white sleeveless top dark gray cropped hoodie",
+      "canonical_name_zh": "白无袖上衣配深灰短款连帽衫",
+      "canonical_phrase": "white sleeveless top under a dark gray cropped hoodie, dark gray wide-leg pants, white sneakers",
+      "samples": [
+        "white sleeveless top under a dark gray cropped hoodie, dark gray wide-leg pants, white sneakers"
+      ],
+      "tags": [
+        "sleeveless",
+        "cropped",
+        "hoodie",
+        "wide-leg",
+        "sneakers"
+      ]
+    },
+    "light_pink_floral_wrap_skirt_with_white_ribbon_ties": {
+      "canonical_name": "light pink floral wrap skirt with white ribbon ties",
+      "canonical_name_zh": "浅粉碎花系带裹裙",
+      "canonical_phrase": "light pink floral wrap skirt with white ribbon ties at the hips, revealing a white bikini bottom",
+      "samples": [
+        "light pink floral wrap skirt with white ribbon ties at the hips, revealing a white bikini bottom"
+      ],
+      "tags": [
+        "pink",
+        "floral",
+        "wrap",
+        "ribbon",
+        "bikini"
+      ]
+    },
+    "plain_white_shortsleeved_tshirt": {
+      "canonical_name": "plain white short-sleeved t-shirt",
+      "canonical_name_zh": "纯白短袖T恤",
+      "canonical_phrase": "plain white short-sleeved t-shirt with soft fabric texture and visible seams",
+      "samples": [
+        "plain white short-sleeved t-shirt with soft fabric texture and visible seams"
+      ],
+      "tags": [
+        "white",
+        "cotton",
+        "t-shirt",
+        "casual",
+        "seams"
+      ]
+    },
+    "blue_white_striped_pajamas": {
+      "canonical_name": "blue white striped pajamas",
+      "canonical_name_zh": "蓝白条纹睡衣",
+      "canonical_phrase": "blue and white vertically striped pajamas with a buttoned collar and chest pocket",
+      "samples": [
+        "blue and white vertically striped pajamas with a buttoned collar and chest pocket"
+      ],
+      "tags": [
+        "blue",
+        "cotton",
+        "pajamas",
+        "casual",
+        "pocket"
+      ]
+    },
+    "distressed_white_or_gray_tshirt_with_denim_shorts": {
+      "canonical_name": "distressed white or gray t-shirt with denim shorts",
+      "canonical_name_zh": "做旧灰白T恤配牛仔短裤",
+      "canonical_phrase": "white or gray distressed t-shirt with black text or graphic, ripped denim shorts with frayed hems",
+      "samples": [
+        "cropped white t-shirt with red circular graphic print, distressed blue denim shorts with frayed hems",
+        "white distressed t-shirt with black embroidered text reading 'REBELS' across the chest, fabric showing frayed edges on sleeves and neckline",
+        "white short-sleeve t-shirt with black 'REBELS' lettering across the chest, distressed blue denim shorts with ripped knees and frayed hems",
+        "light gray short-sleeved t-shirt with black trim on collar and sleeves, distressed blue denim shorts with multiple rips on thighs and knees, brown belt",
+        "light gray short-sleeved t-shirt with faint dark graphic print, denim shorts with frayed hem",
+        "white t-shirt with orange 'South Carolina' text and black sleeve accents, light blue denim shorts with frayed hem",
+        "white short-sleeved t-shirt with black lettering, distressed light blue denim shorts with frayed edges",
+        "white short-sleeved t-shirt with black horizontal text across chest, faded blue denim shorts ending above knees"
+      ],
+      "tags": [
+        "denim",
+        "t-shirt",
+        "distressed",
+        "shorts",
+        "frayed"
+      ]
+    },
+    "sleeveless_top_with_thin_straps": {
+      "canonical_name": "sleeveless top with thin straps",
+      "canonical_name_zh": "细肩带无袖上衣",
+      "canonical_phrase": "sleeveless top with thin straps, various colors and textures",
+      "samples": [
+        "dark thin strap garment",
+        "light blue thin-strapped camisole top with soft fabric texture",
+        "black sleeveless tank top with thin straps",
+        "black strap top",
+        "black tank top with thin straps",
+        "white thin-strapped top",
+        "sleeless textured top with visible shoulder straps",
+        "sleeless textured top",
+        "light yellow sleeveless top with thin straps",
+        "dark top with thin straps",
+        "sheer white mesh top with thin straps and a delicate pattern",
+        "sheer dark red top with thin orange straps, tied front neckline",
+        "black sleeveless top with thin straps, white athletic shoes with laces",
+        "black ruffled strap top with visible fabric texture, revealing collarbones and upper chest"
+      ],
+      "tags": [
+        "sleeveless",
+        "thin_straps",
+        "tank_top",
+        "casual",
+        "mesh"
+      ]
+    },
+    "black_collared_shirt_with_white_shoulder_stripes_thin_white_vertical_stripes": {
+      "canonical_name": "black collared shirt with white shoulder stripes",
+      "canonical_name_zh": "黑底白肩条纹衬衫",
+      "canonical_phrase": "black collared shirt with thin white vertical stripes on shoulders",
+      "samples": [
+        "black collared shirt with thin white vertical stripes on shoulders"
+      ],
+      "tags": [
+        "black",
+        "cotton",
+        "collared",
+        "minimalist",
+        "stripes"
+      ]
+    },
+    "ribbed_orange_tank_top_with_purple_string_bikini_bottoms": {
+      "canonical_name": "ribbed orange tank top with purple string bikini bottoms",
+      "canonical_name_zh": "罗纹橙色背心配紫色比基尼底裤",
+      "canonical_phrase": "ribbed orange tank top, purple string bikini bottoms, denim shorts held at waist level",
+      "samples": [
+        "ribbed orange tank top, purple string bikini bottoms, denim shorts held at waist level"
+      ],
+      "tags": [
+        "orange",
+        "ribbed",
+        "tank top",
+        "bikini bottoms",
+        "denim shorts"
+      ]
+    },
+    "striped_floral_bikini_with_jacket": {
+      "canonical_name": "striped floral bikini with jacket",
+      "canonical_name_zh": "条纹花卉比基尼配外套",
+      "canonical_phrase": "yellow and white striped or floral bikini with thin straps and colorful zip-up hoodie",
+      "samples": [
+        "yellow and white striped bikini with thin straps, pink jacket held in hand",
+        "yellow floral patterned bikini with thin straps, white zip-up hoodie with blue lettering partially visible",
+        "royal blue zip-up hoodie unzipped, multi-colored striped bikini top with thin straps",
+        "multi-colored striped bikini with orange straps, blue jacket draped over left shoulder",
+        "yellow floral patterned bikini with thin straps and yellow trim, white zip-up hoodie with blue embroidery on sleeves",
+        "bright yellow and white striped bikini with thin straps and a central clasp, pink hooded towel draped over head with visible yellow and blue trim"
+      ],
+      "tags": [
+        "bikini",
+        "hoodie",
+        "striped",
+        "floral",
+        "casual"
+      ]
+    },
+    "dark_blue_floral_lace_bikini": {
+      "canonical_name": "dark blue floral lace bikini",
+      "canonical_name_zh": "深蓝蕾丝花边比基尼",
+      "canonical_phrase": "dark blue bikini with floral lace detailing on the top",
+      "samples": [
+        "dark blue bikini with floral lace detailing on the top"
+      ],
+      "tags": [
+        "dark blue",
+        "lace",
+        "bikini",
+        "floral",
+        "detailing"
+      ]
+    },
+    "black_satin_slip_dress_with_thin_straps": {
+      "canonical_name": "black satin slip dress with thin straps",
+      "canonical_name_zh": "黑色缎面吊带裙",
+      "canonical_phrase": "form-fitting black satin slip dress with thin spaghetti straps and V-neckline",
+      "samples": [
+        "dark green satin slip dress with thin straps",
+        "black satin slip dress with lace trim at the neckline and thin spaghetti straps",
+        "form-fitting black spaghetti strap dress with vertical pleats along the bodice and skirt",
+        "black spaghetti strap dress with V-neckline, sheer black thigh-high stockings, black strappy high heels"
+      ],
+      "tags": [
+        "black",
+        "satin",
+        "slip dress",
+        "spaghetti strap",
+        "sheer"
+      ]
+    },
+    "soft_draped_fabric_garment": {
+      "canonical_name": "soft draped fabric garment",
+      "canonical_name_zh": "柔软垂坠面料服饰",
+      "canonical_phrase": "soft draped fabric garment with flowing patterns and sheer textures",
+      "samples": [
+        "black fabric garment draping softly",
+        "teal fabric clinging to form",
+        "strapless garment with white and orange patterned fabric wrapped around torso",
+        "sheer translucent pinkish-gray fabric draped over torso and lower body",
+        "sheer translucent gray fabric draped loosely around hips",
+        "light blue fabric garment draped low at waist",
+        "blue mesh netting garment covering torso",
+        "soft fabric of orange and white with abstract swirling patterns loosely draped over torso and one thigh, revealing form",
+        "sheer white mesh garment with thin straps",
+        "flowing white garment with subtle dark patterns along the seams",
+        "thin-strapped garment",
+        "light blue fabric draping over hip and thigh",
+        "traditional blue embroidered garment with gold thread patterns on upper torso, red fabric draped around waist",
+        "crumpled white fabric around hips"
+      ],
+      "tags": [
+        "draped",
+        "sheer",
+        "fabric",
+        "flowing",
+        "patterned"
+      ]
+    },
+    "white_polo_shirt_red_black_plaid_skirt": {
+      "canonical_name": "white polo shirt red black plaid skirt",
+      "canonical_name_zh": "白 polo 红黑格纹裙",
+      "canonical_phrase": "white short-sleeved polo shirt with small embroidered emblem on left chest, red and black plaid skirt, white argyle socks with red and black diamond patterns, black flat shoes",
+      "samples": [
+        "white short-sleeved polo shirt with small embroidered emblem on left chest, red and black plaid skirt, white argyle socks with red and black diamond patterns, black flat shoes"
+      ],
+      "tags": [
+        "polo",
+        "plaid",
+        "argyle",
+        "preppy",
+        "embroidered"
+      ]
+    },
+    "light_blue_skirt_with_varied_tops": {
+      "canonical_name": "light blue skirt with varied tops",
+      "canonical_name_zh": "浅蓝裙装搭配",
+      "canonical_phrase": "light blue skirt paired with white or blue tops",
+      "samples": [
+        "light blue ruffled skirt",
+        "loose white cotton skirt reaching mid-calf",
+        "light blue sheer knitted bolero with a loose grid pattern over a white fitted camisole, light blue satin-like skirt",
+        "light blue high-waisted skirt with small white polka dots, fabric gathered at waistline",
+        "light blue crocheted bolero with openwork pattern over a white fitted top, shimmering light blue satin skirt",
+        "bright blue knee-length skirt with soft pleats and visible fabric folds"
+      ],
+      "tags": [
+        "light blue",
+        "skirt",
+        "cotton",
+        "casual",
+        "polka dots"
+      ]
+    },
+    "dark_gray_longsleeved_shirt": {
+      "canonical_name": "dark gray long-sleeved shirt",
+      "canonical_name_zh": "深灰长袖衬衫",
+      "canonical_phrase": "dark gray long-sleeved shirt",
+      "samples": [
+        "dark gray long-sleeved shirt"
+      ],
+      "tags": [
+        "dark gray",
+        "cotton",
+        "shirt",
+        "casual",
+        "long sleeve"
+      ]
+    },
+    "blue_sleeveless_midriff_top_with_denim_jeans": {
+      "canonical_name": "blue sleeveless midriff top with denim jeans",
+      "canonical_name_zh": "蓝色露脐无袖上衣配牛仔",
+      "canonical_phrase": "blue sleeveless top revealing midriff, blue denim jeans with visible stitching and pockets",
+      "samples": [
+        "blue sleeveless top revealing midriff, blue denim jeans with visible stitching and pockets"
+      ],
+      "tags": [
+        "blue",
+        "denim",
+        "sleeveless",
+        "casual",
+        "stitching"
+      ]
+    },
+    "white_textured_lace_bralette_set": {
+      "canonical_name": "white textured lace bralette set",
+      "canonical_name_zh": "白色蕾丝纹理文胸套装",
+      "canonical_phrase": "white textured bralette with delicate lace trim and matching bottoms",
+      "samples": [
+        "white textured bra with thin straps",
+        "white textured triangle bra, matching panties",
+        "white lace-trimmed bra, black lace panties",
+        "white textured bralette with delicate lace trim along straps and edges",
+        "white textured bra, black lace-patterned sheer shorts",
+        "white bra with red polka dots, matching high-waisted shorts",
+        "beige lace-trimmed triangle bra with floral embroidery",
+        "white lace-trimmed bralette",
+        "white lace-trimmed bra with thin straps, matching white underwear with ribbed waistband",
+        "white lace bralette, dark blue shorts",
+        "white lace-trimmed bralette, fabric draped loosely over torso",
+        "patterned two-tone bralette with floral and paisley designs in earthy browns and greens, matching lace shorts",
+        "white textured triangle bra with lace trim on straps and edges"
+      ],
+      "tags": [
+        "white",
+        "lace",
+        "bralette",
+        "textured",
+        "matching"
+      ]
+    },
+    "floral_patterned_crop_top_and_shorts": {
+      "canonical_name": "floral patterned crop top and shorts",
+      "canonical_name_zh": "花卉图案短上衣与短裤",
+      "canonical_phrase": "floral patterned crop top paired with matching shorts",
+      "samples": [
+        "low-rise floral patterned shorts",
+        "patterned floral crop top with thin straps, white textured crochet mini skirt",
+        "patterned short-sleeve crop top with textured mesh-like weave, frayed denim shorts",
+        "tight-fitting peach-colored mini skirt with textured woven fabric, visible seams along the hem, zipper detail at the top edge, sitting high on the hips",
+        "loose-fitting floral shorts with large red and blue rose prints"
+      ],
+      "tags": [
+        "floral",
+        "crop top",
+        "shorts",
+        "textured",
+        "casual"
+      ]
+    },
+    "black_white_checkered_short_sleeve_shirt_floral_skirt": {
+      "canonical_name": "black white checkered short sleeve shirt floral skirt",
+      "canonical_name_zh": "黑白格纹短袖衬衫碎花裙",
+      "canonical_phrase": "black and white checkered short-sleeve shirt, light-colored skirt with a floral pattern",
+      "samples": [
+        "black and white checkered short-sleeve shirt, light-colored skirt with a floral pattern"
+      ],
+      "tags": [
+        "checkered",
+        "floral",
+        "cotton",
+        "casual",
+        "skirt"
+      ]
+    },
+    "rustorange_sleeveless_vest_over_white_longsleeved_shirt": {
+      "canonical_name": "rust-orange sleeveless vest over white long-sleeved shirt",
+      "canonical_name_zh": "锈橙无袖背心配白长袖",
+      "canonical_phrase": "rust-orange sleeveless vest over a white long-sleeved shirt, dark wide-leg pants",
+      "samples": [
+        "rust-orange sleeveless vest over a white long-sleeved shirt, dark wide-leg pants"
+      ],
+      "tags": [
+        "rust-orange",
+        "vest",
+        "layered",
+        "wide-leg",
+        "cotton"
+      ]
+    },
+    "light_colored_patterned_knit_top": {
+      "canonical_name": "light colored patterned knit top",
+      "canonical_name_zh": "浅色图案针织上衣",
+      "canonical_phrase": "light colored soft knit top with colorful patterns and playful prints",
+      "samples": [
+        "colorful striped knit top with cartoon bear print and word MYSTERY across chest",
+        "light-colored top",
+        "light-colored plain top",
+        "light-colored pajama top with small cartoon prints",
+        "light-colored patterned top",
+        "loose-fitting gray textured top",
+        "dark-colored top with visible neckline",
+        "yellow and blue crocheted top with intricate openwork pattern",
+        "colorful short-sleeved top with geometric and cartoon pattern",
+        "light-colored soft fabric top"
+      ],
+      "tags": [
+        "light",
+        "knit",
+        "top",
+        "patterned",
+        "cartoon"
+      ]
+    }
+  },
+  "statistics": {
+    "total_clusters": 172,
+    "multi_sample_clusters": 81,
+    "single_sample_clusters": 91
+  }
+}

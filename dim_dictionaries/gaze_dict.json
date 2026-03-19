@@ -1,0 +1,1150 @@
+{
+  "dimension": "gaze",
+  "version": "1.0",
+  "generated_date": "2026-03-18",
+  "mode": "clustered",
+  "clusters": {
+    "eyes_gazing_forward": {
+      "canonical_name": "eyes gazing forward",
+      "canonical_name_zh": "目光向前凝视",
+      "canonical_phrase": "eyes gazing forward",
+      "samples": [
+        "eyes gazing forward"
+      ],
+      "tags": [
+        "blue",
+        "skin",
+        "portrait",
+        "calm",
+        "pupil"
+      ]
+    },
+    "directed_gaze_upward_and_forward": {
+      "canonical_name": "directed gaze upward and forward",
+      "canonical_name_zh": "向上向前凝视",
+      "canonical_phrase": "gaze directed slightly upward and forward",
+      "samples": [
+        "directed slightly upward",
+        "directed towards the right side of the frame",
+        "directed forward",
+        "directed rightward",
+        "directed slightly upward and to the right",
+        "directed slightly upward and to the side",
+        "directed upward and to the side",
+        "directed upward",
+        "directed forward and slightly up"
+      ],
+      "tags": [
+        "upward",
+        "forward",
+        "looking",
+        "profile",
+        "side"
+      ]
+    },
+    "eyes_wide_upward_camera_gaze": {
+      "canonical_name": "eyes wide upward camera gaze",
+      "canonical_name_zh": "双眼圆睁向上凝视",
+      "canonical_phrase": "eyes wide and looking upward toward the camera",
+      "samples": [
+        "eyes wide and looking upward toward the camera"
+      ],
+      "tags": [
+        "blue",
+        "silk",
+        "hoodie",
+        "dreamy",
+        "pupil dilation"
+      ]
+    },
+    "downward_halflidded_gaze": {
+      "canonical_name": "downward half-lidded gaze",
+      "canonical_name_zh": "向下半垂眼凝视",
+      "canonical_phrase": "eyes half-lidded and gazing downward",
+      "samples": [
+        "directed slightly downward, eyes half-lidded",
+        "looking down",
+        "eyes half-lidded gazing downward and to her left",
+        "eyes gazing downward",
+        "eyes cast downward",
+        "downward with half-lidded eyes",
+        "looking downward with eyes half-lidded",
+        "eyes half-lidded and gazing downward",
+        "eyes looking down and away",
+        "looking downward at a white scalloped plate"
+      ],
+      "tags": [
+        "soft",
+        "dreamy",
+        "subtle",
+        "contemplative",
+        "downcast"
+      ]
+    },
+    "forward_intense_gaze": {
+      "canonical_name": "forward intense gaze",
+      "canonical_name_zh": "直视专注眼神",
+      "canonical_phrase": "forward, intense",
+      "samples": [
+        "forward, intense"
+      ],
+      "tags": [
+        "blue",
+        "leather",
+        "hoodie",
+        "cyberpunk",
+        "pupil dilation"
+      ]
+    },
+    "direct_soft_gaze_at_camera": {
+      "canonical_name": "direct soft gaze at camera",
+      "canonical_name_zh": "直视镜头柔和眼神",
+      "canonical_phrase": "soft gaze looking directly at the camera with gentle eyes",
+      "samples": [
+        "looking directly at camera with soft gaze",
+        "gazing directly at the camera",
+        "soft gaze looking directly at the camera",
+        "eyes gazing directly at the camera",
+        "gazing directly at camera",
+        "looking directly at camera",
+        "soft gaze, looking directly at the camera",
+        "gentle gaze, looking directly at camera",
+        "looking directly at the camera",
+        "soft gaze directed toward the camera",
+        "soft gaze looking directly at camera",
+        "looking directly at camera with intense gaze"
+      ],
+      "tags": [
+        "soft",
+        "direct",
+        "eye_contact",
+        "portrait",
+        "gentle"
+      ]
+    },
+    "directed_slightly_offcamera": {
+      "canonical_name": "directed slightly off-camera",
+      "canonical_name_zh": "视线微偏镜头外",
+      "canonical_phrase": "directed slightly off-camera",
+      "samples": [
+        "directed slightly off-camera"
+      ],
+      "tags": [
+        "blue",
+        "denim",
+        "hoodie",
+        "casual",
+        "profile"
+      ]
+    },
+    "gaze_directed_forward_or_upward": {
+      "canonical_name": "gaze directed forward or upward",
+      "canonical_name_zh": "目光向前或向上",
+      "canonical_phrase": "gazing forward or slightly upward into the distance",
+      "samples": [
+        "beak pointed forward",
+        "gazing forward",
+        "looking upward and to the left",
+        "gazing toward white lilies held aloft",
+        "gazing outward",
+        "gazing slightly upward",
+        "gazing upward and to the side",
+        "gazing thoughtfully into the distance"
+      ],
+      "tags": [
+        "forward",
+        "upward",
+        "distant",
+        "thoughtful",
+        "profile"
+      ]
+    },
+    "gazing_upward_toward_light_source": {
+      "canonical_name": "gazing upward toward light source",
+      "canonical_name_zh": "仰望光源",
+      "canonical_phrase": "eyes gazing upward toward the bright sun or sky",
+      "samples": [
+        "gazing toward the sun",
+        "looking upward toward the sun",
+        "eyes gazing toward light source",
+        "gazing toward the sky",
+        "gazing toward the bright blue sky",
+        "looking upward toward the sky",
+        "looking upward toward bright sun",
+        "eyes gazing skyward"
+      ],
+      "tags": [
+        "sky",
+        "sun",
+        "upward",
+        "bright",
+        "light"
+      ]
+    },
+    "directed_gaze_toward_camera": {
+      "canonical_name": "directed gaze toward camera",
+      "canonical_name_zh": "直视镜头",
+      "canonical_phrase": "directed gaze toward camera with soft focused eyes",
+      "samples": [
+        "directed straight at camera",
+        "toward the camera",
+        "directed slightly upward toward camera",
+        "directed straight at the camera",
+        "directed upward toward the camera",
+        "directed at the camera",
+        "directly at camera",
+        "directed slightly downward toward the camera",
+        "toward camera",
+        "directed slightly upward toward the camera",
+        "directed toward the camera",
+        "directly at the camera",
+        "directed slightly downward then turning to look directly at camera",
+        "directed towards the camera",
+        "directed towards camera",
+        "directed straight at the camera with soft focused eyes"
+      ],
+      "tags": [
+        "eye_contact",
+        "portrait",
+        "direct_look",
+        "front_view",
+        "soft_focus"
+      ]
+    },
+    "looking_down_towards_hand": {
+      "canonical_name": "looking down towards hand",
+      "canonical_name_zh": "低头看向手",
+      "canonical_phrase": "looking down towards hand",
+      "samples": [
+        "looking down towards hand"
+      ],
+      "tags": [
+        "blue",
+        "silk",
+        "dress",
+        "melancholy",
+        "gloves"
+      ]
+    },
+    "looking_over_right_shoulder_toward_viewer": {
+      "canonical_name": "looking over right shoulder toward viewer",
+      "canonical_name_zh": "右肩回望",
+      "canonical_phrase": "looking over right shoulder toward viewer",
+      "samples": [
+        "looking over right shoulder toward viewer"
+      ],
+      "tags": [
+        "gaze",
+        "shoulder",
+        "viewer",
+        "profile",
+        "intense"
+      ]
+    },
+    "looking_towards_the_mirror": {
+      "canonical_name": "looking towards the mirror",
+      "canonical_name_zh": "凝视镜面",
+      "canonical_phrase": "looking towards the mirror",
+      "samples": [
+        "looking towards the mirror"
+      ],
+      "tags": [
+        "silver",
+        "chrome",
+        "mirror",
+        "introspective",
+        "reflection"
+      ]
+    },
+    "gaze_directed_toward_upper_left": {
+      "canonical_name": "gaze directed toward upper left",
+      "canonical_name_zh": "目光朝向左上",
+      "canonical_phrase": "gaze directed toward the upper left corner of the frame",
+      "samples": [
+        "toward the right side of the frame",
+        "toward the left",
+        "directed toward upper left",
+        "upward and to the left",
+        "upward and left",
+        "upward and to the right",
+        "toward the upper left",
+        "toward upper left",
+        "directed toward the upper left",
+        "directed toward upper right"
+      ],
+      "tags": [
+        "left",
+        "upward",
+        "diagonal",
+        "profile",
+        "looking"
+      ]
+    },
+    "soft_gaze_directed_toward_left": {
+      "canonical_name": "soft gaze directed toward left",
+      "canonical_name_zh": "柔和目光向左",
+      "canonical_phrase": "soft gaze directed thoughtfully toward the left",
+      "samples": [
+        "gazing thoughtfully toward left",
+        "gazing leftward",
+        "looking away from camera, gazing toward upper left",
+        "gazing thoughtfully toward the left",
+        "soft gaze looking to the left",
+        "eyes gazing toward the upper left",
+        "soft gaze directed toward the upper left",
+        "focused and calm, gazing toward the left"
+      ],
+      "tags": [
+        "left",
+        "soft",
+        "calm",
+        "thoughtful",
+        "away"
+      ]
+    },
+    "soft_gaze_looking_slightly_offcamera": {
+      "canonical_name": "soft gaze looking slightly off-camera",
+      "canonical_name_zh": "柔和目光微侧视",
+      "canonical_phrase": "soft gaze directed slightly off-camera with alert eyes",
+      "samples": [
+        "directed slightly off-camera, eyes wide and alert",
+        "soft gaze directed slightly off-camera",
+        "soft gaze directed slightly upward toward the camera",
+        "soft gaze looking slightly off-camera",
+        "looking off-camera",
+        "gentle gaze directed slightly off-camera",
+        "looking slightly off-camera",
+        "eyes wide and gazing slightly off-camera"
+      ],
+      "tags": [
+        "off-camera",
+        "soft",
+        "alert",
+        "wide-eyes",
+        "gentle"
+      ]
+    },
+    "directed_slightly_upward_toward_viewer": {
+      "canonical_name": "directed slightly upward toward viewer",
+      "canonical_name_zh": "微向上凝视观众",
+      "canonical_phrase": "directed slightly upward toward the viewer",
+      "samples": [
+        "directed slightly upward toward the viewer"
+      ],
+      "tags": [
+        "eyes",
+        "gaze",
+        "upward",
+        "connection",
+        "intimate"
+      ]
+    },
+    "looking_upward_and_to_the_side": {
+      "canonical_name": "looking upward and to the side",
+      "canonical_name_zh": "向上侧视",
+      "canonical_phrase": "looking upward and to the side through a window pane",
+      "samples": [
+        "looking upward and to her right",
+        "looking upward to her right",
+        "looking upward and to her left through a window pane",
+        "looking slightly to her right"
+      ],
+      "tags": [
+        "upward",
+        "side",
+        "window",
+        "gaze",
+        "profile"
+      ]
+    },
+    "direct_gaze_with_varied_eye_shapes": {
+      "canonical_name": "direct gaze with varied eye shapes",
+      "canonical_name_zh": "直视目光与不同眼型",
+      "canonical_phrase": "direct gaze with eyes slightly narrowed or wide and focused",
+      "samples": [
+        "direct gaze, eyes slightly narrowed",
+        "direct and intense, eyes wide and focused",
+        "direct and intense",
+        "direct gaze",
+        "natural eye shape",
+        "direct gaze with slightly narrowed eyes",
+        "intense direct gaze",
+        "eyes slightly narrowed",
+        "direct gaze, eyes wide and clear",
+        "direct gaze with wide eyes",
+        "slightly narrowed eyes",
+        "eyes slightly downcast",
+        "direct gaze with wide dark eyes",
+        "direct gaze with eyes slightly narrowed",
+        "eyes downcast"
+      ],
+      "tags": [
+        "eyes",
+        "narrowed",
+        "wide",
+        "focused",
+        "intense"
+      ]
+    },
+    "wide_bright_open_eyes": {
+      "canonical_name": "wide bright open eyes",
+      "canonical_name_zh": "明亮睁大的双眼",
+      "canonical_phrase": "wide bright open eyes with visible irises and natural lashes",
+      "samples": [
+        "wide open eyes",
+        "wide joyful eyes",
+        "bright eyes with visible eyelashes",
+        "wide eyes with natural lashes",
+        "bright wide eyes",
+        "wide bright eyes",
+        "wide eyes",
+        "bright brown eyes, wide open with visible irises",
+        "eyes bright and focused",
+        "bright eyes",
+        "eyes wide and bright"
+      ],
+      "tags": [
+        "eyes",
+        "bright",
+        "wide",
+        "open",
+        "lashes"
+      ]
+    },
+    "eyes_looking_directly_forward": {
+      "canonical_name": "eyes looking directly forward",
+      "canonical_name_zh": "目光直视前方",
+      "canonical_phrase": "eyes looking directly forward with bright gaze",
+      "samples": [
+        "gazing directly",
+        "eyes bright and looking forward",
+        "looking directly forward",
+        "bright eyes looking forward",
+        "gazing directly forward",
+        "eyes gazing directly forward",
+        "looking forward",
+        "eyes bright and focused forward",
+        "gazes directly forward",
+        "looking forward with bright eyes",
+        "bright eyes looking directly forward",
+        "eyes bright and looking forward, eyes looking down and to the side in others",
+        "eyes looking forward",
+        "eyes looking directly forward"
+      ],
+      "tags": [
+        "bright",
+        "forward",
+        "direct",
+        "focus",
+        "gaze"
+      ]
+    },
+    "focused_on_the_dessert": {
+      "canonical_name": "focused on the dessert",
+      "canonical_name_zh": "聚焦甜点",
+      "canonical_phrase": "focused on the dessert",
+      "samples": [
+        "focused on the dessert"
+      ],
+      "tags": [
+        "chocolate",
+        "glaze",
+        "cake",
+        "sweet",
+        "crumb"
+      ]
+    },
+    "eyes_looking_down_towards_left_hand": {
+      "canonical_name": "eyes looking down towards left hand",
+      "canonical_name_zh": "目光下视左手",
+      "canonical_phrase": "eyes looking down towards left hand",
+      "samples": [
+        "eyes looking down towards left hand"
+      ],
+      "tags": [
+        "blue",
+        "silk",
+        "dress",
+        "melancholy",
+        "gloved"
+      ]
+    },
+    "direct_forward_steady_calm_gaze": {
+      "canonical_name": "direct forward steady calm gaze",
+      "canonical_name_zh": "直视前方沉稳目光",
+      "canonical_phrase": "eyes looking directly forward with a steady and calm expression",
+      "samples": [
+        "direct",
+        "wide and direct, steady and calm",
+        "forward",
+        "direct and steady",
+        "directly forward",
+        "steady and calm"
+      ],
+      "tags": [
+        "eyes",
+        "forward",
+        "steady",
+        "calm",
+        "direct"
+      ]
+    },
+    "soft_downward_directed_gaze": {
+      "canonical_name": "soft downward directed gaze",
+      "canonical_name_zh": "柔和向下凝视",
+      "canonical_phrase": "softly focused downward gaze with eyes half-closed",
+      "samples": [
+        "looking downward",
+        "downward",
+        "looking downward with gaze directed slightly to the right",
+        "focused downward on the newspaper",
+        "softly focused downward",
+        "soft gaze directed slightly downward, eyes half-closed",
+        "downward toward the water",
+        "gazing downward",
+        "downward and to side",
+        "off to the side",
+        "eyes focused downward",
+        "looking slightly downward",
+        "focusing on chest area",
+        "eyes softly focused, looking down",
+        "focused on application",
+        "directed downward, eyes softly closed",
+        "slightly downward"
+      ],
+      "tags": [
+        "downward",
+        "soft",
+        "focused",
+        "half-closed",
+        "intimate"
+      ]
+    },
+    "directed_at_hands_washing_in_sink": {
+      "canonical_name": "directed at hands washing in sink",
+      "canonical_name_zh": "注视洗手的双手",
+      "canonical_phrase": "directed at hands washing in sink",
+      "samples": [
+        "directed at hands washing in sink"
+      ],
+      "tags": [
+        "ceramic",
+        "white",
+        "apron",
+        "domestic",
+        "foam"
+      ]
+    },
+    "subject_looking_toward_camera": {
+      "canonical_name": "subject looking toward camera",
+      "canonical_name_zh": "目光注视镜头",
+      "canonical_phrase": "subject looking directly toward the camera with eyes focused on viewer",
+      "samples": [
+        "looking at camera",
+        "eyes looking toward camera",
+        "looking towards the camera",
+        "looking towards camera",
+        "looking toward camera",
+        "gazes toward camera",
+        "looking directly at the camera, gaze directed upward toward the viewer",
+        "facing cow",
+        "eyes looking slightly upward toward the camera",
+        "looking toward the camera",
+        "looking over shoulder toward the camera",
+        "looking at phone",
+        "looking up toward the camera",
+        "eyes gazing upward toward camera",
+        "eyes gazing toward the camera",
+        "facing camera"
+      ],
+      "tags": [
+        "portrait",
+        "direct_gaze",
+        "eye_contact",
+        "frontal_view",
+        "viewer_connection"
+      ]
+    },
+    "wide_dark_eyes_looking_over_shoulder": {
+      "canonical_name": "wide dark eyes looking over shoulder",
+      "canonical_name_zh": "深色大眼回眸",
+      "canonical_phrase": "wide dark eyes, looking over shoulder",
+      "samples": [
+        "wide dark eyes, looking over shoulder"
+      ],
+      "tags": [
+        "dark",
+        "eyes",
+        "shoulder",
+        "gaze",
+        "over"
+      ]
+    },
+    "gaze_directed_slightly_right_and_upward": {
+      "canonical_name": "gaze directed slightly right and upward",
+      "canonical_name_zh": "目光向右上方微斜",
+      "canonical_phrase": "eyes gazing thoughtfully slightly to the right and upward",
+      "samples": [
+        "looking down and to the side",
+        "looking right",
+        "gazing off to the side",
+        "gazing thoughtfully to the right",
+        "eyes wide and focused upward toward the upper right",
+        "eyes gazing slightly to the side",
+        "gazing upward and to the right",
+        "looking sideways",
+        "eyes gazing toward upper right",
+        "looking slightly to the right",
+        "gazing rightward",
+        "eyes gazing toward the upper right",
+        "looking off to the right",
+        "looking slightly right",
+        "looking slightly upward and to the side"
+      ],
+      "tags": [
+        "gaze",
+        "right",
+        "upward",
+        "thoughtful",
+        "side"
+      ]
+    },
+    "eyes_closed_or_half_closed_downward": {
+      "canonical_name": "eyes closed or half closed downward",
+      "canonical_name_zh": "闭眼或半闭眼向下",
+      "canonical_phrase": "eyes closed or half closed looking downward with gentle expression",
+      "samples": [
+        "eyes closed, looking upward",
+        "downward, eyes partially closed",
+        "eyes crinkled shut",
+        "looking downward with eyes closed",
+        "closed eyes",
+        "eyes half-closed, gazing downward",
+        "eyes gently closed",
+        "looking downward with half-closed eyes",
+        "eyes closed",
+        "eyes half-closed",
+        "eyes closed with upward gaze",
+        "eyes half-closed in joy",
+        "eyes half-closed gazing downward"
+      ],
+      "tags": [
+        "soft",
+        "serene",
+        "relaxed",
+        "peaceful",
+        "downcast"
+      ]
+    },
+    "eyes_gazing_directly": {
+      "canonical_name": "eyes gazing directly",
+      "canonical_name_zh": "直视双眼",
+      "canonical_phrase": "eyes gazing directly",
+      "samples": [
+        "eyes gazing directly"
+      ],
+      "tags": [
+        "blue",
+        "skin",
+        "portrait",
+        "intense",
+        "pupil"
+      ]
+    },
+    "wide_open_eyes_gazing_upward": {
+      "canonical_name": "wide open eyes gazing upward",
+      "canonical_name_zh": "睁大双眼向上看",
+      "canonical_phrase": "wide open eyes gazing upward with expressive look",
+      "samples": [
+        "gazing upward with wide dark brown eyes",
+        "gazing upward with wide eyes",
+        "wide open eyes gazing upward",
+        "eyes wide and gazing upward",
+        "wide expressive eyes gazing upward",
+        "gazing upward with wide dark eyes",
+        "gazing upward with wide open eyes"
+      ],
+      "tags": [
+        "eyes",
+        "upward",
+        "wide",
+        "expression",
+        "gaze"
+      ]
+    },
+    "directed_forward_eyes_open_focused": {
+      "canonical_name": "directed forward eyes open focused",
+      "canonical_name_zh": "直视前方双眼专注",
+      "canonical_phrase": "directed forward, eyes open and focused",
+      "samples": [
+        "directed forward, eyes open and focused"
+      ],
+      "tags": [
+        "blue",
+        "leather",
+        "visor",
+        "cyberpunk",
+        "glow"
+      ]
+    },
+    "bright_engaged_eyes_looking_upward": {
+      "canonical_name": "bright engaged eyes looking upward",
+      "canonical_name_zh": "明亮向上注视的眼神",
+      "canonical_phrase": "bright eyes looking slightly upward with raised eyebrows and crinkled happiness",
+      "samples": [
+        "eyes gazing toward bright overhead light source",
+        "eyes visible in reflection",
+        "eyes crinkled with happiness",
+        "eyes bright and looking slightly upward",
+        "bright eyes with raised eyebrows",
+        "eyes bright and engaged"
+      ],
+      "tags": [
+        "bright",
+        "upward",
+        "engaged",
+        "happy",
+        "reflection"
+      ]
+    },
+    "almond_shaped_eyes_gazing_forward": {
+      "canonical_name": "almond shaped eyes gazing forward",
+      "canonical_name_zh": "杏仁眼向前凝视",
+      "canonical_phrase": "almond-shaped eyes gazing directly forward with focused expression",
+      "samples": [
+        "gazing directly forward with wide almond-shaped eyes",
+        "dark almond-shaped eyes",
+        "almond-shaped eyes gazing downward with soft focus",
+        "eyes almond-shaped looking forward, gazing toward the right side of the frame",
+        "directed forward, eyes almond-shaped and focused",
+        "almond-shaped dark eyes gazing directly forward",
+        "directed leftward, eyes almond-shaped and focused"
+      ],
+      "tags": [
+        "almond",
+        "eyes",
+        "forward",
+        "focused",
+        "gaze"
+      ]
+    },
+    "softly_focused_upward_toward_sky": {
+      "canonical_name": "softly focused upward toward sky",
+      "canonical_name_zh": "柔和向上凝视天空",
+      "canonical_phrase": "softly focused upward toward the sky",
+      "samples": [
+        "softly focused upward toward the sky"
+      ],
+      "tags": [
+        "sky",
+        "gaze",
+        "dreamy",
+        "contemplative",
+        "upward"
+      ]
+    },
+    "looking_slightly_upward": {
+      "canonical_name": "looking slightly upward",
+      "canonical_name_zh": "微微向上看",
+      "canonical_phrase": "head tilted slightly upward looking softly upward",
+      "samples": [
+        "upward and outward",
+        "head tilted upward",
+        "softly upward",
+        "slightly upward",
+        "upward",
+        "head slightly tilted upward",
+        "looking slightly upward"
+      ],
+      "tags": [
+        "gaze",
+        "upward",
+        "tilted",
+        "soft",
+        "expression"
+      ]
+    },
+    "soft_downward_looking_eyes": {
+      "canonical_name": "soft downward looking eyes",
+      "canonical_name_zh": "柔和低垂目光",
+      "canonical_phrase": "downcast",
+      "samples": [
+        "downcast"
+      ],
+      "tags": [
+        "brown",
+        "velvet",
+        "hoodie",
+        "melancholy",
+        "lashes"
+      ]
+    },
+    "gaze_directed_downward": {
+      "canonical_name": "gaze directed downward",
+      "canonical_name_zh": "目光向下",
+      "canonical_phrase": "gaze directed downward at an object",
+      "samples": [
+        "directed downward",
+        "directed downward at the flower",
+        "directed slightly downward",
+        "directed downward at a book",
+        "hidden by book",
+        "directed downward at the book"
+      ],
+      "tags": [
+        "downward",
+        "book",
+        "flower",
+        "hidden",
+        "focused"
+      ]
+    },
+    "soft_gentle_upward_directed_gaze": {
+      "canonical_name": "soft gentle upward directed gaze",
+      "canonical_name_zh": "柔和向上凝视",
+      "canonical_phrase": "soft gentle upward directed gaze with warm eyes",
+      "samples": [
+        "looking upward with a soft gaze",
+        "soft focused eyes gazing upward",
+        "warm gaze directed upward",
+        "playful gaze",
+        "eyes gazing upward with soft focused gaze",
+        "looking upward with soft gaze",
+        "gentle side profile gaze",
+        "soft gaze looking upward",
+        "soft upward gaze",
+        "gentle gaze directed slightly upward",
+        "gentle gaze",
+        "looking slightly upward with soft gaze",
+        "gentle upward gaze"
+      ],
+      "tags": [
+        "soft",
+        "gentle",
+        "upward",
+        "warm",
+        "focused"
+      ]
+    },
+    "directly_into_the_camera": {
+      "canonical_name": "directly into the camera",
+      "canonical_name_zh": "直视镜头",
+      "canonical_phrase": "directly into the camera",
+      "samples": [
+        "directly into the camera"
+      ],
+      "tags": [
+        "eye_contact",
+        "portrait",
+        "intense",
+        "focus",
+        "frontal"
+      ]
+    },
+    "eyes_looking_slightly_upward": {
+      "canonical_name": "eyes looking slightly upward",
+      "canonical_name_zh": "目光微微向上",
+      "canonical_phrase": "eyes looking slightly upward",
+      "samples": [
+        "eyes looking slightly upward"
+      ],
+      "tags": [
+        "blue",
+        "skin",
+        "face",
+        "contemplative",
+        "upward"
+      ]
+    },
+    "wide_eyes_direct_camera_gaze": {
+      "canonical_name": "wide eyes direct camera gaze",
+      "canonical_name_zh": "大眼直视镜头",
+      "canonical_phrase": "looking directly at camera with wide, bright, and expressive eyes",
+      "samples": [
+        "looking directly at camera, eyes wide and expressive",
+        "looking directly at camera, eyes wide and alert",
+        "eyes wide and bright, looking at camera",
+        "looking directly at camera, eyes wide and bright",
+        "eyes wide and clear, gazing directly at camera",
+        "looking directly at the camera, eyes wide and alert",
+        "looking directly at camera, eyes almond-shaped and focused",
+        "directed over shoulder toward the camera, eyes wide and clear",
+        "looking directly at the camera, eyes wide and clear",
+        "eyes wide, gazing directly at camera",
+        "directed toward the camera, eyes wide and clear",
+        "eyes wide and expressive, looking directly at camera",
+        "looking directly at the camera, eyes wide and almond shaped",
+        "looking directly at camera, eyes wide and clear",
+        "directed toward the camera with eyes wide and bright",
+        "eyes wide, looking toward the camera",
+        "looking toward camera, eyes wide",
+        "gazing directly at the camera, eyes wide and clear"
+      ],
+      "tags": [
+        "wide_eyes",
+        "direct_gaze",
+        "alert",
+        "bright",
+        "focused"
+      ]
+    },
+    "soft_upward_gazing_expression": {
+      "canonical_name": "soft upward gazing expression",
+      "canonical_name_zh": "柔和仰望神情",
+      "canonical_phrase": "direct gaze; gazing upward",
+      "samples": [
+        "direct gaze; gazing upward"
+      ],
+      "tags": [
+        "blue",
+        "silk",
+        "dress",
+        "ethereal",
+        "upturned_eyes"
+      ]
+    },
+    "focused_upward_toward_yellow_tennis_ball": {
+      "canonical_name": "focused upward toward yellow tennis ball",
+      "canonical_name_zh": "向上凝视黄色网球",
+      "canonical_phrase": "focused upward toward the yellow tennis ball",
+      "samples": [
+        "focused upward toward the yellow tennis ball"
+      ],
+      "tags": [
+        "yellow",
+        "tennis",
+        "ball",
+        "gaze",
+        "upward"
+      ]
+    },
+    "soft_gaze_directed_slightly_upward_or_downward": {
+      "canonical_name": "soft gaze directed slightly upward or downward",
+      "canonical_name_zh": "柔和目光微上或微下",
+      "canonical_phrase": "soft gaze directed slightly upward or downward with gentle expression",
+      "samples": [
+        "soft gaze directed slightly upward",
+        "directed slightly upward, soft almond eyes",
+        "soft gaze directed downward",
+        "looking down with soft gaze",
+        "soft downward gaze",
+        "gentle downward gaze directed rightward",
+        "directed slightly upward with soft downward-looking eyes",
+        "soft gaze directed slightly downward",
+        "soft gaze looking slightly down and to right",
+        "soft gaze directed slightly upward and to the side"
+      ],
+      "tags": [
+        "soft",
+        "almond",
+        "gentle",
+        "looking",
+        "downward"
+      ]
+    },
+    "directed_slightly_over_shoulder": {
+      "canonical_name": "directed slightly over shoulder",
+      "canonical_name_zh": "肩后微侧凝视",
+      "canonical_phrase": "directed slightly over her shoulder",
+      "samples": [
+        "directed slightly over her shoulder"
+      ],
+      "tags": [
+        "gaze",
+        "over",
+        "shoulder",
+        "profile",
+        "glance"
+      ]
+    },
+    "directed_gaze_orientation": {
+      "canonical_name": "directed gaze orientation",
+      "canonical_name_zh": "视线方向",
+      "canonical_phrase": "gaze directed away from camera toward ground or side",
+      "samples": [
+        "directed away",
+        "directed toward the ground",
+        "directed outward through frosty glass",
+        "directed forward at reflection",
+        "directed toward the right",
+        "directed leftward"
+      ],
+      "tags": [
+        "portrait",
+        "looking_down",
+        "side_glance",
+        "melancholy",
+        "frosty_glass"
+      ]
+    },
+    "wide_dark_eyes_gazing_directly_forward": {
+      "canonical_name": "wide dark eyes gazing directly forward",
+      "canonical_name_zh": "深色大眼直视前方",
+      "canonical_phrase": "wide dark eyes gazing directly forward with intense focus",
+      "samples": [
+        "gazing directly forward with soft brown eyes",
+        "intense dark eyes",
+        "wide eyes, gaze fixed forward",
+        "dark eyes gazing directly forward",
+        "gazing directly forward with wide dark eyes",
+        "dark eyes gazing directly",
+        "directly forward with wide dark eyes",
+        "wide eyes gazing directly forward",
+        "intense dark eyes gazing directly forward",
+        "eyes wide and gazing directly forward",
+        "intense dark brown eyes",
+        "eyes wide and focused directly forward",
+        "gazes directly forward with wide dark brown eyes",
+        "gazing forward with wide dark eyes",
+        "gazing at reflection, eyes wide and direct in reflection"
+      ],
+      "tags": [
+        "dark",
+        "brown",
+        "wide",
+        "intense",
+        "direct"
+      ]
+    },
+    "wide_open_eyes_gazing_forward": {
+      "canonical_name": "wide open eyes gazing forward",
+      "canonical_name_zh": "双眼圆睁直视前方",
+      "canonical_phrase": "eyes wide open gazing directly forward with alert expression",
+      "samples": [
+        "wide eyes gazing outward",
+        "eyes wide and gazing forward",
+        "eyes open wide gazing directly forward",
+        "eyes wide and focused",
+        "eyes wide open and sparkling",
+        "looking directly forward, eyes wide and alert"
+      ],
+      "tags": [
+        "wide",
+        "alert",
+        "forward",
+        "sparkling",
+        "focused"
+      ]
+    },
+    "wide_eyes_directed_forward": {
+      "canonical_name": "wide eyes directed forward",
+      "canonical_name_zh": "双眼圆睁直视前方",
+      "canonical_phrase": "wide eyes directed forward and slightly upward, alert and focused",
+      "samples": [
+        "directed outward, eyes wide and bright",
+        "directed forward, eyes wide and alert",
+        "eyes wide and directed forward",
+        "wide and direct",
+        "wide eyes, steady and intense, direct",
+        "directed forward, eyes wide and bright",
+        "directed forward and slightly upward, eyes wide and alert",
+        "directed forward, eyes wide and focused"
+      ],
+      "tags": [
+        "bright",
+        "alert",
+        "intense",
+        "wide",
+        "forward"
+      ]
+    },
+    "soft_gaze_directed_slightly_upward_or_downward_to_her_right": {
+      "canonical_name": "soft gaze directed slightly upward or downward",
+      "canonical_name_zh": "柔和目光微向上或向下",
+      "canonical_phrase": "soft gaze directed slightly upward or downward with gentle expression",
+      "samples": [
+        "focused on the net she holds",
+        "focus on her joyful expression",
+        "soft gaze directed upward and to her right",
+        "soft gaze directed slightly downward and to her right",
+        "soft gaze directed downward and to her right",
+        "soft gaze directed slightly upward and to her right"
+      ],
+      "tags": [
+        "soft",
+        "gaze",
+        "upward",
+        "downward",
+        "expression"
+      ]
+    },
+    "soft_gaze_directed_slightly_offcenter": {
+      "canonical_name": "soft gaze directed slightly off-center",
+      "canonical_name_zh": "柔和目光微偏",
+      "canonical_phrase": "soft gaze directed slightly off-center",
+      "samples": [
+        "soft gaze directed slightly off-center"
+      ],
+      "tags": [
+        "blue",
+        "silk",
+        "blazer",
+        "melancholy",
+        "pupil"
+      ]
+    },
+    "looking_at_mirror_reflecting_smiling_face": {
+      "canonical_name": "looking at mirror reflecting smiling face",
+      "canonical_name_zh": "凝视镜中微笑面容",
+      "canonical_phrase": "looking at mirror reflecting her smiling face",
+      "samples": [
+        "looking at mirror reflecting her smiling face"
+      ],
+      "tags": [
+        "silver",
+        "glass",
+        "dress",
+        "elegant",
+        "reflection"
+      ]
+    },
+    "eyes_gazing_upward_toward_sky": {
+      "canonical_name": "eyes gazing upward toward sky",
+      "canonical_name_zh": "仰望天空的眼神",
+      "canonical_phrase": "eyes open gazing thoughtfully upward toward the sky",
+      "samples": [
+        "eyes gazing upward",
+        "eyes open gazing upward",
+        "looking up",
+        "upward gaze",
+        "looking upward",
+        "one eye visible looking upward",
+        "one eye gazing upward",
+        "eyes looking upward",
+        "gazing thoughtfully upward",
+        "upward toward the sky",
+        "gazing upward"
+      ],
+      "tags": [
+        "sky",
+        "upward",
+        "thoughtful",
+        "open_eyes",
+        "looking_up"
+      ]
+    },
+    "eyes_gazing_upward_with_soft_focus": {
+      "canonical_name": "eyes gazing upward with soft focus",
+      "canonical_name_zh": "目光向上凝视",
+      "canonical_phrase": "eyes gazing upward with half-lidded soft focus",
+      "samples": [
+        "gazing upward with eyes slightly narrowed",
+        "eyes half-lidded gazing upward",
+        "gazing upward with half-lidded eyes",
+        "eyes gazing upward with soft focus"
+      ],
+      "tags": [
+        "upward",
+        "half-lidded",
+        "soft-focus",
+        "dreamy",
+        "contemplative"
+      ]
+    }
+  },
+  "statistics": {
+    "total_clusters": 56,
+    "multi_sample_clusters": 33,
+    "single_sample_clusters": 23
+  }
+}

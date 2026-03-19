@@ -1,0 +1,640 @@
+{
+  "dimension": "shot_angle",
+  "version": "1.0",
+  "generated_date": "2026-03-18",
+  "mode": "clustered",
+  "clusters": {
+    "low_perspective_shot_angle": {
+      "canonical_name": "low perspective shot angle",
+      "canonical_name_zh": "低角度视角",
+      "canonical_phrase": "low perspective",
+      "samples": [
+        "low perspective"
+      ],
+      "tags": [
+        "blue",
+        "denim",
+        "jacket",
+        "urban",
+        "glint"
+      ]
+    },
+    "high_camera_angle_looking_down": {
+      "canonical_name": "high camera angle looking down",
+      "canonical_name_zh": "高角度俯视",
+      "canonical_phrase": "high-angle shot from above looking down",
+      "samples": [
+        "high camera angle looking down",
+        "frontal camera angle at eye level",
+        "high-angle looking down",
+        "high angle looking down",
+        "high-angle looking down from above",
+        "high-angle shot from above looking down"
+      ],
+      "tags": [
+        "high-angle",
+        "looking-down",
+        "from-above",
+        "overhead",
+        "bird's-eye"
+      ]
+    },
+    "medium_shot_midthigh_up": {
+      "canonical_name": "medium shot mid-thigh up",
+      "canonical_name_zh": "中景中大腿以上",
+      "canonical_phrase": "medium shot capturing her from mid-thigh up",
+      "samples": [
+        "medium shot capturing her from mid-thigh up"
+      ],
+      "tags": [
+        "blue",
+        "denim",
+        "jeans",
+        "casual",
+        "cropped"
+      ]
+    },
+    "various_camera_shot_angles_and_perspectives": {
+      "canonical_name": "various camera shot angles and perspectives",
+      "canonical_name_zh": "多种拍摄角度与视角",
+      "canonical_phrase": "slightly low perspective wide-angle diagonal high-angle distant elevated candid close low-angle",
+      "samples": [
+        "slightly low perspective",
+        "wide-angle perspective",
+        "diagonal perspective",
+        "high-angle perspective",
+        "distant elevated perspective",
+        "candid angle",
+        "close perspective",
+        "low-angle perspective"
+      ],
+      "tags": [
+        "perspective",
+        "angle",
+        "viewpoint",
+        "composition",
+        "camera"
+      ]
+    },
+    "low_position_looking_up_at_her": {
+      "canonical_name": "low position looking up at her",
+      "canonical_name_zh": "低角度仰视",
+      "canonical_phrase": "low position looking up at her",
+      "samples": [
+        "low position looking up at her"
+      ],
+      "tags": [
+        "low_angle",
+        "upward_view",
+        "heroic",
+        "dynamic",
+        "perspective"
+      ]
+    },
+    "vertical_split_composition": {
+      "canonical_name": "vertical split composition",
+      "canonical_name_zh": "垂直分割构图",
+      "canonical_phrase": "split vertically",
+      "samples": [
+        "split vertically"
+      ],
+      "tags": [
+        "monochrome",
+        "paper",
+        "portrait",
+        "minimalist",
+        "seamless"
+      ]
+    },
+    "low_angle_looking_slightly_upward": {
+      "canonical_name": "low angle looking slightly upward",
+      "canonical_name_zh": "低角度微仰视",
+      "canonical_phrase": "low angle looking slightly upward",
+      "samples": [
+        "low angle looking slightly upward"
+      ],
+      "tags": [
+        "blue",
+        "denim",
+        "hoodie",
+        "urban",
+        "hood"
+      ]
+    },
+    "various_camera_angles_and_perspectives": {
+      "canonical_name": "various camera angles and perspectives",
+      "canonical_name_zh": "多种拍摄角度与视角",
+      "canonical_phrase": "shot from inside car looking out or from above looking down or looking up from below",
+      "samples": [
+        "from inside car looking out",
+        "looking down from above",
+        "from above looking down",
+        "looking up",
+        "looking down",
+        "from inside a doorway",
+        "from below",
+        "from below looking up",
+        "directly above",
+        "from above",
+        "looking up from below"
+      ],
+      "tags": [
+        "angle",
+        "perspective",
+        "viewpoint",
+        "low_angle",
+        "high_angle"
+      ]
+    },
+    "slightly_elevated_upward_looking_angle": {
+      "canonical_name": "slightly elevated upward looking angle",
+      "canonical_name_zh": "微高仰视角度",
+      "canonical_phrase": "slightly elevated street level looking upward",
+      "samples": [
+        "high above",
+        "street level looking straight ahead with a slight upward tilt",
+        "looking slightly upward",
+        "looking upward",
+        "slightly elevated looking upward",
+        "slightly tilted looking upward from street level"
+      ],
+      "tags": [
+        "upward",
+        "street",
+        "tilted",
+        "elevation",
+        "viewpoint"
+      ]
+    },
+    "straighton_eye_level_perspective": {
+      "canonical_name": "straight-on eye level perspective",
+      "canonical_name_zh": "平视正面视角",
+      "canonical_phrase": "straight-on eye level perspective looking straight down the center",
+      "samples": [
+        "eye level looking straight down the center",
+        "straight-on perspective at eye level",
+        "slightly elevated or eye-level",
+        "straight-on at eye level",
+        "slightly below eye level",
+        "eye level",
+        "straight-on eye-level",
+        "level",
+        "eye level with the horizon",
+        "slightly above eye level",
+        "eye-level"
+      ],
+      "tags": [
+        "eye-level",
+        "straight-on",
+        "centered",
+        "neutral",
+        "frontal"
+      ]
+    },
+    "low_angle_looking_up": {
+      "canonical_name": "low angle looking up",
+      "canonical_name_zh": "低角度仰视",
+      "canonical_phrase": "straight-on",
+      "samples": [
+        "straight-on"
+      ],
+      "tags": [
+        "blue",
+        "denim",
+        "jacket",
+        "urban",
+        "hoodie"
+      ]
+    },
+    "low_angle_looking_up_from_below_waist_level": {
+      "canonical_name": "low angle looking up from below waist level",
+      "canonical_name_zh": "低角度仰视",
+      "canonical_phrase": "low angle looking up from below waist level",
+      "samples": [
+        "low angle looking up from below waist level"
+      ],
+      "tags": [
+        "waist",
+        "upward",
+        "perspective",
+        "dynamic",
+        "heroic"
+      ]
+    },
+    "straight_on_frontal_view": {
+      "canonical_name": "straight on frontal view",
+      "canonical_name_zh": "正面平视视角",
+      "canonical_phrase": "straight on",
+      "samples": [
+        "straight on"
+      ],
+      "tags": [
+        "frontal",
+        "eye_level",
+        "symmetry",
+        "portrait",
+        "direct"
+      ]
+    },
+    "low_angle_slightly_tilted_upward": {
+      "canonical_name": "low angle slightly tilted upward",
+      "canonical_name_zh": "低角度微向上倾斜",
+      "canonical_phrase": "low angle shot slightly tilted upward",
+      "samples": [
+        "low and tilted",
+        "tilted downward",
+        "low and slightly tilted upward",
+        "low angle tilted upward",
+        "low and slightly tilted",
+        "low and tilted upward",
+        "low and side-on",
+        "low tilted upward"
+      ],
+      "tags": [
+        "low_angle",
+        "tilted_up",
+        "dynamic_view",
+        "looking_up",
+        "perspective"
+      ]
+    },
+    "low_angle_looking_up_from_below": {
+      "canonical_name": "low angle looking up from below",
+      "canonical_name_zh": "低角度仰视",
+      "canonical_phrase": "low angle looking up from below",
+      "samples": [
+        "low angle looking up from below"
+      ],
+      "tags": [
+        "blue",
+        "leather",
+        "jacket",
+        "edgy",
+        "metal buckle"
+      ]
+    },
+    "slightly_tilted_offcenter_angle": {
+      "canonical_name": "slightly tilted off-center angle",
+      "canonical_name_zh": "轻微倾斜偏移角度",
+      "canonical_phrase": "slightly tilted upward or off-center shot angle",
+      "samples": [
+        "tilted upward",
+        "slightly low and tilted upward",
+        "from above at a slight tilt",
+        "high and slightly tilted",
+        "slightly tilted",
+        "slightly tilted upward",
+        "slight off-center alignment"
+      ],
+      "tags": [
+        "tilted",
+        "off-center",
+        "dynamic",
+        "asymmetric",
+        "canted"
+      ]
+    },
+    "low_angle_perspective": {
+      "canonical_name": "low angle perspective",
+      "canonical_name_zh": "低角度视角",
+      "canonical_phrase": "eye-level perspective",
+      "samples": [
+        "eye-level perspective"
+      ],
+      "tags": [
+        "blue",
+        "denim",
+        "jacket",
+        "urban",
+        "hoodie"
+      ]
+    },
+    "low_angle_shot_from_above": {
+      "canonical_name": "low angle shot from above",
+      "canonical_name_zh": "低角度俯拍",
+      "canonical_phrase": "low angle, from above",
+      "samples": [
+        "low angle, from above"
+      ],
+      "tags": [
+        "blue",
+        "denim",
+        "jacket",
+        "urban",
+        "hoodie"
+      ]
+    },
+    "low_angle_with_slight_upward_tilt": {
+      "canonical_name": "low angle with slight upward tilt",
+      "canonical_name_zh": "低角度微向上倾斜",
+      "canonical_phrase": "low angle shot with a slight upward tilt",
+      "samples": [
+        "low angle with a slight upward tilt",
+        "low angle with slight tilt",
+        "low angle with tilt upward",
+        "low angle capturing upward tilt",
+        "low angle, slightly tilted upward",
+        "low-angle tilted"
+      ],
+      "tags": [
+        "low_angle",
+        "upward_tilt",
+        "camera_angle",
+        "perspective",
+        "slight"
+      ]
+    },
+    "low_angle_shot_looking_up": {
+      "canonical_name": "low angle shot looking up",
+      "canonical_name_zh": "低角度仰视",
+      "canonical_phrase": "low-angle shot from ground level looking up",
+      "samples": [
+        "low-angle shot from ground level looking up",
+        "low-angle shot from below looking up",
+        "low shot looking up",
+        "low-angle shot looking up through the foliage",
+        "frontal on left, medium shot on right",
+        "low-angle shot looking up"
+      ],
+      "tags": [
+        "low_angle",
+        "looking_up",
+        "ground_level",
+        "foliage",
+        "upward"
+      ]
+    },
+    "low_threequarter_view": {
+      "canonical_name": "low three-quarter view",
+      "canonical_name_zh": "低角度四分之三",
+      "canonical_phrase": "low three-quarter view",
+      "samples": [
+        "low three-quarter view"
+      ],
+      "tags": [
+        "blue",
+        "denim",
+        "jacket",
+        "urban",
+        "chin"
+      ]
+    },
+    "varied_camera_shot_angles": {
+      "canonical_name": "varied camera shot angles",
+      "canonical_name_zh": "多变镜头角度",
+      "canonical_phrase": "shot from varied angles including low angle and wide angle perspectives",
+      "samples": [
+        "angled from below",
+        "wide angle",
+        "varied angles",
+        "wide-angle",
+        "low angle angled upward",
+        "low-angle upward"
+      ],
+      "tags": [
+        "angle",
+        "perspective",
+        "wide",
+        "low",
+        "dynamic"
+      ]
+    },
+    "various_camera_angles_and_perspectives_various_camera_angles_and_pers": {
+      "canonical_name": "various camera angles and perspectives",
+      "canonical_name_zh": "多种拍摄角度与视角",
+      "canonical_phrase": "shot from slightly forward, side, behind, or elevated angles",
+      "samples": [
+        "slightly forward",
+        "side slightly elevated",
+        "slightly below",
+        "from behind and slightly below",
+        "from behind and slightly to the side",
+        "side rear",
+        "from behind and slightly to side",
+        "slightly elevated",
+        "slightly downward",
+        "slightly above",
+        "slightly upward",
+        "slightly low",
+        "over-the-shoulder",
+        "from side"
+      ],
+      "tags": [
+        "angle",
+        "perspective",
+        "viewpoint",
+        "composition",
+        "camera"
+      ]
+    },
+    "low_angle_with_tilted_perspective": {
+      "canonical_name": "low angle with tilted perspective",
+      "canonical_name_zh": "低角度倾斜视角",
+      "canonical_phrase": "low angle with tilted perspective",
+      "samples": [
+        "low angle with tilted perspective"
+      ],
+      "tags": [
+        "blue",
+        "denim",
+        "hoodie",
+        "urban",
+        "dynamic"
+      ]
+    },
+    "low_camera_angle_below_waist_level": {
+      "canonical_name": "low camera angle below waist level",
+      "canonical_name_zh": "低机位腰下视角",
+      "canonical_phrase": "low camera angle capturing her from below waist level",
+      "samples": [
+        "low camera angle capturing her from below waist level"
+      ],
+      "tags": [
+        "blue",
+        "denim",
+        "jeans",
+        "urban",
+        "cropped"
+      ]
+    },
+    "low_angle_perspective_shots": {
+      "canonical_name": "low angle perspective shots",
+      "canonical_name_zh": "低角度视角",
+      "canonical_phrase": "low angle shot from ground level looking up",
+      "samples": [
+        "mid-level",
+        "low and intimate",
+        "low from ground level",
+        "level with the glass rim",
+        "low to the ground",
+        "slightly low and level"
+      ],
+      "tags": [
+        "low",
+        "ground",
+        "upward",
+        "intimate",
+        "perspective"
+      ]
+    },
+    "slightly_low_angle_implied_by_upward_gaze": {
+      "canonical_name": "slightly low angle implied by upward gaze",
+      "canonical_name_zh": "仰视低角度",
+      "canonical_phrase": "slightly low angle implied by upward gaze",
+      "samples": [
+        "slightly low angle implied by upward gaze"
+      ],
+      "tags": [
+        "blue",
+        "denim",
+        "hoodie",
+        "urban",
+        "chin"
+      ]
+    },
+    "low_angle_perspective_shot": {
+      "canonical_name": "low angle perspective shot",
+      "canonical_name_zh": "低角度视角",
+      "canonical_phrase": "shot from a low angle looking up at the subject",
+      "samples": [
+        "low-angle",
+        "level angle",
+        "low side angle",
+        "low angle"
+      ],
+      "tags": [
+        "low-angle",
+        "perspective",
+        "upward",
+        "dramatic",
+        "looking-up"
+      ]
+    },
+    "slightly_low_angle_upward_gaze_diagonal_light": {
+      "canonical_name": "slightly low angle upward gaze diagonal light",
+      "canonical_name_zh": "低角度仰视斜光",
+      "canonical_phrase": "slightly low angle implied by upward gaze and diagonal light",
+      "samples": [
+        "slightly low angle implied by upward gaze and diagonal light"
+      ],
+      "tags": [
+        "blue",
+        "denim",
+        "hoodie",
+        "urban",
+        "diagonal light"
+      ]
+    },
+    "slightly_low_angle_shot": {
+      "canonical_name": "slightly low angle shot",
+      "canonical_name_zh": "轻微低角度",
+      "canonical_phrase": "slightly low angle",
+      "samples": [
+        "slightly low angle"
+      ],
+      "tags": [
+        "blue",
+        "denim",
+        "jacket",
+        "urban",
+        "chin"
+      ]
+    },
+    "various_slight_to_dramatic_camera_angles": {
+      "canonical_name": "various slight to dramatic camera angles",
+      "canonical_name_zh": "多种轻微至戏剧性镜头角度",
+      "canonical_phrase": "slightly angled, slightly upward, slight downward, dramatic upward, slightly high, slightly elevated, slight low angle",
+      "samples": [
+        "slightly angled",
+        "slightly upward angle",
+        "slight downward angle",
+        "dramatic upward angle",
+        "slightly high angle",
+        "slightly elevated angle",
+        "slight upward angle",
+        "slight low angle",
+        "slight wind effect"
+      ],
+      "tags": [
+        "angle",
+        "perspective",
+        "upward",
+        "downward",
+        "dramatic"
+      ]
+    },
+    "low_camera_angle_capturing_from_below": {
+      "canonical_name": "low camera angle capturing from below",
+      "canonical_name_zh": "低角度仰视拍摄",
+      "canonical_phrase": "low camera angle capturing from below",
+      "samples": [
+        "low camera angle capturing from below"
+      ],
+      "tags": [
+        "blue",
+        "denim",
+        "hoodie",
+        "streetwear",
+        "hood"
+      ]
+    },
+    "low_angle_dynamic_shot": {
+      "canonical_name": "low angle dynamic shot",
+      "canonical_name_zh": "低角度动态镜头",
+      "canonical_phrase": "dynamic camera angle",
+      "samples": [
+        "dynamic camera angle"
+      ],
+      "tags": [
+        "blue",
+        "leather",
+        "jacket",
+        "urban",
+        "motion blur"
+      ]
+    },
+    "low_angle_looking_upward": {
+      "canonical_name": "low angle looking upward",
+      "canonical_name_zh": "低角度仰视",
+      "canonical_phrase": "low angle looking upward from below",
+      "samples": [
+        "low looking up",
+        "low angle looking up",
+        "looking up from a low position",
+        "low and upward looking",
+        "slightly low angle looking up",
+        "low angle looking upward"
+      ],
+      "tags": [
+        "low_angle",
+        "upward",
+        "looking_up",
+        "perspective",
+        "viewpoint"
+      ]
+    },
+    "elevated_angle_looking_down_at_subject": {
+      "canonical_name": "elevated angle looking down at subject",
+      "canonical_name_zh": "俯视角度",
+      "canonical_phrase": "slightly elevated camera angle looking down at seated subject",
+      "samples": [
+        "looking down at subject",
+        "focused on lower body and hands",
+        "slightly elevated looking down at seated subject",
+        "close to subject"
+      ],
+      "tags": [
+        "high_angle",
+        "seated",
+        "hands_visible",
+        "intimate",
+        "overhead_view"
+      ]
+    }
+  },
+  "statistics": {
+    "total_clusters": 35,
+    "multi_sample_clusters": 16,
+    "single_sample_clusters": 19
+  }
+}

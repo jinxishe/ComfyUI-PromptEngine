@@ -1,0 +1,638 @@
+{
+  "dimension": "body_direction",
+  "version": "1.0",
+  "generated_date": "2026-03-18",
+  "mode": "clustered",
+  "clusters": {
+    "side_view_of_human_body": {
+      "canonical_name": "side view of human body",
+      "canonical_name_zh": "人体侧面视角",
+      "canonical_phrase": "side view",
+      "samples": [
+        "side view"
+      ],
+      "tags": [
+        "profile",
+        "silhouette",
+        "casual",
+        "denim",
+        "shadow"
+      ]
+    },
+    "rearfocused_facing_away_from_camera": {
+      "canonical_name": "rear-focused facing away from camera",
+      "canonical_name_zh": "背对镜头",
+      "canonical_phrase": "rear-focused, facing away from camera",
+      "samples": [
+        "rear-focused, facing away from camera"
+      ],
+      "tags": [
+        "black",
+        "leather",
+        "jacket",
+        "minimalist",
+        "hood"
+      ]
+    },
+    "body_angled_slightly_to_side": {
+      "canonical_name": "body angled slightly to side",
+      "canonical_name_zh": "身体微侧角度",
+      "canonical_phrase": "body angled slightly to the side with subtle forward tilt",
+      "samples": [
+        "slightly angled",
+        "body angled slightly to the right",
+        "body angled slightly forward",
+        "body angled to the side",
+        "body angled",
+        "body angled slightly to the side",
+        "angled slightly to the side",
+        "side angle",
+        "body angled toward vehicle, head turned slightly upward",
+        "body angled forward",
+        "body angled slightly to side",
+        "body angled slightly"
+      ],
+      "tags": [
+        "pose",
+        "angle",
+        "slight",
+        "dynamic",
+        "profile"
+      ]
+    },
+    "torso_angled_slightly_away_from_camera": {
+      "canonical_name": "torso angled slightly away from camera",
+      "canonical_name_zh": "躯干微侧向镜头",
+      "canonical_phrase": "torso angled slightly away from camera facing forward",
+      "samples": [
+        "torso angled slightly away, facing camera",
+        "torso angled slightly away from camera",
+        "torso angled away from camera",
+        "torso angled slightly away from the camera"
+      ],
+      "tags": [
+        "torso",
+        "angled",
+        "slightly",
+        "away",
+        "facing"
+      ]
+    },
+    "slight_body_turn_to_right": {
+      "canonical_name": "slight body turn to right",
+      "canonical_name_zh": "身体微向右转",
+      "canonical_phrase": "body angled slightly to right facing forward",
+      "samples": [
+        "body angled slightly to her right",
+        "torso angled slightly to her right",
+        "head turned slightly to her right, facing forward",
+        "facing camera with slight turn to her right",
+        "facing camera, looking slightly to her right",
+        "torso angled slightly forward, looking upward and to her right"
+      ],
+      "tags": [
+        "portrait",
+        "casual",
+        "natural",
+        "soft",
+        "profile"
+      ]
+    },
+    "facing_away_from_camera": {
+      "canonical_name": "facing away from camera",
+      "canonical_name_zh": "背对镜头",
+      "canonical_phrase": "facing away from camera",
+      "samples": [
+        "facing away from camera"
+      ],
+      "tags": [
+        "back",
+        "rear",
+        "silhouette",
+        "minimalist",
+        "no_face"
+      ]
+    },
+    "body_angled_away_from_camera": {
+      "canonical_name": "body angled away from camera",
+      "canonical_name_zh": "身体侧向镜头",
+      "canonical_phrase": "body angled slightly away from the camera",
+      "samples": [
+        "body angled away from camera",
+        "body angled slightly away from the camera",
+        "body angled slightly away from camera",
+        "body angled away from the camera"
+      ],
+      "tags": [
+        "pose",
+        "angle",
+        "back",
+        "profile",
+        "turn"
+      ]
+    },
+    "torso_angled_forward_or_slightly_turned": {
+      "canonical_name": "torso angled forward or slightly turned",
+      "canonical_name_zh": "躯干前倾或微侧",
+      "canonical_phrase": "torso angled forward or slightly turned with head tilted down",
+      "samples": [
+        "torso angled forward, head tilted down",
+        "torso angled forward",
+        "torso slightly turned",
+        "torso tilted forward",
+        "torso slightly angled",
+        "torso angled",
+        "torso angled slightly upward",
+        "torso angled, facing slightly upward",
+        "torso angled, hips turned",
+        "torso angled slightly",
+        "torso aligned with horizon",
+        "torso angled slightly left",
+        "torso slightly angled forward",
+        "torso angled slightly to the side",
+        "torso angled slightly to left"
+      ],
+      "tags": [
+        "forward",
+        "tilted",
+        "slight",
+        "dynamic",
+        "pose"
+      ]
+    },
+    "threequarter_turn_away_from_viewer": {
+      "canonical_name": "three-quarter turn away from viewer",
+      "canonical_name_zh": "侧身背向观众",
+      "canonical_phrase": "three-quarter turn away from viewer",
+      "samples": [
+        "three-quarter turn away from viewer"
+      ],
+      "tags": [
+        "navy",
+        "denim",
+        "jacket",
+        "casual",
+        "back_view"
+      ]
+    },
+    "body_angled_away_with_head_turned": {
+      "canonical_name": "body angled away with head turned",
+      "canonical_name_zh": "身体侧转头部回看",
+      "canonical_phrase": "body angled slightly away from camera with head turned to face forward",
+      "samples": [
+        "back and side to camera, head turned slightly right",
+        "torso angled slightly away from camera, head turned to face forward",
+        "head turned to face camera",
+        "back to camera, head turned slightly",
+        "back mostly turned but head turned over shoulder",
+        "back mostly turned to camera, head turned to look over shoulder",
+        "back to camera, over-the-shoulder view",
+        "head turned to face the camera directly",
+        "torso angled slightly away, head turned to face camera",
+        "back to camera",
+        "body angled slightly away from camera, head turned upward and to her left",
+        "back turned to camera",
+        "body angled slightly to her left while her head turns to face the camera directly",
+        "head turned to face viewer, torso angled slightly away",
+        "back to viewer",
+        "body angled slightly away from camera, head turns to face forward",
+        "back partially turned",
+        "torso angled away, head turned back towards camera",
+        "head turned toward the camera, torso angled slightly to the side",
+        "head turned to face viewer",
+        "torso angled away, head turned over shoulder",
+        "torso angled away, head turned to look back over shoulder"
+      ],
+      "tags": [
+        "side_profile",
+        "over_shoulder",
+        "looking_back",
+        "casual_pose",
+        "dynamic_angle"
+      ]
+    },
+    "facing_camera_with_angled_torso": {
+      "canonical_name": "facing camera with angled torso",
+      "canonical_name_zh": "面向镜头躯干微倾",
+      "canonical_phrase": "facing camera with torso angled slightly forward or to side",
+      "samples": [
+        "facing camera with torso angled slightly forward",
+        "facing camera with torso angled slightly to side",
+        "facing camera with torso slightly turned",
+        "facing camera with torso angled forward",
+        "facing camera, torso angled",
+        "facing camera with torso angled slightly to the right",
+        "facing camera with torso angled slightly left",
+        "torso facing camera",
+        "facing camera with torso leaning back",
+        "facing camera with torso slightly twisted",
+        "facing camera with torso angled slightly right"
+      ],
+      "tags": [
+        "portrait",
+        "casual",
+        "slight_twist",
+        "dynamic_pose",
+        "natural_stance"
+      ]
+    },
+    "side_and_rear_view_turning_to_face_camera": {
+      "canonical_name": "side and rear view turning to face camera",
+      "canonical_name_zh": "侧后转身面向镜头",
+      "canonical_phrase": "side and rear view, turning to face camera",
+      "samples": [
+        "side and rear view, turning to face camera"
+      ],
+      "tags": [
+        "denim",
+        "leather",
+        "jacket",
+        "dynamic",
+        "profile"
+      ]
+    },
+    "side_profile_view_facing_direction": {
+      "canonical_name": "side profile view facing direction",
+      "canonical_name_zh": "侧面朝向视角",
+      "canonical_phrase": "subject in side profile view facing left or right",
+      "samples": [
+        "profile facing window",
+        "profile facing left",
+        "profile to the left",
+        "profile view",
+        "profile view facing left",
+        "profile facing a window",
+        "profile",
+        "profile view facing forward",
+        "side profile",
+        "side profile facing right",
+        "side profile facing left",
+        "profile shot",
+        "right profile",
+        "profile facing right"
+      ],
+      "tags": [
+        "profile",
+        "side",
+        "facing",
+        "window",
+        "portrait"
+      ]
+    },
+    "body_angled_toward_window": {
+      "canonical_name": "body angled toward window",
+      "canonical_name_zh": "身体朝向窗户",
+      "canonical_phrase": "body angled toward window facing outward",
+      "samples": [
+        "body angled toward the window",
+        "body angled slightly away, facing sideways toward window",
+        "body slightly turned, torso angled toward window",
+        "facing outward through window",
+        "body angled toward window"
+      ],
+      "tags": [
+        "window",
+        "torso",
+        "sideways",
+        "outdoor",
+        "profile"
+      ]
+    },
+    "torso_and_head_angled_orientation": {
+      "canonical_name": "torso and head angled orientation",
+      "canonical_name_zh": "躯干与头部角度朝向",
+      "canonical_phrase": "torso angled forward or upward with head tilted back or forward",
+      "samples": [
+        "head tilted upward, body facing ground",
+        "body angled with torso leaning forward",
+        "torso angled upward",
+        "torso angled slightly left, head tilted slightly right",
+        "torso angled toward viewer, head tilted slightly upward",
+        "torso angled slightly away",
+        "torso angled away",
+        "split composition: left side slightly tilted, right side frontal",
+        "torso angled upward, head tilted back",
+        "torso angled forward, head tilted back",
+        "scattered across the midground",
+        "torso angled slightly forward"
+      ],
+      "tags": [
+        "dynamic",
+        "leaning",
+        "tilted",
+        "midground",
+        "scattered"
+      ]
+    },
+    "torso_angled_forward_gaze_upward": {
+      "canonical_name": "torso angled forward gaze upward",
+      "canonical_name_zh": "躯干前倾目光向上",
+      "canonical_phrase": "torso angled slightly forward, gaze directed upward toward the camera",
+      "samples": [
+        "torso angled slightly forward, gaze directed upward toward the camera"
+      ],
+      "tags": [
+        "blue",
+        "denim",
+        "hoodie",
+        "casual",
+        "chin_lift"
+      ]
+    },
+    "body_slightly_angled_gaze_forward": {
+      "canonical_name": "body slightly angled gaze forward",
+      "canonical_name_zh": "身体微侧目光向前",
+      "canonical_phrase": "body slightly angled, gaze directed forward",
+      "samples": [
+        "body slightly angled, gaze directed forward"
+      ],
+      "tags": [
+        "slight",
+        "angle",
+        "forward",
+        "gaze",
+        "pose"
+      ]
+    },
+    "body_facing_forward_or_angled": {
+      "canonical_name": "body facing forward or angled",
+      "canonical_name_zh": "身体朝前或倾斜",
+      "canonical_phrase": "body facing forward or angled slightly upward or downward",
+      "samples": [
+        "facing forward relative to flight path",
+        "facing right",
+        "sideways",
+        "facing slightly upward",
+        "facing forward",
+        "facing forward, bent over",
+        "facing forward with body angled downward",
+        "facing upward",
+        "facing slightly upward and to right",
+        "facing left",
+        "head tilted back, facing upward",
+        "facing slightly upward and to the right",
+        "facing slightly upward and forward",
+        "facing forward with head tilted down",
+        "facing slightly right"
+      ],
+      "tags": [
+        "forward",
+        "angled",
+        "upward",
+        "downward",
+        "tilted"
+      ]
+    },
+    "body_positioned_diagonally_across_frame": {
+      "canonical_name": "body positioned diagonally across frame",
+      "canonical_name_zh": "身体对角线构图",
+      "canonical_phrase": "body angled diagonally across the frame",
+      "samples": [
+        "body angled diagonally across the frame",
+        "body positioned diagonally across the frame",
+        "torso angled diagonally",
+        "torso angled diagonally across frame",
+        "diagonal across the frame",
+        "side view, lying diagonally",
+        "body positioned diagonally",
+        "diagonal across frame"
+      ],
+      "tags": [
+        "diagonal",
+        "dynamic",
+        "cropped",
+        "asymmetrical",
+        "tension"
+      ]
+    },
+    "torso_angled_slightly_toward_camera": {
+      "canonical_name": "torso angled slightly toward camera",
+      "canonical_name_zh": "躯干微侧向镜头",
+      "canonical_phrase": "torso angled slightly toward camera facing forward",
+      "samples": [
+        "torso angled slightly forward, facing camera",
+        "torso angled slightly toward camera",
+        "torso angled forward, facing camera",
+        "torso slightly angled, facing camera",
+        "torso angled toward camera",
+        "torso angled slightly toward the camera",
+        "torso oriented toward camera",
+        "torso angled towards the camera",
+        "torso angled slightly to right, facing camera",
+        "torso leaning slightly toward window, facing camera",
+        "torso angled slightly to the side, facing camera"
+      ],
+      "tags": [
+        "forward",
+        "slight",
+        "angle",
+        "pose",
+        "orientation"
+      ]
+    },
+    "walking_away_facing_stall": {
+      "canonical_name": "walking away facing stall",
+      "canonical_name_zh": "背对镜头面向摊位",
+      "canonical_phrase": "walking away from the camera, facing the stall",
+      "samples": [
+        "walking away from the camera, facing the stall"
+      ],
+      "tags": [
+        "back_view",
+        "street_vendor",
+        "casual",
+        "urban",
+        "market"
+      ]
+    },
+    "rear_view_car_facing_slightly_away": {
+      "canonical_name": "rear view car facing slightly away",
+      "canonical_name_zh": "车尾微侧视角",
+      "canonical_phrase": "facing slightly away from camera, rear of car visible",
+      "samples": [
+        "facing slightly away from camera, rear of car visible"
+      ],
+      "tags": [
+        "chrome",
+        "metallic",
+        "sedan",
+        "sleek",
+        "taillights"
+      ]
+    },
+    "facing_camera_with_angled_body": {
+      "canonical_name": "facing camera with angled body",
+      "canonical_name_zh": "面向镜头身体倾斜",
+      "canonical_phrase": "facing camera with body angled upward or forward lean",
+      "samples": [
+        "facing camera with head turned over right shoulder",
+        "facing camera with slight forward lean",
+        "facing camera with body angled upward",
+        "facing camera (looking over shoulder)",
+        "facing camera, torso angled slightly forward",
+        "facing camera with reflection showing back of head and shoulder"
+      ],
+      "tags": [
+        "portrait",
+        "casual",
+        "dynamic",
+        "shoulder",
+        "reflection"
+      ]
+    },
+    "torso_angled_forward_facing_slightly": {
+      "canonical_name": "torso angled forward facing slightly",
+      "canonical_name_zh": "躯干前倾微侧",
+      "canonical_phrase": "torso angled forward facing slightly right or left",
+      "samples": [
+        "torso angled forward, facing slightly right",
+        "torso angled forward, facing slightly left",
+        "torso angled to right, facing slightly towards sink",
+        "torso angled toward the right",
+        "torso angled slightly to the left, facing forward",
+        "torso facing forward",
+        "torso angled slightly right, facing forward"
+      ],
+      "tags": [
+        "forward",
+        "slight",
+        "angle",
+        "pose",
+        "orientation"
+      ]
+    },
+    "subject_facing_camera_with_slight_turn": {
+      "canonical_name": "subject facing camera with slight turn",
+      "canonical_name_zh": "面向镜头微侧身",
+      "canonical_phrase": "subject facing camera with slight turn or bending forward",
+      "samples": [
+        "facing camera, leaning forward",
+        "facing camera (left side), standing outdoors (right side)",
+        "facing camera; facing camera",
+        "facing camera (implied by leg focus)",
+        "facing camera, slightly turned",
+        "facing camera (implied by low angle focus on feet)",
+        "facing camera with slight turn",
+        "facing camera",
+        "facing camera, bending forward",
+        "facing camera (lower body focus)",
+        "facing the camera",
+        "facing slightly off-camera"
+      ],
+      "tags": [
+        "portrait",
+        "casual",
+        "outdoor",
+        "dynamic",
+        "low_angle"
+      ]
+    },
+    "threequarter_turn_away_with_head_turned_back": {
+      "canonical_name": "three-quarter turn away with head turned back",
+      "canonical_name_zh": "侧身回眸",
+      "canonical_phrase": "three-quarter turn away with head turned back",
+      "samples": [
+        "three-quarter turn away with head turned back"
+      ],
+      "tags": [
+        "blue",
+        "denim",
+        "hoodie",
+        "melancholy",
+        "curly_hair"
+      ]
+    },
+    "body_angled_slightly_forward_looking_right": {
+      "canonical_name": "body angled slightly forward looking right",
+      "canonical_name_zh": "身体微前倾向右看",
+      "canonical_phrase": "body angled slightly forward, looking off to the right",
+      "samples": [
+        "body angled slightly forward, looking off to the right"
+      ],
+      "tags": [
+        "blue",
+        "denim",
+        "jacket",
+        "casual",
+        "profile"
+      ]
+    },
+    "torso_angled_slightly_away_from_camera_gaze_directed_forward": {
+      "canonical_name": "torso angled slightly away from camera",
+      "canonical_name_zh": "躯干微侧向镜头",
+      "canonical_phrase": "torso angled slightly away from camera, gaze directed forward",
+      "samples": [
+        "torso angled slightly away from camera, gaze directed forward"
+      ],
+      "tags": [
+        "cotton",
+        "denim",
+        "casual",
+        "slouchy",
+        "chin_up"
+      ]
+    },
+    "body_angled_toward_camera_facing_front": {
+      "canonical_name": "body angled toward camera facing front",
+      "canonical_name_zh": "身体侧向镜头面向前方",
+      "canonical_phrase": "body angled slightly toward the camera while facing front",
+      "samples": [
+        "body angled sideways, head facing camera",
+        "body angled toward the camera",
+        "angled toward the camera",
+        "body angled slightly forward, facing camera",
+        "angled toward camera",
+        "facing camera with body angled slightly forward",
+        "facing camera, body angled slightly toward camera",
+        "body angled slightly to the side, facing camera"
+      ],
+      "tags": [
+        "portrait",
+        "slight_angle",
+        "front_view",
+        "dynamic_pose",
+        "3d_render"
+      ]
+    },
+    "torso_angled_slightly_right_facing_away": {
+      "canonical_name": "torso angled slightly right facing away",
+      "canonical_name_zh": "躯干微右倾背向镜头",
+      "canonical_phrase": "torso angled slightly to her right, facing slightly away from camera",
+      "samples": [
+        "torso angled slightly to her right, facing slightly away from camera"
+      ],
+      "tags": [
+        "denim",
+        "casual",
+        "jacket",
+        "slouchy",
+        "shoulder blade"
+      ]
+    },
+    "head_and_torso_directional_orientation": {
+      "canonical_name": "head and torso directional orientation",
+      "canonical_name_zh": "头部与躯干朝向",
+      "canonical_phrase": "head turned slightly left or right with torso facing forward or angled",
+      "samples": [
+        "side angle, head turned to left",
+        "head turned slightly to right, torso facing forward",
+        "head slightly turned to right, torso facing forward",
+        "head turned slightly to left",
+        "head turned left, body oriented sideways",
+        "body angled forward, head turned slightly to right"
+      ],
+      "tags": [
+        "portrait",
+        "casual",
+        "natural",
+        "subtle",
+        "profile"
+      ]
+    }
+  },
+  "statistics": {
+    "total_clusters": 31,
+    "multi_sample_clusters": 18,
+    "single_sample_clusters": 13
+  }
+}

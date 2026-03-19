@@ -1,0 +1,384 @@
+{
+  "dimension": "subject_appearance",
+  "version": "1.0",
+  "generated_date": "2026-03-18",
+  "mode": "clustered",
+  "clusters": {
+    "slender_athletic_build_mediumlight_skin_tone": {
+      "canonical_name": "slender athletic build medium-light skin tone",
+      "canonical_name_zh": "纤细运动体型浅肤色",
+      "canonical_phrase": "slender athletic build, medium-light skin tone",
+      "samples": [
+        "slender athletic build, medium-light skin tone"
+      ],
+      "tags": [
+        "skin",
+        "muscle",
+        "fit",
+        "lean",
+        "tone"
+      ]
+    },
+    "toned_legs_with_tanned_skin": {
+      "canonical_name": "toned legs with tanned skin",
+      "canonical_name_zh": "健腿晒黑皮肤",
+      "canonical_phrase": "toned legs, tanned skin",
+      "samples": [
+        "toned legs, tanned skin"
+      ],
+      "tags": [
+        "muscular",
+        "bronze",
+        "bare",
+        "athletic",
+        "sun-kissed"
+      ]
+    },
+    "athletic_build_with_tan_skin": {
+      "canonical_name": "athletic build with tan skin",
+      "canonical_name_zh": "运动身材配古铜肤色",
+      "canonical_phrase": "slender or sturdy athletic build with warm tan or medium brown skin",
+      "samples": [
+        "slender athletic build, tan skin",
+        "athletic build, medium brown skin tone",
+        "athletic build, light brown skin",
+        "athletic build, warm tan skin",
+        "slender athletic build, medium-toned skin",
+        "athletic build, medium skin tone",
+        "sturdy build, tan skin",
+        "athletic build, medium-dark skin tone"
+      ],
+      "tags": [
+        "athletic",
+        "tan",
+        "muscular",
+        "fit",
+        "bronze"
+      ]
+    },
+    "slender_or_full_build_fair_skin": {
+      "canonical_name": "slender or full build fair skin",
+      "canonical_name_zh": "瘦或丰满身材白皮肤",
+      "canonical_phrase": "slender or full-figured build with fair smooth skin",
+      "samples": [
+        "fair skin",
+        "slender build, fair skin",
+        "average build, fair skin",
+        "slender build, fair smooth skin",
+        "toned slender build, fair skin",
+        "slender build, smooth fair skin",
+        "full-figured build, fair skin",
+        "full figure, fair skin",
+        "full build, fair skin",
+        "toned build, fair skin"
+      ],
+      "tags": [
+        "fair",
+        "skin",
+        "slender",
+        "full-figured",
+        "smooth"
+      ]
+    },
+    "slender_athletic_build_fair_skin": {
+      "canonical_name": "slender athletic build fair skin",
+      "canonical_name_zh": "纤细运动身材白皙皮肤",
+      "canonical_phrase": "slender athletic build, fair skin",
+      "samples": [
+        "slender athletic build, fair skin"
+      ],
+      "tags": [
+        "skin",
+        "muscle",
+        "lean",
+        "pale",
+        "fit"
+      ]
+    },
+    "slender_build_warmtoned_skin": {
+      "canonical_name": "slender build warm-toned skin",
+      "canonical_name_zh": "纤细身材暖色皮肤",
+      "canonical_phrase": "slender build, warm-toned skin",
+      "samples": [
+        "slender build, warm-toned skin"
+      ],
+      "tags": [
+        "skin",
+        "slender",
+        "warm",
+        "build",
+        "tone"
+      ]
+    },
+    "toned_athletic_build_fair_skin": {
+      "canonical_name": "toned athletic build fair skin",
+      "canonical_name_zh": "健硕体格肤色白皙",
+      "canonical_phrase": "toned athletic build, fair skin",
+      "samples": [
+        "toned athletic build, fair skin"
+      ],
+      "tags": [
+        "muscular",
+        "skin",
+        "white",
+        "fit",
+        "athletic"
+      ]
+    },
+    "curvaceous_build_with_warm_skin_tone": {
+      "canonical_name": "curvaceous build with warm skin tone",
+      "canonical_name_zh": "曲线身材暖色调皮肤",
+      "canonical_phrase": "curvaceous build with warm beige or tan skin tone",
+      "samples": [
+        "curvaceous build, warm beige skin",
+        "curvaceous build, medium skin tone",
+        "curvaceous build, warm olive skin tone",
+        "orange and white bodies",
+        "curvaceous build, medium-toned skin",
+        "slender curvaceous build, warm-toned skin",
+        "curvaceous build, tanned skin",
+        "curvaceous build, tan skin",
+        "rounded body, large dark eye, flowing fins",
+        "curvaceous build, light brown skin",
+        "curvaceous hips, tan skin",
+        "large ornamental fish with flowing white and orange fins",
+        "curvaceous build, fair skin",
+        "curvaceous build, light-toned skin",
+        "dark gray upperwings, white underwings with dark wingtips, dark head",
+        "curvaceous build, warm skin tone",
+        "dark blue wings and body",
+        "curvaceous build, warm-toned skin"
+      ],
+      "tags": [
+        "curvaceous",
+        "warm_skin",
+        "beige",
+        "tanned",
+        "rounded"
+      ]
+    },
+    "warm_brown_skin_tone": {
+      "canonical_name": "warm brown skin tone",
+      "canonical_name_zh": "暖棕色肤色",
+      "canonical_phrase": "warm brown skin tone",
+      "samples": [
+        "warm brown skin tone"
+      ],
+      "tags": [
+        "brown",
+        "skin",
+        "warm",
+        "natural",
+        "glow"
+      ]
+    },
+    "slender_build_warm_brown_skin": {
+      "canonical_name": "slender build warm brown skin",
+      "canonical_name_zh": "纤细身材暖棕肤色",
+      "canonical_phrase": "slender build, warm brown skin",
+      "samples": [
+        "slender build, warm brown skin"
+      ],
+      "tags": [
+        "skin",
+        "brown",
+        "slender",
+        "human",
+        "tanned"
+      ]
+    },
+    "slender_figure_with_light_brown_skin": {
+      "canonical_name": "slender figure with light brown skin",
+      "canonical_name_zh": "纤细身材浅棕肤色",
+      "canonical_phrase": "slender, light brown skin",
+      "samples": [
+        "slender, light brown skin"
+      ],
+      "tags": [
+        "skin",
+        "tanned",
+        "slim",
+        "natural",
+        "ethereal"
+      ]
+    },
+    "slender_build_with_varied_skin_tones": {
+      "canonical_name": "slender build with varied skin tones",
+      "canonical_name_zh": "纤细身材与多样肤色",
+      "canonical_phrase": "slender build with vibrant orange scales or medium to dark skin tone",
+      "samples": [
+        "slender body, vibrant orange scales",
+        "slender build, medium-dark skin tone",
+        "slender build, warm medium skin tone",
+        "slender build, dark skin tone",
+        "slender build, light skin tone",
+        "slender build, warm honey-toned skin",
+        "slender build, olive skin tone",
+        "slender build, medium-toned skin",
+        "slender build, medium skin tone",
+        "slender, fair skin (woman); medium build, fair skin (boy)",
+        "slender build, medium-light skin tone"
+      ],
+      "tags": [
+        "slender",
+        "skin",
+        "orange",
+        "scales",
+        "build"
+      ]
+    },
+    "pale_skin_with_visible_veins": {
+      "canonical_name": "pale skin with visible veins",
+      "canonical_name_zh": "苍白皮肤可见血管",
+      "canonical_phrase": "pale skin, visible veins",
+      "samples": [
+        "pale skin, visible veins"
+      ],
+      "tags": [
+        "pale",
+        "veins",
+        "skin",
+        "translucent",
+        "anatomical"
+      ]
+    },
+    "smooth_skin_texture_detail": {
+      "canonical_name": "smooth skin texture detail",
+      "canonical_name_zh": "光滑皮肤质感细节",
+      "canonical_phrase": "smooth skin",
+      "samples": [
+        "smooth skin"
+      ],
+      "tags": [
+        "pale",
+        "porcelain",
+        "dress",
+        "ethereal",
+        "flawless"
+      ]
+    },
+    "slender_figure_with_light_skin_tone": {
+      "canonical_name": "slender figure with light skin tone",
+      "canonical_name_zh": "纤细身材浅色皮肤",
+      "canonical_phrase": "slender body with pale, smooth, and light skin",
+      "samples": [
+        "slender, tanned skin",
+        "slender, fair skin and sturdy, fair skin",
+        "slender, fair skin",
+        "slender, smooth skin",
+        "elongated and thin, pale skin",
+        "slender, light skin"
+      ],
+      "tags": [
+        "slender",
+        "pale",
+        "skin",
+        "thin",
+        "light"
+      ]
+    },
+    "slender_build_light_brown_skin": {
+      "canonical_name": "slender build light brown skin",
+      "canonical_name_zh": "纤细身材浅棕肤色",
+      "canonical_phrase": "slender build, light brown skin",
+      "samples": [
+        "slender build, light brown skin"
+      ],
+      "tags": [
+        "skin",
+        "build",
+        "slender",
+        "brown",
+        "figure"
+      ]
+    },
+    "athletic_build_fair_skin": {
+      "canonical_name": "athletic build fair skin",
+      "canonical_name_zh": "健硕体格白皙肌肤",
+      "canonical_phrase": "athletic build, fair skin",
+      "samples": [
+        "athletic build, fair skin"
+      ],
+      "tags": [
+        "muscular",
+        "pale",
+        "skin",
+        "fit",
+        "lean"
+      ]
+    },
+    "slender_figure_with_warm_skin_tone": {
+      "canonical_name": "slender figure with warm skin tone",
+      "canonical_name_zh": "纤细身材暖肤色",
+      "canonical_phrase": "slender, warm skin tone",
+      "samples": [
+        "slender, warm skin tone"
+      ],
+      "tags": [
+        "skin",
+        "warm",
+        "slender",
+        "natural",
+        "soft"
+      ]
+    },
+    "toned_physique_fair_skin": {
+      "canonical_name": "toned physique fair skin",
+      "canonical_name_zh": "健硕体格白皙肌肤",
+      "canonical_phrase": "toned physique, fair skin",
+      "samples": [
+        "toned physique, fair skin"
+      ],
+      "tags": [
+        "muscular",
+        "pale",
+        "skin",
+        "athletic",
+        "lean"
+      ]
+    },
+    "light_to_medium_skin_tone_texture": {
+      "canonical_name": "light to medium skin tone texture",
+      "canonical_name_zh": "浅色至中等肤色纹理",
+      "canonical_phrase": "light to medium skin tone with smooth natural texture",
+      "samples": [
+        "light skin tone with visible natural texture",
+        "light to medium skin tones",
+        "light-toned skin",
+        "light peachy skin tone",
+        "medium skin tone",
+        "smooth skin tone",
+        "soft curves, light-toned skin",
+        "medium brown skin",
+        "soft smooth skin"
+      ],
+      "tags": [
+        "light skin",
+        "medium skin",
+        "smooth skin",
+        "natural texture",
+        "peachy tone"
+      ]
+    },
+    "slender_build_tan_skin": {
+      "canonical_name": "slender build tan skin",
+      "canonical_name_zh": "纤细身材浅棕肤色",
+      "canonical_phrase": "slender build, tan skin",
+      "samples": [
+        "slender build, tan skin"
+      ],
+      "tags": [
+        "slender",
+        "tan",
+        "skin",
+        "fit",
+        "natural"
+      ]
+    }
+  },
+  "statistics": {
+    "total_clusters": 21,
+    "multi_sample_clusters": 6,
+    "single_sample_clusters": 15
+  }
+}

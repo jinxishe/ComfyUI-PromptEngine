@@ -1,0 +1,2229 @@
+{
+  "dimension": "atmosphere",
+  "version": "1.0",
+  "generated_date": "2026-03-18",
+  "mode": "clustered",
+  "clusters": {
+    "soft_serene_and_tranquil_atmosphere": {
+      "canonical_name": "soft serene and tranquil atmosphere",
+      "canonical_name_zh": "柔和宁静氛围",
+      "canonical_phrase": "soft, serene, and tranquil atmosphere with gentle lighting",
+      "samples": [
+        "calm and serene",
+        "soft, serene, tranquil",
+        "soft, serene",
+        "gentle and serene",
+        "serene and calm",
+        "serene and slightly misty",
+        "serene",
+        "serene and tranquil"
+      ],
+      "tags": [
+        "soft",
+        "serene",
+        "tranquil",
+        "misty",
+        "calm"
+      ]
+    },
+    "warm_golden_lighting_soft_shadows_film_grain": {
+      "canonical_name": "warm golden lighting soft shadows film grain",
+      "canonical_name_zh": "暖金光影柔影胶片",
+      "canonical_phrase": "warm golden lighting casting soft shadows, film grain texture",
+      "samples": [
+        "warm golden lighting casting soft shadows, film grain texture"
+      ],
+      "tags": [
+        "golden",
+        "film",
+        "soft",
+        "vintage",
+        "grain"
+      ]
+    },
+    "cinematic_high_contrast_dramatic_atmosphere": {
+      "canonical_name": "cinematic high contrast dramatic atmosphere",
+      "canonical_name_zh": "电影感高对比戏剧氛围",
+      "canonical_phrase": "cinematic high contrast dramatic lighting with sharp shadows",
+      "samples": [
+        "natural, high contrast",
+        "bustling, cinematic",
+        "cinematic, high contrast",
+        "cinematic, balanced, symmetrical",
+        "cinematic with high contrast",
+        "cinematic with contrasting lighting",
+        "dramatic, high contrast",
+        "cinematic, film-like quality",
+        "warm, high contrast, cinematic",
+        "bright, sharp contrast",
+        "cinematic, textured",
+        "dramatic, cinematic",
+        "natural, sharp contrast",
+        "warm, high contrast",
+        "high-contrast cinematic",
+        "cinematic dramatic",
+        "bright and directional, high-contrast cinematic",
+        "dramatic",
+        "bright, high contrast",
+        "cinematic, overcast",
+        "moody, high-contrast",
+        "dramatic, high-contrast",
+        "cinematic with strong contrast",
+        "bright, high contrast, cinematic",
+        "gentle contrast",
+        "cool, high contrast",
+        "layered, cinematic",
+        "high contrast, cinematic"
+      ],
+      "tags": [
+        "cinematic",
+        "high-contrast",
+        "dramatic",
+        "sharp",
+        "moody"
+      ]
+    },
+    "warm_and_serene_natural_atmosphere": {
+      "canonical_name": "warm and serene natural atmosphere",
+      "canonical_name_zh": "温暖宁静自然氛围",
+      "canonical_phrase": "warm, serene, and luminous natural setting with joyful or wintry elements",
+      "samples": [
+        "warm and serene",
+        "warm, elegant, serene",
+        "joyful, cold winter setting",
+        "warm, serene, natural",
+        "wintry, serene",
+        "warm, carefree, and luminous",
+        "cold, wintry, serene",
+        "cold, serene, joyful",
+        "warm, serene"
+      ],
+      "tags": [
+        "warm",
+        "serene",
+        "natural",
+        "luminous",
+        "wintry"
+      ]
+    },
+    "textural_and_contrastfocused": {
+      "canonical_name": "textural and contrast-focused",
+      "canonical_name_zh": "纹理与对比",
+      "canonical_phrase": "textural and contrast-focused",
+      "samples": [
+        "textural and contrast-focused"
+      ],
+      "tags": [
+        "matte",
+        "rough",
+        "denim",
+        "grunge",
+        "scratches"
+      ]
+    },
+    "soft_golden_hour_glow": {
+      "canonical_name": "soft golden hour glow",
+      "canonical_name_zh": "柔和金辉氛围",
+      "canonical_phrase": "warm gentle atmosphere",
+      "samples": [
+        "warm gentle atmosphere"
+      ],
+      "tags": [
+        "golden",
+        "velvet",
+        "silk",
+        "dreamy",
+        "lens flare"
+      ]
+    },
+    "sunlit_natural_texture_highlights": {
+      "canonical_name": "sunlit natural texture highlights",
+      "canonical_name_zh": "阳光自然纹理高光",
+      "canonical_phrase": "sunlit with natural texture and highlights",
+      "samples": [
+        "sunlit with natural texture and highlights"
+      ],
+      "tags": [
+        "golden",
+        "organic",
+        "fabric",
+        "ethereal",
+        "specular"
+      ]
+    },
+    "warm_golden_cinematic_glow": {
+      "canonical_name": "warm golden cinematic glow",
+      "canonical_name_zh": "暖金电影感光晕",
+      "canonical_phrase": "warm golden cinematic glow with high contrast shadows",
+      "samples": [
+        "warm golden glow, cinematic",
+        "warm golden, high contrast",
+        "warm cinematic, high contrast between illuminated skin and dark surroundings",
+        "warm cinematic glow",
+        "warm golden lighting creating a soft cinematic glow",
+        "warm cinematic with golden hue",
+        "weathered, cinematic, vibrant contrast",
+        "cinematic, strong contrast between illuminated skin and dark background",
+        "warm, joyful, golden glow",
+        "cinematic warm golden tone",
+        "warm golden tone, high contrast shadows",
+        "warm golden tones, cinematic",
+        "cinematic contrast, warm golden sunlight"
+      ],
+      "tags": [
+        "golden",
+        "warm",
+        "cinematic",
+        "glow",
+        "contrast"
+      ]
+    },
+    "soft_warm_ambient_lighting_with_gentle_shadows": {
+      "canonical_name": "soft warm ambient lighting with gentle shadows",
+      "canonical_name_zh": "柔和暖光氛围",
+      "canonical_phrase": "soft warm ambient lighting casting gentle shadows with cinematic glow",
+      "samples": [
+        "dim ambient lighting with soft shadows",
+        "dynamic motion with soft shadows",
+        "soft diffused lighting under overcast sky",
+        "bright natural light casting soft shadows",
+        "soft warm light casting gentle shadows, film-like texture",
+        "warm natural light from right side casting soft shadows",
+        "soft warm lighting casting gentle shadows",
+        "warm diffused daylight casting soft shadows, cinematic glow",
+        "soft warm lighting creating gentle shadows",
+        "warm ambient lighting casting soft shadows",
+        "natural outdoor lighting casting soft shadows",
+        "warm natural light casting soft shadows",
+        "cool blue ambient lighting casting soft shadows",
+        "soft natural lighting casting gentle shadows",
+        "cool ambient lighting casting soft shadows",
+        "dim ambient lighting casting soft shadows",
+        "soft diffused lighting casting gentle shadows",
+        "warm diffused lighting casting soft shadows",
+        "warm soft lighting casting gentle shadows",
+        "soft diffused lighting casting gentle shadows, snowflakes resting on hair and sweater",
+        "dim ambient lighting creating soft shadows",
+        "natural light casting soft shadows",
+        "warm directional lighting casting soft shadows",
+        "soft natural light casting gentle shadows",
+        "warm indoor lighting casting soft shadows",
+        "dynamic backdrop with warm artificial lights casting soft shadows",
+        "warm ambient light casting soft shadows",
+        "cinematic warm lighting casting soft shadows"
+      ],
+      "tags": [
+        "warm",
+        "soft",
+        "ambient",
+        "cinematic",
+        "shadows"
+      ]
+    },
+    "soft_natural_diffused_lighting": {
+      "canonical_name": "soft natural diffused lighting",
+      "canonical_name_zh": "柔和自然漫射光",
+      "canonical_phrase": "soft natural diffused lighting with gentle shadows and warm highlights",
+      "samples": [
+        "warm natural lighting with soft highlights",
+        "soft natural light creating gentle shadows",
+        "bright natural lighting with soft shadows",
+        "soft diffused natural lighting, warm color theme",
+        "soft natural light",
+        "soft natural makeup, bright diffuse light",
+        "natural diffused lighting, soft shadows",
+        "natural outdoor lighting with soft shadows, dappled highlights",
+        "soft natural lighting",
+        "soft natural light creating gentle highlights",
+        "natural light, soft shadows",
+        "bright natural sunlight creating soft highlights",
+        "candid natural lighting",
+        "soft natural lighting with gentle shadows, film-like texture",
+        "natural with bright highlights and soft shadows",
+        "soft diffused light, strong contrast between industrial textures and organic greenery"
+      ],
+      "tags": [
+        "natural",
+        "soft",
+        "diffused",
+        "warm",
+        "candid"
+      ]
+    },
+    "cinematic_soft_focus_warm_golden_hour": {
+      "canonical_name": "cinematic soft focus warm golden hour",
+      "canonical_name_zh": "电影感柔焦暖金时刻",
+      "canonical_phrase": "cinematic soft focus, warm golden hour",
+      "samples": [
+        "cinematic soft focus, warm golden hour"
+      ],
+      "tags": [
+        "warm",
+        "golden",
+        "soft",
+        "cinematic",
+        "glow"
+      ]
+    },
+    "dappled_sunlight_filtering_through_leaves": {
+      "canonical_name": "dappled sunlight filtering through leaves",
+      "canonical_name_zh": "树叶间斑驳阳光",
+      "canonical_phrase": "bright natural sunlight filtering through dense foliage creating dappled shadows",
+      "samples": [
+        "bright natural sunlight filtering through leaves casting dappled shadows",
+        "natural sunlight filtering through canopy creating dappled shadows",
+        "dappled sunlight filtering through leaves",
+        "bright natural sunlight casting sharp shadows",
+        "bright sunlight casting soft shadows, natural light filtering through leaves",
+        "sunlight filtering through dense foliage creating dappled patterns",
+        "natural candid with dappled sunlight filtering through leaves"
+      ],
+      "tags": [
+        "sunlight",
+        "foliage",
+        "dappled",
+        "natural",
+        "shadows"
+      ]
+    },
+    "warm_intimate_sensual_atmosphere": {
+      "canonical_name": "warm intimate sensual atmosphere",
+      "canonical_name_zh": "温暖亲密感性氛围",
+      "canonical_phrase": "warm intimate sensual atmosphere with cozy and tender details",
+      "samples": [
+        "intimate and tender",
+        "sensual and natural",
+        "sensual yet intimate",
+        "warm and sensual",
+        "warm, intimate",
+        "warm, intimate, sensual",
+        "warm and intimate",
+        "cool and intimate",
+        "intimate and cozy"
+      ],
+      "tags": [
+        "warm",
+        "soft",
+        "intimate",
+        "cozy",
+        "tender"
+      ]
+    },
+    "soft_pastel_misty_morning_glow": {
+      "canonical_name": "soft pastel misty morning glow",
+      "canonical_name_zh": "柔和粉彩晨雾微光",
+      "canonical_phrase": "muted and tranquil, contemplative mood",
+      "samples": [
+        "muted and tranquil, contemplative mood"
+      ],
+      "tags": [
+        "pastel",
+        "mist",
+        "morning",
+        "soft",
+        "glow"
+      ]
+    },
+    "candid_natural_atmosphere_with_motion": {
+      "canonical_name": "candid natural atmosphere with motion",
+      "canonical_name_zh": "自然抓拍氛围",
+      "canonical_phrase": "candid natural atmosphere with soft focus and motion blur",
+      "samples": [
+        "dynamic, candid",
+        "candid dynamic",
+        "candid, soft focus",
+        "candid street photography feel",
+        "candid, cinematic",
+        "candid documentary feel",
+        "casual candid",
+        "candid, sun-kissed",
+        "candid moment with motion blur",
+        "gritty candid realism",
+        "candid beach vibe",
+        "earthy and candid",
+        "candid sports moment",
+        "candid yet stylized",
+        "candid",
+        "candid portrait feel",
+        "natural candid, soft focus",
+        "candid beach portrait"
+      ],
+      "tags": [
+        "natural",
+        "candid",
+        "soft_focus",
+        "motion_blur",
+        "documentary"
+      ]
+    },
+    "soft_warm_gentle_shadows": {
+      "canonical_name": "soft warm gentle shadows",
+      "canonical_name_zh": "柔和暖调轻影",
+      "canonical_phrase": "soft warm gentle shadows with lush greenery and cool tones",
+      "samples": [
+        "gentle shadows, soft warm tones",
+        "lush greenery, soft shadows",
+        "cool, soft shadows",
+        "warm, soft shadows",
+        "soft, warm, gentle shadows",
+        "soft shadows, warm ambiance"
+      ],
+      "tags": [
+        "warm",
+        "soft",
+        "shadows",
+        "gentle",
+        "lush"
+      ]
+    },
+    "soft_golden_hour_candid_atmosphere": {
+      "canonical_name": "soft golden hour candid atmosphere",
+      "canonical_name_zh": "柔和金时自然氛围",
+      "canonical_phrase": "natural candid atmosphere",
+      "samples": [
+        "natural candid atmosphere"
+      ],
+      "tags": [
+        "warm",
+        "skin",
+        "portrait",
+        "casual",
+        "sunlight"
+      ]
+    },
+    "warm_cinematic_atmosphere": {
+      "canonical_name": "warm cinematic atmosphere",
+      "canonical_name_zh": "温暖电影感氛围",
+      "canonical_phrase": "cinematic warm daylight with glowing warm tones",
+      "samples": [
+        "cinematic warm daylight",
+        "warm cinematic",
+        "glowing, warm cinematic",
+        "warm cinematic atmosphere",
+        "cinematic with warm color theme",
+        "warm cinematic tone",
+        "warm cinematic tones",
+        "cinematic atmosphere with rich warm tones",
+        "cinematic warmth",
+        "warm cinematic feel",
+        "cinematic with warm tones"
+      ],
+      "tags": [
+        "warm",
+        "cinematic",
+        "glowing",
+        "daylight",
+        "atmosphere"
+      ]
+    },
+    "warm_golden_light_soft_shadows": {
+      "canonical_name": "warm golden light soft shadows",
+      "canonical_name_zh": "暖金柔光",
+      "canonical_phrase": "warm golden light casting soft shadows with dappled patterns",
+      "samples": [
+        "warm golden hour lighting casting soft shadows, sun flare and lens flare glowing warmly",
+        "twilight with warm golden light casting long shadows",
+        "warm golden glow, soft shadows",
+        "warm golden tone, soft diffused light",
+        "warm golden light, soft shadows",
+        "warm golden light casting soft highlights and deep shadows, dappled shadows",
+        "warm golden sunlight casting long shadows",
+        "warm golden light, interplay of light and shadow",
+        "warm golden sunlight casting soft shadows",
+        "warm golden light, intricate shadow patterns",
+        "warm golden light casting soft shadows",
+        "warm golden sunlight, soft shadows",
+        "warm golden light casting soft shadows, dappled sunlight"
+      ],
+      "tags": [
+        "golden",
+        "warm",
+        "soft",
+        "dappled",
+        "golden-hour"
+      ]
+    },
+    "warm_golden_hour_sunlight_lens_flares_soft_shadows": {
+      "canonical_name": "warm golden hour sunlight lens flares soft shadows",
+      "canonical_name_zh": "暖金时刻阳光柔影",
+      "canonical_phrase": "warm golden hour sunlight, lens flares, soft shadows",
+      "samples": [
+        "warm golden hour sunlight, lens flares, soft shadows"
+      ],
+      "tags": [
+        "golden",
+        "sunlight",
+        "lens-flare",
+        "soft",
+        "atmosphere"
+      ]
+    },
+    "vintage_candid_film_aesthetic": {
+      "canonical_name": "vintage candid film aesthetic",
+      "canonical_name_zh": "复古胶片纪实感",
+      "canonical_phrase": "vintage candid film aesthetic with intimate and evocative atmosphere",
+      "samples": [
+        "vintage film aesthetic",
+        "candid film style",
+        "evocative of 1990s film aesthetic",
+        "candid film aesthetic",
+        "evocative of vintage film aesthetic",
+        "evocative of film",
+        "candid, intimate, vintage film aesthetic"
+      ],
+      "tags": [
+        "film",
+        "vintage",
+        "candid",
+        "intimate",
+        "grainy"
+      ]
+    },
+    "dynamic_vast_turbulent_serene_atmosphere": {
+      "canonical_name": "dynamic vast turbulent serene atmosphere",
+      "canonical_name_zh": "动态浩瀚湍流宁静氛围",
+      "canonical_phrase": "dynamic, vast, turbulent yet serene",
+      "samples": [
+        "dynamic, vast, turbulent yet serene"
+      ],
+      "tags": [
+        "azure",
+        "mist",
+        "storm",
+        "ethereal",
+        "vortex"
+      ]
+    },
+    "serene_and_dreamy_atmosphere": {
+      "canonical_name": "serene and dreamy atmosphere",
+      "canonical_name_zh": "宁静梦幻氛围",
+      "canonical_phrase": "serene and dreamy",
+      "samples": [
+        "serene and dreamy"
+      ],
+      "tags": [
+        "pastel",
+        "soft",
+        "ethereal",
+        "mist",
+        "glimmer"
+      ]
+    },
+    "moody_atmospheric_natural_wind_motion": {
+      "canonical_name": "moody atmospheric natural wind motion",
+      "canonical_name_zh": "氛围感自然风动",
+      "canonical_phrase": "moody atmospheric scene with natural wind effect visible in hair strands and skirt movement",
+      "samples": [
+        "moody atmospheric scene",
+        "atmospheric",
+        "natural motion",
+        "natural wind effect visible in hair strands and skirt movement"
+      ],
+      "tags": [
+        "moody",
+        "wind",
+        "hair",
+        "skirt",
+        "atmospheric"
+      ]
+    },
+    "warm_cinematic_nostalgic_atmosphere": {
+      "canonical_name": "warm cinematic nostalgic atmosphere",
+      "canonical_name_zh": "温暖怀旧电影感氛围",
+      "canonical_phrase": "warm soft cinematic nostalgic atmosphere with film-like quality",
+      "samples": [
+        "cheerful, nostalgic, film-like",
+        "bright, warm, cinematic",
+        "warm, soft, cinematic",
+        "warm, serene, cinematic",
+        "soft and cinematic, nostalgic film style",
+        "bright, cinematic",
+        "cinematic, nostalgic",
+        "warm, nostalgic, cinematic",
+        "cinematic and nostalgic",
+        "warm, cinematic, nostalgic"
+      ],
+      "tags": [
+        "warm",
+        "cinematic",
+        "nostalgic",
+        "soft",
+        "film-like"
+      ]
+    },
+    "soft_natural_joyful_serene_atmosphere": {
+      "canonical_name": "soft natural joyful serene atmosphere",
+      "canonical_name_zh": "柔和自然喜悦宁静氛围",
+      "canonical_phrase": "soft natural joyful gentle serene warm rustic atmosphere",
+      "samples": [
+        "soft, serene, spring-like",
+        "joyful, natural",
+        "soft, joyful, natural",
+        "joyful, gentle",
+        "soft, gentle, serene",
+        "warm, natural, joyful",
+        "natural, rustic, gentle"
+      ],
+      "tags": [
+        "pastel",
+        "cotton",
+        "dress",
+        "rustic",
+        "serene"
+      ]
+    },
+    "soft_warm_candlelit_evening": {
+      "canonical_name": "soft warm candlelit evening",
+      "canonical_name_zh": "柔和暖烛光夜晚",
+      "canonical_phrase": "intimate and focused mood",
+      "samples": [
+        "intimate and focused mood"
+      ],
+      "tags": [
+        "amber",
+        "velvet",
+        "evening_gown",
+        "cozy",
+        "candlelight"
+      ]
+    },
+    "intimate_cinematic_soft_contemplative_mood": {
+      "canonical_name": "intimate cinematic soft contemplative mood",
+      "canonical_name_zh": "亲密电影感柔和沉思氛围",
+      "canonical_phrase": "cinematic intimate soft-focus contemplative natural mood",
+      "samples": [
+        "natural and intimate cinematic mood",
+        "cinematic, soft, contemplative",
+        "cinematic and intimate mood",
+        "serene intimate mood, cinematic soft-focus",
+        "intimate and contemplative mood, cinematic atmosphere",
+        "candid natural, cinematic mood",
+        "cinematic atmosphere, intimate mood",
+        "naturalistic and serene cinematic mood",
+        "cinematic, sensual and contemplative mood",
+        "cinematic atmosphere of tactile sensory engagement"
+      ],
+      "tags": [
+        "soft",
+        "natural",
+        "cinematic",
+        "intimate",
+        "contemplative"
+      ]
+    },
+    "cinematic_urban_daily_life_atmosphere": {
+      "canonical_name": "cinematic urban daily life atmosphere",
+      "canonical_name_zh": "电影感都市日常氛围",
+      "canonical_phrase": "cinematic atmosphere evoking daily life in a dense urban setting with soft blue and white tones",
+      "samples": [
+        "cinematic atmosphere evoking daily life in a dense urban setting",
+        "cinematic mood",
+        "cinematic atmosphere",
+        "cinematic atmosphere with soft blue and white color theme, film-like texture",
+        "soft cinematic atmosphere"
+      ],
+      "tags": [
+        "blue",
+        "white",
+        "urban",
+        "film",
+        "soft"
+      ]
+    },
+    "bright_cool_atmosphere_with_visible_snowflakes": {
+      "canonical_name": "bright cool atmosphere with visible snowflakes",
+      "canonical_name_zh": "明亮冷调可见雪花",
+      "canonical_phrase": "bright cool atmosphere with visible snowflakes",
+      "samples": [
+        "bright cool atmosphere with visible snowflakes"
+      ],
+      "tags": [
+        "blue",
+        "ice",
+        "winter",
+        "frosty",
+        "snowflakes"
+      ]
+    },
+    "natural_serene_calm_atmosphere": {
+      "canonical_name": "natural serene calm atmosphere",
+      "canonical_name_zh": "自然宁静氛围",
+      "canonical_phrase": "soft natural ambient lighting with serene and calm atmosphere",
+      "samples": [
+        "natural, calm",
+        "natural ambient",
+        "natural, calm, serene",
+        "soft, serene, natural",
+        "serene and natural",
+        "serene, traditional",
+        "refined and elegant",
+        "natural, serene",
+        "natural, grounded",
+        "natural, relaxed",
+        "calm, natural",
+        "natural, serene, verdant",
+        "natural and serene",
+        "natural, poised"
+      ],
+      "tags": [
+        "green",
+        "soft",
+        "natural",
+        "serene",
+        "grounded"
+      ]
+    },
+    "serene_and_tranquil_calmness": {
+      "canonical_name": "serene and tranquil calmness",
+      "canonical_name_zh": "宁静安详的氛围",
+      "canonical_phrase": "serene and tranquil atmosphere with calmness and stillness",
+      "samples": [
+        "tranquility",
+        "tranquil",
+        "tranquil and expansive",
+        "stillness and ruggedness",
+        "serene and tranquil, calmness and stillness",
+        "calmness and tranquility"
+      ],
+      "tags": [
+        "soft",
+        "pastel",
+        "minimalist",
+        "peaceful",
+        "smooth"
+      ]
+    },
+    "vertical_raindrops_falling": {
+      "canonical_name": "vertical raindrops falling",
+      "canonical_name_zh": "垂直落下的雨滴",
+      "canonical_phrase": "rainy with raindrops falling vertically",
+      "samples": [
+        "rainy with raindrops falling vertically"
+      ],
+      "tags": [
+        "blue",
+        "water",
+        "wet",
+        "moody",
+        "droplets"
+      ]
+    },
+    "cinematic_dusty_vintage_atmosphere": {
+      "canonical_name": "cinematic dusty vintage atmosphere",
+      "canonical_name_zh": "电影感尘埃复古氛围",
+      "canonical_phrase": "cinematic, dusty, vintage",
+      "samples": [
+        "cinematic, dusty, vintage"
+      ],
+      "tags": [
+        "amber",
+        "dust",
+        "film",
+        "retro",
+        "grain"
+      ]
+    },
+    "dim_candlelit_velvet_lounge": {
+      "canonical_name": "dim candlelit velvet lounge",
+      "canonical_name_zh": "烛光丝绒氛围",
+      "canonical_phrase": "atmospheric and intimate mood",
+      "samples": [
+        "atmospheric and intimate mood"
+      ],
+      "tags": [
+        "amber",
+        "velvet",
+        "robe",
+        "cozy",
+        "candlelight"
+      ]
+    },
+    "quiet_and_serene_contemplative_mood": {
+      "canonical_name": "quiet and serene contemplative mood",
+      "canonical_name_zh": "静谧沉思氛围",
+      "canonical_phrase": "soft, quiet, and serene contemplative mood with slight melancholy",
+      "samples": [
+        "quiet and contemplative",
+        "contemplative, solitary",
+        "quiet contemplative",
+        "serene and contemplative",
+        "soft, serene, contemplative",
+        "contemplative and serene",
+        "serene contemplative mood",
+        "soft, contemplative",
+        "tranquil and contemplative",
+        "contemplative and slightly melancholic"
+      ],
+      "tags": [
+        "soft",
+        "serene",
+        "contemplative",
+        "solitary",
+        "melancholic"
+      ]
+    },
+    "naturalistic_film_atmosphere": {
+      "canonical_name": "naturalistic film atmosphere",
+      "canonical_name_zh": "自然主义电影氛围",
+      "canonical_phrase": "naturalistic film",
+      "samples": [
+        "naturalistic film"
+      ],
+      "tags": [
+        "warm",
+        "grainy",
+        "cotton",
+        "cinematic",
+        "soft_focus"
+      ]
+    },
+    "bright_airy_natural_sunlight_atmosphere": {
+      "canonical_name": "bright airy natural sunlight atmosphere",
+      "canonical_name_zh": "明亮通透自然光氛围",
+      "canonical_phrase": "bright airy natural sunlight with dappled shadows and relaxed mood",
+      "samples": [
+        "bright, cool",
+        "bright, energetic, dappled sunlight",
+        "bright and even",
+        "bright, dusty, sun-drenched",
+        "bright sunlight, relaxed",
+        "bright, vintage",
+        "bright, dappled light",
+        "bright and sunny",
+        "bright commercial setting",
+        "bright daylight",
+        "bright sunny day with scattered white clouds",
+        "warm bright sunlight",
+        "bright outdoor setting",
+        "bright, sunny",
+        "bright and airy",
+        "bright, airy, warm",
+        "bright, airy, relaxed",
+        "bright natural sunlight",
+        "bright airy"
+      ],
+      "tags": [
+        "bright",
+        "airy",
+        "sunlight",
+        "relaxed",
+        "dappled"
+      ]
+    },
+    "vintage_leather_trench_coat": {
+      "canonical_name": "vintage leather trench coat",
+      "canonical_name_zh": "复古皮革风衣",
+      "canonical_phrase": "stark, sun-drenched",
+      "samples": [
+        "stark, sun-drenched"
+      ],
+      "tags": [
+        "brown",
+        "leather",
+        "trench",
+        "minimalist",
+        "weathered"
+      ]
+    },
+    "warm_vibrant_carefree_summery_atmosphere": {
+      "canonical_name": "warm vibrant carefree summery atmosphere",
+      "canonical_name_zh": "温暖活力悠闲夏日氛围",
+      "canonical_phrase": "warm, vibrant, carefree, summery",
+      "samples": [
+        "warm, vibrant, carefree, summery"
+      ],
+      "tags": [
+        "golden",
+        "linen",
+        "summer dress",
+        "carefree",
+        "sunlight"
+      ]
+    },
+    "soft_pastel_misty_morning_glow_serene": {
+      "canonical_name": "soft pastel misty morning glow",
+      "canonical_name_zh": "柔和粉彩晨雾微光",
+      "canonical_phrase": "gentle, serene",
+      "samples": [
+        "gentle, serene"
+      ],
+      "tags": [
+        "pastel",
+        "mist",
+        "morning",
+        "soft",
+        "ethereal"
+      ]
+    },
+    "warm_natural_tones_vibrant_greens_whites": {
+      "canonical_name": "warm natural tones vibrant greens whites",
+      "canonical_name_zh": "暖自然色调鲜绿白",
+      "canonical_phrase": "warm natural tones, vibrant greens and whites",
+      "samples": [
+        "warm natural tones, vibrant greens and whites"
+      ],
+      "tags": [
+        "warm",
+        "green",
+        "white",
+        "natural",
+        "vibrant"
+      ]
+    },
+    "vibrant_cinematic_atmosphere": {
+      "canonical_name": "vibrant cinematic atmosphere",
+      "canonical_name_zh": "活力电影感氛围",
+      "canonical_phrase": "vibrant, cinematic, immersive, energetic, and dynamic atmosphere",
+      "samples": [
+        "cinematic and immersive",
+        "immersive and energetic",
+        "cinematic and joyful",
+        "cinematic and cheerful",
+        "vibrant, film-like",
+        "vibrant, cinematic",
+        "elegant and cinematic",
+        "vibrant cinematic feel",
+        "cinematic and energetic",
+        "bright, vibrant, cinematic",
+        "cinematic, joyful",
+        "dynamic, energetic, cinematic",
+        "cinematic, cool, expansive",
+        "bright, energetic, cinematic",
+        "bold, retro, cinematic",
+        "cinematic, cool, reflective",
+        "cinematic and vivid",
+        "cinematic and vibrant",
+        "cinematic and dreamy",
+        "vibrant and cinematic",
+        "cool, cinematic",
+        "cool and cinematic",
+        "dynamic, elegant, cinematic",
+        "dynamic, cinematic"
+      ],
+      "tags": [
+        "vibrant",
+        "cinematic",
+        "dynamic",
+        "energetic",
+        "immersive"
+      ]
+    },
+    "serene_joyful_elegant_ethereal_vast": {
+      "canonical_name": "serene joyful elegant ethereal vast",
+      "canonical_name_zh": "宁静愉悦优雅空灵",
+      "canonical_phrase": "serene and joyful atmosphere with elegant and ethereal vastness",
+      "samples": [
+        "serene and joyful",
+        "serene and elegant",
+        "joyful, serene",
+        "energetic and serene",
+        "serene and vast",
+        "ethereal and serene"
+      ],
+      "tags": [
+        "soft",
+        "pastel",
+        "flowing",
+        "dreamy",
+        "glowing"
+      ]
+    },
+    "bright_overcast_sky": {
+      "canonical_name": "bright overcast sky",
+      "canonical_name_zh": "明亮阴天天空",
+      "canonical_phrase": "bright overcast sky",
+      "samples": [
+        "bright overcast sky"
+      ],
+      "tags": [
+        "white",
+        "diffused",
+        "cloudy",
+        "soft",
+        "hazy"
+      ]
+    },
+    "vibrant_sunlit_natural_atmosphere": {
+      "canonical_name": "vibrant sunlit natural atmosphere",
+      "canonical_name_zh": "阳光自然氛围",
+      "canonical_phrase": "vibrant sunlit natural atmosphere with glowing and joyful energy",
+      "samples": [
+        "sunlit, glowing",
+        "vibrant sunlit",
+        "vibrant and sunlit",
+        "sunlit, vibrant, joyful",
+        "sunlit, evoking nostalgia",
+        "vibrant, sunlit",
+        "sunlit, serene",
+        "sunlit, vibrant, energetic",
+        "sunlit, natural"
+      ],
+      "tags": [
+        "sunlight",
+        "vibrant",
+        "natural",
+        "bright",
+        "energetic"
+      ]
+    },
+    "serene_contemplative_atmosphere_gentle_breeze_effect": {
+      "canonical_name": "serene contemplative atmosphere gentle breeze effect",
+      "canonical_name_zh": "宁静沉思氛围微风效果",
+      "canonical_phrase": "serene contemplative atmosphere, gentle breeze effect",
+      "samples": [
+        "serene contemplative atmosphere, gentle breeze effect"
+      ],
+      "tags": [
+        "soft",
+        "linen",
+        "flowing",
+        "minimalist",
+        "ripples"
+      ]
+    },
+    "bright_direct_sunlight_with_sharp_shadows": {
+      "canonical_name": "bright direct sunlight with sharp shadows",
+      "canonical_name_zh": "明亮直射阳光与锐利阴影",
+      "canonical_phrase": "bright direct sunlight creating sharp shadows and lens flare",
+      "samples": [
+        "bright, shadowed",
+        "sunlight reflecting off the water",
+        "bright sunlight with dappled shadows",
+        "bright, sharp shadows",
+        "bright direct sunlight, sharp shadows",
+        "sunny with sharp shadows",
+        "bright sunlight with lens flare",
+        "bright sunlight with strong lens flare"
+      ],
+      "tags": [
+        "sunlight",
+        "shadow",
+        "bright",
+        "lens flare",
+        "dappled"
+      ]
+    },
+    "warm_golden_hour_cinematic_atmosphere": {
+      "canonical_name": "warm golden hour cinematic atmosphere",
+      "canonical_name_zh": "暖金时刻电影感氛围",
+      "canonical_phrase": "natural cinematic, warm golden hour",
+      "samples": [
+        "natural cinematic, warm golden hour"
+      ],
+      "tags": [
+        "golden",
+        "warm",
+        "cinematic",
+        "soft",
+        "sunset"
+      ]
+    },
+    "soft_and_inviting_atmosphere": {
+      "canonical_name": "soft and inviting atmosphere",
+      "canonical_name_zh": "柔和温馨氛围",
+      "canonical_phrase": "soft and inviting",
+      "samples": [
+        "soft and inviting"
+      ],
+      "tags": [
+        "warm",
+        "velvet",
+        "cozy",
+        "gentle",
+        "glow"
+      ]
+    },
+    "dimly_lit_warm_tones_soft_shadows": {
+      "canonical_name": "dimly lit warm tones soft shadows",
+      "canonical_name_zh": "昏暗暖调柔影",
+      "canonical_phrase": "dimly lit scene with warm tones and gentle soft shadows",
+      "samples": [
+        "dimly lit with strong shadows",
+        "sunlit, warm tones, deep shadows",
+        "dimly lit, warm",
+        "warm tones, gentle shadows",
+        "dimly lit, warm tones, soft shadows"
+      ],
+      "tags": [
+        "warm",
+        "dim",
+        "shadow",
+        "atmosphere",
+        "soft"
+      ]
+    },
+    "intimate_calm_and_moody_atmosphere": {
+      "canonical_name": "intimate calm and moody atmosphere",
+      "canonical_name_zh": "亲密宁静氛围",
+      "canonical_phrase": "intimate, calm, moody, softly lit, and introspective atmosphere",
+      "samples": [
+        "intimate, tactile",
+        "intimate and sun-drenched",
+        "intimate calm",
+        "intimate and sensual",
+        "intimate and focused",
+        "calm, intimate, sensual",
+        "creative and intimate",
+        "intimate",
+        "quiet intimate",
+        "serene intimate",
+        "moody intimate",
+        "intimate and introspective",
+        "intimate and softly lit",
+        "intimate and dreamy",
+        "intimate and moody",
+        "contemplative and intimate"
+      ],
+      "tags": [
+        "soft",
+        "warm",
+        "tactile",
+        "serene",
+        "dreamy"
+      ]
+    },
+    "evocative_softly_lit_atmosphere": {
+      "canonical_name": "evocative softly lit atmosphere",
+      "canonical_name_zh": "柔和光影氛围",
+      "canonical_phrase": "evocative and softly lit",
+      "samples": [
+        "evocative and softly lit"
+      ],
+      "tags": [
+        "warm",
+        "velvet",
+        "dress",
+        "dreamy",
+        "golden_hour"
+      ]
+    },
+    "misty_foggy_morning_atmosphere": {
+      "canonical_name": "misty foggy morning atmosphere",
+      "canonical_name_zh": "迷雾晨间氛围",
+      "canonical_phrase": "overcast sky",
+      "samples": [
+        "overcast sky"
+      ],
+      "tags": [
+        "grey",
+        "fog",
+        "morning",
+        "moody",
+        "mist"
+      ]
+    },
+    "dimly_lit_cinematic_atmosphere": {
+      "canonical_name": "dimly lit cinematic atmosphere",
+      "canonical_name_zh": "昏暗电影感氛围",
+      "canonical_phrase": "dimly lit cinematic atmosphere with high contrast and film grain",
+      "samples": [
+        "dramatic, dimly lit interior contrasting with bright exterior",
+        "dimly lit, cinematic, high contrast",
+        "dimly lit, film grain aesthetic",
+        "dim, cinematic",
+        "dimly lit, warm cinematic",
+        "dimly lit, cinematic",
+        "dimly lit"
+      ],
+      "tags": [
+        "dim",
+        "cinematic",
+        "film grain",
+        "high contrast",
+        "warm"
+      ]
+    },
+    "intimate_serene_quiet_elegance": {
+      "canonical_name": "intimate serene quiet elegance",
+      "canonical_name_zh": "静谧私密优雅",
+      "canonical_phrase": "intimate and serene atmosphere with quiet elegance and stillness",
+      "samples": [
+        "intimate and serene",
+        "intimate, serene, peaceful",
+        "intimate and sensual, quiet elegance and allure",
+        "intimacy and stillness, glistening with water droplets",
+        "intimacy and quiet elegance",
+        "intimate and serene, dreamy, ethereal",
+        "serene yet intimate",
+        "serene and intimate",
+        "calm, quiet, intimate",
+        "quiet serene, intimate",
+        "intimate, quiet"
+      ],
+      "tags": [
+        "serene",
+        "intimate",
+        "quiet",
+        "elegant",
+        "soft"
+      ]
+    },
+    "cinematic_serene_and_dramatic_atmosphere": {
+      "canonical_name": "cinematic serene and dramatic atmosphere",
+      "canonical_name_zh": "电影感宁静戏剧氛围",
+      "canonical_phrase": "cinematic serene and dramatic atmosphere with calm contemplation",
+      "samples": [
+        "cinematic and tranquil",
+        "serene and cinematic",
+        "serene yet bold cinematic",
+        "cinematic, dramatic, serene",
+        "cinematic, calm contemplation",
+        "cinematic and serene"
+      ],
+      "tags": [
+        "cinematic",
+        "serene",
+        "dramatic",
+        "calm",
+        "contemplation"
+      ]
+    },
+    "ethereal_misty_atmosphere_with_soft_glow": {
+      "canonical_name": "ethereal misty atmosphere with soft glow",
+      "canonical_name_zh": "空灵薄雾柔光氛围",
+      "canonical_phrase": "contrasting moods, interplay of light and shadow",
+      "samples": [
+        "contrasting moods, interplay of light and shadow"
+      ],
+      "tags": [
+        "mist",
+        "translucent",
+        "silhouette",
+        "dreamy",
+        "volumetric"
+      ]
+    },
+    "warm_golden_hour_light": {
+      "canonical_name": "warm golden hour light",
+      "canonical_name_zh": "暖金时刻光",
+      "canonical_phrase": "warm golden hour glow with sun-drenched ambiance",
+      "samples": [
+        "warm golden hour",
+        "warm golden ambiance",
+        "sun-drenched, warm golden light",
+        "warm golden hour glow",
+        "warm golden light",
+        "warm golden atmosphere",
+        "warm and golden"
+      ],
+      "tags": [
+        "golden",
+        "warm",
+        "sunset",
+        "glow",
+        "atmosphere"
+      ]
+    },
+    "warm_natural_lighting_dappled_sunlight": {
+      "canonical_name": "warm natural lighting dappled sunlight",
+      "canonical_name_zh": "暖光斑驳阳光",
+      "canonical_phrase": "warm natural lighting with dappled sunlight",
+      "samples": [
+        "warm natural lighting with dappled sunlight"
+      ],
+      "tags": [
+        "golden",
+        "wood",
+        "forest",
+        "cozy",
+        "shadows"
+      ]
+    },
+    "quiet_moody_introspective_atmosphere": {
+      "canonical_name": "quiet moody introspective atmosphere",
+      "canonical_name_zh": "静谧忧郁内省氛围",
+      "canonical_phrase": "quiet moody introspective atmosphere with calm melancholic isolation",
+      "samples": [
+        "quiet introspection",
+        "calm and introspective",
+        "moody and introspective",
+        "quiet and slightly melancholic",
+        "isolated and desolate",
+        "calm, introspective",
+        "moody, sense of journey and transition"
+      ],
+      "tags": [
+        "moody",
+        "melancholic",
+        "introspective",
+        "desolate",
+        "transition"
+      ]
+    },
+    "warm_nostalgic_serene_atmosphere": {
+      "canonical_name": "warm nostalgic serene atmosphere",
+      "canonical_name_zh": "温暖怀旧宁静氛围",
+      "canonical_phrase": "warm nostalgic serene atmosphere with bright cheerful joyful tones",
+      "samples": [
+        "cheerful, nostalgic",
+        "calm and nostalgic",
+        "bright, cheerful, nostalgic",
+        "calm, slightly nostalgic",
+        "joyful, nostalgic",
+        "warm and nostalgic",
+        "serene, nostalgic",
+        "vibrant nostalgic",
+        "nostalgic",
+        "serene, timeless",
+        "serene and nostalgic",
+        "nostalgic and serene"
+      ],
+      "tags": [
+        "warm",
+        "nostalgic",
+        "serene",
+        "cheerful",
+        "timeless"
+      ]
+    },
+    "golden_hour_desert_road_trip": {
+      "canonical_name": "golden hour desert road trip",
+      "canonical_name_zh": "金色黄昏沙漠公路",
+      "canonical_phrase": "evocative of a desert road trip scene",
+      "samples": [
+        "evocative of a desert road trip scene"
+      ],
+      "tags": [
+        "amber",
+        "sandstone",
+        "convertible",
+        "nostalgic",
+        "dust"
+      ]
+    },
+    "warm_soft_intimate_vintage_atmosphere": {
+      "canonical_name": "warm soft intimate vintage atmosphere",
+      "canonical_name_zh": "温暖柔和亲密复古氛围",
+      "canonical_phrase": "warm soft intimate vintage atmosphere with gentle lighting",
+      "samples": [
+        "soft, gentle, intimate",
+        "warm, soft, intimate",
+        "lush and intimate",
+        "warm, intimate, vintage"
+      ],
+      "tags": [
+        "warm",
+        "soft",
+        "vintage",
+        "intimate",
+        "gentle"
+      ]
+    },
+    "soft_warm_candlelit_intimate_mood": {
+      "canonical_name": "soft warm candlelit intimate mood",
+      "canonical_name_zh": "柔和烛光温馨氛围",
+      "canonical_phrase": "quiet introspective mood, intimate atmosphere",
+      "samples": [
+        "quiet introspective mood, intimate atmosphere"
+      ],
+      "tags": [
+        "warm",
+        "velvet",
+        "robe",
+        "cozy",
+        "candlelight"
+      ]
+    },
+    "cinematic_quiet_solitude": {
+      "canonical_name": "cinematic quiet solitude",
+      "canonical_name_zh": "电影感静谧独处",
+      "canonical_phrase": "cinematic atmosphere evoking quiet solitude and introspection",
+      "samples": [
+        "cinematic atmosphere evoking quiet intimacy",
+        "cinematic, quiet introspection",
+        "cinematic, evoking freedom and solitude",
+        "cinematic atmosphere evoking quiet concentration",
+        "cinematic, quiet contemplation",
+        "cinematic, evoking solitude and contemplation",
+        "cinematic atmosphere evoking serenity and contemplation",
+        "cinematic, quiet contemplation, wind tousling hair",
+        "cinematic, quiet",
+        "solitude, stormy, dramatic",
+        "cinematic atmosphere evoking quiet introspection",
+        "cinematic atmosphere evoking youthful freedom",
+        "cinematic atmosphere evoking youthful energy and focus",
+        "thick with mist or fog, cinematic and desolate mood, evoking isolation and quiet vastness",
+        "cinematic atmosphere evoking tranquility",
+        "cinematic, intimate, quiet introspection",
+        "cinematic atmosphere evoking youthful innocence",
+        "cinematic, evoking freedom and transcendence",
+        "cinematic atmosphere evoking quiet contemplation",
+        "cinematic atmosphere evoking quiet solitude"
+      ],
+      "tags": [
+        "cinematic",
+        "mist",
+        "solitude",
+        "contemplation",
+        "desolate"
+      ]
+    },
+    "cinematic_soft_focus_warm_diffused_lighting": {
+      "canonical_name": "cinematic soft focus warm diffused lighting",
+      "canonical_name_zh": "电影感柔焦暖光",
+      "canonical_phrase": "cinematic soft focus, warm diffused lighting",
+      "samples": [
+        "cinematic soft focus, warm diffused lighting"
+      ],
+      "tags": [
+        "warm",
+        "soft",
+        "diffused",
+        "cinematic",
+        "glow"
+      ]
+    },
+    "dramatic_high_contrast_lighting": {
+      "canonical_name": "dramatic high contrast lighting",
+      "canonical_name_zh": "戏剧性高对比光影",
+      "canonical_phrase": "dramatic high contrast lighting with deep shadows and bright highlights",
+      "samples": [
+        "dramatic chiaroscuro with deep shadows and bright highlights",
+        "intense bright lighting casting strong highlights and soft shadows",
+        "warm, strong contrast with soft shadows",
+        "dramatic contrast between warm light and shadow",
+        "dramatic contrast with bright highlights and deep shadows",
+        "high contrast with deep shadows",
+        "strong contrast between deep shadows and bright highlights",
+        "moody with deep shadows and high contrast"
+      ],
+      "tags": [
+        "chiaroscuro",
+        "moody",
+        "cinematic",
+        "strong_contrast",
+        "deep_shadows"
+      ]
+    },
+    "serene_natural_outdoor_atmosphere": {
+      "canonical_name": "serene natural outdoor atmosphere",
+      "canonical_name_zh": "宁静自然户外氛围",
+      "canonical_phrase": "serene and immersive natural outdoor setting with quiet connection to nature",
+      "samples": [
+        "serene yet dynamic coastal",
+        "serene and immersive, quiet connection with nature",
+        "serene woodland setting",
+        "serene forest atmosphere",
+        "serene outdoor moment"
+      ],
+      "tags": [
+        "serene",
+        "nature",
+        "outdoor",
+        "calm",
+        "woodland"
+      ]
+    },
+    "soft_golden_hour_glow_serene_mood": {
+      "canonical_name": "soft golden hour glow",
+      "canonical_name_zh": "柔和金辉氛围",
+      "canonical_phrase": "candid and serene, calm and contemplative mood",
+      "samples": [
+        "candid and serene, calm and contemplative mood"
+      ],
+      "tags": [
+        "golden",
+        "velvet",
+        "hoodie",
+        "minimalist",
+        "dust_motes"
+      ]
+    },
+    "dynamic_vibrant_energetic_atmosphere": {
+      "canonical_name": "dynamic vibrant energetic atmosphere",
+      "canonical_name_zh": "动态活力氛围",
+      "canonical_phrase": "dynamic vibrant energetic atmosphere with bright sun-baked lighting",
+      "samples": [
+        "vibrant, dynamic",
+        "dynamic and vibrant",
+        "dynamic, natural",
+        "dynamic, vibrant",
+        "dynamic, sun-baked",
+        "dynamic and bold",
+        "bright, dynamic"
+      ],
+      "tags": [
+        "vibrant",
+        "dynamic",
+        "bright",
+        "energetic",
+        "sun-baked"
+      ]
+    },
+    "dynamic_energetic_motion_and_freedom": {
+      "canonical_name": "dynamic energetic motion and freedom",
+      "canonical_name_zh": "动感活力自由",
+      "canonical_phrase": "dynamic energetic motion with forward momentum and freedom",
+      "samples": [
+        "dynamic and energetic",
+        "dynamic",
+        "dynamic mid-wave moment",
+        "forward momentum and freedom",
+        "dynamic athletic moment",
+        "dynamic motion, freedom",
+        "dynamic and refreshing"
+      ],
+      "tags": [
+        "energetic",
+        "dynamic",
+        "athletic",
+        "freedom",
+        "momentum"
+      ]
+    },
+    "overcast_sky_with_soft_diffused_lighting": {
+      "canonical_name": "overcast sky with soft diffused lighting",
+      "canonical_name_zh": "阴天柔和漫射光",
+      "canonical_phrase": "overcast sky with soft diffused lighting",
+      "samples": [
+        "overcast sky with soft diffused lighting"
+      ],
+      "tags": [
+        "grey",
+        "cloud",
+        "diffused",
+        "moody",
+        "soft"
+      ]
+    },
+    "open_and_expansive_atmosphere": {
+      "canonical_name": "open and expansive atmosphere",
+      "canonical_name_zh": "开阔宏大氛围",
+      "canonical_phrase": "open and expansive",
+      "samples": [
+        "open and expansive"
+      ],
+      "tags": [
+        "sky",
+        "vast",
+        "minimalist",
+        "airy",
+        "horizon"
+      ]
+    },
+    "natural_cinematic_atmosphere": {
+      "canonical_name": "natural cinematic atmosphere",
+      "canonical_name_zh": "自然电影感氛围",
+      "canonical_phrase": "natural cinematic atmosphere with clean and renewal feel",
+      "samples": [
+        "cinematic naturalistic",
+        "natural, cinematic",
+        "naturalistic, cinematic",
+        "natural ambient, cinematic",
+        "natural cinematic feel",
+        "cinematic atmosphere of cleanliness and renewal",
+        "natural cinematic atmosphere",
+        "natural cinematic",
+        "cinematic natural"
+      ],
+      "tags": [
+        "natural",
+        "cinematic",
+        "clean",
+        "renewal",
+        "ambient"
+      ]
+    },
+    "soft_dreamy_surreal_atmosphere": {
+      "canonical_name": "soft dreamy surreal atmosphere",
+      "canonical_name_zh": "柔和梦幻超现实氛围",
+      "canonical_phrase": "soft dreamy pastel surreal atmosphere with introspective and chaotic elements",
+      "samples": [
+        "dreamy, surreal",
+        "dreamy",
+        "dreamy pastel",
+        "soft, dreamy",
+        "dreamy and chaotic",
+        "dreamlike, introspective"
+      ],
+      "tags": [
+        "pastel",
+        "soft",
+        "dreamy",
+        "surreal",
+        "ethereal"
+      ]
+    },
+    "cinematic_atmospheric_dramatic_ethereal": {
+      "canonical_name": "cinematic atmospheric dramatic ethereal",
+      "canonical_name_zh": "电影感氛围戏剧",
+      "canonical_phrase": "cinematic and atmospheric with dramatic and ethereal lighting",
+      "samples": [
+        "cinematic and atmospheric",
+        "cinematic and dramatic",
+        "raw and cinematic",
+        "cinematic and ethereal"
+      ],
+      "tags": [
+        "cinematic",
+        "atmospheric",
+        "dramatic",
+        "ethereal",
+        "lighting"
+      ]
+    },
+    "soft_dreamy_serene_curious_atmosphere": {
+      "canonical_name": "soft dreamy serene curious atmosphere",
+      "canonical_name_zh": "柔和梦幻宁静好奇",
+      "canonical_phrase": "soft and dreamy, serene and curious",
+      "samples": [
+        "soft and dreamy, serene and curious"
+      ],
+      "tags": [
+        "pastel",
+        "velvet",
+        "dress",
+        "ethereal",
+        "glowing"
+      ]
+    },
+    "soft_natural_warm_earthy_vintage": {
+      "canonical_name": "soft natural warm earthy vintage",
+      "canonical_name_zh": "柔和自然温暖质朴复古",
+      "canonical_phrase": "soft natural warm earthy vintage atmosphere with gentle textures",
+      "samples": [
+        "soft, natural, vintage",
+        "natural, soft",
+        "warm, natural",
+        "soft, natural, breezy",
+        "soft and natural",
+        "ethereal, soft",
+        "earthy, textured, vintage",
+        "wet, natural",
+        "soft, natural",
+        "natural, agricultural",
+        "earthy, natural",
+        "soft, warm, natural",
+        "soft natural",
+        "earthy, soft",
+        "warm, rustic",
+        "natural, rustic",
+        "natural and soft",
+        "warm and natural with soft textures"
+      ],
+      "tags": [
+        "warm",
+        "earthy",
+        "soft",
+        "vintage",
+        "rustic"
+      ]
+    },
+    "soft_glowing_ethereal_mist": {
+      "canonical_name": "soft glowing ethereal mist",
+      "canonical_name_zh": "柔和发光空灵雾",
+      "canonical_phrase": "glowing",
+      "samples": [
+        "glowing"
+      ],
+      "tags": [
+        "blue",
+        "translucent",
+        "mist",
+        "ethereal",
+        "bioluminescent"
+      ]
+    },
+    "vibrant_tropical_atmosphere": {
+      "canonical_name": "vibrant tropical atmosphere",
+      "canonical_name_zh": "热带氛围",
+      "canonical_phrase": "vibrant tropical paradise with sun-drenched colors and serene aquatic elements",
+      "samples": [
+        "electric and surreal, dreamlike aquatic spectacle",
+        "sun-drenched tropical paradise",
+        "serene tropical relaxation",
+        "vibrant tropical aesthetic",
+        "vivid and intense tropical",
+        "tropical"
+      ],
+      "tags": [
+        "tropical",
+        "sunny",
+        "vivid",
+        "relaxing",
+        "aquatic"
+      ]
+    },
+    "bright_natural_daylight_soft_shadows": {
+      "canonical_name": "bright natural daylight soft shadows",
+      "canonical_name_zh": "明亮自然日光柔和阴影",
+      "canonical_phrase": "bright natural daylight casting soft gentle shadows",
+      "samples": [
+        "natural daylight casting soft shadows",
+        "bright natural daylight casting soft shadows",
+        "sunlight casting sharp shadows",
+        "bright natural sunlight casting soft shadows",
+        "bright daylight casting soft shadows",
+        "bright overhead sunlight casting soft shadows",
+        "sunlight casting soft shadows",
+        "soft natural daylight casting gentle shadows"
+      ],
+      "tags": [
+        "daylight",
+        "sunlight",
+        "soft",
+        "natural",
+        "shadows"
+      ]
+    },
+    "youthful_energy_summer_atmosphere": {
+      "canonical_name": "youthful energy summer atmosphere",
+      "canonical_name_zh": "青春活力夏日氛围",
+      "canonical_phrase": "youthful energy and summer atmosphere",
+      "samples": [
+        "youthful energy and summer atmosphere"
+      ],
+      "tags": [
+        "bright",
+        "cotton",
+        "t-shirt",
+        "vibrant",
+        "sunlight"
+      ]
+    },
+    "cinematic_sunlit_natural_atmosphere": {
+      "canonical_name": "cinematic sunlit natural atmosphere",
+      "canonical_name_zh": "电影感阳光自然氛围",
+      "canonical_phrase": "cinematic sunlit natural atmosphere with dappled sunlight patterns",
+      "samples": [
+        "sunlit, film-like",
+        "sunlit, dusty, cinematic",
+        "natural cinematic with dappled sunlight patterns",
+        "cinematic, sun-drenched",
+        "sunset, cinematic",
+        "natural bright sunlight, cinematic",
+        "sunlit, cinematic"
+      ],
+      "tags": [
+        "sunlight",
+        "cinematic",
+        "dappled",
+        "warm",
+        "natural"
+      ]
+    },
+    "warm_golden_hour_soft_highlights": {
+      "canonical_name": "warm golden hour soft highlights",
+      "canonical_name_zh": "暖金时刻柔光",
+      "canonical_phrase": "warm golden hour, soft highlights",
+      "samples": [
+        "warm golden hour, soft highlights"
+      ],
+      "tags": [
+        "golden",
+        "soft",
+        "warm",
+        "glow",
+        "ambient"
+      ]
+    },
+    "bright_vibrant_summery_atmosphere": {
+      "canonical_name": "bright vibrant summery atmosphere",
+      "canonical_name_zh": "明亮活力夏日氛围",
+      "canonical_phrase": "bright vibrant summery atmosphere with sunny sunlit scenes",
+      "samples": [
+        "warm, sparkling, summery",
+        "vibrant, open, sunny",
+        "bright, vibrant, summery",
+        "summery",
+        "bright, sunny, vibrant",
+        "vibrant and summery",
+        "vibrant, sunlit summer scene",
+        "vibrant, sun-drenched garden",
+        "vibrant summery",
+        "vibrant, sunny",
+        "bright cheerful summer",
+        "sunny, vibrant",
+        "bright, summery"
+      ],
+      "tags": [
+        "bright",
+        "vibrant",
+        "summer",
+        "sunny",
+        "sparkling"
+      ]
+    },
+    "cinematic_cool_blue_winter_atmosphere": {
+      "canonical_name": "cinematic cool blue winter atmosphere",
+      "canonical_name_zh": "电影感冷蓝冬日氛围",
+      "canonical_phrase": "cinematic winter mood with cool blue tint and high-key lighting",
+      "samples": [
+        "winter, cold",
+        "cinematic winter atmosphere",
+        "cool blue tinted, high-key winter scene",
+        "cinematic winter mood"
+      ],
+      "tags": [
+        "blue",
+        "snow",
+        "winter",
+        "cinematic",
+        "cold"
+      ]
+    },
+    "bright_vibrant_energetic_atmosphere": {
+      "canonical_name": "bright vibrant energetic atmosphere",
+      "canonical_name_zh": "明亮活力氛围",
+      "canonical_phrase": "bright, vibrant, energetic",
+      "samples": [
+        "bright, vibrant, energetic"
+      ],
+      "tags": [
+        "neon",
+        "glass",
+        "streetwear",
+        "futuristic",
+        "glow"
+      ]
+    },
+    "soft_natural_daylight_with_gentle_shadows": {
+      "canonical_name": "soft natural daylight with gentle shadows",
+      "canonical_name_zh": "柔和自然日光",
+      "canonical_phrase": "soft natural daylight creating gentle shadows with muted tones",
+      "samples": [
+        "dusk with slight haze",
+        "dusk",
+        "natural daylight",
+        "soft natural daylight",
+        "natural daylight portrait",
+        "soft diffused daylight, muted tones",
+        "natural daylight creating soft shadows",
+        "natural daylight, soft shadows",
+        "natural outdoor portrait",
+        "natural daylight candid",
+        "bright daylight with soft shadows",
+        "natural daylight with soft shadows",
+        "soft shadows, natural daylight",
+        "bright natural daylight with soft shadows",
+        "natural daylight creating soft shadows, wet droplets on skin",
+        "soft natural daylight with gentle shadows",
+        "soft shadows from natural daylight"
+      ],
+      "tags": [
+        "daylight",
+        "soft",
+        "natural",
+        "outdoor",
+        "haze"
+      ]
+    },
+    "misty_forest_with_glowing_moss": {
+      "canonical_name": "misty forest with glowing moss",
+      "canonical_name_zh": "迷雾森林发光苔藓",
+      "canonical_phrase": "windy, cinematic",
+      "samples": [
+        "windy, cinematic"
+      ],
+      "tags": [
+        "green",
+        "moss",
+        "forest",
+        "ethereal",
+        "bioluminescent"
+      ]
+    },
+    "soft_gentle_clean_minimalist_atmosphere": {
+      "canonical_name": "soft gentle clean minimalist atmosphere",
+      "canonical_name_zh": "柔和洁净极简氛围",
+      "canonical_phrase": "soft gentle clean minimalist aesthetic with balanced shadows and neutral tones",
+      "samples": [
+        "clean, minimalist, serene",
+        "soft and gentle",
+        "balanced, soft, shadowed",
+        "soft, gentle, textured",
+        "clean and refreshing",
+        "soft, balanced",
+        "minimal, soft",
+        "warm, vibrant, gentle",
+        "casual, gentle",
+        "minimalist",
+        "clean and youthful",
+        "clean minimalist aesthetic",
+        "warm, gentle",
+        "clean and natural",
+        "soft, calm, neutral",
+        "soft, calm",
+        "warm and gentle",
+        "warm, gentle, balanced",
+        "clean and minimalist",
+        "soft, gentle",
+        "soft and even",
+        "gentle, soft",
+        "soft, minimalist",
+        "soft, neutral",
+        "gentle"
+      ],
+      "tags": [
+        "soft",
+        "minimalist",
+        "neutral",
+        "clean",
+        "serene"
+      ]
+    },
+    "serene_and_carefree_joyful_atmosphere": {
+      "canonical_name": "serene and carefree joyful atmosphere",
+      "canonical_name_zh": "宁静自在欢快氛围",
+      "canonical_phrase": "vibrant and cheerful serene carefree playful joyful atmosphere",
+      "samples": [
+        "energetic and carefree",
+        "serene, carefree",
+        "serene and carefree",
+        "carefree playful",
+        "vibrant and carefree",
+        "joyful and carefree",
+        "cheerful and carefree"
+      ],
+      "tags": [
+        "vibrant",
+        "carefree",
+        "playful",
+        "cheerful",
+        "serene"
+      ]
+    },
+    "cold_serene_filmic_atmosphere": {
+      "canonical_name": "cold serene filmic atmosphere",
+      "canonical_name_zh": "冷峻静谧电影感",
+      "canonical_phrase": "cold, serene, filmic",
+      "samples": [
+        "cold, serene, filmic"
+      ],
+      "tags": [
+        "blue",
+        "mist",
+        "cinematic",
+        "minimalist",
+        "lens_flare"
+      ]
+    },
+    "warm_cinematic_mood_lighting": {
+      "canonical_name": "warm cinematic mood lighting",
+      "canonical_name_zh": "温暖电影感氛围",
+      "canonical_phrase": "warm cinematic lighting with a classic film aesthetic and ambient mood",
+      "samples": [
+        "warm, cinematic",
+        "cinematic, warm ambient",
+        "warm, cinematic mood",
+        "warmly lit, cinematic",
+        "warm, natural, cinematic",
+        "warm and cinematic",
+        "warm, classic film aesthetic",
+        "cinematic, warm"
+      ],
+      "tags": [
+        "warm",
+        "cinematic",
+        "ambient",
+        "film",
+        "mood"
+      ]
+    },
+    "soft_pastel_velvet_with_floral_embroidery": {
+      "canonical_name": "soft pastel velvet with floral embroidery",
+      "canonical_name_zh": "柔和粉彩丝绒配花卉刺绣",
+      "canonical_phrase": "gentle and inviting",
+      "samples": [
+        "gentle and inviting"
+      ],
+      "tags": [
+        "pastel",
+        "velvet",
+        "dress",
+        "romantic",
+        "embroidery"
+      ]
+    },
+    "playful_energetic_youthful_vibrant_atmosphere": {
+      "canonical_name": "playful energetic youthful vibrant atmosphere",
+      "canonical_name_zh": "活泼 energetic 青春氛围",
+      "canonical_phrase": "playful energetic youthful vibrant atmosphere with dynamic motion and joyful expression",
+      "samples": [
+        "energetic playful",
+        "carefree motion and youthful energy",
+        "energetic, dynamic",
+        "lively",
+        "playful and vibrant",
+        "joyful, playful",
+        "playful, sunny",
+        "playful and curious",
+        "vibrant and playful",
+        "dynamic and playful",
+        "energetic",
+        "playful energy, dynamic",
+        "playful, bright",
+        "playful and energetic",
+        "youthful energy and freedom",
+        "lively energetic",
+        "playful and serene",
+        "candid dynamic, youthful energy",
+        "playful energy, youthful movement"
+      ],
+      "tags": [
+        "bright",
+        "candid",
+        "dynamic",
+        "youthful",
+        "vibrant"
+      ]
+    },
+    "soft_intimate_cozy_atmosphere": {
+      "canonical_name": "soft intimate cozy atmosphere",
+      "canonical_name_zh": "柔和亲密温馨氛围",
+      "canonical_phrase": "soft intimate cozy atmosphere with gentle relaxed and natural lighting",
+      "samples": [
+        "cozy intimate",
+        "soft and intimate",
+        "casual intimacy",
+        "relaxed intimate",
+        "intimate, gentle",
+        "tactile and intimate",
+        "intimate and still",
+        "soft, intimate",
+        "soft intimate",
+        "natural, soft, intimate",
+        "natural, intimate",
+        "intimate and relaxed",
+        "calm and intimate"
+      ],
+      "tags": [
+        "warm",
+        "fabric",
+        "casual",
+        "cozy",
+        "tactile"
+      ]
+    },
+    "soft_pastel_velvet_night": {
+      "canonical_name": "soft pastel velvet night",
+      "canonical_name_zh": "柔粉丝绒夜",
+      "canonical_phrase": "dreamy intimate",
+      "samples": [
+        "dreamy intimate"
+      ],
+      "tags": [
+        "pastel",
+        "velvet",
+        "nightgown",
+        "ethereal",
+        "moonlight"
+      ]
+    },
+    "soft_diffused_lighting_with_warm_glow": {
+      "canonical_name": "soft diffused lighting with warm glow",
+      "canonical_name_zh": "柔和漫射暖光氛围",
+      "canonical_phrase": "soft diffused lighting with warm glow and gentle shadows",
+      "samples": [
+        "soft diffused lighting with gentle shadows",
+        "soft shadows on skin, warm and natural",
+        "bright direct sunlight casting sharp shadows",
+        "soft shadows and highlights, serene natural ambiance",
+        "warm glow with soft shadows",
+        "warm ambient lighting with soft shadows",
+        "sunlit, sharp shadows, high contrast",
+        "warm ambient lighting, soft shadows",
+        "soft diffused daylight casting gentle shadows",
+        "warm glow, soft shadows",
+        "bright overexposed glow from window, gentle shadows",
+        "warm glow, soft shadows, candid feel",
+        "bright and even with soft shadows",
+        "bright highlights and soft shadows, vibrant"
+      ],
+      "tags": [
+        "warm",
+        "diffused",
+        "natural",
+        "serene",
+        "gentle shadows"
+      ]
+    },
+    "dynamic_surf_culture_theme": {
+      "canonical_name": "dynamic surf culture theme",
+      "canonical_name_zh": "动态冲浪文化主题",
+      "canonical_phrase": "dynamic, surf culture theme",
+      "samples": [
+        "dynamic, surf culture theme"
+      ],
+      "tags": [
+        "ocean",
+        "wetsuit",
+        "surfboard",
+        "energetic",
+        "foam"
+      ]
+    },
+    "soft_natural_warm_and_cool_tones": {
+      "canonical_name": "soft natural warm and cool tones",
+      "canonical_name_zh": "柔和自然冷暖色调",
+      "canonical_phrase": "soft natural tones with warm and cool blue and beige hues",
+      "samples": [
+        "cool blue tone",
+        "soft natural tones",
+        "warm tone",
+        "soft pastel",
+        "natural tones of beige, blue, and green",
+        "natural tones"
+      ],
+      "tags": [
+        "natural",
+        "soft",
+        "pastel",
+        "beige",
+        "blue"
+      ]
+    },
+    "warm_vibrant_lush_energetic_atmosphere": {
+      "canonical_name": "warm vibrant lush energetic atmosphere",
+      "canonical_name_zh": "温暖活力茂盛氛围",
+      "canonical_phrase": "warm white and vibrant green lush energetic atmosphere",
+      "samples": [
+        "warm white and vibrant green",
+        "warm and vibrant",
+        "lush vibrant",
+        "warm, vibrant",
+        "wet, vibrant",
+        "vibrant and energetic"
+      ],
+      "tags": [
+        "warm",
+        "vibrant",
+        "lush",
+        "energetic",
+        "green"
+      ]
+    },
+    "balanced_cinematic_cool_blue_muted_green": {
+      "canonical_name": "balanced cinematic cool blue muted green",
+      "canonical_name_zh": "平衡电影感冷蓝灰绿",
+      "canonical_phrase": "balanced cinematic scene with cool blue and muted green tones",
+      "samples": [
+        "balanced cinematic scene with cool blue and muted green tones"
+      ],
+      "tags": [
+        "blue",
+        "green",
+        "cinematic",
+        "muted",
+        "atmosphere"
+      ]
+    },
+    "calm_quiet_relaxed_domestic_atmosphere": {
+      "canonical_name": "calm quiet relaxed domestic atmosphere",
+      "canonical_name_zh": "宁静放松的居家氛围",
+      "canonical_phrase": "calm and quiet domestic setting with warm muted tones and relaxed focus",
+      "samples": [
+        "calm and focused, quiet anticipation",
+        "calm, muted",
+        "quiet moment",
+        "calm, focused",
+        "warm and focused",
+        "relaxed",
+        "quiet, slightly worn domestic setting",
+        "casual and relaxed",
+        "calm and still"
+      ],
+      "tags": [
+        "muted",
+        "domestic",
+        "relaxed",
+        "quiet",
+        "warm"
+      ]
+    },
+    "cinematic_atmosphere_with_gentle_breeze": {
+      "canonical_name": "cinematic atmosphere with gentle breeze",
+      "canonical_name_zh": "电影感微风氛围",
+      "canonical_phrase": "cinematic atmosphere with gentle breeze suggested by hair movement",
+      "samples": [
+        "cinematic atmosphere with gentle breeze suggested by hair movement"
+      ],
+      "tags": [
+        "soft",
+        "flowing",
+        "hair",
+        "wind",
+        "moody"
+      ]
+    },
+    "dim_urban_decay_and_abandonment": {
+      "canonical_name": "dim urban decay and abandonment",
+      "canonical_name_zh": "昏暗城市衰败",
+      "canonical_phrase": "dim dark gritty urban decay with neglected textures and melancholic atmosphere",
+      "samples": [
+        "gritty, neglected, decay, dim, dark",
+        "detailed still life of organic decay and consumption remnants",
+        "abandonment and nostalgia",
+        "decay and urban neglect",
+        "industrial decay",
+        "still and melancholic, sense of abandonment and quiet decay",
+        "somber and textured"
+      ],
+      "tags": [
+        "dim",
+        "concrete",
+        "rust",
+        "grunge",
+        "overgrown"
+      ]
+    },
+    "cinematic_moody_atmosphere": {
+      "canonical_name": "cinematic moody atmosphere",
+      "canonical_name_zh": "电影感氛围",
+      "canonical_phrase": "cinematic moody atmosphere with dramatic lighting and alert mood",
+      "samples": [
+        "cinematic and moody",
+        "cinematic, moody",
+        "cinematic, alert",
+        "cinematic"
+      ],
+      "tags": [
+        "cinematic",
+        "moody",
+        "dramatic",
+        "alert",
+        "atmosphere"
+      ]
+    },
+    "soft_golden_hour_glow_warm_inviting": {
+      "canonical_name": "soft golden hour glow",
+      "canonical_name_zh": "柔和金辉氛围",
+      "canonical_phrase": "warm and inviting",
+      "samples": [
+        "warm and inviting"
+      ],
+      "tags": [
+        "golden",
+        "velvet",
+        "sweater",
+        "cozy",
+        "fireplace"
+      ]
+    },
+    "soft_lighting_with_gentle_shadows": {
+      "canonical_name": "soft lighting with gentle shadows",
+      "canonical_name_zh": "柔和光线与轻柔阴影",
+      "canonical_phrase": "soft and diffused lighting creating gentle shadows",
+      "samples": [
+        "soft and even lighting, gentle shadows",
+        "softly lit, gentle shadows",
+        "soft shadows",
+        "soft, gentle shadows",
+        "soft and diffused, gentle shadows",
+        "gentle shadows"
+      ],
+      "tags": [
+        "soft",
+        "diffused",
+        "gentle",
+        "even",
+        "atmosphere"
+      ]
+    }
+  },
+  "statistics": {
+    "total_clusters": 109,
+    "multi_sample_clusters": 62,
+    "single_sample_clusters": 47
+  }
+}

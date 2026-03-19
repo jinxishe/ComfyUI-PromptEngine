@@ -1,0 +1,2971 @@
+{
+  "dimension": "lighting",
+  "version": "1.0",
+  "generated_date": "2026-03-18",
+  "mode": "clustered",
+  "clusters": {
+    "warm_golden_hour_glow": {
+      "canonical_name": "warm golden hour glow",
+      "canonical_name_zh": "暖金时刻光晕",
+      "canonical_phrase": "soft lighting",
+      "samples": [
+        "soft lighting"
+      ],
+      "tags": [
+        "golden",
+        "velvet",
+        "dress",
+        "romantic",
+        "lens flare"
+      ]
+    },
+    "soft_window_warm_ambient_light": {
+      "canonical_name": "soft window warm ambient light",
+      "canonical_name_zh": "柔和窗暖光",
+      "canonical_phrase": "soft illumination from window casting warm ambient light",
+      "samples": [
+        "soft illumination from window casting warm ambient light"
+      ],
+      "tags": [
+        "warm",
+        "soft",
+        "natural",
+        "cozy",
+        "golden"
+      ]
+    },
+    "soft_directional_lighting_with_shadows": {
+      "canonical_name": "soft directional lighting with shadows",
+      "canonical_name_zh": "柔和定向光影",
+      "canonical_phrase": "soft directional lighting from side casting gentle shadows",
+      "samples": [
+        "directional from front-left casting soft shadow to right",
+        "soft directional light from the right side casting soft shadows",
+        "soft directional lighting from the front right casting a deep shadow to the left",
+        "from the upper left casting soft shadows",
+        "soft diffused lighting from the left casting gentle shadows"
+      ],
+      "tags": [
+        "soft",
+        "directional",
+        "shadow",
+        "diffused",
+        "natural"
+      ]
+    },
+    "soft_cinematic_sunlight_with_gentle_shadows": {
+      "canonical_name": "soft cinematic sunlight with gentle shadows",
+      "canonical_name_zh": "柔和电影光与柔影",
+      "canonical_phrase": "soft warm sunlight filtering through creating bright highlights and gentle shadows",
+      "samples": [
+        "sunlight filtering through creating soft highlights and gentle shadows, cinematic lighting",
+        "soft warm sunlight filtering through, creating bright highlights on skin and hair, cinematic lighting",
+        "warm ambient light filtering through window, cinematic lighting casting gentle shadows, soft highlights on skin and fabric",
+        "cinematic lighting with soft highlights on skin and hair, bright diffused light"
+      ],
+      "tags": [
+        "warm",
+        "skin",
+        "fabric",
+        "cinematic",
+        "diffused"
+      ]
+    },
+    "soft_warm_natural_lighting": {
+      "canonical_name": "soft warm natural lighting",
+      "canonical_name_zh": "柔和暖光自然光",
+      "canonical_phrase": "soft warm natural lighting from front or side",
+      "samples": [
+        "soft even lighting from front",
+        "soft warm lighting from the front",
+        "soft warm lighting from front",
+        "warm soft lighting from lamp and unseen source",
+        "soft warm light from the setting sun",
+        "warm natural light from the side",
+        "warm soft lighting from above",
+        "warm natural lighting from front",
+        "soft warm sunlight from the right side",
+        "soft even lighting from the front",
+        "soft warm lighting",
+        "warm soft lighting from left"
+      ],
+      "tags": [
+        "warm",
+        "soft",
+        "natural",
+        "sunlight",
+        "even"
+      ]
+    },
+    "warm_golden_hour_backlighting": {
+      "canonical_name": "warm golden hour backlighting",
+      "canonical_name_zh": "暖金逆光",
+      "canonical_phrase": "cinematic soft lighting from front",
+      "samples": [
+        "cinematic soft lighting from front"
+      ],
+      "tags": [
+        "golden",
+        "leather",
+        "jacket",
+        "moody",
+        "rim light"
+      ]
+    },
+    "soft_cool_front_lighting_subtle_shadows": {
+      "canonical_name": "soft cool front lighting subtle shadows",
+      "canonical_name_zh": "柔和冷光前侧微影",
+      "canonical_phrase": "soft cool-toned lighting from the front casting subtle shadows",
+      "samples": [
+        "soft cool-toned lighting from the front casting subtle shadows"
+      ],
+      "tags": [
+        "cool",
+        "fabric",
+        "portrait",
+        "minimalist",
+        "shadow"
+      ]
+    },
+    "warm_directional_lighting_soft_shadows": {
+      "canonical_name": "warm directional lighting soft shadows",
+      "canonical_name_zh": "暖色定向柔光",
+      "canonical_phrase": "warm directional light from side casting soft shadows",
+      "samples": [
+        "soft directional light from upper left casting warm glow",
+        "warm directional lighting from upper left casting soft shadows",
+        "warm directional lighting from left casting soft shadows",
+        "warm directional lighting from front-left casting soft shadows",
+        "warm directional light from right casting soft shadows",
+        "warm directional lighting from the side",
+        "warm directional lighting from the side casting soft shadows",
+        "warm directional lighting from front casting soft shadows"
+      ],
+      "tags": [
+        "warm",
+        "directional",
+        "soft",
+        "glow",
+        "shadows"
+      ]
+    },
+    "soft_diffused_lighting_casting_gentle_shadows": {
+      "canonical_name": "soft diffused lighting casting gentle shadows",
+      "canonical_name_zh": "柔和漫射光轻影",
+      "canonical_phrase": "soft diffused lighting casting gentle shadows across the snow",
+      "samples": [
+        "soft diffused lighting casting gentle shadows across the snow"
+      ],
+      "tags": [
+        "snow",
+        "white",
+        "winter",
+        "ethereal",
+        "subtle"
+      ]
+    },
+    "soft_natural_side_lighting": {
+      "canonical_name": "soft natural side lighting",
+      "canonical_name_zh": "柔和自然侧光",
+      "canonical_phrase": "soft natural light from side casting gentle shadows",
+      "samples": [
+        "soft natural light from side casting gentle shadows",
+        "soft natural light from the side casting gentle shadows",
+        "warm natural light from right side casting soft shadows",
+        "natural light from side casting soft shadows",
+        "soft natural light from the right side casting warm highlights and deep shadows",
+        "natural light illuminating from the side casting soft shadows",
+        "soft natural light from upper right casting warm tones and soft shadows",
+        "natural light from right side casting soft shadows",
+        "soft natural glow from a lamp on a side table casting soft shadows",
+        "soft natural light from right side casting gentle shadows",
+        "natural light from right casting warm glow and soft shadows"
+      ],
+      "tags": [
+        "warm",
+        "soft",
+        "side",
+        "natural",
+        "glow"
+      ]
+    },
+    "golden_hour_warm_sunlight": {
+      "canonical_name": "golden hour warm sunlight",
+      "canonical_name_zh": "黄金时刻暖光",
+      "canonical_phrase": "natural soft diffused lighting from a large window creating gentle shadows",
+      "samples": [
+        "natural soft diffused lighting from a large window creating gentle shadows"
+      ],
+      "tags": [
+        "warm",
+        "wood",
+        "sweater",
+        "cozy",
+        "dust_motes"
+      ]
+    },
+    "warm_golden_soft_directional_lighting": {
+      "canonical_name": "warm golden soft directional lighting",
+      "canonical_name_zh": "暖金柔光侧向照明",
+      "canonical_phrase": "warm golden light casting soft shadows from side",
+      "samples": [
+        "soft natural light illuminating right cheek, warm golden lighting casting soft shadows",
+        "golden ambient light casting soft shadows",
+        "warm golden light from right casting soft shadows",
+        "golden and diffused, creating soft shadows",
+        "warm golden light from lamp casting soft glow, cinematic warm lighting",
+        "soft golden light from the side creating gentle shadows",
+        "soft natural light casting warm golden glow across cheek and hair",
+        "warm golden ambient lighting casting soft shadows",
+        "bright natural sunlight, warm golden light illuminating face from side casting soft shadows",
+        "strong directional beam from upper right, warm golden light",
+        "strong backlight from window creating high contrast, warm golden light illuminating right side of face and hair, soft shadows on left side of body",
+        "warm golden light",
+        "bright natural sunlight casting soft shadows, warm golden light illuminating face and upper body"
+      ],
+      "tags": [
+        "golden",
+        "soft",
+        "warm",
+        "cinematic",
+        "shadows"
+      ]
+    },
+    "soft_warm_golden_hour_glow": {
+      "canonical_name": "soft warm golden hour glow",
+      "canonical_name_zh": "柔和暖金时刻光",
+      "canonical_phrase": "warm tones across skin",
+      "samples": [
+        "warm tones across skin"
+      ],
+      "tags": [
+        "golden",
+        "skin",
+        "soft",
+        "glow",
+        "hour"
+      ]
+    },
+    "strong_directional_lighting_with_defined_shadows": {
+      "canonical_name": "strong directional lighting with defined shadows",
+      "canonical_name_zh": "强方向光与清晰阴影",
+      "canonical_phrase": "strong directional lighting from side casting defined shadows",
+      "samples": [
+        "soft directional lighting casting strong shadows",
+        "soft directional lighting from front-left creating gentle shadows",
+        "soft directional lighting from the front-left casting subtle shadows",
+        "strong directional light from above casting soft shadows",
+        "single strong directional light from front-left creating deep shadows",
+        "strong directional lighting from the left casting defined shadows",
+        "strong directional lighting from the left casting soft shadows",
+        "strong directional light from upper left casting sharp shadows",
+        "artificial with directional focus creating strong shadows"
+      ],
+      "tags": [
+        "directional",
+        "shadow",
+        "contrast",
+        "dramatic",
+        "artificial"
+      ]
+    },
+    "soft_diffused_early_morning_light": {
+      "canonical_name": "soft diffused early morning light",
+      "canonical_name_zh": "柔和漫射晨光",
+      "canonical_phrase": "soft and diffused suggesting early morning or late afternoon",
+      "samples": [
+        "soft and diffused suggesting early morning or late afternoon"
+      ],
+      "tags": [
+        "golden",
+        "silky",
+        "dress",
+        "ethereal",
+        "lens flare"
+      ]
+    },
+    "bright_natural_sunlight_with_soft_shadows": {
+      "canonical_name": "bright natural sunlight with soft shadows",
+      "canonical_name_zh": "明亮自然阳光柔影",
+      "canonical_phrase": "bright natural sunlight casting soft shadows with cinematic lighting",
+      "samples": [
+        "bright natural sunlight, cinematic natural lighting",
+        "sunlight casting soft shadows, cinematic lighting",
+        "cinematic natural sunlight with dappled shadows",
+        "sunlight illuminating right side casting soft shadows, cinematic lighting",
+        "bright daylight casting soft shadows, cinematic lighting",
+        "natural cinematic lighting with bright daylight casting soft shadows",
+        "natural daylight with soft shadows, cinematic natural light casting gentle highlights",
+        "soft natural daylight with cinematic lighting and natural shadows",
+        "soft natural sunlight casting gentle shadows, cinematic lighting",
+        "bright natural daylight casting soft shadows, cinematic lighting with cool blue tones and warm skin highlights",
+        "direct sunlight casting soft shadows, cinematic lighting",
+        "cinematic natural daylight casting sharp shadows",
+        "natural daylight casting soft shadows, cinematic lighting highlighting skin and fabric",
+        "natural daylight, cinematic lighting",
+        "cinematic soft natural daylight casting gentle shadows",
+        "bright daylight casting soft shadows, cinematic lighting with warm tones",
+        "bright natural daylight casting soft shadows, cinematic lighting",
+        "sunlight casting soft shadows, cinematic lighting with warm tones",
+        "sun casting soft shadows, cinematic lighting",
+        "bright natural sunlight from above casting soft shadows, cinematic lighting",
+        "natural daylight casting soft shadows, cinematic lighting",
+        "natural daylight, sunlight casting sharp shadows, cinematic lighting",
+        "natural daylight from above casting soft shadows, cinematic lighting"
+      ],
+      "tags": [
+        "sunlight",
+        "soft shadows",
+        "cinematic",
+        "daylight",
+        "natural"
+      ]
+    },
+    "golden_hour_rim_light_with_soft_shadows": {
+      "canonical_name": "golden hour rim light with soft shadows",
+      "canonical_name_zh": "黄金时刻轮廓光与柔和阴影",
+      "canonical_phrase": "natural light casting soft highlights on face and shoulder, cinematic lighting",
+      "samples": [
+        "natural light casting soft highlights on face and shoulder, cinematic lighting"
+      ],
+      "tags": [
+        "warm",
+        "skin",
+        "portrait",
+        "cinematic",
+        "rim_light"
+      ]
+    },
+    "golden_hour_rim_light_with_volumetric_haze": {
+      "canonical_name": "golden hour rim light with volumetric haze",
+      "canonical_name_zh": "黄金时刻逆光体积雾",
+      "canonical_phrase": "natural diffused daylight casting soft shadows",
+      "samples": [
+        "natural diffused daylight casting soft shadows"
+      ],
+      "tags": [
+        "warm",
+        "silhouette",
+        "fabric",
+        "cinematic",
+        "godrays"
+      ]
+    },
+    "bright_direct_sunlight_with_shadows": {
+      "canonical_name": "bright direct sunlight with shadows",
+      "canonical_name_zh": "明亮直射阳光阴影",
+      "canonical_phrase": "bright direct sunlight casting soft or sharp shadows",
+      "samples": [
+        "bright direct sunlight casting soft shadows, high contrast lighting emphasizing curves and textures",
+        "bright direct sunlight casting sharp shadows",
+        "bright direct sunlight casting soft elongated shadows",
+        "bright direct sunlight casting soft shadows"
+      ],
+      "tags": [
+        "sunlight",
+        "bright",
+        "shadows",
+        "high-contrast",
+        "outdoor"
+      ]
+    },
+    "warm_golden_dappled_sunlight_through_trees": {
+      "canonical_name": "warm golden dappled sunlight through trees",
+      "canonical_name_zh": "温暖金色树间斑驳阳光",
+      "canonical_phrase": "warm golden sunlight filtering through trees creating dappled shadows",
+      "samples": [
+        "sunlight filtering through trees creating dappled shadows, warm golden light",
+        "dappled sunlight filtering through canopy, warm golden light",
+        "warm golden sunlight streaming through trees creating bright highlights and soft shadows",
+        "warm golden light filtering through canopy, dappled sunlight, shadows falling across body",
+        "warm golden light with dappled sunlight filtering through foliage"
+      ],
+      "tags": [
+        "golden",
+        "foliage",
+        "dappled",
+        "natural",
+        "outdoor"
+      ]
+    },
+    "golden_hour_rim_light": {
+      "canonical_name": "golden hour rim light",
+      "canonical_name_zh": "黄金时刻轮廓光",
+      "canonical_phrase": "natural and directional casting soft shadows",
+      "samples": [
+        "natural and directional casting soft shadows"
+      ],
+      "tags": [
+        "warm",
+        "silhouette",
+        "portrait",
+        "cinematic",
+        "halo"
+      ]
+    },
+    "soft_shadows_warm_sunlight": {
+      "canonical_name": "soft shadows warm sunlight",
+      "canonical_name_zh": "柔和阴影暖光",
+      "canonical_phrase": "warm sunlight casting soft shadows with gentle glow",
+      "samples": [
+        "natural sunlight casting soft shadows",
+        "intensely bright sunlight casting soft shadows",
+        "warm natural sunlight casting soft shadows",
+        "warm bright sunlight casting soft shadows",
+        "sunlight casting soft shadows, blue tinted lighting",
+        "bright sunlight casting soft shadows",
+        "sunlight casting warm glow and soft shadows",
+        "warm sunlight casting soft shadows",
+        "bright natural sunlight casting soft shadows",
+        "sunlight casting soft shadows",
+        "warm directional sunlight casting soft shadows",
+        "sunlight creating soft shadows",
+        "sunlight casting soft shadows on skin",
+        "bright warm sunlight casting soft shadows"
+      ],
+      "tags": [
+        "sunlight",
+        "warm",
+        "soft",
+        "glow",
+        "natural"
+      ]
+    },
+    "bright_natural_light_from_left_warm_golden_tones_deep_shadows": {
+      "canonical_name": "bright natural light from left warm golden tones deep shadows",
+      "canonical_name_zh": "左侧自然光暖金深影",
+      "canonical_phrase": "bright natural light from left, warm golden tones, deep shadows",
+      "samples": [
+        "bright natural light from left, warm golden tones, deep shadows"
+      ],
+      "tags": [
+        "golden",
+        "natural",
+        "portrait",
+        "dramatic",
+        "chiaroscuro"
+      ]
+    },
+    "golden_hour_warm_glow": {
+      "canonical_name": "golden hour warm glow",
+      "canonical_name_zh": "黄金时刻暖光",
+      "canonical_phrase": "strong sunlight casting highlights and shadows",
+      "samples": [
+        "strong sunlight casting highlights and shadows"
+      ],
+      "tags": [
+        "golden",
+        "warm",
+        "cotton",
+        "cinematic",
+        "rim_light"
+      ]
+    },
+    "soft_warm_directional_lighting": {
+      "canonical_name": "soft warm directional lighting",
+      "canonical_name_zh": "柔和暖光",
+      "canonical_phrase": "soft warm directional lighting casting gentle shadows",
+      "samples": [
+        "natural warm lighting casting soft shadows",
+        "soft warm directional lighting casting gentle shadows",
+        "soft warm light casting gentle shadows",
+        "warm lighting casting soft shadows",
+        "warm directional lighting casting soft shadows"
+      ],
+      "tags": [
+        "warm",
+        "soft",
+        "directional",
+        "shadows",
+        "natural"
+      ]
+    },
+    "sunlight_filtering_soft_shadows_golden": {
+      "canonical_name": "sunlight filtering soft shadows golden",
+      "canonical_name_zh": "阳光过滤柔和阴影金色",
+      "canonical_phrase": "sunlight filtering through casting soft shadows, warm lighting with golden tones",
+      "samples": [
+        "sunlight filtering through casting soft shadows, warm lighting with golden tones"
+      ],
+      "tags": [
+        "golden",
+        "warm",
+        "soft",
+        "natural",
+        "dappled"
+      ]
+    },
+    "warm_daylight_shoulder_highlights": {
+      "canonical_name": "warm daylight shoulder highlights",
+      "canonical_name_zh": "暖光肩部高光",
+      "canonical_phrase": "natural daylight casting warm highlights on shoulders and skin, soft shadows beneath chin and neck",
+      "samples": [
+        "natural daylight casting warm highlights on shoulders and skin, soft shadows beneath chin and neck"
+      ],
+      "tags": [
+        "warm",
+        "skin",
+        "shoulder",
+        "soft",
+        "natural"
+      ]
+    },
+    "cinematic_lighting_strong_contrast": {
+      "canonical_name": "cinematic lighting strong contrast",
+      "canonical_name_zh": "电影感强对比光",
+      "canonical_phrase": "cinematic lighting with strong contrast between deep shadows and bright highlights",
+      "samples": [
+        "strong contrast between shadows and highlights, cinematic cool-toned lighting",
+        "strong direct light source, cinematic lighting with high contrast",
+        "bright backlighting, cinematic lighting",
+        "cinematic lighting with strong contrast",
+        "cinematic lighting with strong highlights",
+        "cinematic lighting creating deep shadows and bright highlights"
+      ],
+      "tags": [
+        "cinematic",
+        "contrast",
+        "shadows",
+        "highlights",
+        "cool-toned"
+      ]
+    },
+    "warm_golden_hour_glow_from_right": {
+      "canonical_name": "warm golden hour glow from right",
+      "canonical_name_zh": "右侧暖金时刻光",
+      "canonical_phrase": "soft diffused daylight from the upper left casting gentle shadows",
+      "samples": [
+        "soft diffused daylight from the upper left casting gentle shadows"
+      ],
+      "tags": [
+        "golden",
+        "velvet",
+        "dress",
+        "romantic",
+        "rim_light"
+      ]
+    },
+    "bright_direct_sunlight_high_contrast": {
+      "canonical_name": "bright direct sunlight high contrast",
+      "canonical_name_zh": "明亮直射阳光高对比",
+      "canonical_phrase": "bright direct sunlight casting sharp shadows with high contrast",
+      "samples": [
+        "strong sunlight casting long dark shadow to right, cinematic lighting with high contrast",
+        "sunlight casting bright highlights on water and skin, cinematic lighting with high contrast",
+        "sunlight streaming from above casting bright highlights and deep shadows, cinematic lighting with high contrast",
+        "vibrant pink and blue lighting from aquarium, scene bathed in warm pink glow",
+        "bright pink light reflecting on water surface, vivid magenta and electric blue tones",
+        "bright sunlight casting sharp shadows, cinematic lighting emphasizing texture and form",
+        "cinematic lighting with bright sunlight casting highlights on water droplets and skin",
+        "bright direct sunlight casting sharp shadows, cinematic lighting highlighting skin and fabric texture",
+        "strong sunlight casting sharp shadows, cinematic lighting with high contrast",
+        "bright direct sunlight casting sharp shadows, cinematic lighting with warm color temperature",
+        "direct bright sunlight casting sharp shadows, cinematic lighting enhancing textures and contours",
+        "bright sunlight casting strong highlights and deep shadows, cinematic high contrast",
+        "low-angle sunlight casting long shadows, cinematic lighting with strong contrast",
+        "cinematic lighting with strong highlights and deep shadows, intense sunlight reflecting off water",
+        "strong sunlight casting distinct shadows, cinematic lighting",
+        "bright sunlight casting strong shadows, cinematic lighting with high contrast"
+      ],
+      "tags": [
+        "sunlight",
+        "shadow",
+        "contrast",
+        "cinematic",
+        "texture"
+      ]
+    },
+    "vibrant_neon_warm_golden_electric_blue": {
+      "canonical_name": "vibrant neon warm golden electric blue",
+      "canonical_name_zh": "霓虹暖金电蓝",
+      "canonical_phrase": "vibrant neon signs, warm golden and electric blue lighting",
+      "samples": [
+        "vibrant neon signs, warm golden and electric blue lighting"
+      ],
+      "tags": [
+        "neon",
+        "golden",
+        "blue",
+        "glow",
+        "signage"
+      ]
+    },
+    "intense_magenta_pink_glowing_streaks": {
+      "canonical_name": "intense magenta pink glowing streaks",
+      "canonical_name_zh": " intense 品红粉色光晕",
+      "canonical_phrase": "intense magenta and pink light sources creating glowing streaks and blurred trails",
+      "samples": [
+        "intense magenta and pink light sources creating glowing streaks and blurred trails"
+      ],
+      "tags": [
+        "magenta",
+        "pink",
+        "neon",
+        "glow",
+        "motion_blur"
+      ]
+    },
+    "warm_cinematic_directional_sunlight": {
+      "canonical_name": "warm cinematic directional sunlight",
+      "canonical_name_zh": "暖调电影感侧光",
+      "canonical_phrase": "warm cinematic sunlight streaming from side with high contrast",
+      "samples": [
+        "cinematic lighting with strong directional sunlight",
+        "fluorescent lights overhead casting soft glow, natural daylight streaming through window, cinematic lighting",
+        "soft warm lighting, cinematic lighting",
+        "warm cinematic sunlight from right with high contrast",
+        "soft warm sunlight, warm cinematic lighting",
+        "sunlight streaming from the side, cinematic lighting with high contrast",
+        "cinematic warm lighting",
+        "cinematic lighting with high contrast, natural light from window, cool blue lighting with dramatic shadows, warm lighting on left side",
+        "fluorescent lights above casting soft glow, warm cinematic lighting",
+        "bright direct sunlight, cinematic lighting"
+      ],
+      "tags": [
+        "warm",
+        "sunlight",
+        "cinematic",
+        "directional",
+        "high-contrast"
+      ]
+    },
+    "bright_directional_sunlight_with_lens_flare": {
+      "canonical_name": "bright directional sunlight with lens flare",
+      "canonical_name_zh": "明亮定向阳光与镜头光晕",
+      "canonical_phrase": "bright direct sunlight from upper angle creating strong contrast and lens flare",
+      "samples": [
+        "bright sunlight from upper left creating strong contrast and deep shadows",
+        "sun high above casting long shadow, lens flare effects",
+        "strong directional sunlight from upper right creating high contrast and deep shadows",
+        "strong directional natural sunlight creating sharp contrasts and deep shadows",
+        "bright sunlight creating strong lens flare across chest",
+        "warm sunlight from lower right, late afternoon, high contrast",
+        "bright direct sunlight from behind creating strong lens flare",
+        "bright sunlight streaming from top right casting lens flare",
+        "harsh direct sunlight from upper left with strong lens flare and intense shadows"
+      ],
+      "tags": [
+        "sunlight",
+        "contrast",
+        "lens flare",
+        "harsh",
+        "outdoor"
+      ]
+    },
+    "warm_cinematic_lighting_soft_shadows": {
+      "canonical_name": "warm cinematic lighting soft shadows",
+      "canonical_name_zh": "暖调电影光柔影",
+      "canonical_phrase": "warm cinematic lighting casting soft shadows with gentle depth",
+      "samples": [
+        "warm natural light casting soft shadows, cinematic lighting",
+        "soft warm lighting casting gentle shadows, natural cinematic lighting",
+        "ambient red and purple lighting casting soft glow, cinematic lighting",
+        "gentle cinematic lighting casting soft shadows, bright diffuse light",
+        "warm cinematic lighting from above casting soft shadows",
+        "soft warm light from side casting gentle shadows, cinematic lighting creating depth",
+        "soft warm lighting casting gentle shadows, cinematic lighting",
+        "warm cinematic lighting casting soft shadows",
+        "warm directional light creating soft shadows and depth, cinematic lighting"
+      ],
+      "tags": [
+        "warm",
+        "cinematic",
+        "soft",
+        "shadows",
+        "depth"
+      ]
+    },
+    "warm_soft_front_light_gentle_shadows": {
+      "canonical_name": "warm soft front light gentle shadows",
+      "canonical_name_zh": "暖柔前光轻影",
+      "canonical_phrase": "warm soft light from front casting gentle shadows",
+      "samples": [
+        "warm soft light from front casting gentle shadows"
+      ],
+      "tags": [
+        "warm",
+        "soft",
+        "front",
+        "gentle",
+        "shadows"
+      ]
+    },
+    "cinematic_warm_natural_lighting": {
+      "canonical_name": "cinematic warm natural lighting",
+      "canonical_name_zh": "电影感暖调自然光",
+      "canonical_phrase": "cinematic warm natural lighting with strong shadows and soft highlights",
+      "samples": [
+        "natural cinematic lighting with strong shadows",
+        "cinematic lighting with warm tones and deep shadows",
+        "cinematic lighting emphasizing facial features and texture of clothing fabric",
+        "cinematic warm lighting emphasizing natural tones, sunlight casting soft highlights",
+        "natural cinematic lighting with warm tones",
+        "cinematic lighting emphasizing features and texture, warm ambient lighting"
+      ],
+      "tags": [
+        "warm",
+        "fabric",
+        "texture",
+        "cinematic",
+        "shadows"
+      ]
+    },
+    "warm_golden_canopy_sunlight_contrast": {
+      "canonical_name": "warm golden canopy sunlight contrast",
+      "canonical_name_zh": "暖金林隙光影对比",
+      "canonical_phrase": "warm golden sunlight filtering through canopy, cinematic lighting with strong contrast between illuminated skin and deep shadows",
+      "samples": [
+        "warm golden sunlight filtering through canopy, cinematic lighting with strong contrast between illuminated skin and deep shadows"
+      ],
+      "tags": [
+        "golden",
+        "skin",
+        "canopy",
+        "cinematic",
+        "shadow"
+      ]
+    },
+    "soft_warm_front_lighting_gentle_shadows": {
+      "canonical_name": "soft warm front lighting gentle shadows",
+      "canonical_name_zh": "柔和暖光前侧柔影",
+      "canonical_phrase": "soft warm lighting from front casting gentle shadows",
+      "samples": [
+        "soft warm lighting from front casting gentle shadows"
+      ],
+      "tags": [
+        "warm",
+        "fabric",
+        "portrait",
+        "cinematic",
+        "subtle"
+      ]
+    },
+    "soft_front_lighting_gentle_shadows": {
+      "canonical_name": "soft front lighting gentle shadows",
+      "canonical_name_zh": "柔和前光轻柔阴影",
+      "canonical_phrase": "soft lighting from front creating gentle shadows",
+      "samples": [
+        "soft lighting from front creating gentle shadows"
+      ],
+      "tags": [
+        "warm",
+        "cotton",
+        "dress",
+        "ethereal",
+        "diffused"
+      ]
+    },
+    "warm_ambient_soft_lighting": {
+      "canonical_name": "warm ambient soft lighting",
+      "canonical_name_zh": "暖色柔和环境光",
+      "canonical_phrase": "warm ambient soft lighting from above or floor lamp",
+      "samples": [
+        "warm ambient lighting from above",
+        "ambient soft lighting",
+        "warm ambient lighting from floor lamp",
+        "warm ambient lighting"
+      ],
+      "tags": [
+        "warm",
+        "soft",
+        "ambient",
+        "cozy",
+        "diffused"
+      ]
+    },
+    "warm_golden_hour_soft_shadows": {
+      "canonical_name": "warm golden hour soft shadows",
+      "canonical_name_zh": "暖金时刻柔影",
+      "canonical_phrase": "warm golden hour lighting casting soft shadows, natural cinematic lighting",
+      "samples": [
+        "warm golden hour lighting casting soft shadows, natural cinematic lighting"
+      ],
+      "tags": [
+        "golden",
+        "soft",
+        "cinematic",
+        "natural",
+        "shadows"
+      ]
+    },
+    "golden_hour_rim_light_with_soft_diffusion": {
+      "canonical_name": "golden hour rim light with soft diffusion",
+      "canonical_name_zh": "金色时刻柔边光",
+      "canonical_phrase": "warm and directional casting soft shadows",
+      "samples": [
+        "warm and directional casting soft shadows"
+      ],
+      "tags": [
+        "golden",
+        "leather",
+        "jacket",
+        "cinematic",
+        "rim_light"
+      ]
+    },
+    "warm_neon_glow_against_deep_shadows": {
+      "canonical_name": "warm neon glow against deep shadows",
+      "canonical_name_zh": "暖霓虹光映深影",
+      "canonical_phrase": "bright artificial lights contrasting with dimmer shadows, warm glows from illuminated signage",
+      "samples": [
+        "bright artificial lights contrasting with dimmer shadows, warm glows from illuminated signage"
+      ],
+      "tags": [
+        "neon",
+        "warm",
+        "signage",
+        "contrast",
+        "glow"
+      ]
+    },
+    "strong_directional_lighting_with_deep_shadows": {
+      "canonical_name": "strong directional lighting with deep shadows",
+      "canonical_name_zh": "强方向光深阴影",
+      "canonical_phrase": "strong directional lighting from above or side casting deep dramatic shadows",
+      "samples": [
+        "bright and direct from above casting minimal shadows",
+        "dramatic side lighting casting strong shadows",
+        "dim directional lighting casting deep shadows",
+        "strong directional lighting from above casting deep shadows",
+        "bright direct lighting from above casting strong shadows",
+        "dramatic shadows"
+      ],
+      "tags": [
+        "dramatic",
+        "shadows",
+        "contrast",
+        "chiaroscuro",
+        "moody"
+      ]
+    },
+    "dramatic_overhead_lighting_with_deep_shadows": {
+      "canonical_name": "dramatic overhead lighting with deep shadows",
+      "canonical_name_zh": "戏剧性顶光深阴影",
+      "canonical_phrase": "dramatic lighting from above casting highlights on face and shoulders, deep shadows around neck and hairline",
+      "samples": [
+        "dramatic lighting from above casting highlights on face and shoulders, deep shadows around neck and hairline"
+      ],
+      "tags": [
+        "gold",
+        "skin",
+        "portrait",
+        "moody",
+        "hairline"
+      ]
+    },
+    "warm_artificial_lights_soft_shadows": {
+      "canonical_name": "warm artificial lights soft shadows",
+      "canonical_name_zh": "暖光柔和阴影",
+      "canonical_phrase": "warm artificial lights casting soft shadows",
+      "samples": [
+        "warm artificial lights casting soft shadows"
+      ],
+      "tags": [
+        "warm",
+        "artificial",
+        "soft",
+        "indoor",
+        "glow"
+      ]
+    },
+    "bright_overhead_lighting_with_deep_neck_shadows": {
+      "canonical_name": "bright overhead lighting with deep neck shadows",
+      "canonical_name_zh": "顶光高光深颈影",
+      "canonical_phrase": "from above casting bright highlights on hair and shoulders with shadows across neck and chest",
+      "samples": [
+        "from above casting bright highlights on hair and shoulders with shadows across neck and chest"
+      ],
+      "tags": [
+        "gold",
+        "silk",
+        "dress",
+        "dramatic",
+        "hair_highlight"
+      ]
+    },
+    "warm_shop_window_street_lamp_glow": {
+      "canonical_name": "warm shop window street lamp glow",
+      "canonical_name_zh": "暖色橱窗路灯辉光",
+      "canonical_phrase": "soft ambient lighting from shop windows and street lamps",
+      "samples": [
+        "soft ambient lighting from shop windows and street lamps"
+      ],
+      "tags": [
+        "warm",
+        "glass",
+        "coat",
+        "urban",
+        "reflection"
+      ]
+    },
+    "bright_natural_daylight_with_shadows": {
+      "canonical_name": "bright natural daylight with shadows",
+      "canonical_name_zh": "明亮自然日光带阴影",
+      "canonical_phrase": "bright natural daylight casting distinct shadows",
+      "samples": [
+        "bright natural daylight casting sharp shadows",
+        "bright daylight casting strong shadows",
+        "bright even daylight casting soft shadows",
+        "bright daylight casting soft shadows",
+        "natural daylight casting sharp shadows"
+      ],
+      "tags": [
+        "daylight",
+        "natural",
+        "bright",
+        "sharp",
+        "soft"
+      ]
+    },
+    "warm_golden_hour_glow_soft_shadows": {
+      "canonical_name": "warm golden hour glow",
+      "canonical_name_zh": "暖金时刻光晕",
+      "canonical_phrase": "bright and even with soft shadows",
+      "samples": [
+        "bright and even with soft shadows"
+      ],
+      "tags": [
+        "golden",
+        "silk",
+        "dress",
+        "romantic",
+        "lens flare"
+      ]
+    },
+    "bright_direct_sunlight_with_defined_shadows": {
+      "canonical_name": "bright direct sunlight with defined shadows",
+      "canonical_name_zh": "明亮直射阳光与清晰阴影",
+      "canonical_phrase": "bright direct sunlight illuminating face and upper body casting sharp defined shadows",
+      "samples": [
+        "natural sunlight casting soft highlights on skin and creating subtle shadows under chin and along collarbones",
+        "sunlight illuminating chest and shoulders creating strong contrast with shadowed background",
+        "sunlight illuminating face and shoulders creating soft shadows",
+        "bright direct sunlight casting soft shadows on shoulders and neck",
+        "bright direct sunlight illuminating face and upper body, casting sharp defined shadows"
+      ],
+      "tags": [
+        "sunlight",
+        "skin",
+        "shoulders",
+        "contrast",
+        "natural"
+      ]
+    },
+    "golden_hour_warm_glow_soft_shadows": {
+      "canonical_name": "golden hour warm glow",
+      "canonical_name_zh": "黄金时刻暖光",
+      "canonical_phrase": "natural bright daylight casting soft shadows",
+      "samples": [
+        "natural bright daylight casting soft shadows"
+      ],
+      "tags": [
+        "warm",
+        "silk",
+        "dress",
+        "ethereal",
+        "lens flare"
+      ]
+    },
+    "warm_directional_overhead_lighting": {
+      "canonical_name": "warm directional overhead lighting",
+      "canonical_name_zh": "暖色定向顶光",
+      "canonical_phrase": "warm directional lighting from above casting soft shadows on the floor",
+      "samples": [
+        "warm directional lighting from above casting soft shadows on the floor"
+      ],
+      "tags": [
+        "warm",
+        "leather",
+        "coat",
+        "cinematic",
+        "soft shadows"
+      ]
+    },
+    "high_overhead_warm_golden_sunlight": {
+      "canonical_name": "high overhead warm golden sunlight",
+      "canonical_name_zh": "高顶暖金阳光",
+      "canonical_phrase": "sunlight streaming from above casting warm golden highlights, soft shadows defining contours, light source positioned high and directly above creating a bright overexposed upper section",
+      "samples": [
+        "sunlight streaming from above casting warm golden highlights, soft shadows defining contours, light source positioned high and directly above creating a bright overexposed upper section"
+      ],
+      "tags": [
+        "golden",
+        "fabric",
+        "dress",
+        "ethereal",
+        "overexposed"
+      ]
+    },
+    "warm_redorange_lighting_strong_shadows": {
+      "canonical_name": "warm red-orange lighting strong shadows",
+      "canonical_name_zh": "暖红橙光强阴影",
+      "canonical_phrase": "warm red-orange lighting casting strong shadows",
+      "samples": [
+        "warm red-orange lighting casting strong shadows"
+      ],
+      "tags": [
+        "red-orange",
+        "warm",
+        "dramatic",
+        "silhouette",
+        "contrast"
+      ]
+    },
+    "soft_natural_golden_hour_glow": {
+      "canonical_name": "soft natural golden hour glow",
+      "canonical_name_zh": "柔和自然金辉",
+      "canonical_phrase": "soft natural light creating warm golden hour glow",
+      "samples": [
+        "soft natural light creating warm golden hour glow"
+      ],
+      "tags": [
+        "warm",
+        "golden",
+        "cotton",
+        "casual",
+        "lens flare"
+      ]
+    },
+    "soft_warm_sunlight_casting_gentle_shadows": {
+      "canonical_name": "soft warm sunlight casting gentle shadows",
+      "canonical_name_zh": "柔和暖光轻影",
+      "canonical_phrase": "soft warm sunlight streaming from side casting gentle shadows",
+      "samples": [
+        "soft warm sunlight from the right side creating gentle shadows",
+        "soft warm sunlight from upper left casting soft shadows",
+        "soft warm sunlight from upper left casting long shadow beneath body",
+        "bright natural sunlight from the upper left casting soft shadows",
+        "sunlight illuminating from the side casting soft shadows, warm tone lighting",
+        "sunlight casting warm glow on left side of face and shoulder, shadows falling across right side of body",
+        "sunlight streaming from the right casting soft shadows, bright natural lighting",
+        "soft warm sunlight streaming from right side casting gentle shadows"
+      ],
+      "tags": [
+        "warm",
+        "sunlight",
+        "soft",
+        "natural",
+        "glow"
+      ]
+    },
+    "warm_cinematic_lighting_with_soft_shadows": {
+      "canonical_name": "warm cinematic lighting with soft shadows",
+      "canonical_name_zh": "暖调电影光柔和阴影",
+      "canonical_phrase": "warm cinematic lighting with golden hues and soft shadows",
+      "samples": [
+        "bright window light outlining silhouette, warm glowing wall sconces, soft ambient light casting gentle shadows, cinematic lighting with high contrast between bright window and dark interior",
+        "soft natural light from window combined with warm cinematic lighting with golden hues",
+        "cinematic lighting with sharp shadows cast by silo structure",
+        "bright natural light from doorway, warm cinematic lighting casting soft shadows",
+        "soft natural lighting casting gentle shadows, warm cinematic lighting with golden hues",
+        "bright natural light from right casting soft shadows, cinematic lighting with high contrast"
+      ],
+      "tags": [
+        "warm",
+        "golden",
+        "cinematic",
+        "soft shadows",
+        "natural light"
+      ]
+    },
+    "intense_sunlight_lens_flare_warm_golden_cinematic": {
+      "canonical_name": "intense sunlight lens flare warm golden cinematic",
+      "canonical_name_zh": "强光镜头光晕暖金电影感",
+      "canonical_phrase": "intense sunlight creating lens flare effects, warm golden light, cinematic lighting with high contrast and vivid highlights",
+      "samples": [
+        "intense sunlight creating lens flare effects, warm golden light, cinematic lighting with high contrast and vivid highlights"
+      ],
+      "tags": [
+        "golden",
+        "sunlight",
+        "cinematic",
+        "high-contrast",
+        "lens-flare"
+      ]
+    },
+    "warm_golden_hour_glow_gentle_shadows": {
+      "canonical_name": "warm golden hour glow",
+      "canonical_name_zh": "暖金时刻光",
+      "canonical_phrase": "soft diffused daylight casting gentle shadows",
+      "samples": [
+        "soft diffused daylight casting gentle shadows"
+      ],
+      "tags": [
+        "golden",
+        "cotton",
+        "dress",
+        "serene",
+        "rim light"
+      ]
+    },
+    "warm_golden_hour_glow_with_soft_shadows": {
+      "canonical_name": "warm golden hour glow with soft shadows",
+      "canonical_name_zh": "暖金时刻柔光",
+      "canonical_phrase": "soft ambient lighting casting gentle shadows, cinematic lighting",
+      "samples": [
+        "soft ambient lighting casting gentle shadows, cinematic lighting"
+      ],
+      "tags": [
+        "golden",
+        "warm",
+        "soft",
+        "cinematic",
+        "glow"
+      ]
+    },
+    "warm_golden_hour_sun_flare": {
+      "canonical_name": "warm golden hour sun flare",
+      "canonical_name_zh": "暖金时刻阳光光晕",
+      "canonical_phrase": "warm golden hour lighting with sun flare and lens flare",
+      "samples": [
+        "warm golden hour lighting with sun flare and lens flare"
+      ],
+      "tags": [
+        "golden",
+        "sunlight",
+        "cinematic",
+        "glow",
+        "lens-flare"
+      ]
+    },
+    "bright_glare_on_left_side": {
+      "canonical_name": "bright glare on left side",
+      "canonical_name_zh": "左侧强光眩光",
+      "canonical_phrase": "bright glare on the left side",
+      "samples": [
+        "bright glare on the left side"
+      ],
+      "tags": [
+        "yellow",
+        "metal",
+        "helmet",
+        "cyberpunk",
+        "reflection"
+      ]
+    },
+    "soft_cinematic_skin_glow": {
+      "canonical_name": "soft cinematic skin glow",
+      "canonical_name_zh": "柔光电影肌",
+      "canonical_phrase": "cinematic lighting creating a soft glow on skin",
+      "samples": [
+        "cinematic lighting creating a soft glow on skin"
+      ],
+      "tags": [
+        "warm",
+        "skin",
+        "portrait",
+        "moody",
+        "subtle"
+      ]
+    },
+    "bright_natural_sunlight_soft_highlights": {
+      "canonical_name": "bright natural sunlight soft highlights",
+      "canonical_name_zh": "明亮自然阳光柔和高光",
+      "canonical_phrase": "bright natural sunlight casting soft highlights and gentle shadows",
+      "samples": [
+        "sunlight creating soft highlights and shadows",
+        "sunlight casting bright highlights and soft shadows",
+        "soft natural sunlight filtering through creating dappled highlights",
+        "natural sunlight creating high contrast with soft highlights and deep shadows",
+        "bright sunlight casting soft highlights",
+        "bright natural sunlight from above creating soft highlights",
+        "bright sunlight creating soft highlights and natural shadows",
+        "sunlight casting soft highlights",
+        "soft natural sunlight from above, creating gentle highlights and soft shadows",
+        "bright natural sunlight casting strong highlights",
+        "sunlight filtering through creating dappled highlights on skin and fabric",
+        "bright and diffused sunlight casting soft highlights",
+        "natural sunlight casting bright highlights and soft shadows",
+        "natural sunlight casting soft highlights",
+        "strong warm sunlight creating soft highlights and shadows",
+        "sunlight creating bright highlights and soft shadows",
+        "warm natural sunlight casting soft highlights"
+      ],
+      "tags": [
+        "sunlight",
+        "natural",
+        "soft",
+        "warm",
+        "dappled"
+      ]
+    },
+    "sunlight_streaming_from_side_casting_shadows": {
+      "canonical_name": "sunlight streaming from side casting shadows",
+      "canonical_name_zh": "侧向阳光投射阴影",
+      "canonical_phrase": "sunlight streaming from side casting soft and sharp shadows with warm highlights",
+      "samples": [
+        "sunlight streaming from left window casting soft shadows",
+        "sunlight from upper left casting bright highlights and soft shadows, dramatic and cinematic",
+        "sunlight streaming from the left casting soft highlights and deep shadows, high contrast",
+        "sunlight streaming from large window to right, illuminating right side, creating soft shadows on left",
+        "sunlight streaming from the side casting sharp highlights and deep shadows",
+        "sunlight streaming from left casting strong diagonal shadows",
+        "sunlight streaming from upper left creating dramatic chiaroscuro",
+        "sunlight casting bright reflections on water surface",
+        "sunlight streaming from right creating dramatic contrast",
+        "sunlight streaming vertically from the right casting sharp bright stripes",
+        "sunlight streaming from above casting bright highlights and soft shadows",
+        "sunlight streaming from the left casting soft highlights and gentle shadows",
+        "sunlight streaming from left casting bright highlights, warm golden hour lighting creating soft shadows",
+        "natural sunlight streaming from the left casting soft shadows",
+        "sunlight streaming from the left side creating soft highlights and warm glow",
+        "sunlight streaming from right side creating bright highlights and soft shadows",
+        "sunlight streaming from left casting soft shadows",
+        "sunlight streaming from side creating warm highlights and soft shadows",
+        "sunlight streaming from outside creating bright background"
+      ],
+      "tags": [
+        "sunlight",
+        "window",
+        "chiaroscuro",
+        "golden_hour",
+        "diagonal_shadows"
+      ]
+    },
+    "soft_golden_hour_window_glow": {
+      "canonical_name": "soft golden hour window glow",
+      "canonical_name_zh": "柔和金窗光",
+      "canonical_phrase": "bright backlighting from windows, cinematic lighting",
+      "samples": [
+        "bright backlighting from windows, cinematic lighting"
+      ],
+      "tags": [
+        "warm",
+        "glass",
+        "portrait",
+        "atmospheric",
+        "rim light"
+      ]
+    },
+    "intense_warm_directional_lighting": {
+      "canonical_name": "intense warm directional lighting",
+      "canonical_name_zh": "强烈暖光定向照明",
+      "canonical_phrase": "intense warm directional lighting casting deep shadows",
+      "samples": [
+        "intense warm directional lighting casting deep shadows"
+      ],
+      "tags": [
+        "warm",
+        "gold",
+        "leather",
+        "dramatic",
+        "chiaroscuro"
+      ]
+    },
+    "warm_golden_hour_sunlight_filtering_through_water": {
+      "canonical_name": "warm golden hour sunlight filtering through water",
+      "canonical_name_zh": "暖金阳光穿透水面",
+      "canonical_phrase": "warm golden hour sunlight filtering through water",
+      "samples": [
+        "warm golden hour sunlight filtering through water"
+      ],
+      "tags": [
+        "golden",
+        "water",
+        "refraction",
+        "ethereal",
+        "translucent"
+      ]
+    },
+    "warm_backlighting_lens_flare_cinematic_soft_shadows": {
+      "canonical_name": "warm backlighting lens flare cinematic soft shadows",
+      "canonical_name_zh": "暖光背光镜头光晕电影柔影",
+      "canonical_phrase": "warm backlighting creating lens flare across face, cinematic lighting casting soft shadows",
+      "samples": [
+        "warm backlighting creating lens flare across face, cinematic lighting casting soft shadows"
+      ],
+      "tags": [
+        "warm",
+        "metallic",
+        "hoodie",
+        "cinematic",
+        "lens flare"
+      ]
+    },
+    "warm_golden_hour_glow_even_illumination": {
+      "canonical_name": "warm golden hour glow",
+      "canonical_name_zh": "暖金时刻光晕",
+      "canonical_phrase": "soft natural sunlight casting even illumination",
+      "samples": [
+        "soft natural sunlight casting even illumination"
+      ],
+      "tags": [
+        "golden",
+        "silk",
+        "dress",
+        "serene",
+        "lens flare"
+      ]
+    },
+    "soft_natural_light_from_left": {
+      "canonical_name": "soft natural light from left",
+      "canonical_name_zh": "左侧柔和自然光",
+      "canonical_phrase": "soft natural light from the left casting gentle shadows",
+      "samples": [
+        "soft natural light from upper left casting gentle shadows",
+        "natural soft lighting from the upper left casting gentle shadows",
+        "natural light from left, casting soft shadows",
+        "soft natural lighting from the left casting gentle shadows",
+        "soft natural light from the left casting soft shadows",
+        "warm natural light streaming from the left casting soft shadows",
+        "natural bright lighting from the left casting soft shadows",
+        "soft natural light coming from the upper left, creating gentle shadows",
+        "soft glow from left side casting gentle shadows",
+        "soft natural light from the left casting gentle shadows",
+        "soft natural light from the left side casting gentle highlights and soft shadows",
+        "natural soft lighting from the left casting gentle shadows"
+      ],
+      "tags": [
+        "natural",
+        "soft",
+        "left",
+        "gentle",
+        "shadows"
+      ]
+    },
+    "bright_natural_soft_lighting": {
+      "canonical_name": "bright natural soft lighting",
+      "canonical_name_zh": "明亮自然柔光",
+      "canonical_phrase": "bright natural soft lighting with gentle shadows",
+      "samples": [
+        "natural soft lighting from front, gentle shadows under chin and arms",
+        "bright and direct from above, creating soft shadows under chin and along arms",
+        "bright and natural",
+        "bright natural with soft shadows under chin and along neck"
+      ],
+      "tags": [
+        "natural",
+        "soft",
+        "bright",
+        "gentle",
+        "shadows"
+      ]
+    },
+    "soft_warm_side_sunlight_cinematic": {
+      "canonical_name": "soft warm side sunlight cinematic",
+      "canonical_name_zh": "柔和暖侧光电影感",
+      "canonical_phrase": "soft warm sunlight from side creating soft shadows, cinematic lighting",
+      "samples": [
+        "soft warm sunlight from side creating soft shadows, cinematic lighting"
+      ],
+      "tags": [
+        "warm",
+        "gold",
+        "cotton",
+        "cinematic",
+        "rim_light"
+      ]
+    },
+    "vivid_neon_shop_sign_lighting": {
+      "canonical_name": "vivid neon shop sign lighting",
+      "canonical_name_zh": "霓虹店招 vivid 光",
+      "canonical_phrase": "bright artificial lighting from shop signs casting vivid colors on the pavement and buildings",
+      "samples": [
+        "bright artificial lighting from shop signs casting vivid colors on the pavement and buildings"
+      ],
+      "tags": [
+        "neon",
+        "pavement",
+        "artificial",
+        "vivid",
+        "urban"
+      ]
+    },
+    "soft_golden_hour_glow": {
+      "canonical_name": "soft golden hour glow",
+      "canonical_name_zh": "柔和金时辉光",
+      "canonical_phrase": "soft golden hour glow",
+      "samples": [
+        "soft golden hour glow"
+      ],
+      "tags": [
+        "warm",
+        "skin",
+        "portrait",
+        "cinematic",
+        "lens flare"
+      ]
+    },
+    "bright_overhead_sunlight_with_reflections": {
+      "canonical_name": "bright overhead sunlight with reflections",
+      "canonical_name_zh": "明亮顶光反射",
+      "canonical_phrase": "bright overhead sunlight illuminating scene with water reflections",
+      "samples": [
+        "bright overhead sunlight",
+        "intense overhead sunlight",
+        "bright sunlight reflecting off water",
+        "sunlight reflecting off rippling surface",
+        "sunlight illuminating scene from above",
+        "sunlight filtering from above casting bright patterns",
+        "diffused sunlight with glints"
+      ],
+      "tags": [
+        "sunlight",
+        "bright",
+        "overhead",
+        "reflection",
+        "rippling"
+      ]
+    },
+    "warm_golden_hour_glow_front_casting": {
+      "canonical_name": "warm golden hour glow",
+      "canonical_name_zh": "暖金时刻光",
+      "canonical_phrase": "soft ambient lighting from the front casting gentle shadows",
+      "samples": [
+        "soft ambient lighting from the front casting gentle shadows"
+      ],
+      "tags": [
+        "golden",
+        "warm",
+        "cotton",
+        "casual",
+        "rim light"
+      ]
+    },
+    "warm_golden_hour_glow_on_face": {
+      "canonical_name": "warm golden hour glow on face",
+      "canonical_name_zh": "暖金时刻面部光",
+      "canonical_phrase": "soft ambient light from upper left casting gentle highlights on face and shoulder",
+      "samples": [
+        "soft ambient light from upper left casting gentle highlights on face and shoulder"
+      ],
+      "tags": [
+        "golden",
+        "skin",
+        "portrait",
+        "cinematic",
+        "rim_light"
+      ]
+    },
+    "soft_directional_lighting_with_shadows_front_lighting": {
+      "canonical_name": "soft directional lighting with shadows",
+      "canonical_name_zh": "柔和定向光影",
+      "canonical_phrase": "soft directional lighting from front or above casting soft shadows",
+      "samples": [
+        "front lighting casting soft shadows",
+        "bright direct lighting casting soft shadows",
+        "bright direct lighting from the front casting soft shadows",
+        "soft lighting from above casting soft shadows",
+        "overcast lighting casting soft shadows",
+        "strong directional lighting from front casting soft shadows",
+        "overcast lighting casting soft even illumination"
+      ],
+      "tags": [
+        "soft",
+        "directional",
+        "shadow",
+        "even",
+        "natural"
+      ]
+    },
+    "bright_natural_sunlight_sharp_shadows": {
+      "canonical_name": "bright natural sunlight sharp shadows",
+      "canonical_name_zh": "明亮自然阳光锐利阴影",
+      "canonical_phrase": "bright natural sunlight casting sharp defined shadows",
+      "samples": [
+        "bright sunlight casting sharp shadows",
+        "bright natural sunlight creating sharp shadows",
+        "direct bright sunlight casting sharp shadows",
+        "natural bright sunlight casting sharp shadow",
+        "sunlight casting sharp shadows",
+        "bright natural sunlight casting sharp shadows",
+        "sunlight casting sharp defined shadows"
+      ],
+      "tags": [
+        "sunlight",
+        "bright",
+        "sharp",
+        "outdoor",
+        "high-contrast"
+      ]
+    },
+    "warm_golden_hour_glow_soft_shadows_2": {
+      "canonical_name": "warm golden hour glow",
+      "canonical_name_zh": "暖金时刻光晕",
+      "canonical_phrase": "bright natural sunlight creating soft shadows",
+      "samples": [
+        "bright natural sunlight creating soft shadows"
+      ],
+      "tags": [
+        "golden",
+        "warm",
+        "cotton",
+        "casual",
+        "lens flare"
+      ]
+    },
+    "warm_golden_hour_glow_upper_left": {
+      "canonical_name": "warm golden hour glow",
+      "canonical_name_zh": "暖金时刻柔光",
+      "canonical_phrase": "bright direct sunlight from upper left, casting strong shadows",
+      "samples": [
+        "bright direct sunlight from upper left, casting strong shadows"
+      ],
+      "tags": [
+        "golden",
+        "warm",
+        "cotton",
+        "cinematic",
+        "rim_light"
+      ]
+    },
+    "warm_natural_sunlight_lattice_filter": {
+      "canonical_name": "warm natural sunlight lattice filter",
+      "canonical_name_zh": "暖光自然阳光格栅过滤",
+      "canonical_phrase": "warm and natural sunlight filtering through the lattice",
+      "samples": [
+        "warm and natural sunlight filtering through the lattice"
+      ],
+      "tags": [
+        "warm",
+        "wood",
+        "lattice",
+        "cozy",
+        "dappled"
+      ]
+    },
+    "warm_golden_sunlight_with_soft_shadows": {
+      "canonical_name": "warm golden sunlight with soft shadows",
+      "canonical_name_zh": "暖金阳光柔影",
+      "canonical_phrase": "warm golden sunlight casting soft shadows with long diagonal beams",
+      "samples": [
+        "sunlight casting soft shadows, warm golden lighting",
+        "warm golden sunlight from high angle casting long soft shadow behind her",
+        "warm golden sunlight casting soft shadows",
+        "strong diagonal sunlight creating warm golden glow",
+        "natural daylight with warm golden tones, sunlight casting a long sharp shadow"
+      ],
+      "tags": [
+        "golden",
+        "sunlight",
+        "soft-shadow",
+        "warm-tone",
+        "diagonal-light"
+      ]
+    },
+    "warm_golden_dappled_sunlight": {
+      "canonical_name": "warm golden dappled sunlight",
+      "canonical_name_zh": "温暖金色斑驳阳光",
+      "canonical_phrase": "warm golden sunlight illuminating face and upper body, dappled sunlight",
+      "samples": [
+        "warm golden sunlight illuminating face and upper body, dappled sunlight"
+      ],
+      "tags": [
+        "golden",
+        "skin",
+        "portrait",
+        "natural",
+        "dappled"
+      ]
+    },
+    "warm_golden_hour_glow_cool_toned": {
+      "canonical_name": "warm golden hour glow",
+      "canonical_name_zh": "暖金时刻光晕",
+      "canonical_phrase": "cool-toned lighting casting soft shadows",
+      "samples": [
+        "cool-toned lighting casting soft shadows"
+      ],
+      "tags": [
+        "golden",
+        "silk",
+        "evening",
+        "ethereal",
+        "rim_light"
+      ]
+    },
+    "soft_warm_directional_lighting_upper_left": {
+      "canonical_name": "soft warm directional lighting",
+      "canonical_name_zh": "柔和暖光方向照明",
+      "canonical_phrase": "soft warm lighting from side casting gentle shadows",
+      "samples": [
+        "warm soft lighting from above casting gentle shadows",
+        "soft warm lighting from the right casting gentle shadows",
+        "soft warm lighting from upper left casting gentle shadows",
+        "soft warm lighting from above creating gentle shadows",
+        "warm soft lighting from upper left casting gentle shadows",
+        "soft warm lighting from side casting gentle shadows",
+        "soft warm lighting from left casting gentle shadows",
+        "soft warm lighting from the front casting gentle shadows",
+        "soft warm lighting from above casting gentle shadows",
+        "warm soft lighting from side casting gentle shadows",
+        "soft cool lighting from the upper right casting gentle shadows"
+      ],
+      "tags": [
+        "warm",
+        "soft",
+        "directional",
+        "gentle",
+        "shadows"
+      ]
+    },
+    "soft_golden_hour_glow_overhead_sunlight": {
+      "canonical_name": "soft golden hour glow",
+      "canonical_name_zh": "柔和金辉",
+      "canonical_phrase": "bright sunlight overhead, vibrant warm lighting",
+      "samples": [
+        "bright sunlight overhead, vibrant warm lighting"
+      ],
+      "tags": [
+        "golden",
+        "warm",
+        "outdoor",
+        "cinematic",
+        "lens flare"
+      ]
+    },
+    "dramatic_highcontrast_directional_lighting": {
+      "canonical_name": "dramatic high-contrast directional lighting",
+      "canonical_name_zh": "戏剧性高对比定向光",
+      "canonical_phrase": "strong directional lighting with sharp shadows and high contrast",
+      "samples": [
+        "bright and direct, casting sharp shadows",
+        "lighting from above casting sharp highlights and deep shadows",
+        "dramatic backlighting casting figure in silhouette against luminous sky",
+        "strong overhead lighting creating sharp highlights and soft shadows",
+        "strong backlight creating lens flare and bright highlights",
+        "bright backlighting creating strong shadows and high-contrast silhouette",
+        "dramatic spotlight from above casting strong shadows",
+        "high-key with strong backlighting creating a glowing halo effect",
+        "bright high-key lighting creating strong contrast and soft shadows",
+        "strong backlight from high sun with lens flare, warm golden light bathing face and shoulder",
+        "strong backlight creating high contrast, natural sunlight casting sharp shadows",
+        "dramatic lighting from above illuminating upper body while casting deep shadows below",
+        "strong backlighting creating high contrast and lens flare",
+        "dim directional light creating high contrast with warm highlights and cool dark recesses",
+        "dramatic lighting from the front",
+        "bright backlighting creating strong highlights on spine and buttocks, dramatic high-contrast lighting from behind casting deep shadows",
+        "high-contrast black and white with strong directional shadows",
+        "strong backlighting creating rim light on hair and shoulders, warm golden sunlight casting soft shadows",
+        "lighting from above casting warm highlights and deep shadows",
+        "dramatic high-contrast lighting from the front",
+        "dramatic focused lighting",
+        "dramatic lighting casting strong shadows and highlighting features"
+      ],
+      "tags": [
+        "dramatic",
+        "high-contrast",
+        "sharp-shadows",
+        "backlighting",
+        "rim-light"
+      ]
+    },
+    "soft_twilight_glow_with_long_shadows": {
+      "canonical_name": "soft twilight glow with long shadows",
+      "canonical_name_zh": "柔和暮光长影",
+      "canonical_phrase": "soft glow of twilight with long shadows and subtle warm hue near the horizon",
+      "samples": [
+        "soft glow of twilight with long shadows and subtle warm hue near the horizon"
+      ],
+      "tags": [
+        "warm",
+        "fabric",
+        "dress",
+        "ethereal",
+        "horizon"
+      ]
+    },
+    "soft_natural_lighting_with_warm_tones": {
+      "canonical_name": "soft natural lighting with warm tones",
+      "canonical_name_zh": "柔和自然暖光",
+      "canonical_phrase": "soft natural lighting with warm tones and gentle ambient light",
+      "samples": [
+        "soft natural lighting with warm tones",
+        "soft natural light, intense bright lighting",
+        "soft natural lighting, gentle ambient light",
+        "soft natural light",
+        "soft natural lighting from a lamp on a wooden nightstand to the left",
+        "soft natural lighting from above",
+        "natural soft lighting",
+        "soft natural lighting"
+      ],
+      "tags": [
+        "warm",
+        "soft",
+        "natural",
+        "ambient",
+        "gentle"
+      ]
+    },
+    "soft_ambient_ceiling_light": {
+      "canonical_name": "soft ambient ceiling light",
+      "canonical_name_zh": "柔和顶灯环境光",
+      "canonical_phrase": "soft ambient light from ceiling fixture casting gentle shadows, cinematic lighting",
+      "samples": [
+        "soft ambient light from ceiling fixture casting gentle shadows, cinematic lighting"
+      ],
+      "tags": [
+        "warm",
+        "fabric",
+        "dress",
+        "cinematic",
+        "shadow"
+      ]
+    },
+    "soft_cooltoned_lighting_casting_gentle_shadows": {
+      "canonical_name": "soft cool-toned lighting casting gentle shadows",
+      "canonical_name_zh": "柔和冷光轻影",
+      "canonical_phrase": "soft cool-toned lighting casting gentle shadows",
+      "samples": [
+        "soft cool-toned lighting casting gentle shadows"
+      ],
+      "tags": [
+        "cool",
+        "fabric",
+        "portrait",
+        "ethereal",
+        "shadow"
+      ]
+    },
+    "golden_hour_rim_light_soft_shadows": {
+      "canonical_name": "golden hour rim light",
+      "canonical_name_zh": "黄金时刻轮廓光",
+      "canonical_phrase": "natural ambient lighting casting soft shadows",
+      "samples": [
+        "natural ambient lighting casting soft shadows"
+      ],
+      "tags": [
+        "warm",
+        "silhouette",
+        "portrait",
+        "cinematic",
+        "glow"
+      ]
+    },
+    "bright_overhead_sunlight_with_shadows": {
+      "canonical_name": "bright overhead sunlight with shadows",
+      "canonical_name_zh": "明亮顶光带阴影",
+      "canonical_phrase": "bright overhead sunlight casting sharp or soft shadows",
+      "samples": [
+        "warm natural overhead sun casting sharp shadows",
+        "strong directional sunlight casting sharp shadows",
+        "bright sunlight from above casting sharp shadows",
+        "strong overhead sunlight casting soft shadows",
+        "bright sunlight from above casting soft shadows",
+        "warm sunlight casting sharp shadows",
+        "sunlight filtering from above casting soft shadows"
+      ],
+      "tags": [
+        "sunlight",
+        "overhead",
+        "shadows",
+        "bright",
+        "natural"
+      ]
+    },
+    "soft_natural_daylight_with_gentle_shadows": {
+      "canonical_name": "soft natural daylight with gentle shadows",
+      "canonical_name_zh": "柔和自然日光",
+      "canonical_phrase": "soft natural daylight casting gentle shadows",
+      "samples": [
+        "strong natural daylight from upper left, casting soft shadows on right cheek and shoulder",
+        "natural soft daylight with gentle shadows",
+        "natural daylight with soft shadows",
+        "natural diffused daylight, soft shadows",
+        "soft natural daylight with gentle shadows"
+      ],
+      "tags": [
+        "daylight",
+        "soft",
+        "natural",
+        "diffused",
+        "gentle"
+      ]
+    },
+    "golden_hour_rim_light_with_soft_shadows_warm_diffused": {
+      "canonical_name": "golden hour rim light with soft shadows",
+      "canonical_name_zh": "黄金时刻轮廓光",
+      "canonical_phrase": "warm diffused daylight casting soft shadows",
+      "samples": [
+        "warm diffused daylight casting soft shadows"
+      ],
+      "tags": [
+        "golden",
+        "silhouette",
+        "cotton",
+        "cinematic",
+        "glow"
+      ]
+    },
+    "warm_cinematic_sunlight_window_glow": {
+      "canonical_name": "warm cinematic sunlight window glow",
+      "canonical_name_zh": "暖调电影光窗边辉",
+      "canonical_phrase": "warm cinematic sunlight streaming from a window on the left casting a bright glow",
+      "samples": [
+        "warm cinematic sunlight streaming from a window on the left casting a bright glow"
+      ],
+      "tags": [
+        "golden",
+        "glass",
+        "window",
+        "cinematic",
+        "beam"
+      ]
+    },
+    "soft_natural_lighting_with_gentle_shadows": {
+      "canonical_name": "soft natural lighting with gentle shadows",
+      "canonical_name_zh": "柔和自然光轻柔阴影",
+      "canonical_phrase": "soft natural lighting from various angles casting gentle shadows",
+      "samples": [
+        "soft natural lighting from the side casting gentle shadows",
+        "soft natural lighting from the front casting subtle shadows",
+        "soft natural lighting from front casting gentle shadows",
+        "natural light filtering through above, casting soft shadows",
+        "soft natural lighting from side casting soft shadows",
+        "soft natural light from front-right casting gentle shadows",
+        "bright natural light casting soft shadows",
+        "natural light from above casting soft shadows",
+        "soft natural lighting from the front casting gentle shadows",
+        "natural soft lighting from the front casting gentle shadows",
+        "soft natural lighting from the right casting gentle shadows",
+        "natural outdoor lighting casting soft shadows",
+        "soft natural lighting casting gentle shadows",
+        "natural soft lighting from above casting gentle shadows",
+        "soft natural light from above casting gentle shadows",
+        "soft natural light from front-left casting gentle shadows",
+        "natural light from outside casting soft shadows",
+        "soft natural lighting casting subtle shadows",
+        "natural soft lighting casting gentle shadows",
+        "bright natural lighting casting soft shadows",
+        "natural and bright casting soft shadows",
+        "soft natural light casting defined shadows with warm golden ambiance, soft highlights and deep contrasts",
+        "natural lighting from above casting soft shadows",
+        "soft natural light casting gentle shadows",
+        "natural soft lighting from the side casting gentle shadows",
+        "natural bright lighting from side casting soft shadows",
+        "soft natural lighting from above casting gentle shadows"
+      ],
+      "tags": [
+        "natural",
+        "soft",
+        "gentle",
+        "shadows",
+        "ambient"
+      ]
+    },
+    "warm_golden_hour_glow_front_lighting": {
+      "canonical_name": "warm golden hour glow",
+      "canonical_name_zh": "暖金时刻光晕",
+      "canonical_phrase": "natural soft lighting from the front",
+      "samples": [
+        "natural soft lighting from the front"
+      ],
+      "tags": [
+        "golden",
+        "velvet",
+        "silk",
+        "ethereal",
+        "lens flare"
+      ]
+    },
+    "warm_golden_hour_cinematic_lighting": {
+      "canonical_name": "warm golden hour cinematic lighting",
+      "canonical_name_zh": "暖金时刻电影光",
+      "canonical_phrase": "natural cinematic lighting creating soft shadows",
+      "samples": [
+        "natural cinematic lighting creating soft shadows"
+      ],
+      "tags": [
+        "golden",
+        "soft",
+        "portrait",
+        "warm",
+        "rim"
+      ]
+    },
+    "bright_natural_sunlight_filtering_green_foliage": {
+      "canonical_name": "bright natural sunlight filtering green foliage",
+      "canonical_name_zh": "阳光透过绿叶",
+      "canonical_phrase": "bright natural sunlight filtering through green foliage, casting soft shadows",
+      "samples": [
+        "bright natural sunlight filtering through green foliage, casting soft shadows"
+      ],
+      "tags": [
+        "sunlight",
+        "foliage",
+        "green",
+        "dappled",
+        "soft"
+      ]
+    },
+    "warm_golden_hour_sunlight_with_soft_shadows": {
+      "canonical_name": "warm golden hour sunlight with soft shadows",
+      "canonical_name_zh": "暖色黄金时刻柔光",
+      "canonical_phrase": "warm golden hour sunlight casting soft shadows and highlights",
+      "samples": [
+        "bright direct sunlight casting soft shadows, warm golden hour lighting",
+        "sunlight casting warm glow and soft shadows, golden hour lighting",
+        "warm golden hour sunlight casting soft shadows",
+        "sunlight casting sharp shadows, warm golden hour lighting",
+        "bright direct sunlight casting sharp shadows, warm golden hour lighting",
+        "bright direct sunlight, warm golden hour lighting, strong shadows cast on the ground",
+        "warm golden hour sunlight casting strong shadows and highlights",
+        "warm golden hour lighting casting soft shadows",
+        "natural sunlight casting soft shadows, warm golden hour lighting",
+        "warm golden hour sunlight from side casting long soft shadows",
+        "warm golden hour sunlight filtering through gaps creating soft highlights and soft shadows",
+        "warm golden hour sunlight streaming from open end creating long shadows"
+      ],
+      "tags": [
+        "golden",
+        "warm",
+        "sunlight",
+        "soft",
+        "shadows"
+      ]
+    },
+    "soft_directional_lighting_casting_gentle_shadows": {
+      "canonical_name": "soft directional lighting casting gentle shadows",
+      "canonical_name_zh": "柔和定向光",
+      "canonical_phrase": "soft directional lighting from side casting gentle shadows",
+      "samples": [
+        "lighting from the right casting soft shadows",
+        "soft directional lighting from front casting gentle shadows",
+        "soft directional light casting gentle shadows",
+        "soft directional lighting casting subtle shadows",
+        "soft directional lighting from the side casting gentle shadows",
+        "soft directional lighting from upper right casting gentle shadows"
+      ],
+      "tags": [
+        "soft",
+        "directional",
+        "gentle",
+        "shadows",
+        "subtle"
+      ]
+    },
+    "soft_natural_daylight_warm_cinematic_contrast": {
+      "canonical_name": "soft natural daylight warm cinematic contrast",
+      "canonical_name_zh": "柔和自然日光暖调电影感",
+      "canonical_phrase": "soft natural daylight streaming through window creating warm highlights, cinematic lighting with high contrast",
+      "samples": [
+        "soft natural daylight streaming through window creating warm highlights, cinematic lighting with high contrast"
+      ],
+      "tags": [
+        "warm",
+        "natural",
+        "cinematic",
+        "window",
+        "high-contrast"
+      ]
+    },
+    "soft_diffused_overhead_and_window_light": {
+      "canonical_name": "soft diffused overhead and window light",
+      "canonical_name_zh": "柔和漫射顶光与窗光",
+      "canonical_phrase": "soft diffused lighting from overhead fixtures and natural light from the window",
+      "samples": [
+        "soft diffused lighting from overhead fixtures and natural light from the window"
+      ],
+      "tags": [
+        "warm",
+        "fabric",
+        "dress",
+        "ethereal",
+        "shadowless"
+      ]
+    },
+    "overhead_fluorescent_lighting": {
+      "canonical_name": "overhead fluorescent lighting",
+      "canonical_name_zh": "顶光荧光灯照明",
+      "canonical_phrase": "bright overhead fluorescent lights casting soft or strong shadows",
+      "samples": [
+        "fluorescent lighting casting strong highlights and shadows",
+        "fluorescent lighting casting soft shadows",
+        "dim overhead fluorescent lighting casting strong shadows",
+        "fluorescent lights above casting bright white illumination",
+        "soft overhead lighting casting gentle shadows",
+        "overhead fluorescent lighting",
+        "bright fluorescent lighting from above casting reflections",
+        "fluorescent light overhead casting soft illumination",
+        "bright overhead lighting casting soft shadows",
+        "bright illumination from yellow overhead fluorescent light fixture casting strong contrast with deep shadows",
+        "brightly lit indoor space with fluorescent ceiling lights",
+        "warm yellow lighting from an overhead fixture",
+        "overhead fluorescent lights casting soft shadows"
+      ],
+      "tags": [
+        "fluorescent",
+        "overhead",
+        "indoor",
+        "bright",
+        "ceiling"
+      ]
+    },
+    "soft_directional_lighting_gentle_shadows": {
+      "canonical_name": "soft directional lighting gentle shadows",
+      "canonical_name_zh": "柔和定向光轻柔阴影",
+      "canonical_phrase": "soft directional lighting creating gentle shadows",
+      "samples": [
+        "soft directional lighting creating gentle shadows"
+      ],
+      "tags": [
+        "warm",
+        "fabric",
+        "dress",
+        "ethereal",
+        "subtle"
+      ]
+    },
+    "soft_warm_overhead_lighting": {
+      "canonical_name": "soft warm overhead lighting",
+      "canonical_name_zh": "柔和暖光顶灯",
+      "canonical_phrase": "soft warm lighting from overhead fixture casting gentle shadows",
+      "samples": [
+        "soft warm lighting from overhead fixture casting gentle shadows"
+      ],
+      "tags": [
+        "warm",
+        "overhead",
+        "soft",
+        "gentle",
+        "fixture"
+      ]
+    },
+    "warm_reddish_hue_lighting": {
+      "canonical_name": "warm reddish hue lighting",
+      "canonical_name_zh": "暖红光影",
+      "canonical_phrase": "warm reddish hue",
+      "samples": [
+        "warm reddish hue"
+      ],
+      "tags": [
+        "red",
+        "warm",
+        "glow",
+        "atmosphere",
+        "soft"
+      ]
+    },
+    "soft_warm_lighting_with_gentle_shadows": {
+      "canonical_name": "soft warm lighting with gentle shadows",
+      "canonical_name_zh": "柔和暖光轻影",
+      "canonical_phrase": "soft warm lighting creating gentle shadows",
+      "samples": [
+        "soft warm tones casting gentle shadows",
+        "soft and warm creating gentle shadows",
+        "warm natural light casting gentle shadows",
+        "warm and even with gentle shadows",
+        "soft warm tones creating gentle shadows",
+        "soft and warm, casting gentle shadows",
+        "warm soft lighting creating gentle shadows",
+        "soft and warm, coming from left side, casting gentle shadows on right side"
+      ],
+      "tags": [
+        "warm",
+        "soft",
+        "natural",
+        "gentle",
+        "shadows"
+      ]
+    },
+    "soft_cinematic_natural_lighting": {
+      "canonical_name": "soft cinematic natural lighting",
+      "canonical_name_zh": "柔和电影感自然光",
+      "canonical_phrase": "soft diffused natural light casting gentle shadows cinematic quality",
+      "samples": [
+        "soft diffused light from left side casting gentle shadows, cinematic lighting",
+        "soft natural light from left casting gentle shadows, cinematic lighting",
+        "cinematic soft lighting from side",
+        "soft diffused natural light casting gentle shadows, cinematic lighting",
+        "natural light streaming in from the left, soft cinematic lighting",
+        "soft natural light, warm cinematic lighting with soft shadows",
+        "soft natural light from left with cinematic quality",
+        "soft natural light from right, cinematic lighting",
+        "warm diffused natural light casting gentle shadows, cinematic lighting",
+        "soft natural light from left, warm cinematic lighting",
+        "cinematic lighting with soft natural light from upper left, shadows cast diagonally"
+      ],
+      "tags": [
+        "warm",
+        "diffused",
+        "cinematic",
+        "gentle shadows",
+        "natural"
+      ]
+    },
+    "soft_diffused_front_lighting": {
+      "canonical_name": "soft diffused front lighting",
+      "canonical_name_zh": "柔和前侧漫射光",
+      "canonical_phrase": "soft diffused lighting from front, creating gentle shadows",
+      "samples": [
+        "soft diffused lighting from front, creating gentle shadows"
+      ],
+      "tags": [
+        "warm",
+        "cotton",
+        "dress",
+        "ethereal",
+        "rim_light"
+      ]
+    },
+    "warm_golden_hour_glow_soft_shadows_3": {
+      "canonical_name": "warm golden hour glow",
+      "canonical_name_zh": "暖金时刻光晕",
+      "canonical_phrase": "bright even lighting casting soft shadows",
+      "samples": [
+        "bright even lighting casting soft shadows"
+      ],
+      "tags": [
+        "golden",
+        "velvet",
+        "silk",
+        "cinematic",
+        "lens flare"
+      ]
+    },
+    "soft_natural_diffused_lighting_highlights": {
+      "canonical_name": "soft natural diffused lighting highlights",
+      "canonical_name_zh": "柔和自然漫射光高光",
+      "canonical_phrase": "soft natural diffused lighting creating gentle highlights on skin and hair",
+      "samples": [
+        "natural diffused lighting creating soft highlights on skin and hair",
+        "warm diffused lighting creating gentle highlights on skin and hair",
+        "natural lighting creating soft highlights on skin and wet hair",
+        "natural sunlight casting soft highlights on skin and hair",
+        "warm natural lighting casting soft highlights on skin and fabric",
+        "natural daylight casting soft highlights on skin and wet hair",
+        "soft diffused lighting creating gentle highlights on skin and wet surfaces",
+        "natural diffused lighting creating soft highlights on wet skin and fabric",
+        "soft directional lighting highlighting skin and hair strands",
+        "soft studio lighting from front creating gentle highlights on skin and fabric",
+        "dramatic lighting from front casting soft highlights on wet skin and hair"
+      ],
+      "tags": [
+        "natural",
+        "diffused",
+        "soft",
+        "skin",
+        "wet"
+      ]
+    },
+    "soft_warm_overhead_artificial_lighting": {
+      "canonical_name": "soft warm overhead artificial lighting",
+      "canonical_name_zh": "柔和暖色顶光",
+      "canonical_phrase": "warm artificial lighting from overhead fixtures casting soft shadows",
+      "samples": [
+        "warm artificial lighting from overhead fixtures casting soft shadows"
+      ],
+      "tags": [
+        "warm",
+        "overhead",
+        "soft",
+        "shadows",
+        "artificial"
+      ]
+    },
+    "bright_warm_desk_lamp_with_flexible_gooseneck": {
+      "canonical_name": "bright warm desk lamp with flexible gooseneck",
+      "canonical_name_zh": "明亮暖光可弯曲台灯",
+      "canonical_phrase": "bright warm-toned desk lamp with flexible gooseneck casting focused light, cinematic lighting",
+      "samples": [
+        "bright warm-toned desk lamp with flexible gooseneck casting focused light, cinematic lighting"
+      ],
+      "tags": [
+        "warm",
+        "metal",
+        "lamp",
+        "cinematic",
+        "gooseneck"
+      ]
+    },
+    "warm_golden_backlighting_with_soft_shadows": {
+      "canonical_name": "warm golden backlighting with soft shadows",
+      "canonical_name_zh": "暖金背光柔影",
+      "canonical_phrase": "strong backlighting creating soft shadows, warm golden light highlighting hair strands and shoulder contours",
+      "samples": [
+        "strong backlighting creating soft shadows, warm golden light highlighting hair strands and shoulder contours"
+      ],
+      "tags": [
+        "golden",
+        "hair",
+        "shoulder",
+        "backlight",
+        "soft"
+      ]
+    },
+    "bright_natural_sunlight_soft_shadows": {
+      "canonical_name": "bright natural sunlight soft shadows",
+      "canonical_name_zh": "明亮自然阳光柔和阴影",
+      "canonical_phrase": "bright natural sunlight from front casting soft shadows",
+      "samples": [
+        "bright natural sunlight from front and side casting soft shadows",
+        "sunlight illuminating from the front casting soft shadows behind",
+        "soft natural sunlight from upper left casting gentle shadows",
+        "bright natural sunlight from upper right casting soft shadows",
+        "bright natural sunlight from the front casting soft shadows",
+        "natural sunlight from the front casting soft shadows",
+        "sunlight from front casting soft shadows",
+        "bright natural sunlight from front creating soft shadows",
+        "bright natural sunlight from above casting soft shadows",
+        "natural sunlight from above casting soft shadows"
+      ],
+      "tags": [
+        "sunlight",
+        "natural",
+        "soft",
+        "bright",
+        "daylight"
+      ]
+    },
+    "soft_natural_directional_lighting_with_gentle_shadows": {
+      "canonical_name": "soft natural directional lighting with gentle shadows",
+      "canonical_name_zh": "柔和自然定向光与轻柔阴影",
+      "canonical_phrase": "soft natural light from side or window casting gentle shadows",
+      "samples": [
+        "soft natural lighting casting gentle highlights across her skin and creating subtle shadows",
+        "natural light streaming from a large window behind her, cinematic lighting",
+        "soft shadows accentuating her facial contours and body curves",
+        "sunlight illuminating her face from the side casting soft shadows",
+        "bright natural light streaming from a window behind her, casting soft shadows",
+        "warm cinematic lighting from above casting soft shadows on her face",
+        "soft warm light illuminating her from the side, creating gentle highlights and soft shadows across her skin",
+        "strong directional light from the front-right casting a deep elongated shadow to her left",
+        "soft directional light from the left illuminating her face and shoulder, casting gentle shadows on the right side of her face",
+        "soft natural light from the left creating gentle shadows along her jaw and neck",
+        "natural light streaming in from the window, soft shadows cast across her body and the countertop",
+        "natural sunlight illuminating her face and upper body, soft shadows under her chin and arms, warm golden-hour glow",
+        "soft diffused lighting highlighting her face and upper body, background dimly lit with deep shadows",
+        "soft natural light illuminating her face from above, creating gentle highlights on her forehead and cheekbones",
+        "bright natural lighting casting soft shadow beneath her",
+        "soft and directional from the left, casting gentle shadows along her neck and shoulder",
+        "soft natural lighting with bright diffused light source behind her casting gentle shadows"
+      ],
+      "tags": [
+        "natural",
+        "soft",
+        "cinematic",
+        "golden-hour",
+        "diffused"
+      ]
+    },
+    "warm_ambient_lighting_soft_shadows": {
+      "canonical_name": "warm ambient lighting soft shadows",
+      "canonical_name_zh": "暖光柔和阴影",
+      "canonical_phrase": "warm ambient lighting casting gentle highlights and soft shadows",
+      "samples": [
+        "warm ambient lighting casting gentle highlights and soft shadows"
+      ],
+      "tags": [
+        "warm",
+        "fabric",
+        "dress",
+        "cozy",
+        "glow"
+      ]
+    },
+    "intense_artificial_lighting_surreal_glow": {
+      "canonical_name": "intense artificial lighting surreal glow",
+      "canonical_name_zh": "强烈人造光超现实辉光",
+      "canonical_phrase": "intense artificial lighting casting a surreal glow",
+      "samples": [
+        "intense artificial lighting casting a surreal glow"
+      ],
+      "tags": [
+        "neon",
+        "metallic",
+        "cyberpunk",
+        "ethereal",
+        "chromatic aberration"
+      ]
+    },
+    "bright_direct_sunlight_high_contrast_sharp_shadows": {
+      "canonical_name": "bright direct sunlight high contrast",
+      "canonical_name_zh": "明亮直射阳光高对比",
+      "canonical_phrase": "bright direct sunlight casting sharp shadows with high contrast",
+      "samples": [
+        "natural sunlight from high angle casting sharp contrast",
+        "sunlit with high contrast",
+        "high-contrast with strong directional sunlight casting sharp shadows",
+        "bright direct sunlight creating sharp contrast with deep shadows and highlights",
+        "bright direct sunlight with high contrast and glare",
+        "bright direct sunlight creating high contrast and blown-out highlights",
+        "bright direct sunlight casting sharp shadows, high contrast",
+        "sunlight casting dramatic shadows, high-contrast lighting creating deep shadows and bright highlights"
+      ],
+      "tags": [
+        "sunlight",
+        "contrast",
+        "shadow",
+        "bright",
+        "dramatic"
+      ]
+    },
+    "soft_diffused_golden_hour_light": {
+      "canonical_name": "soft diffused golden hour light",
+      "canonical_name_zh": "柔和漫射黄金时刻光",
+      "canonical_phrase": "soft diffused golden hour light",
+      "samples": [
+        "soft diffused golden hour light"
+      ],
+      "tags": [
+        "warm",
+        "skin",
+        "portrait",
+        "cinematic",
+        "glow"
+      ]
+    },
+    "bright_natural_sunlight_sparkling_highlights": {
+      "canonical_name": "bright natural sunlight sparkling highlights",
+      "canonical_name_zh": "明亮自然阳光闪烁高光",
+      "canonical_phrase": "bright natural sunlight creating sparkling highlights on water droplets and skin",
+      "samples": [
+        "bright natural sunlight creating sparkling highlights on water droplets and skin"
+      ],
+      "tags": [
+        "sunlight",
+        "water",
+        "skin",
+        "sparkle",
+        "natural"
+      ]
+    },
+    "warm_skin_fabric_soft_shadows": {
+      "canonical_name": "warm skin fabric soft shadows",
+      "canonical_name_zh": "暖光织物柔影",
+      "canonical_phrase": "warm highlights across skin and fabric creating soft shadows",
+      "samples": [
+        "warm highlights across skin and fabric creating soft shadows"
+      ],
+      "tags": [
+        "warm",
+        "skin",
+        "fabric",
+        "soft",
+        "highlight"
+      ]
+    },
+    "bright_even_front_lighting": {
+      "canonical_name": "bright even front lighting",
+      "canonical_name_zh": "明亮均匀前光",
+      "canonical_phrase": "bright even front lighting with soft shadows",
+      "samples": [
+        "bright even",
+        "bright and even",
+        "bright and even front lighting",
+        "bright even lighting"
+      ],
+      "tags": [
+        "bright",
+        "even",
+        "front",
+        "soft",
+        "studio"
+      ]
+    },
+    "sunlight_streaming_casting_soft_highlights": {
+      "canonical_name": "sunlight streaming casting soft highlights",
+      "canonical_name_zh": "阳光投射柔和高光",
+      "canonical_phrase": "sunlight streaming from various angles casting soft highlights and warm glow",
+      "samples": [
+        "sunlight streaming from above casting soft highlights",
+        "sunlight streaming from the right casting soft highlights",
+        "natural sunlight streaming in creating bright highlights and deep contrasts",
+        "bright overexposed sky casting strong highlights",
+        "sunlight streaming from upper right casting soft highlights",
+        "sunlight streaming from upper right casting warm glow and soft shadows"
+      ],
+      "tags": [
+        "sunlight",
+        "soft highlights",
+        "warm glow",
+        "natural light",
+        "bright sky"
+      ]
+    },
+    "golden_hour_rim_light_glow": {
+      "canonical_name": "golden hour rim light glow",
+      "canonical_name_zh": "黄金时刻轮廓光",
+      "canonical_phrase": "natural daylight casting soft highlights",
+      "samples": [
+        "natural daylight casting soft highlights"
+      ],
+      "tags": [
+        "warm",
+        "silhouette",
+        "fabric",
+        "cinematic",
+        "halo"
+      ]
+    },
+    "warm_golden_hour_front_lighting": {
+      "canonical_name": "warm golden hour front lighting",
+      "canonical_name_zh": "暖金时刻正面光",
+      "canonical_phrase": "natural soft lighting illuminating from the front",
+      "samples": [
+        "natural soft lighting illuminating from the front"
+      ],
+      "tags": [
+        "golden",
+        "soft",
+        "cotton",
+        "casual",
+        "rim"
+      ]
+    },
+    "warm_ambient_directional_lighting": {
+      "canonical_name": "warm ambient directional lighting",
+      "canonical_name_zh": "暖色环境定向光",
+      "canonical_phrase": "warm ambient light from a single source casting soft shadows",
+      "samples": [
+        "warm ambient light source from above right casting soft shadows",
+        "warm soft lighting from a wall-mounted lamp casting gentle shadows",
+        "soft ambient lighting from a warm-toned lamp casting dramatic shadows",
+        "warm directional light from black desk lamp on left, creating strong shadows",
+        "warm ambient lighting casting gentle shadows",
+        "warm ambient lighting from single wall-mounted sconce casting soft glow and gentle shadows",
+        "warm ambient light casting soft shadows"
+      ],
+      "tags": [
+        "warm",
+        "ambient",
+        "soft shadows",
+        "directional",
+        "cozy"
+      ]
+    },
+    "warm_orange_lighting_soft_shadows": {
+      "canonical_name": "warm orange lighting soft shadows",
+      "canonical_name_zh": "暖橙光柔和阴影",
+      "canonical_phrase": "warm orange lighting, soft shadows",
+      "samples": [
+        "warm orange lighting, soft shadows"
+      ],
+      "tags": [
+        "orange",
+        "warm",
+        "soft",
+        "cinematic",
+        "glow"
+      ]
+    },
+    "soft_and_even_overcast_lighting": {
+      "canonical_name": "soft and even overcast lighting",
+      "canonical_name_zh": "柔和均匀漫射光",
+      "canonical_phrase": "soft and even, suggesting overcast conditions",
+      "samples": [
+        "soft and even, suggesting overcast conditions"
+      ],
+      "tags": [
+        "diffused",
+        "matte",
+        "cotton",
+        "minimalist",
+        "no shadows"
+      ]
+    },
+    "soft_even_front_lighting": {
+      "canonical_name": "soft even front lighting",
+      "canonical_name_zh": "柔和均匀前光",
+      "canonical_phrase": "soft even lighting from front casting gentle shadows",
+      "samples": [
+        "soft even lighting from front casting gentle shadows"
+      ],
+      "tags": [
+        "diffused",
+        "matte",
+        "portrait",
+        "minimalist",
+        "subtle"
+      ]
+    },
+    "strong_direct_sunlight_with_sharp_shadows": {
+      "canonical_name": "strong direct sunlight with sharp shadows",
+      "canonical_name_zh": "强光直射锐影",
+      "canonical_phrase": "strong direct sunlight casting sharp defined shadows",
+      "samples": [
+        "strong sunlight casting a sharp elongated shadow",
+        "strong sunlight casting long shadows",
+        "strong natural sunlight casting sharp defined shadows",
+        "strong sunlight casting long sharp shadows",
+        "strong sunlight casting a sharp elongated shadow to the right",
+        "strong sunlight casting sharp shadows",
+        "bright overhead sunlight creating long shadows",
+        "strong direct sunlight casting sharp shadows",
+        "strong overhead sunlight casting sharp shadows",
+        "strong sunlight casting a distinct shadow"
+      ],
+      "tags": [
+        "sunlight",
+        "shadow",
+        "bright",
+        "outdoor",
+        "high-contrast"
+      ]
+    },
+    "soft_natural_lighting_with_gentle_shadows_dappled_patterns": {
+      "canonical_name": "soft natural lighting with gentle shadows",
+      "canonical_name_zh": "柔和自然光与轻柔阴影",
+      "canonical_phrase": "soft natural light casting gentle shadows from various angles",
+      "samples": [
+        "soft natural lighting with gentle shadows",
+        "soft natural light from the front casting gentle shadows",
+        "soft natural light with sunlight filtering through foliage creating dappled patterns",
+        "bright natural light flooding from the right side, casting soft shadows",
+        "contrasting lighting, one side bright natural light casting soft shadows, other side deep cool blue artificial light creating dramatic shadows",
+        "bright natural lighting with soft shadows",
+        "soft natural light from the left creating gentle shadows",
+        "soft natural light illuminating face from left, creating gentle shadows on right side",
+        "soft diffused natural light entering from the left casting gentle shadows",
+        "soft natural light illuminating from the side casting gentle shadows",
+        "soft diffused light, shadows cast subtly along the wall",
+        "soft natural light from the side, casting gentle shadows",
+        "bright natural light from behind, creating soft shadows and highlights",
+        "natural soft lighting creating gentle shadows",
+        "bright natural light from left casting soft shadows",
+        "soft natural lighting casting gentle shadows, soft diffused light",
+        "soft natural light filtering through trees creating dappled shadows",
+        "bright natural light from above casting soft shadows",
+        "bright diffused light from front-left casting soft shadows on right side of face and body",
+        "soft natural light filtering through glass casting gentle shadows",
+        "bright natural lighting from upper left casting distinct shadows",
+        "bright natural light from right casting soft shadows"
+      ],
+      "tags": [
+        "natural",
+        "soft",
+        "diffused",
+        "gentle",
+        "dappled"
+      ]
+    },
+    "soft_warm_backlighting_glowing_highlights": {
+      "canonical_name": "soft warm backlighting glowing highlights",
+      "canonical_name_zh": "柔和暖光背光",
+      "canonical_phrase": "soft warm backlighting creating glowing highlights",
+      "samples": [
+        "soft warm backlighting creating glowing highlights"
+      ],
+      "tags": [
+        "warm",
+        "gold",
+        "silk",
+        "ethereal",
+        "rim_light"
+      ]
+    },
+    "warm_natural_front_light_soft_shadows": {
+      "canonical_name": "warm natural front light soft shadows",
+      "canonical_name_zh": "暖自然前光柔影",
+      "canonical_phrase": "warm natural light from front casting soft shadows",
+      "samples": [
+        "warm natural light from front casting soft shadows"
+      ],
+      "tags": [
+        "warm",
+        "natural",
+        "soft",
+        "portrait",
+        "golden"
+      ]
+    },
+    "soft_ambient_lighting_with_gentle_shadows": {
+      "canonical_name": "soft ambient lighting with gentle shadows",
+      "canonical_name_zh": "柔和环境光与柔影",
+      "canonical_phrase": "soft ambient lighting casting gentle shadows",
+      "samples": [
+        "ambient light casting gentle shadows",
+        "soft ambient lighting from the side casting gentle shadows",
+        "warm ambient lighting casting soft shadows",
+        "cool ambient lighting casting soft shadows",
+        "soft ambient lighting casting gentle shadows",
+        "ambient lighting casting soft shadows",
+        "dim ambient lighting creating soft shadows"
+      ],
+      "tags": [
+        "ambient",
+        "soft",
+        "gentle",
+        "shadows",
+        "diffused"
+      ]
+    },
+    "strong_backlighting_from_windows": {
+      "canonical_name": "strong backlighting from windows",
+      "canonical_name_zh": "窗边强逆光",
+      "canonical_phrase": "strong backlighting from windows casting soft shadows",
+      "samples": [
+        "strong backlighting from windows casting soft shadows"
+      ],
+      "tags": [
+        "warm",
+        "glass",
+        "dress",
+        "ethereal",
+        "silhouette"
+      ]
+    },
+    "soft_natural_directional_lighting": {
+      "canonical_name": "soft natural directional lighting",
+      "canonical_name_zh": "柔和自然定向光",
+      "canonical_phrase": "soft natural light from side or front creating gentle shadows",
+      "samples": [
+        "soft natural light from the side creating defined shadows",
+        "soft natural light creating gentle shadows",
+        "soft natural light from front-left creating gentle shadows",
+        "natural soft light from the side creating gentle highlights and shadows",
+        "natural light from the front creating soft shadows behind",
+        "soft natural light from the front casting subtle shadows",
+        "soft natural light from front right creating gentle highlights and soft shadows",
+        "soft natural light from front and side creating gentle shadows",
+        "soft natural light from the front creating gentle shadows",
+        "soft natural light from above creating gentle shadows",
+        "soft natural light from the front, casting soft shadows behind"
+      ],
+      "tags": [
+        "natural",
+        "soft",
+        "directional",
+        "gentle",
+        "shadows"
+      ]
+    },
+    "warm_golden_hour_glow_soft_shadows_4": {
+      "canonical_name": "warm golden hour glow",
+      "canonical_name_zh": "暖金时刻光晕",
+      "canonical_phrase": "soft light from above casting soft shadows",
+      "samples": [
+        "soft light from above casting soft shadows"
+      ],
+      "tags": [
+        "golden",
+        "velvet",
+        "dress",
+        "romantic",
+        "lens flare"
+      ]
+    },
+    "soft_directional_lighting": {
+      "canonical_name": "soft directional lighting",
+      "canonical_name_zh": "柔和定向光",
+      "canonical_phrase": "soft directional lighting from front creating gentle highlights",
+      "samples": [
+        "soft directional lighting from front highlighting facial features",
+        "soft directional light streaming from left side creating soft highlights and gentle contrast",
+        "soft directional lighting highlighting the rounded form",
+        "soft directional lighting from front-left creating gentle highlights",
+        "soft diffused lighting creating gentle highlights"
+      ],
+      "tags": [
+        "soft",
+        "directional",
+        "diffused",
+        "gentle",
+        "highlight"
+      ]
+    },
+    "warm_golden_hour_soft_shadows_lens_flare": {
+      "canonical_name": "warm golden hour soft shadows",
+      "canonical_name_zh": "暖金时刻柔影",
+      "canonical_phrase": "bright sunlight casting lens flare and strong highlights, warm golden hour lighting creating soft shadows",
+      "samples": [
+        "bright sunlight casting lens flare and strong highlights, warm golden hour lighting creating soft shadows"
+      ],
+      "tags": [
+        "golden",
+        "sunlight",
+        "lens-flare",
+        "cinematic",
+        "warm"
+      ]
+    },
+    "warm_golden_side_cinematic_light": {
+      "canonical_name": "warm golden side cinematic light",
+      "canonical_name_zh": "暖金侧光电影感",
+      "canonical_phrase": "warm golden light illuminating her from the side, soft cinematic lighting",
+      "samples": [
+        "warm golden light illuminating her from the side, soft cinematic lighting"
+      ],
+      "tags": [
+        "golden",
+        "soft",
+        "cinematic",
+        "side",
+        "warm"
+      ]
+    },
+    "diagonal_sunlight_dramatic_highlights_deep_shadows": {
+      "canonical_name": "diagonal sunlight dramatic highlights deep shadows",
+      "canonical_name_zh": "对角阳光戏剧性高光深阴影",
+      "canonical_phrase": "sunlight streaming diagonally from left casting dramatic highlights, deep shadows, cinematic high contrast",
+      "samples": [
+        "sunlight streaming diagonally from left casting dramatic highlights, deep shadows, cinematic high contrast"
+      ],
+      "tags": [
+        "golden",
+        "fabric",
+        "portrait",
+        "cinematic",
+        "chiaroscuro"
+      ]
+    },
+    "warm_soft_indoor_lighting": {
+      "canonical_name": "warm soft indoor lighting",
+      "canonical_name_zh": "温暖柔和室内光",
+      "canonical_phrase": "warm soft indoor lighting casting gentle shadows",
+      "samples": [
+        "warm soft indoor lighting casting gentle shadows",
+        "soft warm lighting casting gentle shadows",
+        "warm soft lighting casting gentle shadows",
+        "dim warm lighting casting soft shadows",
+        "warm bright lighting casting soft shadows",
+        "warm indoor lighting casting soft shadows"
+      ],
+      "tags": [
+        "warm",
+        "soft",
+        "indoor",
+        "gentle",
+        "shadows"
+      ]
+    },
+    "warm_golden_hour_sunlight_lens_flares": {
+      "canonical_name": "warm golden hour sunlight lens flares",
+      "canonical_name_zh": "暖金时刻阳光镜头光晕",
+      "canonical_phrase": "warm golden hour sunlight creating lens flares and soft shadows",
+      "samples": [
+        "warm golden hour sunlight creating lens flares and soft shadows"
+      ],
+      "tags": [
+        "golden",
+        "sunlight",
+        "lensflare",
+        "cinematic",
+        "softshadow"
+      ]
+    },
+    "warm_orange_pendant_light_soft_shadows": {
+      "canonical_name": "warm orange pendant light soft shadows",
+      "canonical_name_zh": "暖橙吊灯柔影",
+      "canonical_phrase": "warm orange pendant light creating soft shadows",
+      "samples": [
+        "warm orange pendant light creating soft shadows"
+      ],
+      "tags": [
+        "orange",
+        "pendant",
+        "soft",
+        "ambient",
+        "shadow"
+      ]
+    },
+    "soft_warm_natural_diffused_lighting": {
+      "canonical_name": "soft warm natural diffused lighting",
+      "canonical_name_zh": "柔和暖光自然漫射",
+      "canonical_phrase": "soft warm natural diffused lighting casting gentle highlights",
+      "samples": [
+        "soft warm lighting creating gentle highlights",
+        "soft natural lighting casting gentle highlights",
+        "warm diffused lighting casting gentle highlights",
+        "bright natural light from above creating soft highlights",
+        "natural light from the front casting soft highlights",
+        "warm and diffused creating soft highlights",
+        "bright natural light casting gentle highlights",
+        "soft natural light from front casting gentle highlights",
+        "warm diffused lighting creating soft highlights"
+      ],
+      "tags": [
+        "warm",
+        "diffused",
+        "soft",
+        "natural",
+        "gentle"
+      ]
+    },
+    "warm_golden_sunlight_streaming_window": {
+      "canonical_name": "warm golden sunlight streaming window",
+      "canonical_name_zh": "暖金阳光透过窗",
+      "canonical_phrase": "warm golden sunlight streaming through window casting soft shadows",
+      "samples": [
+        "warm golden sunlight streaming through window casting bright stripes",
+        "sunlight streaming from window behind casting soft shadows, warm golden lighting",
+        "sunlight streaming from behind, casting soft shadows, warm golden hour lighting, natural ambient light",
+        "sunlight streaming from a window behind her casting warm highlights, warm golden lighting",
+        "warm golden sunlight streaming from window",
+        "soft warm sunlight streaming through window casting golden stripes",
+        "warm golden sunlight streaming from large window on right, casting soft shadows",
+        "warm golden sunlight streaming from large window casting soft shadows, warm ambient lighting"
+      ],
+      "tags": [
+        "golden",
+        "sunlight",
+        "window",
+        "warm",
+        "stripes"
+      ]
+    },
+    "soft_diffused_even_lighting": {
+      "canonical_name": "soft diffused even lighting",
+      "canonical_name_zh": "柔和均匀漫射光",
+      "canonical_phrase": "diffused and even, glass surface catching subtle highlights",
+      "samples": [
+        "diffused and even, glass surface catching subtle highlights"
+      ],
+      "tags": [
+        "soft",
+        "glass",
+        "highlight",
+        "even",
+        "subtle"
+      ]
+    },
+    "warm_ambient_golden_soft_glow": {
+      "canonical_name": "warm ambient golden soft glow",
+      "canonical_name_zh": "暖金柔光氛围",
+      "canonical_phrase": "warm ambient lighting with soft shadows and warm golden light creating a soft glowing effect",
+      "samples": [
+        "warm ambient lighting with soft shadows and warm golden light creating a soft glowing effect"
+      ],
+      "tags": [
+        "golden",
+        "soft",
+        "ambient",
+        "glow",
+        "warm"
+      ]
+    },
+    "soft_diffused_natural_light_from_above": {
+      "canonical_name": "soft diffused natural light from above",
+      "canonical_name_zh": "上方柔和漫射自然光",
+      "canonical_phrase": "soft diffused natural light filtering through from above",
+      "samples": [
+        "soft directional light from above",
+        "soft natural light from above",
+        "soft diffused natural light from above",
+        "soft diffused",
+        "soft natural light filtering through"
+      ],
+      "tags": [
+        "natural",
+        "soft",
+        "diffused",
+        "overhead",
+        "ambient"
+      ]
+    },
+    "warm_golden_hour_glow_soft_shadows_5": {
+      "canonical_name": "warm golden hour glow",
+      "canonical_name_zh": "暖金时刻光晕",
+      "canonical_phrase": "bright natural sunlight from above, casting soft shadows",
+      "samples": [
+        "bright natural sunlight from above, casting soft shadows"
+      ],
+      "tags": [
+        "golden",
+        "warm",
+        "soft",
+        "outdoor",
+        "glow"
+      ]
+    },
+    "warm_ambient_lighting_soft_shadows_soft_shadows": {
+      "canonical_name": "warm ambient lighting soft shadows",
+      "canonical_name_zh": "暖光柔和阴影",
+      "canonical_phrase": "warm ambient lighting with soft shadows",
+      "samples": [
+        "warm ambient lighting with soft shadows"
+      ],
+      "tags": [
+        "warm",
+        "ambient",
+        "soft",
+        "cozy",
+        "diffused"
+      ]
+    },
+    "sunlight_streaming_through_blinds_casting_stripes": {
+      "canonical_name": "sunlight streaming through blinds casting stripes",
+      "canonical_name_zh": "百叶窗阳光条纹",
+      "canonical_phrase": "sunlight streaming through blinds casting bright stripes and deep shadows",
+      "samples": [
+        "sunlight streaming through vertical blinds casting bright stripes, strong highlights and deep shadows, warm golden light",
+        "soft natural sunlight streaming through window blinds casting horizontal bright stripes",
+        "sunlight streaming through horizontal blinds creating strong highlights and shadows",
+        "sunlight streaming through a multi-paned window casting soft highlights",
+        "sunlight streams through traditional wooden lattice window casting warm directional light across torso and floor",
+        "sunlight streaming from open doorway creating dramatic contrast and deep shadows",
+        "warm directional sunlight streaming through a window casting dappled patterns creating high contrast shadows"
+      ],
+      "tags": [
+        "golden",
+        "wood",
+        "blinds",
+        "dramatic",
+        "stripes"
+      ]
+    },
+    "soft_frontal_directional_lighting": {
+      "canonical_name": "soft frontal directional lighting",
+      "canonical_name_zh": "柔和正面定向光",
+      "canonical_phrase": "soft frontal directional lighting with subtle shadows",
+      "samples": [
+        "soft and even, frontal illumination casting subtle shadows",
+        "dramatic spotlight from front-left casting soft shadows",
+        "soft directional lighting from the front casting subtle shadows",
+        "stark frontal lighting creating deep shadows on one side"
+      ],
+      "tags": [
+        "soft",
+        "frontal",
+        "directional",
+        "subtle",
+        "shadows"
+      ]
+    },
+    "volumetric_god_rays_through_dusty_air": {
+      "canonical_name": "volumetric god rays through dusty air",
+      "canonical_name_zh": "尘埃中体积光",
+      "canonical_phrase": "strong backlighting casting deep shadows, bright overexposed window",
+      "samples": [
+        "strong backlighting casting deep shadows, bright overexposed window"
+      ],
+      "tags": [
+        "golden",
+        "dust",
+        "silhouette",
+        "cinematic",
+        "lens flare"
+      ]
+    },
+    "soft_natural_directional_light": {
+      "canonical_name": "soft natural directional light",
+      "canonical_name_zh": "柔和自然定向光",
+      "canonical_phrase": "soft natural light from the side or front, diffused and gentle",
+      "samples": [
+        "soft natural light from the right side",
+        "soft natural light from upper left",
+        "soft natural light from the upper right, soft and diffused",
+        "natural soft light from the right",
+        "soft natural light from front",
+        "soft natural light from the front",
+        "soft natural light from outside"
+      ],
+      "tags": [
+        "natural",
+        "soft",
+        "diffused",
+        "daylight",
+        "ambient"
+      ]
+    },
+    "warm_golden_rim_lighting_on_skin": {
+      "canonical_name": "warm golden rim lighting on skin",
+      "canonical_name_zh": "暖金轮廓光",
+      "canonical_phrase": "strong backlighting creating glowing rim effect on arms and shoulders, warm golden light illuminating skin texture, shadows cast across torso",
+      "samples": [
+        "strong backlighting creating glowing rim effect on arms and shoulders, warm golden light illuminating skin texture, shadows cast across torso"
+      ],
+      "tags": [
+        "golden",
+        "skin",
+        "backlight",
+        "warm",
+        "rim"
+      ]
+    }
+  },
+  "statistics": {
+    "total_clusters": 163,
+    "multi_sample_clusters": 62,
+    "single_sample_clusters": 101
+  }
+}

@@ -1,0 +1,4162 @@
+{
+  "dimension": "background_props",
+  "version": "1.0",
+  "generated_date": "2026-03-18",
+  "mode": "clustered",
+  "clusters": {
+    "window_with_green_foliage_outside": {
+      "canonical_name": "window with green foliage outside",
+      "canonical_name_zh": "窗外绿植",
+      "canonical_phrase": "window with green foliage outside and visible frame",
+      "samples": [
+        "white-framed window, large green patterned leaves to the left",
+        "white wall, lush green tropical foliage visible through an open window",
+        "window with green painted frame",
+        "vibrant green metal-trimmed shelter structure, poster with red and white design and partial text, white car partially seen through open window",
+        "weathered wood window frame, glass with faint dust and spiderweb, green foliage outside",
+        "white stucco house with large windows, bare trees, grass",
+        "white-framed window, green foliage outside",
+        "large window with blue frames, green trees and foliage outside",
+        "wooden-framed window with vertical slats, green foliage, wooden fence",
+        "window with visible frame, outdoor greenery"
+      ],
+      "tags": [
+        "window",
+        "green",
+        "foliage",
+        "outdoor",
+        "frame"
+      ]
+    },
+    "rocky_terrain_rugged_coastal_cliffs": {
+      "canonical_name": "rocky terrain rugged coastal cliffs",
+      "canonical_name_zh": "岩石地形崎岖海岸悬崖",
+      "canonical_phrase": "rocky terrain, rugged coastal cliffs, sparkling blue ocean",
+      "samples": [
+        "rocky terrain, rugged coastal cliffs, sparkling blue ocean"
+      ],
+      "tags": [
+        "blue",
+        "rock",
+        "cliff",
+        "coastal",
+        "sparkling"
+      ]
+    },
+    "textured_beige_carpet_white_walls_window_sill": {
+      "canonical_name": "textured beige carpet white walls window sill",
+      "canonical_name_zh": "米色地毯白墙窗台",
+      "canonical_phrase": "textured beige carpet, white walls, window sill, blurred green foliage outside",
+      "samples": [
+        "textured beige carpet, white walls, window sill, blurred green foliage outside"
+      ],
+      "tags": [
+        "beige",
+        "carpet",
+        "foliage",
+        "blurred",
+        "window"
+      ]
+    },
+    "playground_swing_set_with_bright_sky": {
+      "canonical_name": "playground swing set with bright sky",
+      "canonical_name_zh": "游乐场秋千与明亮天空",
+      "canonical_phrase": "playground swing set, bright sky with scattered clouds, green grass, trees, distant building with red roof",
+      "samples": [
+        "playground swing set, bright sky with scattered clouds, green grass, trees, distant building with red roof"
+      ],
+      "tags": [
+        "green",
+        "wood",
+        "swing",
+        "sunny",
+        "red_roof"
+      ]
+    },
+    "wire_basket_filled_with_potatoes": {
+      "canonical_name": "wire basket filled with potatoes",
+      "canonical_name_zh": "装土豆的铁丝篮",
+      "canonical_phrase": "wire basket filled with potatoes, blurred greenery",
+      "samples": [
+        "wire basket filled with potatoes, blurred greenery"
+      ],
+      "tags": [
+        "wire",
+        "potato",
+        "green",
+        "rustic",
+        "blurred"
+      ]
+    },
+    "tall_evergreen_trees_with_traditional_japanese_buildings": {
+      "canonical_name": "tall evergreen trees with traditional japanese buildings",
+      "canonical_name_zh": "高耸常绿树与传统日式建筑",
+      "canonical_phrase": "tall evergreen trees, glimpses of traditional Japanese-style buildings with red and blue painted elements, tree trunks forming vertical lines",
+      "samples": [
+        "tall evergreen trees, glimpses of traditional Japanese-style buildings with red and blue painted elements, tree trunks forming vertical lines"
+      ],
+      "tags": [
+        "evergreen",
+        "red",
+        "wood",
+        "japanese",
+        "vertical"
+      ]
+    },
+    "window_light_and_blurred_background": {
+      "canonical_name": "window light and blurred background",
+      "canonical_name_zh": "窗光与模糊背景",
+      "canonical_phrase": "bright window with vertical blinds, soft diffused light, blurred outdoor view",
+      "samples": [
+        "window blinds",
+        "softly lit window",
+        "window with warm diffused light, softly blurred background",
+        "windows",
+        "window frame, glass, background elements",
+        "steering wheel visible inside cabin, window reflecting light",
+        "bright window, blurred outdoor view, white lace fabric surface",
+        "vertical window frames, out-of-focus light",
+        "vertical window blinds",
+        "blurred white wall with subtle circular patterns on the left, vertical window frame on the right",
+        "horizontal light streaks",
+        "reflective glass surface, dark horizontal railing, blurred outdoor scene through window",
+        "textured gray pillar, blurred background with bright white areas suggesting window light",
+        "curved ceiling, vehicle window",
+        "hints of light filtering from a window on the right",
+        "bright window with vertical blinds, white wall with scattered dark circular marks",
+        "bright window, blurred outdoor greenery, white wall with faint circular marks, white lace-covered surface"
+      ],
+      "tags": [
+        "window",
+        "blinds",
+        "diffused",
+        "blurred",
+        "white"
+      ]
+    },
+    "tropical_beach_with_turquoise_water": {
+      "canonical_name": "tropical beach with turquoise water",
+      "canonical_name_zh": "热带海滩碧蓝海水",
+      "canonical_phrase": "white sandy beach, turquoise ocean water, lush green hills, bright blue sky",
+      "samples": [
+        "white sandy beach, turquoise ocean water transitioning to deeper blue, lush green forested hills, bright blue sky with scattered fluffy white clouds",
+        "vibrant turquoise ocean water with gentle waves, distant green forested island, deep blue sky",
+        "white sandy beach, turquoise ocean water, lush green forested hills, hanging green pine tree branches",
+        "bright sandy beach, turquoise ocean water",
+        "turquoise ocean water, white sandy beach, distant green forested islands, vast bright blue sky with scattered white clouds"
+      ],
+      "tags": [
+        "turquoise",
+        "sand",
+        "beach",
+        "tropical",
+        "ocean"
+      ]
+    },
+    "bright_clear_sky_background": {
+      "canonical_name": "bright clear sky background",
+      "canonical_name_zh": "明亮晴朗天空",
+      "canonical_phrase": "bright, clear sky",
+      "samples": [
+        "bright, clear sky"
+      ],
+      "tags": [
+        "blue",
+        "azure",
+        "cloudless",
+        "daylight",
+        "atmosphere"
+      ]
+    },
+    "desert_ground_distant_hills_sky_clouds": {
+      "canonical_name": "desert ground distant hills sky clouds",
+      "canonical_name_zh": "沙漠地面远山天空云",
+      "canonical_phrase": "desert ground, distant low hills, sky with scattered white clouds",
+      "samples": [
+        "desert ground, distant low hills, sky with scattered white clouds"
+      ],
+      "tags": [
+        "sand",
+        "earth",
+        "landscape",
+        "arid",
+        "clouds"
+      ]
+    },
+    "bright_blue_sky_with_white_van_and_sticker_surfboard": {
+      "canonical_name": "bright blue sky with white van and sticker surfboard",
+      "canonical_name_zh": "蓝天白车贴纸冲浪板",
+      "canonical_phrase": "bright blue sky, white van partially visible, white surfboard covered in colorful stickers including 'Hawaiian Style Longboards' and 'Faith riding co'",
+      "samples": [
+        "bright blue sky, white van partially visible, white surfboard covered in colorful stickers including 'Hawaiian Style Longboards' and 'Faith riding co'"
+      ],
+      "tags": [
+        "blue",
+        "van",
+        "surfboard",
+        "hawaiian",
+        "stickers"
+      ]
+    },
+    "asphalt_road_grassy_verge_low_concrete_wall_distant_palm_trees": {
+      "canonical_name": "asphalt road grassy verge low concrete wall distant palm trees",
+      "canonical_name_zh": "沥青路草坡矮墙远棕榈",
+      "canonical_phrase": "asphalt road, grassy verge to the left, low concrete wall, distant palm trees",
+      "samples": [
+        "asphalt road, grassy verge to the left, low concrete wall, distant palm trees"
+      ],
+      "tags": [
+        "asphalt",
+        "concrete",
+        "green",
+        "tropical",
+        "palm"
+      ]
+    },
+    "weathered_wooden_posts_in_natural_landscapes": {
+      "canonical_name": "weathered wooden posts in natural landscapes",
+      "canonical_name_zh": "自然风景中的风化木柱",
+      "canonical_phrase": "weathered wooden post, natural landscape, grassy hills, blue sky, distant mountains",
+      "samples": [
+        "weathered wooden post, soft green grass, pale sky",
+        "dry grassy hills, bright clear blue sky, weathered wooden post",
+        "weathered wooden post, soft dunes, sparse grasses",
+        "tall wooden post with horizontal crossbars, vast lake stretching to the horizon, snow-capped mountains",
+        "large lush green leaves, light blue painted wooden post",
+        "snow-covered ground, tall wooden utility pole, dark rippling water of the lake, distant snow-capped mountains",
+        "weathered wooden post, overhanging roof, sign reading '旭川方面', snow-covered ground, utility poles, bare trees in the distance",
+        "weathered wooden post supporting a chain-link fence, line of green trees, glimpse of a red-roofed building"
+      ],
+      "tags": [
+        "wood",
+        "weathered",
+        "green",
+        "rustic",
+        "outdoor"
+      ]
+    },
+    "beige_wall_white_window_shutters": {
+      "canonical_name": "beige wall white window shutters",
+      "canonical_name_zh": "米墙白窗百叶",
+      "canonical_phrase": "beige wall, white-framed window with shutters, corrugated metal roof",
+      "samples": [
+        "beige wall, white-framed window with shutters, corrugated metal roof"
+      ],
+      "tags": [
+        "beige",
+        "metal",
+        "shutters",
+        "rustic",
+        "corrugated"
+      ]
+    },
+    "scattered_bright_yellowgreen_cones": {
+      "canonical_name": "scattered bright yellow-green cones",
+      "canonical_name_zh": "散落的亮黄绿锥体",
+      "canonical_phrase": "several small bright yellow-green cone-shaped objects scattered across the field",
+      "samples": [
+        "several small bright yellow-green cone-shaped objects scattered across the field"
+      ],
+      "tags": [
+        "yellow-green",
+        "cones",
+        "scattered",
+        "field",
+        "geometric"
+      ]
+    },
+    "dark_blue_tufted_leather_bench": {
+      "canonical_name": "dark blue tufted leather bench",
+      "canonical_name_zh": "深蓝拉扣皮长凳",
+      "canonical_phrase": "dark blue tufted leather bench, wooden paneling, white-framed doorway with visible latch",
+      "samples": [
+        "dark blue tufted leather bench, wooden paneling, white-framed doorway with visible latch"
+      ],
+      "tags": [
+        "dark blue",
+        "leather",
+        "bench",
+        "vintage",
+        "latch"
+      ]
+    },
+    "red_surface_blurred_warm_background": {
+      "canonical_name": "red surface blurred warm background",
+      "canonical_name_zh": "红色表面模糊暖调背景",
+      "canonical_phrase": "red surface, blurred background with warm tones",
+      "samples": [
+        "red surface, blurred background with warm tones"
+      ],
+      "tags": [
+        "red",
+        "surface",
+        "warm",
+        "blurred",
+        "texture"
+      ]
+    },
+    "dense_foliage_vines_falling_water": {
+      "canonical_name": "dense foliage vines falling water",
+      "canonical_name_zh": "茂密藤蔓流水",
+      "canonical_phrase": "dense foliage and vines, falling water",
+      "samples": [
+        "dense foliage and vines, falling water"
+      ],
+      "tags": [
+        "green",
+        "vines",
+        "waterfall",
+        "lush",
+        "organic"
+      ]
+    },
+    "blurred_natural_outdoor_background": {
+      "canonical_name": "blurred natural outdoor background",
+      "canonical_name_zh": "模糊自然户外背景",
+      "canonical_phrase": "blurred dirt path, dense green trees, scattered sand, distant houses",
+      "samples": [
+        "blurred dirt path, dense green trees and foliage",
+        "blurred natural vegetation and earthy ground",
+        "scattered sand, blurred tree roots",
+        "blurred distant houses and trees"
+      ],
+      "tags": [
+        "green",
+        "dirt",
+        "trees",
+        "outdoor",
+        "blurred"
+      ]
+    },
+    "outdoor_architectural_elements_with_greenery": {
+      "canonical_name": "outdoor architectural elements with greenery",
+      "canonical_name_zh": "户外建筑与绿植",
+      "canonical_phrase": "stone walls, wooden beams, blue structures, and lush green foliage",
+      "samples": [
+        "slanted wooden wall, large open doorway, bright blue corrugated structure, green foliage",
+        "white-framed glass paneled door, green foliage visible above and to the right",
+        "stone ledge, swimming pool, white stucco walls partially covered in green ivy, wooden roofline, tall trees including an olive tree, deep saturated blue sky",
+        "light blue wooden railing, dense green foliage, stone wall",
+        "light blue wooden beam, lush green foliage, stone wall",
+        "blue wooden platform, light blue corrugated metal wall, rectangular window, vivid blue sky with faint wispy clouds",
+        "green foliage, stone wall, blue ceramic pot, red awning, brick wall, wooden sign"
+      ],
+      "tags": [
+        "stone",
+        "wood",
+        "blue",
+        "foliage",
+        "outdoor"
+      ]
+    },
+    "outdoor_landscape_with_sky_and_water": {
+      "canonical_name": "outdoor landscape with sky and water",
+      "canonical_name_zh": "户外天空与水域景观",
+      "canonical_phrase": "distant mountains or hills with reflective water and sky",
+      "samples": [
+        "overcast sky",
+        "dramatic sky filled with textured clouds, distant utility pole barely visible at the bottom",
+        "distant mountains forming a silhouette, cracked earth ground, narrow reflective water channel beside her",
+        "distant landmass on the horizon, water surface reflecting the dimming sky",
+        "bright blue water reflecting sunlight, weathered wooden dock",
+        "body of water reflecting bright sunlight, distant hills"
+      ],
+      "tags": [
+        "sky",
+        "water",
+        "reflection",
+        "landscape",
+        "horizon"
+      ]
+    },
+    "dark_wooden_cabin_with_snow_roof": {
+      "canonical_name": "dark wooden cabin with snow roof",
+      "canonical_name_zh": "雪顶深色木屋",
+      "canonical_phrase": "dark wooden cabin with snow-covered roof, stacked firewood, tall slender pine trees",
+      "samples": [
+        "dark wooden cabin with snow-covered roof, stacked firewood, tall slender pine trees"
+      ],
+      "tags": [
+        "dark",
+        "wood",
+        "winter",
+        "rustic",
+        "firewood"
+      ]
+    },
+    "stacked_metal_pots_worn_wooden_structure": {
+      "canonical_name": "stacked metal pots worn wooden structure",
+      "canonical_name_zh": "堆叠金属锅旧木结构",
+      "canonical_phrase": "stacked metal pots, worn wooden structure, textured backdrop",
+      "samples": [
+        "stacked metal pots, worn wooden structure, textured backdrop"
+      ],
+      "tags": [
+        "rusty",
+        "metal",
+        "wood",
+        "rustic",
+        "stacked"
+      ]
+    },
+    "rusty_metal_gate_with_wooden_house": {
+      "canonical_name": "rusty metal gate with wooden house",
+      "canonical_name_zh": "锈迹铁门配木屋",
+      "canonical_phrase": "rusty metal gate, traditional Japanese wooden house with sliding doors, tall dry grasses",
+      "samples": [
+        "rusty metal gate, traditional Japanese wooden house with sliding doors, tall dry grasses"
+      ],
+      "tags": [
+        "rusty",
+        "wood",
+        "sliding",
+        "traditional",
+        "grasses"
+      ]
+    },
+    "urban_outdoor_scene_with_vehicles_and_structures": {
+      "canonical_name": "urban outdoor scene with vehicles and structures",
+      "canonical_name_zh": "含车辆与建筑的户外城市场景",
+      "canonical_phrase": "concrete pavement, clear sky, bicycle, metal structures, and industrial elements",
+      "samples": [
+        "concrete surface, water, clear blue sky, bicycle with pink frame and silver handlebars",
+        "large brown basketball, teal bicycle with visible wheel and handlebar, window",
+        "bicycle positioned behind her with its front wheel and handlebars visible in the snow, snow covering the ground and extending to the horizon",
+        "pink forklift, man on a bicycle, green door, yellow brick wall, metal manhole cover on pavement, overhead beams, translucent roof panels"
+      ],
+      "tags": [
+        "blue sky",
+        "concrete",
+        "bicycle",
+        "metal",
+        "urban"
+      ]
+    },
+    "dark_gray_concrete_wall_with_blue_corrugated_metal": {
+      "canonical_name": "dark gray concrete wall with blue corrugated metal",
+      "canonical_name_zh": "深灰混凝土墙配蓝波纹金属",
+      "canonical_phrase": "dark gray concrete wall, blue corrugated metal building, dark tiled roof, bamboo blinds, overhead power lines",
+      "samples": [
+        "dark gray concrete wall, blue corrugated metal building, dark tiled roof, bamboo blinds, overhead power lines"
+      ],
+      "tags": [
+        "concrete",
+        "corrugated",
+        "bamboo",
+        "urban",
+        "powerlines"
+      ]
+    },
+    "tall_green_reeds_framing_face": {
+      "canonical_name": "tall green reeds framing face",
+      "canonical_name_zh": "绿芦苇框脸",
+      "canonical_phrase": "tall green reeds framing face",
+      "samples": [
+        "tall green reeds framing face"
+      ],
+      "tags": [
+        "green",
+        "reeds",
+        "natural",
+        "organic",
+        "frame"
+      ]
+    },
+    "floral_patterned_sofa_with_orange_pink_green_hues": {
+      "canonical_name": "floral patterned sofa with orange pink green hues",
+      "canonical_name_zh": "橙粉绿花卉图案沙发",
+      "canonical_phrase": "floral patterned sofa with orange, pink, and green hues",
+      "samples": [
+        "floral patterned sofa with orange, pink, and green hues"
+      ],
+      "tags": [
+        "floral",
+        "sofa",
+        "colorful",
+        "vintage",
+        "patterned"
+      ]
+    },
+    "endless_golden_wheat_field_waist_height": {
+      "canonical_name": "endless golden wheat field waist height",
+      "canonical_name_zh": "无尽金色麦田齐腰",
+      "canonical_phrase": "tall golden wheat stalks reaching waist, wheat field stretching endlessly",
+      "samples": [
+        "tall golden wheat stalks reaching waist, wheat field stretching endlessly"
+      ],
+      "tags": [
+        "golden",
+        "wheat",
+        "field",
+        "natural",
+        "endless"
+      ]
+    },
+    "blurred_foliage_and_textured_walls": {
+      "canonical_name": "blurred foliage and textured walls",
+      "canonical_name_zh": "模糊绿植与纹理墙面",
+      "canonical_phrase": "blurred green foliage background with stone or tiled walls",
+      "samples": [
+        "blurred green foliage, stone walls, hints of brickwork, storefront awnings",
+        "blurred dark gray wall",
+        "tiled floor, blurred outdoor scene with greenery and white railings",
+        "white tiled wall covered in tangled grey vines, green shrubbery behind wall, paved road surface",
+        "blurred green foliage, gray wall, raindrops on the umbrella surface",
+        "blurred green foliage, light-colored wall",
+        "blurred traditional Japanese tiled roofs, lush green vegetation",
+        "rough textured stone wall, blurred green foliage, dappled sunlight filtering through leaves",
+        "blurred gray wall with white horizontal stripes, tiled ground surface, green wooden bench",
+        "blurred green foliage, portion of a white building wall",
+        "blurred green foliage, portion of a house roof"
+      ],
+      "tags": [
+        "green",
+        "stone",
+        "tiled",
+        "blurred",
+        "outdoor"
+      ]
+    },
+    "vintage_standing_fan_with_shoji_screen": {
+      "canonical_name": "vintage standing fan with shoji screen",
+      "canonical_name_zh": "复古落地扇配纸窗",
+      "canonical_phrase": "vintage-style standing fan, shoji screen window",
+      "samples": [
+        "vintage-style standing fan, shoji screen window"
+      ],
+      "tags": [
+        "wood",
+        "paper",
+        "asian",
+        "retro",
+        "slats"
+      ]
+    },
+    "various_upholstered_furniture_pieces": {
+      "canonical_name": "various upholstered furniture pieces",
+      "canonical_name_zh": "各类软包家具",
+      "canonical_phrase": "plush leather or fabric sofa and armchair with cushions",
+      "samples": [
+        "stack of identical chairs, plain wall, red carpet with floral patterns",
+        "cream-colored sofa",
+        "light beige textured couch",
+        "large reddish-brown leather sofa",
+        "brown leather couch, dark tiled flooring",
+        "plain light beige wall, plush red cushioned chair",
+        "dark leather couch, indistinct interior space",
+        "cream-colored upholstered chair with ornate patterned fabric",
+        "plush red armchair with rounded back and soft cushioning, plain beige wall",
+        "soft beige sofa with cushions",
+        "sofa with orange and red cushions"
+      ],
+      "tags": [
+        "sofa",
+        "leather",
+        "plush",
+        "cushion",
+        "beige"
+      ]
+    },
+    "blurred_horizon_distant_landmass_faint_structure": {
+      "canonical_name": "blurred horizon distant landmass faint structure",
+      "canonical_name_zh": "模糊地平线远岸 faint 结构",
+      "canonical_phrase": "blurred horizon, distant landmass, faint structure",
+      "samples": [
+        "blurred horizon, distant landmass, faint structure"
+      ],
+      "tags": [
+        "horizon",
+        "landmass",
+        "structure",
+        "faint",
+        "blurred"
+      ]
+    },
+    "dark_wooden_architectural_elements": {
+      "canonical_name": "dark wooden architectural elements",
+      "canonical_name_zh": "深色木质建筑构件",
+      "canonical_phrase": "dark wooden pillar, vertical beams, and textured wooden surfaces",
+      "samples": [
+        "dark wooden pillar with vertical grain pattern",
+        "wooden pillar, brightly lit out-of-focus area suggesting an open doorway or window",
+        "wooden frame, reflective surface with circular white patterns",
+        "vertical wooden beams, dark piece of furniture on the left, bright window",
+        "dark wooden surface"
+      ],
+      "tags": [
+        "dark",
+        "wood",
+        "pillar",
+        "beam",
+        "texture"
+      ]
+    },
+    "dried_flower_clusters_with_wooden_crate": {
+      "canonical_name": "dried flower clusters with wooden crate",
+      "canonical_name_zh": "干花簇与木箱",
+      "canonical_phrase": "hanging clusters of dried purple and yellow flowers, wooden crate holding vibrant red and orange chrysanthemums, dark blurred background",
+      "samples": [
+        "hanging clusters of dried purple and yellow flowers, wooden crate holding vibrant red and orange chrysanthemums, dark blurred background"
+      ],
+      "tags": [
+        "purple",
+        "wood",
+        "chrysanthemum",
+        "rustic",
+        "dried"
+      ]
+    },
+    "wooden_boat_with_blue_tarp_and_ropes": {
+      "canonical_name": "wooden boat with blue tarp and ropes",
+      "canonical_name_zh": "蓝篷木船绳索",
+      "canonical_phrase": "large wooden boat covered with blue tarpaulin, ropes, containers, hills covered in dense green vegetation",
+      "samples": [
+        "large wooden boat covered with blue tarpaulin, ropes, containers, hills covered in dense green vegetation"
+      ],
+      "tags": [
+        "blue",
+        "wood",
+        "tarpaulin",
+        "rustic",
+        "tarp"
+      ]
+    },
+    "plain_minimalist_backdrop": {
+      "canonical_name": "plain minimalist backdrop",
+      "canonical_name_zh": "极简纯色背景",
+      "canonical_phrase": "plain minimalist backdrop",
+      "samples": [
+        "plain minimalist backdrop"
+      ],
+      "tags": [
+        "white",
+        "matte",
+        "studio",
+        "clean",
+        "seamless"
+      ]
+    },
+    "polished_wooden_desk_with_orange_walls": {
+      "canonical_name": "polished wooden desk with orange walls",
+      "canonical_name_zh": "抛光木桌配橙色墙",
+      "canonical_phrase": "polished wooden desk, rich orange walls, curtains, telephone, scattered newspapers",
+      "samples": [
+        "polished wooden desk, rich orange walls, curtains, telephone, scattered newspapers"
+      ],
+      "tags": [
+        "orange",
+        "wood",
+        "curtains",
+        "vintage",
+        "newspapers"
+      ]
+    },
+    "weathered_wooden_house_with_dark_brown_siding": {
+      "canonical_name": "weathered wooden house with dark brown siding",
+      "canonical_name_zh": "深色木板风化老屋",
+      "canonical_phrase": "weathered wooden house with dark brown siding, sloped roof, tall wooden utility pole with wires, small white doghouse with gray roof and visible door, rocks, sparse vegetation, vast deep blue sky",
+      "samples": [
+        "weathered wooden house with dark brown siding, sloped roof, tall wooden utility pole with wires, small white doghouse with gray roof and visible door, rocks, sparse vegetation, vast deep blue sky"
+      ],
+      "tags": [
+        "brown",
+        "wood",
+        "rustic",
+        "blue",
+        "doghouse"
+      ]
+    },
+    "muted_stained_glass_window_with_geometric_leaded_panes": {
+      "canonical_name": "muted stained glass window with geometric leaded panes",
+      "canonical_name_zh": "几何铅条彩色玻璃窗",
+      "canonical_phrase": "stained glass window with geometric leaded panes in muted tones, wooden frame",
+      "samples": [
+        "stained glass window with geometric leaded panes in muted tones, wooden frame"
+      ],
+      "tags": [
+        "muted",
+        "glass",
+        "geometric",
+        "leaded",
+        "wooden"
+      ]
+    },
+    "textured_weathered_concrete_surfaces": {
+      "canonical_name": "textured weathered concrete surfaces",
+      "canonical_name_zh": "纹理风化的混凝土表面",
+      "canonical_phrase": "textured gray concrete surface with weathered details and shadows",
+      "samples": [
+        "textured blue-gray concrete surface, weathered concrete wall, shadows cast by unseen structures",
+        "weathered concrete surface, metallic railing",
+        "blurred concrete ground, edge of a large dark cylindrical object",
+        "textured gray concrete surface, turbulent white-foamed ocean water, dark gray rocks",
+        "textured concrete surface",
+        "concrete walls, large copper-colored distillation still",
+        "textured gray concrete pillar, blurred outdoor scene with greenery"
+      ],
+      "tags": [
+        "concrete",
+        "gray",
+        "weathered",
+        "textured",
+        "outdoor"
+      ]
+    },
+    "beige_and_white_interior_architectural_details": {
+      "canonical_name": "beige and white interior architectural details",
+      "canonical_name_zh": "米白室内建筑细节",
+      "canonical_phrase": "beige and white walls with mirrors, wooden elements, and architectural molding",
+      "samples": [
+        "white pillar, beige wall, white architectural molding",
+        "large mirror reflecting part of the room, soft glowing lamps, patterned wallpaper, bed",
+        "white-framed mirror, white vanity",
+        "wooden paneled walls, framed artwork, vintage stove with wood stacked beside it, tufted beige sofa",
+        "textured beige wall, wooden ceiling, frosted glass windows",
+        "mirror reflection",
+        "beige tiled walls, glass shelf, large mirror",
+        "warm-toned walls, wooden-framed mirror partially visible to right",
+        "marbled brown walls, wall-mounted beige telephone, two toilet paper dispensers, narrow doorway frame",
+        "white bathtub, chrome fixtures, brown tiled walls, foamy water",
+        "large ornate dark wooden mirror on wall, wooden cabinet with decorative items and potted plant on top, patterned sofa",
+        "window frame, reddish-orange rug or cushion, wall with soft shadows",
+        "beige tiled walls, large mirror, countertop with three chrome faucets, bathtub to the right, glass shower door partially visible"
+      ],
+      "tags": [
+        "beige",
+        "wood",
+        "mirror",
+        "architectural",
+        "interior"
+      ]
+    },
+    "hanging_glass_jars_with_tools_and_shelves": {
+      "canonical_name": "hanging glass jars with tools and shelves",
+      "canonical_name_zh": "悬挂玻璃罐工具架",
+      "canonical_phrase": "hanging glass jars containing tools, shelves with wrenches, screwdrivers, pressure gauges, window",
+      "samples": [
+        "hanging glass jars containing tools, shelves with wrenches, screwdrivers, pressure gauges, window"
+      ],
+      "tags": [
+        "glass",
+        "metal",
+        "workshop",
+        "industrial",
+        "pressure gauges"
+      ]
+    },
+    "tall_textured_tree_trunks_sparse_desert_vegetation_clear_blue_sky": {
+      "canonical_name": "tall textured tree trunks sparse desert vegetation clear blue sky",
+      "canonical_name_zh": "高大纹理树干稀疏沙漠植被",
+      "canonical_phrase": "tall textured tree trunks, sparse desert vegetation, clear blue sky",
+      "samples": [
+        "tall textured tree trunks, sparse desert vegetation, clear blue sky"
+      ],
+      "tags": [
+        "blue",
+        "wood",
+        "desert",
+        "arid",
+        "sparse"
+      ]
+    },
+    "lush_green_foliage_glass_view": {
+      "canonical_name": "lush green foliage glass view",
+      "canonical_name_zh": "玻璃窗外葱郁绿植",
+      "canonical_phrase": "lush green foliage visible through glass",
+      "samples": [
+        "lush green foliage visible through glass"
+      ],
+      "tags": [
+        "green",
+        "foliage",
+        "glass",
+        "nature",
+        "transparency"
+      ]
+    },
+    "blue_white_scooter_industrial_windows": {
+      "canonical_name": "blue white scooter industrial windows",
+      "canonical_name_zh": "蓝白踏板车工业窗",
+      "canonical_phrase": "blue and white scooter, large windows, blurred industrial equipment",
+      "samples": [
+        "blue and white scooter, large windows, blurred industrial equipment"
+      ],
+      "tags": [
+        "blue",
+        "white",
+        "scooter",
+        "industrial",
+        "blurred"
+      ]
+    },
+    "wooden_chair_with_fabric_and_wall": {
+      "canonical_name": "wooden chair with fabric and wall",
+      "canonical_name_zh": "木椅配织物与墙面",
+      "canonical_phrase": "wooden chair with ornate backrest, textured fabric, and wall background",
+      "samples": [
+        "wooden chair, faded purple fabric",
+        "vintage upholstered chair with textured gold fabric and curved wooden frame, softly blurred window with sheer curtains",
+        "wooden chair with ornate carved backrest, leopard print fabric draped over chair, wall behind",
+        "wooden chair with ornate carved backrest",
+        "wooden chair, textured wall, leopard print fabric",
+        "wooden chair with ornate backrest, textured yellow walls, frosted glass windows, wooden trim"
+      ],
+      "tags": [
+        "wood",
+        "fabric",
+        "upholstery",
+        "vintage",
+        "carved"
+      ]
+    },
+    "distant_bare_trees_lavender_sky_silver_bike": {
+      "canonical_name": "distant bare trees lavender sky silver bike",
+      "canonical_name_zh": "远树淡紫天银车",
+      "canonical_phrase": "distant line of tall bare trees, pale lavender sky, silver bicycle beside subject",
+      "samples": [
+        "distant line of tall bare trees, pale lavender sky, silver bicycle beside subject"
+      ],
+      "tags": [
+        "lavender",
+        "silver",
+        "bare trees",
+        "minimalist",
+        "bicycle"
+      ]
+    },
+    "white_scalloped_plate_in_foreground": {
+      "canonical_name": "white scalloped plate in foreground",
+      "canonical_name_zh": "白色波浪边前景盘子",
+      "canonical_phrase": "white scalloped plate in foreground",
+      "samples": [
+        "white scalloped plate in foreground"
+      ],
+      "tags": [
+        "white",
+        "ceramic",
+        "plate",
+        "scalloped",
+        "foreground"
+      ]
+    },
+    "deep_blue_sky_green_foliage_bottom": {
+      "canonical_name": "deep blue sky green foliage bottom",
+      "canonical_name_zh": "深蓝天空绿底植被",
+      "canonical_phrase": "deep blue sky, green foliage at the bottom",
+      "samples": [
+        "deep blue sky, green foliage at the bottom"
+      ],
+      "tags": [
+        "blue",
+        "sky",
+        "green",
+        "foliage",
+        "nature"
+      ]
+    },
+    "softly_blurred_greenery_and_floral_background": {
+      "canonical_name": "softly blurred greenery and floral background",
+      "canonical_name_zh": "柔焦绿植花卉背景",
+      "canonical_phrase": "softly blurred greenery with wildflowers and lavender blooms",
+      "samples": [
+        "hints of greenery, softly blurred",
+        "tall grass, wildflowers, another hand reaching out softly in the blurred background",
+        "blurred greenery",
+        "blurred setting, soft purple sky, indistinct greenery",
+        "softly blurred floral fabric",
+        "dense purple lavender flowers, soft blurred lavender blooms",
+        "softly blurred greenery"
+      ],
+      "tags": [
+        "greenery",
+        "lavender",
+        "wildflowers",
+        "blurred",
+        "soft"
+      ]
+    },
+    "green_bench_wooden_wall_framed_art": {
+      "canonical_name": "green bench wooden wall framed art",
+      "canonical_name_zh": "绿椅木墙挂画",
+      "canonical_phrase": "green upholstered bench, wooden paneled wall, framed artwork, two yellow license plate style signs displaying numbers 16668 and 23212, wooden shelf with metal and glass bottles, table covered with red cloth holding a silver teapot, sugar dispenser, and glass",
+      "samples": [
+        "green upholstered bench, wooden paneled wall, framed artwork, two yellow license plate style signs displaying numbers 16668 and 23212, wooden shelf with metal and glass bottles, table covered with red cloth holding a silver teapot, sugar dispenser, and glass"
+      ],
+      "tags": [
+        "green",
+        "wood",
+        "bench",
+        "vintage",
+        "license plates"
+      ]
+    },
+    "softly_blurred_warm_gradient_background": {
+      "canonical_name": "softly blurred warm gradient background",
+      "canonical_name_zh": "柔和模糊暖色渐变背景",
+      "canonical_phrase": "softly blurred background with warm golden and teal gradient tones",
+      "samples": [
+        "softly blurred background with warm golden tones",
+        "softly out of focus with warm tones",
+        "softly blurred gradient of warm white and teal tones",
+        "plain soft gradient from light gray to pale blue"
+      ],
+      "tags": [
+        "blurred",
+        "gradient",
+        "warm",
+        "soft",
+        "golden"
+      ]
+    },
+    "blurred_background_with_wooden_elements": {
+      "canonical_name": "blurred background with wooden elements",
+      "canonical_name_zh": "模糊背景配木质元素",
+      "canonical_phrase": "blurred background featuring wooden structures, beams, planks, or boats with natural scenery",
+      "samples": [
+        "wooden floor, blurred indistinct indoor elements",
+        "blurred wooden beams, bright blue sky, bed of golden hay",
+        "blurred green foliage, bright sunlight, blue towel",
+        "blurred green foliage, dappled sunlight filtering through trees",
+        "wooden boat edge, bamboo pole, blurred green hills, sky",
+        "blurred wooden structure, reflective surface showing partial mirror image",
+        "blurred outdoor scenery, wooden structure partially obscuring lower left",
+        "dry pine needles, blurred green foliage, wooden structures, distant picnic benches",
+        "light blue towel partially underneath, scattered pine needles",
+        "wooden elements, blurred background",
+        "blurred railway tracks curving into distance, distant trees and hills, wooden platform structure",
+        "blurred vegetation, wooden pole to the left",
+        "blurred green reeds, flowing water",
+        "blurred foliage, earthy ground, wooden planks",
+        "blurred trees, boats on trailers, dark vehicle",
+        "blurred wooden planks and vertical structure",
+        "blurred greenery, water surface, wooden boat edge",
+        "wooden beams, blurred vehicle"
+      ],
+      "tags": [
+        "wood",
+        "blurred",
+        "natural",
+        "outdoor",
+        "rustic"
+      ]
+    },
+    "green_foliage_concrete_pavement_wooden_bench": {
+      "canonical_name": "green foliage concrete pavement wooden bench",
+      "canonical_name_zh": "绿植混凝土长椅",
+      "canonical_phrase": "green foliage, concrete pavement, wooden bench structure",
+      "samples": [
+        "green foliage, concrete pavement, wooden bench structure"
+      ],
+      "tags": [
+        "green",
+        "concrete",
+        "wood",
+        "outdoor",
+        "foliage"
+      ]
+    },
+    "plain_light_beige_textured_brick_wall_white_pillow": {
+      "canonical_name": "plain light beige textured brick wall white pillow",
+      "canonical_name_zh": "浅米色纹理砖墙白枕",
+      "canonical_phrase": "plain light beige textured brick wall, white pillow",
+      "samples": [
+        "plain light beige textured brick wall, white pillow"
+      ],
+      "tags": [
+        "beige",
+        "brick",
+        "pillow",
+        "textured",
+        "minimalist"
+      ]
+    },
+    "gray_brick_building_with_balcony_and_umbrellas": {
+      "canonical_name": "gray brick building with balcony and umbrellas",
+      "canonical_name_zh": "灰砖楼带阳台与雨伞",
+      "canonical_phrase": "gray brick building with balcony above, potted green plants, rack holding several colorful umbrellas, small white mailbox mounted on wall",
+      "samples": [
+        "gray brick building with balcony above, potted green plants, rack holding several colorful umbrellas, small white mailbox mounted on wall"
+      ],
+      "tags": [
+        "brick",
+        "balcony",
+        "umbrella",
+        "urban",
+        "mailbox"
+      ]
+    },
+    "blurred_interior_background_with_window_frames": {
+      "canonical_name": "blurred interior background with window frames",
+      "canonical_name_zh": "模糊室内背景配窗框",
+      "canonical_phrase": "blurred interior background with wooden window frames and furniture",
+      "samples": [
+        "blurred passing scenery through glass, window frame",
+        "blurred wooden furniture, draped curtains",
+        "blurred furniture, framed pictures on the wall",
+        "wooden window frame, blurred interior elements",
+        "dark blue upholstered bench, window glass reflecting blurred motion",
+        "blurred interior background showing windows and furniture, blue wooden doorframe",
+        "blurred seats, window frame"
+      ],
+      "tags": [
+        "blurred",
+        "window",
+        "wooden",
+        "interior",
+        "motion"
+      ]
+    },
+    "barren_dirt_path_with_debris": {
+      "canonical_name": "barren dirt path with debris",
+      "canonical_name_zh": "荒芜土路带杂物",
+      "canonical_phrase": "barren dirt path, scattered debris including a discarded black tire, rusted metal fragments, a white weathered box, sparse brownish-green shrubs, clear deep blue sky",
+      "samples": [
+        "barren dirt path, scattered debris including a discarded black tire, rusted metal fragments, a white weathered box, sparse brownish-green shrubs, clear deep blue sky"
+      ],
+      "tags": [
+        "dirt",
+        "rusted",
+        "weathered",
+        "desolate",
+        "tire"
+      ]
+    },
+    "window_with_sheer_curtains": {
+      "canonical_name": "window with sheer curtains",
+      "canonical_name_zh": "带薄纱窗帘的窗户",
+      "canonical_phrase": "window with sheer curtains",
+      "samples": [
+        "window with sheer curtains"
+      ],
+      "tags": [
+        "white",
+        "fabric",
+        "curtain",
+        "soft",
+        "translucent"
+      ]
+    },
+    "white_bedsheet_wooden_frame_rumpled_bedding": {
+      "canonical_name": "white bedsheet wooden frame rumpled bedding",
+      "canonical_name_zh": "白床单木架褶皱床品",
+      "canonical_phrase": "white bedsheet, wooden bed frame, rumpled white bedding, framed landscape painting on the wall, wooden nightstand, white telephone, wall-mounted lamp with white shade",
+      "samples": [
+        "white bedsheet, wooden bed frame, rumpled white bedding, framed landscape painting on the wall, wooden nightstand, white telephone, wall-mounted lamp with white shade"
+      ],
+      "tags": [
+        "white",
+        "wood",
+        "bedding",
+        "rustic",
+        "telephone"
+      ]
+    },
+    "small_white_house_with_metal_siding": {
+      "canonical_name": "small white house with metal siding",
+      "canonical_name_zh": "白色金属外墙小屋",
+      "canonical_phrase": "small white single-story house with gabled roof and metal siding, single visible door, two windows (one rectangular, one with small overhang), gravel ground, large flat concrete slab, dry earth, sparse vegetation, tall dark green tree on left, bright blue sky",
+      "samples": [
+        "small white single-story house with gabled roof and metal siding, single visible door, two windows (one rectangular, one with small overhang), gravel ground, large flat concrete slab, dry earth, sparse vegetation, tall dark green tree on left, bright blue sky"
+      ],
+      "tags": [
+        "white",
+        "metal",
+        "gabled",
+        "rural",
+        "concrete slab"
+      ]
+    },
+    "golden_hay_bales_in_rural_field": {
+      "canonical_name": "golden hay bales in rural field",
+      "canonical_name_zh": "田野中的金色干草堆",
+      "canonical_phrase": "large golden hay bales scattered in green grass field with blue sky",
+      "samples": [
+        "textured golden straw",
+        "dry straw-like grass",
+        "out-of-focus green grass",
+        "tall green grass, muddy ground",
+        "large golden hay bale, rolling green hills, bright blue sky with wispy clouds",
+        "yellow front-end loader, stacks of large white bales arranged in rows extending into distance, clear blue sky with scattered white clouds",
+        "large cylindrical hay bale, rows of stubble, numerous other hay bales scattered in the distance, treeline of dense green coniferous trees on the horizon",
+        "straw bales, blue sky visible through an opening",
+        "large round hay bale, rows of distant hay bales, line of tall evergreen trees, pale blue sky with soft scattered clouds",
+        "large bale of golden hay",
+        "sparse green grass, dirt ground",
+        "large textured hay bale"
+      ],
+      "tags": [
+        "golden",
+        "hay",
+        "bales",
+        "rural",
+        "straw"
+      ]
+    },
+    "window_with_blurred_greenery_outside": {
+      "canonical_name": "window with blurred greenery outside",
+      "canonical_name_zh": "窗外模糊绿植",
+      "canonical_phrase": "window frame showing blurred green foliage and outdoor scenery",
+      "samples": [
+        "green interior panels, window showing blurred outdoor scenery",
+        "wooden-framed window, blurred green foliage outside",
+        "rain streaking the window, blurred green foliage visible outside",
+        "rain-streaked window, blurred outdoor scenery with greenery and a parked car, curtain on right",
+        "bright window, blurred green foliage visible outside",
+        "window frame, blurred greenery outside",
+        "blurred greenery visible outside the window",
+        "blurred green foliage outside the window",
+        "window frame, blurred green branches outside",
+        "textured beige wall, blurred outdoor view of greenery and pavement visible through a window",
+        "visible ceiling light fixture, window showing blurred exterior scenery",
+        "green window frame, blurred passing scenery outside, worn wooden bench",
+        "pillow behind head, window showing blurred greenery and buildings",
+        "large glass window, blurred green foliage outside",
+        "window frame, cloudy sky, blurred buildings outside"
+      ],
+      "tags": [
+        "green",
+        "window",
+        "blurred",
+        "foliage",
+        "outdoor"
+      ]
+    },
+    "weathered_blue_door_frame_concrete_wall": {
+      "canonical_name": "weathered blue door frame concrete wall",
+      "canonical_name_zh": "风化蓝门框混凝土墙",
+      "canonical_phrase": "weathered light blue wooden door frame, concrete block wall, brown wooden house with tiled roof, flower pots with blooming red and yellow flowers",
+      "samples": [
+        "weathered light blue wooden door frame, concrete block wall, brown wooden house with tiled roof, flower pots with blooming red and yellow flowers"
+      ],
+      "tags": [
+        "blue",
+        "wooden",
+        "concrete",
+        "rustic",
+        "flower pots"
+      ]
+    },
+    "blurred_golden_wheat_field_waist_height": {
+      "canonical_name": "blurred golden wheat field waist height",
+      "canonical_name_zh": "模糊金色麦田",
+      "canonical_phrase": "golden wheat stalks reaching up to waist, blurred expanse of golden wheat",
+      "samples": [
+        "golden wheat stalks reaching up to waist, blurred expanse of golden wheat"
+      ],
+      "tags": [
+        "golden",
+        "wheat",
+        "field",
+        "blurred",
+        "waist-high"
+      ]
+    },
+    "exposed_metal_scaffolding_with_hanging_lighting_rigs": {
+      "canonical_name": "exposed metal scaffolding with hanging lighting rigs",
+      "canonical_name_zh": "裸露金属脚手架配悬挂灯光",
+      "canonical_phrase": "exposed metal scaffolding, hanging lighting rigs, wooden platforms, ladders, partial sets including a traditional Japanese-style building facade, foreground tables",
+      "samples": [
+        "exposed metal scaffolding, hanging lighting rigs, wooden platforms, ladders, partial sets including a traditional Japanese-style building facade, foreground tables"
+      ],
+      "tags": [
+        "metal",
+        "wood",
+        "industrial",
+        "japanese",
+        "scaffolding"
+      ]
+    },
+    "grassy_yard_with_dry_patches_and_blue_sky": {
+      "canonical_name": "grassy yard with dry patches and blue sky",
+      "canonical_name_zh": "草地庭院干斑蓝天",
+      "canonical_phrase": "grassy yard with scattered dry patches, light-colored building with sloped roof, green trees, bright blue sky with scattered white clouds",
+      "samples": [
+        "grassy yard with scattered dry patches, light-colored building with sloped roof, green trees, bright blue sky with scattered white clouds"
+      ],
+      "tags": [
+        "grass",
+        "dry_patch",
+        "blue_sky",
+        "suburban",
+        "white_cloud"
+      ]
+    },
+    "rusted_metal_structures_and_debris": {
+      "canonical_name": "rusted metal structures and debris",
+      "canonical_name_zh": "锈蚀金属结构与残骸",
+      "canonical_phrase": "rusted metal containers, frames, and beams with gravel ground and scattered debris",
+      "samples": [
+        "large rusted metal container, gravel ground",
+        "decaying wooden planks, rusted metal frames, tangled wire mesh, uneven ground",
+        "rusted skeletal remains of an old mining structure with metal beams, conveyor belts, and cylindrical tanks, gravel, sparse dry vegetation, distant low hills, vast sky filled with scattered white clouds",
+        "rusty vertical metal bars, lush green foliage",
+        "rusted metal railing, blurred distant vegetation",
+        "rusty vehicle on the left, wooden crate leaning against a wooden post on the right, various discarded items and debris scattered around",
+        "rusty metal surface, blurred outdoor textures"
+      ],
+      "tags": [
+        "rusty",
+        "metal",
+        "industrial",
+        "gravel",
+        "decay"
+      ]
+    },
+    "hanging_spanish_moss_trees_foliage": {
+      "canonical_name": "hanging Spanish moss trees foliage",
+      "canonical_name_zh": "悬挂西班牙苔藓树木",
+      "canonical_phrase": "hanging Spanish moss, trees, foliage",
+      "samples": [
+        "hanging Spanish moss, trees, foliage"
+      ],
+      "tags": [
+        "green",
+        "moss",
+        "foliage",
+        "tropical",
+        "drape"
+      ]
+    },
+    "traditional_wooden_lattice_window_with_pink_flowers": {
+      "canonical_name": "traditional wooden lattice window with pink flowers",
+      "canonical_name_zh": "传统木格窗配粉花",
+      "canonical_phrase": "traditional wooden lattice window, window frame, potted pink flowers visible through glass",
+      "samples": [
+        "traditional wooden lattice window, window frame, potted pink flowers visible through glass"
+      ],
+      "tags": [
+        "wood",
+        "pink",
+        "lattice",
+        "traditional",
+        "potted"
+      ]
+    },
+    "light_beige_carpet_white_bed_wooden_headboard": {
+      "canonical_name": "light beige carpet white bed wooden headboard",
+      "canonical_name_zh": "米色地毯白床木床头",
+      "canonical_phrase": "light beige carpet, white bed with rumpled sheets, wooden headboard",
+      "samples": [
+        "light beige carpet, white bed with rumpled sheets, wooden headboard"
+      ],
+      "tags": [
+        "beige",
+        "wood",
+        "bed",
+        "cozy",
+        "rumpled"
+      ]
+    },
+    "wooden_shelves_with_small_items_and_numbered_sign": {
+      "canonical_name": "wooden shelves with small items and numbered sign",
+      "canonical_name_zh": "木架小物与数字标牌",
+      "canonical_phrase": "wooden structure with shelves displaying small items, partially visible sign with numbers",
+      "samples": [
+        "wooden structure with shelves displaying small items, partially visible sign with numbers"
+      ],
+      "tags": [
+        "wood",
+        "shelves",
+        "rustic",
+        "vintage",
+        "numbers"
+      ]
+    },
+    "white_furniture_and_light_blue_walls": {
+      "canonical_name": "white furniture and light blue walls",
+      "canonical_name_zh": "白色家具与浅蓝墙面",
+      "canonical_phrase": "white wicker furniture, light blue walls, white architectural details",
+      "samples": [
+        "white wicker furniture piece, two framed abstract paintings, light blue wall",
+        "large white textured ottoman, light beige carpet, light blue walls, white fireplace mantel, framed artwork, doorway leading to another room",
+        "white sheets, white wicker chair, white wicker side table, curtains drawn to side",
+        "bed with beige linens, large window, view of sprawling urban landscape including buildings, pools, and trees, beige curtains with vertical stripes",
+        "multiple white plastic chairs, dark floor",
+        "white architectural columns, green foliage, white wicker chair"
+      ],
+      "tags": [
+        "white",
+        "wicker",
+        "blue",
+        "interior",
+        "furniture"
+      ]
+    },
+    "blurred_earthy_tones_distant_rocky_formations": {
+      "canonical_name": "blurred earthy tones distant rocky formations",
+      "canonical_name_zh": "模糊土色远山岩",
+      "canonical_phrase": "blurred earthy tones, distant rocky formations",
+      "samples": [
+        "blurred earthy tones, distant rocky formations"
+      ],
+      "tags": [
+        "earthy",
+        "rocky",
+        "blurred",
+        "distant",
+        "natural"
+      ]
+    },
+    "weathered_wall_with_faded_floral_wallpaper": {
+      "canonical_name": "weathered wall with faded floral wallpaper",
+      "canonical_name_zh": "褪色花卉壁纸旧墙",
+      "canonical_phrase": "weathered wall with faded floral wallpaper, white air conditioning unit mounted above",
+      "samples": [
+        "weathered wall with faded floral wallpaper, white air conditioning unit mounted above"
+      ],
+      "tags": [
+        "beige",
+        "plaster",
+        "wallpaper",
+        "vintage",
+        "ac_unit"
+      ]
+    },
+    "soft_blurred_earthy_background": {
+      "canonical_name": "soft blurred earthy background",
+      "canonical_name_zh": "柔和模糊大地色背景",
+      "canonical_phrase": "indistinct earthy tones",
+      "samples": [
+        "indistinct earthy tones"
+      ],
+      "tags": [
+        "earthy",
+        "blurred",
+        "soft",
+        "natural",
+        "muted"
+      ]
+    },
+    "dark_blue_patterned_cushion_with_green_leaves": {
+      "canonical_name": "dark blue patterned cushion with green leaves",
+      "canonical_name_zh": "深蓝花纹靠垫配绿叶",
+      "canonical_phrase": "dark blue patterned cushion, large green tropical leaves partially framing upper body",
+      "samples": [
+        "dark blue patterned cushion, large green tropical leaves partially framing upper body"
+      ],
+      "tags": [
+        "blue",
+        "cushion",
+        "tropical",
+        "framing",
+        "patterned"
+      ]
+    },
+    "floral_patterned_bedding_with_metal_frame": {
+      "canonical_name": "floral patterned bedding with metal frame",
+      "canonical_name_zh": "花卉图案床品配金属床架",
+      "canonical_phrase": "floral patterned sheets and pillows on simple metal bed frame",
+      "samples": [
+        "ornate wooden bed frame with intricate golden dragon carvings, light blue wall, potted green plant to the right, dark patterned floor",
+        "blue pillow, floral patterned bedspread with purple and yellow tones, plain gray wall, simple metal bed frame",
+        "floral patterned bedspread, metal bunk bed frame, blue pillow on lower bunk, fan, small table",
+        "floral patterned sheets, plain wall, dark metal bed frame",
+        "floral patterned sheets, simple metal bed frame, plain wall",
+        "purple satin pillows, patterned brown striped bedding",
+        "floral patterned bedding, pink pillow, colorful quilt",
+        "metal bed frame, floral-patterned sheets, blue pillow, window with wooden frames, visible rust above window",
+        "floral patterned sheets, plain wall, part of dark metal bed frame"
+      ],
+      "tags": [
+        "floral",
+        "metal",
+        "bedding",
+        "cozy",
+        "rustic"
+      ]
+    },
+    "wooden_paneling_traditional_shoji_window": {
+      "canonical_name": "wooden paneling traditional shoji window",
+      "canonical_name_zh": "木质护墙日式拉窗",
+      "canonical_phrase": "wooden paneling, traditional Japanese shoji-style window",
+      "samples": [
+        "wooden paneling, traditional Japanese shoji-style window"
+      ],
+      "tags": [
+        "brown",
+        "wood",
+        "shoji",
+        "minimalist",
+        "paper screen"
+      ]
+    },
+    "paved_street_storefronts_awnings_blurred_pedestrians": {
+      "canonical_name": "paved street storefronts awnings blurred pedestrians",
+      "canonical_name_zh": "铺路街道店铺遮阳篷行人",
+      "canonical_phrase": "paved street, storefronts, awnings, blurred pedestrians",
+      "samples": [
+        "paved street, storefronts, awnings, blurred pedestrians"
+      ],
+      "tags": [
+        "gray",
+        "stone",
+        "streetwear",
+        "urban",
+        "depth_of_field"
+      ]
+    },
+    "concrete_steps_metal_poles_signage_indistinct_figures": {
+      "canonical_name": "concrete steps metal poles signage indistinct figures",
+      "canonical_name_zh": "混凝土台阶金属杆",
+      "canonical_phrase": "concrete steps, metal poles, signage, indistinct figures",
+      "samples": [
+        "concrete steps, metal poles, signage, indistinct figures"
+      ],
+      "tags": [
+        "gray",
+        "concrete",
+        "metal",
+        "urban",
+        "signage"
+      ]
+    },
+    "white_towel_and_metal_lounge_chair": {
+      "canonical_name": "white towel and metal lounge chair",
+      "canonical_name_zh": "白毛巾与金属躺椅",
+      "canonical_phrase": "white towel beneath her, white metal lounge chair behind her, pool edge with blue tiles visible to the left",
+      "samples": [
+        "white towel beneath her, white metal lounge chair behind her, pool edge with blue tiles visible to the left"
+      ],
+      "tags": [
+        "white",
+        "metal",
+        "towel",
+        "lounge",
+        "blue tiles"
+      ]
+    },
+    "dense_green_foliage_bright_overcast_sky_wooden_pallet": {
+      "canonical_name": "dense green foliage bright overcast sky wooden pallet",
+      "canonical_name_zh": "茂密绿植阴天木托盘",
+      "canonical_phrase": "dense green foliage, bright overcast sky, wooden pallet",
+      "samples": [
+        "dense green foliage, bright overcast sky, wooden pallet"
+      ],
+      "tags": [
+        "green",
+        "wood",
+        "overcast",
+        "rustic",
+        "foliage"
+      ]
+    },
+    "dense_floral_arrangements_with_visible_petals": {
+      "canonical_name": "dense floral arrangements with visible petals",
+      "canonical_name_zh": "繁茂花卉与可见花瓣",
+      "canonical_phrase": "dense field of vibrant flowers with visible petals and green stems",
+      "samples": [
+        "potted flowering plants with visible petals and leaves, blurred background",
+        "vibrant pink cherry blossoms overhead",
+        "cascading pink flowers",
+        "dense field of white flowers with green stems",
+        "potted plants with long spiky leaves and small white flowers"
+      ],
+      "tags": [
+        "flowers",
+        "petals",
+        "green",
+        "natural",
+        "blooming"
+      ]
+    },
+    "large_dark_wet_rock_shallow_water": {
+      "canonical_name": "large dark wet rock shallow water",
+      "canonical_name_zh": "深色湿岩浅水",
+      "canonical_phrase": "large dark wet rock, shallow water, dark water with subtle ripples, distant indistinct shapes",
+      "samples": [
+        "large dark wet rock, shallow water, dark water with subtle ripples, distant indistinct shapes"
+      ],
+      "tags": [
+        "dark",
+        "rock",
+        "water",
+        "wet",
+        "ripples"
+      ]
+    },
+    "polished_wooden_bench_with_water_hints": {
+      "canonical_name": "polished wooden bench with water hints",
+      "canonical_name_zh": "抛光木凳水景",
+      "canonical_phrase": "polished wooden bench, hints of water, distant structures",
+      "samples": [
+        "polished wooden bench, hints of water, distant structures"
+      ],
+      "tags": [
+        "wood",
+        "bench",
+        "water",
+        "rustic",
+        "distant"
+      ]
+    },
+    "white_blossoms_cyan_green_tones": {
+      "canonical_name": "white blossoms cyan green tones",
+      "canonical_name_zh": "白花青绿调",
+      "canonical_phrase": "white blossoms, cyan and green tones",
+      "samples": [
+        "white blossoms, cyan and green tones"
+      ],
+      "tags": [
+        "white",
+        "blossoms",
+        "cyan",
+        "green",
+        "floral"
+      ]
+    },
+    "white_cushioned_bench_with_tiled_floor": {
+      "canonical_name": "white cushioned bench with tiled floor",
+      "canonical_name_zh": "白色软垫长椅配瓷砖地面",
+      "canonical_phrase": "white cushioned bench, white and light blue pillows, tiled floor, decorative wrought iron railing outside window",
+      "samples": [
+        "white cushioned bench, white and light blue pillows, tiled floor, decorative wrought iron railing outside window"
+      ],
+      "tags": [
+        "white",
+        "cushioned",
+        "bench",
+        "tiled",
+        "railing"
+      ]
+    },
+    "shelves_with_various_stored_items": {
+      "canonical_name": "shelves with various stored items",
+      "canonical_name_zh": "存放各类物品的货架",
+      "canonical_phrase": "shelves filled with bottles, boxes, thread spools, and decorative objects",
+      "samples": [
+        "tiled walls, glass bottles on a shelf",
+        "wooden shelves, cardboard boxes",
+        "shelves filled with spools of colorful thread, miniature sculptures, framed art, hanging beaded necklaces, beige sewing machine on the bench",
+        "shelves filled with bottles and containers",
+        "shelves with circular objects behind glass",
+        "blurred shelves of brightly lit vending machines filled with indistinct colorful products"
+      ],
+      "tags": [
+        "storage",
+        "wooden",
+        "colorful",
+        "cluttered",
+        "glass"
+      ]
+    },
+    "weathered_interior_with_rustic_props": {
+      "canonical_name": "weathered interior with rustic props",
+      "canonical_name_zh": "陈旧室内与复古道具",
+      "canonical_phrase": "weathered walls, peeling paint, rustic wooden furniture, tiled floors, vintage props",
+      "samples": [
+        "gray tiled floor, white shelves stocked with various jars and boxes, glass display case with a green frog figurine on the left, wooden stool, framed pictures on the wall",
+        "tiled counter, dark cabinets, sink, white ceramic bowl, wooden chairs, glass sliding door to bright outdoor space",
+        "weathered wall with peeling ochre and teal paint, barred window with geometric patterns, orange starburst graffiti marks, vertical pipe running above the window, concrete block",
+        "white stove, wooden cabinetry, hanging metal spoons, framed photo on the wall, glass door with wooden frame, greenery visible outside",
+        "white bookshelves filled with cookbooks and magazines, glass-fronted cabinets with stacked plates, teapots, and decorative ceramics",
+        "white balustrade, white columns, railings, tables with people dining",
+        "weathered wooden doorway, bicycle wheel, watermelon, bunch of spinach, green peppers on a wooden tray",
+        "weathered green wooden door with peeling paint, white paper poster with blue inked Chinese characters and a stylized figure of a man wearing a crown taped to the door",
+        "weathered green wooden door, faded poster, wooden chair, blue bag, woven basket",
+        "weathered rusted metal door featuring faded orange Chinese characters and partial letters P and R, peeling paint, deep rust texture",
+        "weathered wooden gate partially covered in green ivy, dark and indistinct background",
+        "weathered green painted wall, section of white and green tiled wall showing wear, small lock on green door",
+        "weathered wooden step, dark brick wall, rustic wooden door with faded floral paint",
+        "wooden kitchen counter, tiled countertop, large clear glass vase with green foliage, bag of Munchies snack chips, small bowl of fruit",
+        "ornate white columns with fluted detailing, arched openings, potted red flowers, weathered light green wall with peeling paint, small red door, white metal railing",
+        "weathered wooden window with peeling blue and green paint, rusty metal handle, background wall with faded blue graffiti",
+        "green door with hanging white plastic bag, clothes drying on rack, wooden chairs, stacked boxes, weathered walls with rust stains, trees visible above",
+        "pale yellow textured wall, wooden doorframe"
+      ],
+      "tags": [
+        "weathered",
+        "wood",
+        "rustic",
+        "peeling",
+        "tiled"
+      ]
+    },
+    "white_sheets_floral_headboard_framed_pictures": {
+      "canonical_name": "white sheets floral headboard framed pictures",
+      "canonical_name_zh": "白床单花卉床头板挂画",
+      "canonical_phrase": "white sheets, floral patterned headboard, two framed pictures on wall",
+      "samples": [
+        "white sheets, floral patterned headboard, two framed pictures on wall"
+      ],
+      "tags": [
+        "white",
+        "floral",
+        "headboard",
+        "framed",
+        "bedroom"
+      ]
+    },
+    "rows_of_seats_with_white_headrest_covers": {
+      "canonical_name": "rows of seats with white headrest covers",
+      "canonical_name_zh": "白头枕棕座椅",
+      "canonical_phrase": "rows of seats with white headrest covers and brown upholstery, overhead luggage racks with bags hanging, other passengers (some sleeping, some looking ahead), windows showing blurred greenery outside",
+      "samples": [
+        "rows of seats with white headrest covers and brown upholstery, overhead luggage racks with bags hanging, other passengers (some sleeping, some looking ahead), windows showing blurred greenery outside"
+      ],
+      "tags": [
+        "brown",
+        "upholstery",
+        "headrest",
+        "travel",
+        "luggage"
+      ]
+    },
+    "beige_wall_blue_patterned_fabric_surface": {
+      "canonical_name": "beige wall blue patterned fabric surface",
+      "canonical_name_zh": "米色墙蓝纹布面",
+      "canonical_phrase": "beige wall, blue patterned fabric surface",
+      "samples": [
+        "beige wall, blue patterned fabric surface"
+      ],
+      "tags": [
+        "beige",
+        "fabric",
+        "patterned",
+        "textured",
+        "wall"
+      ]
+    },
+    "distant_city_skyline_across_water": {
+      "canonical_name": "distant city skyline across water",
+      "canonical_name_zh": "水畔远城天际线",
+      "canonical_phrase": "distant city skyline across water, tall buildings, ships on harbor, street lamps lining walkway",
+      "samples": [
+        "distant city skyline across water, tall buildings, ships on harbor, street lamps lining walkway"
+      ],
+      "tags": [
+        "blue",
+        "concrete",
+        "harbor",
+        "urban",
+        "street lamps"
+      ]
+    },
+    "calm_blue_ocean_with_gentle_waves": {
+      "canonical_name": "calm blue ocean with gentle waves",
+      "canonical_name_zh": "宁静蓝色海浪",
+      "canonical_phrase": "vast calm blue ocean with gentle waves and clear sky",
+      "samples": [
+        "golden retriever dog standing in water behind her, blue ocean stretching to horizon, waves gently lapping at feet",
+        "white textured bedspread, vast blue ocean with white foamy waves, single small bird flying in pale sky",
+        "calm blue water, gentle waves lapping at shore",
+        "bright clear blue sky overhead, ocean stretching to horizon, concrete breakwater in foreground",
+        "bright blue sky, soft white beach edge",
+        "bright blue ocean stretching to horizon, white wooden structure with corrugated roof on right, clear blue sky with faint clouds",
+        "wet sandy beach, ocean waves rolling in with white foam, sky blue with scattered white clouds, horizon line",
+        "ocean waves, scattered rocks",
+        "wet sand, gentle waves rolling in, shallow water",
+        "vast expanse of calm ocean water, water droplets captured mid-air",
+        "ocean waves crashing, bright blue sky with scattered white clouds"
+      ],
+      "tags": [
+        "blue",
+        "ocean",
+        "waves",
+        "horizon",
+        "foam"
+      ]
+    },
+    "detailed_outdoor_scenery_with_trees_and_rooftops": {
+      "canonical_name": "detailed outdoor scenery with trees and rooftops",
+      "canonical_name_zh": "带树木屋顶的户外景",
+      "canonical_phrase": "trees, rooftops, cloudy sky",
+      "samples": [
+        "trees, rooftops, cloudy sky"
+      ],
+      "tags": [
+        "green",
+        "concrete",
+        "urban",
+        "atmospheric",
+        "clouds"
+      ]
+    },
+    "white_wooden_structure_with_red_lifebuoy": {
+      "canonical_name": "white wooden structure with red lifebuoy",
+      "canonical_name_zh": "白色木构配红色救生圈",
+      "canonical_phrase": "white wooden structure, red lifebuoy, green wall, white building",
+      "samples": [
+        "white wooden structure, red lifebuoy, green wall, white building"
+      ],
+      "tags": [
+        "wood",
+        "red",
+        "lifebuoy",
+        "coastal",
+        "green"
+      ]
+    },
+    "rolling_rocky_hills_pink_orange_sky": {
+      "canonical_name": "rolling rocky hills pink orange sky",
+      "canonical_name_zh": "起伏岩石山丘粉橙天空",
+      "canonical_phrase": "rolling rocky hills, vibrant pink and orange sky",
+      "samples": [
+        "rolling rocky hills, vibrant pink and orange sky"
+      ],
+      "tags": [
+        "pink",
+        "orange",
+        "rocky",
+        "hills",
+        "vibrant"
+      ]
+    },
+    "dry_golden_hills_sparse_shrubs_power_lines": {
+      "canonical_name": "dry golden hills sparse shrubs power lines",
+      "canonical_name_zh": "干金荒山稀疏灌木远电线",
+      "canonical_phrase": "dry golden-brown hills, sparse green shrubs, distant power lines, clear blue sky, foreground vegetation, midground road",
+      "samples": [
+        "dry golden-brown hills, sparse green shrubs, distant power lines, clear blue sky, foreground vegetation, midground road"
+      ],
+      "tags": [
+        "golden",
+        "hills",
+        "shrubs",
+        "powerlines",
+        "arid"
+      ]
+    },
+    "dense_foliage_and_tree_trunks": {
+      "canonical_name": "dense foliage and tree trunks",
+      "canonical_name_zh": "茂密树叶与树干",
+      "canonical_phrase": "dense foliage, tangled tree branches, and vertical tree trunks",
+      "samples": [
+        "large broad leaves, ferns, tangled tree branches",
+        "trees and foliage",
+        "dense foliage, blurred tree trunks, thick tree trunk, lower branch",
+        "trees",
+        "tree trunk, grass, sunlight filtering through leaves",
+        "vertical tree trunks"
+      ],
+      "tags": [
+        "green",
+        "wood",
+        "forest",
+        "natural",
+        "foliage"
+      ]
+    },
+    "yellow_tennis_ball_midair": {
+      "canonical_name": "yellow tennis ball mid-air",
+      "canonical_name_zh": "空中黄色网球",
+      "canonical_phrase": "yellow tennis ball in mid-air",
+      "samples": [
+        "yellow tennis ball in mid-air"
+      ],
+      "tags": [
+        "yellow",
+        "felt",
+        "tennis",
+        "dynamic",
+        "fuzzy"
+      ]
+    },
+    "bed_with_patterned_sheets_and_wooden_headboard": {
+      "canonical_name": "bed with patterned sheets and wooden headboard",
+      "canonical_name_zh": "带图案床单的木质床头床",
+      "canonical_phrase": "bed with patterned blue and white sheets, wooden headboard, and floral bedding",
+      "samples": [
+        "bed with purple satin sheets, wooden-framed mirror reflecting a dim room with furniture",
+        "bed with floral patterned sheets, white wall, blue pillow",
+        "bed with white floral patterned bedding",
+        "blue and white checkered bedsheet, headboard",
+        "white bed, blue wooden headboard",
+        "blue and white checkered bedsheet, pillow",
+        "bed with white and patterned bedding",
+        "white sheets, floral patterned duvet, wooden nightstand",
+        "bed with light blue sheets, dark wooden headboard, white pillow, light brown carpeted floor, two light blue flip-flops placed neatly beside bed, large mirror reflecting scene, framed photograph of a boat on wall",
+        "patterned blue and white bed sheet, wooden lattice headboard, sheer curtain",
+        "white pillow, dark wooden headboard",
+        "white sheets, floral-patterned bedding, wooden headboard, part of a chair",
+        "blue and white checkered bedspread",
+        "bed with blue and white checkered sheets, wall with horizontal metallic trim"
+      ],
+      "tags": [
+        "bedding",
+        "wooden",
+        "floral",
+        "checkered",
+        "headboard"
+      ]
+    },
+    "soft_blurred_background_texture": {
+      "canonical_name": "soft blurred background texture",
+      "canonical_name_zh": "柔和模糊背景纹理",
+      "canonical_phrase": "out of focus and indistinct",
+      "samples": [
+        "out of focus and indistinct"
+      ],
+      "tags": [
+        "blur",
+        "bokeh",
+        "depth",
+        "soft",
+        "texture"
+      ]
+    },
+    "indistinct_dark_foliage": {
+      "canonical_name": "indistinct dark foliage",
+      "canonical_name_zh": "模糊深色树叶",
+      "canonical_phrase": "indistinct dark foliage",
+      "samples": [
+        "indistinct dark foliage"
+      ],
+      "tags": [
+        "dark",
+        "green",
+        "foliage",
+        "blurred",
+        "forest"
+      ]
+    },
+    "lush_green_tropical_foliage_and_natural_textures": {
+      "canonical_name": "lush green tropical foliage and natural textures",
+      "canonical_name_zh": "茂密热带绿植与自然纹理",
+      "canonical_phrase": "lush green tropical foliage, textured wood, flowing water, dense underbrush, rocky terrain",
+      "samples": [
+        "lush green tropical foliage, textured wooden structure, flowing stream of water",
+        "lush green foliage, large tropical leaves, weathered wooden structure partially visible, tree canopy",
+        "lush green tropical foliage, textured tree trunks, stone ground",
+        "sand, lush green palm fronds, trees, multi-story building with white walls and windows",
+        "grand fountain with spraying water jets, ornate facade of The Peninsula hotel with arched windows and balconies, palm trees",
+        "mossy tree trunk, lush green foliage, rocky terrain",
+        "weathered white driftwood log, lush green tropical foliage, palm fronds, dense underbrush, sand",
+        "lush green palm fronds, dense foliage, stream of water from a faucet",
+        "dense green foliage, large gnarled tree trunk extending over the water"
+      ],
+      "tags": [
+        "green",
+        "wood",
+        "foliage",
+        "tropical",
+        "water"
+      ]
+    },
+    "tall_dark_trees_blue_sky_picnic_table": {
+      "canonical_name": "tall dark trees blue sky picnic table",
+      "canonical_name_zh": "高树蓝天木桌",
+      "canonical_phrase": "tall slender trees with dark trunks, clear blue sky, wooden picnic table",
+      "samples": [
+        "tall slender trees with dark trunks, clear blue sky, wooden picnic table"
+      ],
+      "tags": [
+        "blue",
+        "wood",
+        "outdoor",
+        "slender",
+        "picnic"
+      ]
+    },
+    "weathered_silvergray_vintage_bus": {
+      "canonical_name": "weathered silver-gray vintage bus",
+      "canonical_name_zh": "风化的银灰复古巴士",
+      "canonical_phrase": "three gray oxygen tanks, weathered silver-gray vintage bus with corrugated metal siding, broken windows, hanging rope, trees overhead",
+      "samples": [
+        "three gray oxygen tanks, weathered silver-gray vintage bus with corrugated metal siding, broken windows, hanging rope, trees overhead"
+      ],
+      "tags": [
+        "silver-gray",
+        "corrugated",
+        "vintage",
+        "rustic",
+        "broken windows"
+      ]
+    },
+    "hanging_brown_tree_fronds_with_blue_sky": {
+      "canonical_name": "hanging brown tree fronds with blue sky",
+      "canonical_name_zh": "垂挂棕叶与蓝天",
+      "canonical_phrase": "hanging brown fronds of a tree, hints of blue sky",
+      "samples": [
+        "hanging brown fronds of a tree, hints of blue sky"
+      ],
+      "tags": [
+        "brown",
+        "fronds",
+        "tree",
+        "sky",
+        "natural"
+      ]
+    },
+    "overexposed_bright_white_sky": {
+      "canonical_name": "overexposed bright white sky",
+      "canonical_name_zh": "过曝亮白天空",
+      "canonical_phrase": "overexposed bright white sky",
+      "samples": [
+        "overexposed bright white sky"
+      ],
+      "tags": [
+        "white",
+        "sky",
+        "overexposed",
+        "bright",
+        "ethereal"
+      ]
+    },
+    "stacked_papers_and_cardboard_box": {
+      "canonical_name": "stacked papers and cardboard box",
+      "canonical_name_zh": "堆叠纸张与纸箱",
+      "canonical_phrase": "papers, another box",
+      "samples": [
+        "papers, another box"
+      ],
+      "tags": [
+        "white",
+        "paper",
+        "cardboard",
+        "cluttered",
+        "crumpled"
+      ]
+    },
+    "cluttered_domestic_interior_with_decorative_objects": {
+      "canonical_name": "cluttered domestic interior with decorative objects",
+      "canonical_name_zh": "杂乱室内装饰陈设",
+      "canonical_phrase": "cluttered room filled with wooden furniture, ceramic vases, patterned wallpaper, and various household items",
+      "samples": [
+        "wooden dresser, bottle, patterned wallpaper",
+        "large ceramic vase, framed map on the wall",
+        "framed world map, patterned wall, ceramic pottery, bright doorway",
+        "large framed map, blue and white patterned wall, wooden chair, table with papers",
+        "colorful small figurines on display",
+        "boxes of oranges, lemons, mangoes, and papayas",
+        "shelf with pineapple decoration, calendar",
+        "red spray can, blue cap container, metal lamp base, wooden surface",
+        "large brown ceramic vase, blue patterned wall paneling, wooden chair",
+        "red plastic surface, red circular tray, three white ceramic bowls",
+        "woven bamboo basket, orange peels, sliced orange, pineapple crown, watermelon rind, crumpled brown paper bag, white mesh produce bag, plastic cup with floral pattern, small orange juice carton, green leafy vegetable scraps",
+        "bottles, radio, shelves, red plastic bucket, three small bowls of dessert",
+        "large poster of a woman with skincare product text, blue poster with two teddy bears in sweaters and pricing, red banner with Chinese characters",
+        "refrigerated display case filled with watermelon, grapes, apples, and oranges, handwritten price signs in Chinese characters",
+        "wall with a calendar displaying the month of November, vintage radio, telephone, white cup"
+      ],
+      "tags": [
+        "cluttered",
+        "wooden",
+        "ceramic",
+        "domestic",
+        "patterned"
+      ]
+    },
+    "rocky_cliff_with_green_foliage_and_water": {
+      "canonical_name": "rocky cliff with green foliage and water",
+      "canonical_name_zh": "岩壁绿植流水",
+      "canonical_phrase": "steep rocky cliff face covered in dense green foliage with flowing water",
+      "samples": [
+        "steep layered rock cliff face partially covered in dense green foliage, rapidly flowing river with frothy white water",
+        "rocky cliff face covered in dense green foliage",
+        "lush green foliage clinging to rocky cliff face, clear turquoise water",
+        "steep rocky cliff face covered with green vegetation, waves lapping at feet, overcast sky"
+      ],
+      "tags": [
+        "green",
+        "rock",
+        "cliff",
+        "water",
+        "foliage"
+      ]
+    },
+    "house_with_dark_roof_and_light_walls": {
+      "canonical_name": "house with dark roof and light walls",
+      "canonical_name_zh": "深色屋顶浅色墙房屋",
+      "canonical_phrase": "house with dark roof and light walls, vibrant green grass",
+      "samples": [
+        "house with dark roof and light walls, vibrant green grass"
+      ],
+      "tags": [
+        "dark",
+        "light",
+        "grass",
+        "vibrant",
+        "residential"
+      ]
+    },
+    "horizontal_metal_railings_bright_white_sky": {
+      "canonical_name": "horizontal metal railings bright white sky",
+      "canonical_name_zh": "横向金属栏杆白亮天空",
+      "canonical_phrase": "horizontal metal railings, bright white overexposed sky",
+      "samples": [
+        "horizontal metal railings, bright white overexposed sky"
+      ],
+      "tags": [
+        "metal",
+        "railings",
+        "white",
+        "overexposed",
+        "sky"
+      ]
+    },
+    "dark_polished_floor_white_pillar_columns": {
+      "canonical_name": "dark polished floor white pillar columns",
+      "canonical_name_zh": "深色抛光地板白色立柱",
+      "canonical_phrase": "dark polished floor, white pillar, repeating white columns and railings",
+      "samples": [
+        "dark polished floor, white pillar, repeating white columns and railings"
+      ],
+      "tags": [
+        "dark",
+        "polished",
+        "white",
+        "architectural",
+        "columns"
+      ]
+    },
+    "silver_bicycle_with_black_tires_and_distant_bare_trees": {
+      "canonical_name": "silver bicycle with black tires and distant bare trees",
+      "canonical_name_zh": "银色自行车黑轮胎远树",
+      "canonical_phrase": "silver bicycle with black tires, distant line of bare trees, bright white sky",
+      "samples": [
+        "silver bicycle with black tires, distant line of bare trees, bright white sky"
+      ],
+      "tags": [
+        "silver",
+        "bicycle",
+        "black",
+        "minimalist",
+        "bare trees"
+      ]
+    },
+    "solid_color_background_props": {
+      "canonical_name": "solid color background props",
+      "canonical_name_zh": "纯色背景道具",
+      "canonical_phrase": "solid color background with uniform texture and no patterns",
+      "samples": [
+        "pure black",
+        "solid black background",
+        "pure black background",
+        "solid warm red background"
+      ],
+      "tags": [
+        "solid",
+        "black",
+        "red",
+        "minimalist",
+        "studio"
+      ]
+    },
+    "wooden_furniture_and_window_elements": {
+      "canonical_name": "wooden furniture and window elements",
+      "canonical_name_zh": "木质家具与窗饰",
+      "canonical_phrase": "wooden chair with window frame and sliding shoji screens",
+      "samples": [
+        "wooden chair, window behind her",
+        "wooden chair, sliding shoji screens",
+        "wooden chair, window frame, wooden lattice, glass with condensation",
+        "plaid upholstered chair, wooden bookshelf filled with books positioned to her left, metallic diamond plate decorative object mounted above her head"
+      ],
+      "tags": [
+        "wood",
+        "chair",
+        "window",
+        "lattice",
+        "condensation"
+      ]
+    },
+    "weathered_metal_basin_dark_water_boats": {
+      "canonical_name": "weathered metal basin dark water boats",
+      "canonical_name_zh": "旧金属盆暗水船",
+      "canonical_phrase": "weathered metal basin filled with dark water, hints of boats and water",
+      "samples": [
+        "weathered metal basin filled with dark water, hints of boats and water"
+      ],
+      "tags": [
+        "metal",
+        "dark",
+        "basin",
+        "rustic",
+        "boats"
+      ]
+    },
+    "weathered_stone_lanterns_shrine_architecture": {
+      "canonical_name": "weathered stone lanterns shrine architecture",
+      "canonical_name_zh": "风化石灯笼神社建筑",
+      "canonical_phrase": "multiple weathered stone lanterns, traditional Japanese shrine architecture with ornate tiled roofs and wooden latticework",
+      "samples": [
+        "multiple weathered stone lanterns, traditional Japanese shrine architecture with ornate tiled roofs and wooden latticework"
+      ],
+      "tags": [
+        "stone",
+        "wood",
+        "tiled",
+        "traditional",
+        "ornate"
+      ]
+    },
+    "large_weathered_corrugated_metal_surface_wooden_stool": {
+      "canonical_name": "large weathered corrugated metal surface wooden stool",
+      "canonical_name_zh": "大型风化波纹金属面木凳",
+      "canonical_phrase": "large weathered corrugated metal surface, wooden stool",
+      "samples": [
+        "large weathered corrugated metal surface, wooden stool"
+      ],
+      "tags": [
+        "grey",
+        "metal",
+        "stool",
+        "rustic",
+        "weathered"
+      ]
+    },
+    "ornate_interior_furniture_and_decor": {
+      "canonical_name": "ornate interior furniture and decor",
+      "canonical_name_zh": "华丽室内家具装饰",
+      "canonical_phrase": "richly upholstered furniture, ornate wooden details, sheer curtains, lush green foliage, warm ambient lighting",
+      "samples": [
+        "vibrant floral bedding, two windows with green frames, sheer white curtains, lush green foliage outside, orange paper lantern glowing softly on a bedside table",
+        "polished wooden grand piano, ornate golden architecture, columns, detailed ceiling moldings",
+        "grand piano, black and white keys, sheet music standing upright, tall candle holder with white candle, large window, tree trunk, green lawn",
+        "richly patterned red and gold upholstered sofa, geometrically tiled floor, large potted plant in white and brown striped ceramic pot, ornate wooden staircase railing with intricate carvings",
+        "red and black lounge chair, blurred green foliage, hints of blue fabric",
+        "black ottoman, wooden table, red lamp with fringed shade, large window, lush green foliage",
+        "ornate cream-colored armchair, sheer white curtains",
+        "green armchair, floor lamp with warm yellow light, light blue curtains"
+      ],
+      "tags": [
+        "upholstered",
+        "wooden",
+        "curtains",
+        "ornate",
+        "foliage"
+      ]
+    },
+    "bright_blue_sky_with_white_clouds": {
+      "canonical_name": "bright blue sky with white clouds",
+      "canonical_name_zh": "蓝天白云",
+      "canonical_phrase": "bright blue sky with scattered white clouds and green grass",
+      "samples": [
+        "large weathered tree stump, lush green hillside, dense trees, clear blue sky with scattered white clouds",
+        "bright clear blue sky, small blurred yellow and white object floating high, dense green foliage, vibrant pink and white flowers, chain-link fence partially visible",
+        "bright blue sky with scattered white clouds, thatched-roof structure, green shrubbery",
+        "vast deep blue sky with scattered wispy white clouds, grass beneath her with a mix of green and dry brown patches",
+        "large black cow with white markings on legs, vast bright blue sky with scattered white clouds, grass textured with patches of dry brown",
+        "vivid blue sky with scattered white clouds, green grass, trees, chain-link fence",
+        "vibrant blue sky with large white clouds, tall green trees on either side, chain-link fence behind, swing's metal frame and chain links",
+        "tall evergreen trees, bright blue sky with white clouds"
+      ],
+      "tags": [
+        "blue",
+        "clouds",
+        "grass",
+        "outdoor",
+        "nature"
+      ]
+    },
+    "weathered_wooden_deck_with_rustic_building": {
+      "canonical_name": "weathered wooden deck with rustic building",
+      "canonical_name_zh": "风化木甲板与 rustic 建筑",
+      "canonical_phrase": "weathered wooden deck, rustic wooden building with large glass windows, lush green climbing vines, wooden planter with yellow flowers, brown long-haired dog seated nearby",
+      "samples": [
+        "weathered wooden deck, rustic wooden building with large glass windows, lush green climbing vines, wooden planter with yellow flowers, brown long-haired dog seated nearby"
+      ],
+      "tags": [
+        "wood",
+        "rustic",
+        "green",
+        "vines",
+        "dog"
+      ]
+    },
+    "wide_river_distant_skyscrapers_overcast_grey_clouds": {
+      "canonical_name": "wide river distant skyscrapers overcast grey clouds",
+      "canonical_name_zh": "宽河远楼灰云",
+      "canonical_phrase": "wide river, distant skyscrapers, overcast grey clouds",
+      "samples": [
+        "wide river, distant skyscrapers, overcast grey clouds"
+      ],
+      "tags": [
+        "river",
+        "skyscraper",
+        "grey",
+        "overcast",
+        "urban"
+      ]
+    },
+    "weathered_wooden_shed_with_peeling_paint": {
+      "canonical_name": "weathered wooden shed with peeling paint",
+      "canonical_name_zh": "剥漆风木棚",
+      "canonical_phrase": "weathered wooden shed with peeling paint, dry brush, tall green pine trees",
+      "samples": [
+        "weathered wooden shed with peeling paint, dry brush, tall green pine trees"
+      ],
+      "tags": [
+        "wood",
+        "peeling",
+        "green",
+        "rustic",
+        "pine"
+      ]
+    },
+    "stone_steps_wooden_door_bamboo_blinds": {
+      "canonical_name": "stone steps wooden door bamboo blinds",
+      "canonical_name_zh": "石阶木门竹帘",
+      "canonical_phrase": "stone steps, wooden door, bamboo blinds",
+      "samples": [
+        "stone steps, wooden door, bamboo blinds"
+      ],
+      "tags": [
+        "stone",
+        "wood",
+        "bamboo",
+        "rustic",
+        "blinds"
+      ]
+    },
+    "corrugated_metal_industrial_walls": {
+      "canonical_name": "corrugated metal industrial walls",
+      "canonical_name_zh": "波纹金属工业墙",
+      "canonical_phrase": "background of corrugated metal walls with industrial textures",
+      "samples": [
+        "tiled ledge, window with metal bars and patterned glass",
+        "vertical corrugated metal siding, white surface",
+        "complex industrial machine with multiple round gauges and pipes, green metallic walls",
+        "corrugated metal walls, window behind subject",
+        "corrugated metal roof, straw bales stacked in background",
+        "yellow corrugated metal wall, small inset photo above showing white circular handrails inside a vehicle",
+        "metallic corrugated metal wall with horizontal ridges",
+        "corrugated metal roof, green wooden structure, yellow bucket, foliage",
+        "wall, metallic bar edge",
+        "corrugated metal wall, hay bales visible to the left"
+      ],
+      "tags": [
+        "metal",
+        "corrugated",
+        "industrial",
+        "gray",
+        "siding"
+      ]
+    },
+    "distant_mountains_and_blue_sky": {
+      "canonical_name": "distant mountains and blue sky",
+      "canonical_name_zh": "远山与蓝天",
+      "canonical_phrase": "distant rugged mountains, clear blue sky with scattered clouds, sparse desert vegetation",
+      "samples": [
+        "tall sunflower plant, sparse green bushes, distant mountains, white vehicle partially visible, bright blue sky with scattered clouds",
+        "vintage beige and white camper van parked on the right side of the road, distant rugged brown mountains, vast deep blue sky",
+        "clear blue sky, sparse green shrubs and trees beside asphalt path, distant low hills on horizon, bright white sun high in sky",
+        "tall spiky Joshua trees, blue sky background",
+        "distant hills, clear blue sky, second vehicle in background, dark foliage, rugged terrain",
+        "paved road, large fluffy white clouds, vibrant blue sky, distant low hills on horizon",
+        "white trucks, large cylindrical water tank, swaying palm tree, vivid blue sky",
+        "white RV parked in midground, rock formations in distance, blue sky with scattered white clouds",
+        "sparse desert vegetation, large yucca plant to her left, distant rolling hills, vast clear blue sky"
+      ],
+      "tags": [
+        "blue",
+        "sky",
+        "mountains",
+        "desert",
+        "clouds"
+      ]
+    },
+    "pale_yellow_textured_wall": {
+      "canonical_name": "pale yellow textured wall",
+      "canonical_name_zh": "淡黄色纹理墙",
+      "canonical_phrase": "pale yellow wall",
+      "samples": [
+        "pale yellow wall"
+      ],
+      "tags": [
+        "pale yellow",
+        "textured",
+        "wall",
+        "minimalist",
+        "matte"
+      ]
+    },
+    "blue_tiled_pool_with_lush_green_foliage": {
+      "canonical_name": "blue tiled pool with lush green foliage",
+      "canonical_name_zh": "蓝瓷砖泳池配绿植",
+      "canonical_phrase": "blue tiled swimming pool, lush green foliage, broad-leafed plants, trees with dense canopies",
+      "samples": [
+        "blue tiled swimming pool, lush green foliage, broad-leafed plants, trees with dense canopies"
+      ],
+      "tags": [
+        "blue",
+        "tiled",
+        "foliage",
+        "tropical",
+        "canopy"
+      ]
+    },
+    "muddy_ground_weathered_white_house_boats": {
+      "canonical_name": "muddy ground weathered white house boats",
+      "canonical_name_zh": "泥泞地面白墙木屋船",
+      "canonical_phrase": "muddy ground, weathered white-walled house with wooden door and window, boats resting in shallow water",
+      "samples": [
+        "muddy ground, weathered white-walled house with wooden door and window, boats resting in shallow water"
+      ],
+      "tags": [
+        "muddy",
+        "wood",
+        "white",
+        "rustic",
+        "boats"
+      ]
+    },
+    "softly_blurred_out_of_focus_background": {
+      "canonical_name": "softly blurred out of focus background",
+      "canonical_name_zh": "柔和模糊背景",
+      "canonical_phrase": "softly blurred out of focus background with bokeh lights",
+      "samples": [
+        "dark blurred background",
+        "blurred bokeh background with soft glowing lights",
+        "creamy beige out of focus background",
+        "blurred dark background",
+        "blurred background",
+        "warm golden background blur",
+        "blurred background with soft bokeh",
+        "soft background blur",
+        "blurred orange-toned background",
+        "softly blurred background",
+        "blurred foreground elements",
+        "softly blurred background with soft bokeh"
+      ],
+      "tags": [
+        "blur",
+        "bokeh",
+        "soft",
+        "out_of_focus",
+        "glowing"
+      ]
+    },
+    "dark_indistinct_shadowed_background": {
+      "canonical_name": "dark indistinct shadowed background",
+      "canonical_name_zh": "深色模糊阴影背景",
+      "canonical_phrase": "dark and indistinct background with deep shadows",
+      "samples": [
+        "deeply shadowed and indistinct background",
+        "pure black background with faint scattered blue light specks",
+        "shadowed background",
+        "dark and indistinct background",
+        "dark and out of focus",
+        "entirely dark",
+        "dark and indistinct",
+        "dark and plain",
+        "dark background",
+        "completely dark and indistinct"
+      ],
+      "tags": [
+        "dark",
+        "shadow",
+        "blur",
+        "black",
+        "minimal"
+      ]
+    },
+    "weathered_brick_wall_with_moss": {
+      "canonical_name": "weathered brick wall with moss",
+      "canonical_name_zh": "长满青苔的砖墙",
+      "canonical_phrase": "weathered brick wall with moss growth, wooden chair partially visible, overgrown greenery on the ground",
+      "samples": [
+        "weathered brick wall with moss growth, wooden chair partially visible, overgrown greenery on the ground"
+      ],
+      "tags": [
+        "brick",
+        "green",
+        "wood",
+        "rustic",
+        "moss"
+      ]
+    },
+    "softly_blurred_indoor_hints": {
+      "canonical_name": "softly blurred indoor hints",
+      "canonical_name_zh": "柔和模糊室内背景",
+      "canonical_phrase": "softly blurred hints of indoor setting",
+      "samples": [
+        "softly blurred hints of indoor setting"
+      ],
+      "tags": [
+        "blur",
+        "indoor",
+        "ambient",
+        "depth",
+        "warm"
+      ]
+    },
+    "distant_green_islands_deep_blue_sky": {
+      "canonical_name": "distant green islands deep blue sky",
+      "canonical_name_zh": "远岛深蓝天空",
+      "canonical_phrase": "distant green islands, vast deep blue sky with scattered white clouds",
+      "samples": [
+        "distant green islands, vast deep blue sky with scattered white clouds"
+      ],
+      "tags": [
+        "green",
+        "blue",
+        "island",
+        "sky",
+        "clouds"
+      ]
+    },
+    "hanging_glass_jars_dark_contents_bright_window": {
+      "canonical_name": "hanging glass jars dark contents bright window",
+      "canonical_name_zh": "悬挂玻璃罐暗内容亮窗",
+      "canonical_phrase": "hanging glass jars with dark contents above, bright overexposed window behind, blurred bottles and objects on surface below",
+      "samples": [
+        "hanging glass jars with dark contents above, bright overexposed window behind, blurred bottles and objects on surface below"
+      ],
+      "tags": [
+        "glass",
+        "dark",
+        "overexposed",
+        "bokeh",
+        "jars"
+      ]
+    },
+    "interior_architectural_details_and_window_elements": {
+      "canonical_name": "interior architectural details and window elements",
+      "canonical_name_zh": "室内建筑细节与窗饰",
+      "canonical_phrase": "wooden walls, glass windows, ornate lamps, and interior architectural features",
+      "samples": [
+        "wooden door with glass panes, wooden walls and ceiling, dimly lit hallway",
+        "large window with ornate glass panels, wooden flooring, white columns, light beige walls",
+        "window with draped fabric, stone building exterior, ornate wall-mounted lamp",
+        "multi-paned window, small black NO SMOKING sign affixed to bottom pane, warm-toned interior walls, ruffled curtain",
+        "bright window, wooden door frame, light-colored wall paneling",
+        "ornate wooden vanity, lit lamp with pleated glass shade, framed artwork on wall, window revealing blurred outdoor foliage",
+        "warm yellow wall, window with draped curtains, stone archway, vintage wall sconce with two glowing bell-shaped shades",
+        "wooden-framed glass door, receding hallway, visible ceiling tiles, light fixtures, doors",
+        "curved glass walls, polished wooden railing, circular array of recessed lighting with frosted glass panels, brightly lit industrial-style ceiling with exposed beams and ductwork",
+        "boat interior, windows, white walls, cabin fixtures"
+      ],
+      "tags": [
+        "wood",
+        "glass",
+        "curtain",
+        "vintage",
+        "lamp"
+      ]
+    },
+    "plain_light_gray_background": {
+      "canonical_name": "plain light gray background",
+      "canonical_name_zh": "纯浅灰背景",
+      "canonical_phrase": "plain light gray background",
+      "samples": [
+        "plain light gray background"
+      ],
+      "tags": [
+        "gray",
+        "matte",
+        "neutral",
+        "minimal",
+        "solid"
+      ]
+    },
+    "tall_slender_trees_with_lush_green_foliage": {
+      "canonical_name": "tall slender trees with lush green foliage",
+      "canonical_name_zh": "高大细树与茂密绿叶",
+      "canonical_phrase": "tall slender trees with lush green foliage and natural undergrowth",
+      "samples": [
+        "tall coconut trees with slender trunks, expansive green fronds with dried brown tips, bright overcast sky, dense canopy",
+        "tall palm trees, thick green undergrowth, scattered leaves and branches",
+        "tall slender trees with green foliage forming a natural corridor",
+        "tall slender trees, lush green foliage, small white flowers dotting the undergrowth"
+      ],
+      "tags": [
+        "green",
+        "foliage",
+        "trees",
+        "canopy",
+        "natural"
+      ]
+    },
+    "traditional_japanese_shoji_screen_windows": {
+      "canonical_name": "traditional japanese shoji screen windows",
+      "canonical_name_zh": "日式传统障子窗",
+      "canonical_phrase": "traditional Japanese shoji screen windows, framed calligraphy scrolls on the wall, woven basket-style pendant lamp hanging above her head",
+      "samples": [
+        "traditional Japanese shoji screen windows, framed calligraphy scrolls on the wall, woven basket-style pendant lamp hanging above her head"
+      ],
+      "tags": [
+        "white",
+        "paper",
+        "shoji",
+        "zen",
+        "calligraphy"
+      ]
+    },
+    "white_bed_with_wooden_headboard": {
+      "canonical_name": "white bed with wooden headboard",
+      "canonical_name_zh": "白色床配木床头",
+      "canonical_phrase": "white bed with wooden headboard and white sheets",
+      "samples": [
+        "white sheets, wooden headboard",
+        "plain white bed, wooden headboard, white bedsheet",
+        "white pillows, white lattice-patterned headboard",
+        "white bed with crisp sheets, wooden headboard",
+        "white bedsheet, wooden headboard",
+        "white bedsheet with visible creases and folds, white pillow, wooden headboard"
+      ],
+      "tags": [
+        "white",
+        "wooden",
+        "bed",
+        "sheets",
+        "headboard"
+      ]
+    },
+    "large_textured_gray_rock_lush_green_forested_hills_clear_blue_sky": {
+      "canonical_name": "large textured gray rock lush green forested hills clear blue sky",
+      "canonical_name_zh": "大纹理灰岩绿林蓝天",
+      "canonical_phrase": "large textured gray rock, lush green forested hills, clear blue sky",
+      "samples": [
+        "large textured gray rock, lush green forested hills, clear blue sky"
+      ],
+      "tags": [
+        "gray",
+        "rock",
+        "green",
+        "forest",
+        "sky"
+      ]
+    },
+    "indoor_room_with_furniture_and_decor": {
+      "canonical_name": "indoor room with furniture and decor",
+      "canonical_name_zh": "室内家具与装饰",
+      "canonical_phrase": "wooden walls, glass tables, leather couch, curtains, and electronic devices",
+      "samples": [
+        "white tablecloth-covered surface, laptop, small electronic devices, mirror, wooden wall paneling, green window frame",
+        "television set, furniture",
+        "black leather couch, glass display cases filled with rings, necklaces, and earrings, white pedestal fan",
+        "curtains, furniture, glass table",
+        "wood-paneled walls, window on left, small black television set mounted on wall, wooden director's chair with green fringed fabric draped over backrest"
+      ],
+      "tags": [
+        "wood",
+        "glass",
+        "leather",
+        "modern",
+        "curtains"
+      ]
+    },
+    "blue_and_white_checkered_fabric": {
+      "canonical_name": "blue and white checkered fabric",
+      "canonical_name_zh": "蓝白格纹布料",
+      "canonical_phrase": "blue and white checkered fabric",
+      "samples": [
+        "blue and white checkered fabric"
+      ],
+      "tags": [
+        "blue",
+        "white",
+        "checkered",
+        "fabric",
+        "pattern"
+      ]
+    },
+    "ornate_wooden_shrine_with_stone_lanterns": {
+      "canonical_name": "ornate wooden shrine with stone lanterns",
+      "canonical_name_zh": "雕花木祠配石灯笼",
+      "canonical_phrase": "ornate wooden shrine architecture, decorative lattice windows, stone lanterns, moss-covered stone structures, gravel ground",
+      "samples": [
+        "ornate wooden shrine architecture, decorative lattice windows, stone lanterns, moss-covered stone structures, gravel ground"
+      ],
+      "tags": [
+        "wood",
+        "stone",
+        "green",
+        "zen",
+        "lattice"
+      ]
+    },
+    "white_metal_bed_frame_with_wall_mounted_air_conditioner": {
+      "canonical_name": "white metal bed frame with wall mounted air conditioner",
+      "canonical_name_zh": "白色金属床配壁挂空调",
+      "canonical_phrase": "white metal bed frame, white wall, window with blinds, wall-mounted air conditioner, small dark horse figurine on shelf",
+      "samples": [
+        "white metal bed frame, white wall, window with blinds, wall-mounted air conditioner, small dark horse figurine on shelf"
+      ],
+      "tags": [
+        "white",
+        "metal",
+        "bed",
+        "minimalist",
+        "figurine"
+      ]
+    },
+    "textured_gray_concrete_wall_background": {
+      "canonical_name": "textured gray concrete wall background",
+      "canonical_name_zh": "灰色混凝土墙背景",
+      "canonical_phrase": "textured gray concrete wall with cracks and weathered marks",
+      "samples": [
+        "gray concrete pillar, dark brick wall",
+        "gray concrete wall with white cracked patterns, green foliage visible to the right",
+        "concrete wall with faint white marks and cracks",
+        "gray concrete wall, colorful weathered buildings with windows, circular green and white painted target on a wall, tiled sidewalk in red and beige pattern",
+        "plain gray concrete wall with faint vertical lines, dark textured surface",
+        "textured gray concrete wall"
+      ],
+      "tags": [
+        "gray",
+        "concrete",
+        "wall",
+        "weathered",
+        "cracked"
+      ]
+    },
+    "speckled_gray_pavement_with_corrugated_metal_wall": {
+      "canonical_name": "speckled gray pavement with corrugated metal wall",
+      "canonical_name_zh": "斑驳灰色路面配波纹金属墙",
+      "canonical_phrase": "speckled gray pavement, corrugated metal wall, white rectangular planters with green foliage, small colorful balls scattered on the ground",
+      "samples": [
+        "speckled gray pavement, corrugated metal wall, white rectangular planters with green foliage, small colorful balls scattered on the ground"
+      ],
+      "tags": [
+        "gray",
+        "metal",
+        "planter",
+        "urban",
+        "colorful"
+      ]
+    },
+    "rustic_outdoor_props_and_structures": {
+      "canonical_name": "rustic outdoor props and structures",
+      "canonical_name_zh": "质朴户外道具与结构",
+      "canonical_phrase": "weathered wooden steps, wire baskets, dirt paths, and sports equipment",
+      "samples": [
+        "reddish-brown dirt path, weathered black bicycle with front basket, worn wooden steps, rustic wooden structures",
+        "dense foliage, black wire-mesh front basket containing a light-colored object",
+        "wooden step platform marked with black numbers one through five, blue wire basket filled with colorful balls including white, green, red, and metallic pink, plain off-white wall with a dark brown baseboard",
+        "basketball hoop featuring a white backboard and red rim positioned directly behind her, wooden bench, red and white portable basketball hoop pole"
+      ],
+      "tags": [
+        "wood",
+        "basket",
+        "rustic",
+        "outdoor",
+        "worn"
+      ]
+    },
+    "distinctive_rock_formations_clear_blue_sky_floral_green_blanket": {
+      "canonical_name": "distinctive rock formations clear blue sky floral green blanket",
+      "canonical_name_zh": "独特岩层蓝天花毯",
+      "canonical_phrase": "distinctive rock formations, clear blue sky, floral green blanket beneath her",
+      "samples": [
+        "distinctive rock formations, clear blue sky, floral green blanket beneath her"
+      ],
+      "tags": [
+        "blue",
+        "rock",
+        "floral",
+        "outdoor",
+        "blanket"
+      ]
+    },
+    "beige_textured_carpet_white_wicker_chair": {
+      "canonical_name": "beige textured carpet white wicker chair",
+      "canonical_name_zh": "米色地毯白藤椅",
+      "canonical_phrase": "beige textured carpet, white wicker chair, tall white-framed windows, green trees, distant buildings outside",
+      "samples": [
+        "beige textured carpet, white wicker chair, tall white-framed windows, green trees, distant buildings outside"
+      ],
+      "tags": [
+        "beige",
+        "wicker",
+        "carpet",
+        "cozy",
+        "windows"
+      ]
+    },
+    "dirt_ground_dense_foliage_decayed_wooden_structure": {
+      "canonical_name": "dirt ground dense foliage decayed wooden structure",
+      "canonical_name_zh": "泥地浓叶木构",
+      "canonical_phrase": "dirt ground, dense green foliage, wooden structure showing signs of decay, circular yellow sign with black text reading 'BLACK CONSTRUCTION CORPORATION' on left wall, red rectangular sign with white text 'FIRE EXTINGUISHER' on right wall",
+      "samples": [
+        "dirt ground, dense green foliage, wooden structure showing signs of decay, circular yellow sign with black text reading 'BLACK CONSTRUCTION CORPORATION' on left wall, red rectangular sign with white text 'FIRE EXTINGUISHER' on right wall"
+      ],
+      "tags": [
+        "dirt",
+        "wood",
+        "green",
+        "rustic",
+        "yellow sign"
+      ]
+    },
+    "upholstered_furniture_and_window_treatments": {
+      "canonical_name": "upholstered furniture and window treatments",
+      "canonical_name_zh": "软装家具与窗饰",
+      "canonical_phrase": "upholstered couch and armchairs with wooden frames near large windows",
+      "samples": [
+        "green upholstered couch, blurred background door and wall",
+        "white textured bedding, wooden headboard, beige upholstered chair with dark wood frame, dark wall, window with gray curtains",
+        "dark leather headboard, light bedding, large window",
+        "two green upholstered armchairs in foreground, bed partially visible on right, patterned curtains on either side of large window, dark wall behind her",
+        "textured gray couch, wooden paneling, hanging dark cloth",
+        "white bedding, green armchair, lit floor lamp",
+        "light gray upholstered armchair with wooden arms, large wooden-framed windows with multiple panes, sheer white curtains tied back, dark wood paneling along lower wall, light purple carpet",
+        "muted green walls, pale green upholstered armchair visible to right",
+        "dark brown leather armchair with nailhead trim and carved wooden legs, large wooden-framed windows, green foliage outside",
+        "wooden chair, dark doorway, bed with white bedding to the right",
+        "white upholstered couch, wooden window frames, shutters"
+      ],
+      "tags": [
+        "upholstery",
+        "wooden",
+        "curtains",
+        "cozy",
+        "interior"
+      ]
+    },
+    "dense_green_foliage_with_earthy_ground": {
+      "canonical_name": "dense green foliage with earthy ground",
+      "canonical_name_zh": "茂密绿叶配泥土",
+      "canonical_phrase": "dense dark green foliage, lush plants, earthy ground, natural setting",
+      "samples": [
+        "lush green leaves, small red berries",
+        "bright green foliage, sunlit rocks",
+        "dense dark green foliage, tall slender reeds, grasses, vast expanse of calm gray-blue ocean, uniformly overcast sky",
+        "rows of green soybean plants, lush green crops, faintly visible plowed field in the distance",
+        "dense green foliage, earthy ground",
+        "dense dark green foliage with thin branches, ocean in distant background",
+        "rows of lush green leafy plants, dark earth",
+        "dark foliage with green fronds",
+        "dark foliage, earthy terrain",
+        "lush green foliage with small clusters of bright red berries",
+        "faint green foliage visible above head, dark setting"
+      ],
+      "tags": [
+        "green",
+        "foliage",
+        "earth",
+        "nature",
+        "dense"
+      ]
+    },
+    "weathered_wooden_deck_with_lush_foliage": {
+      "canonical_name": "weathered wooden deck with lush foliage",
+      "canonical_name_zh": "风化木甲板与茂盛植被",
+      "canonical_phrase": "weathered wooden deck, lush green tropical foliage, large terracotta planter",
+      "samples": [
+        "weathered wooden deck, lush green tropical foliage, large terracotta planter"
+      ],
+      "tags": [
+        "wood",
+        "terracotta",
+        "green",
+        "tropical",
+        "planter"
+      ]
+    },
+    "blurred_water_distant_greenery_blue_sky": {
+      "canonical_name": "blurred water distant greenery blue sky",
+      "canonical_name_zh": "模糊水景远绿蓝天",
+      "canonical_phrase": "blurred water, distant greenery, blue sky with soft clouds",
+      "samples": [
+        "blurred water, distant greenery, blue sky with soft clouds"
+      ],
+      "tags": [
+        "blue",
+        "water",
+        "greenery",
+        "soft",
+        "clouds"
+      ]
+    },
+    "soft_ambient_shadows": {
+      "canonical_name": "soft ambient shadows",
+      "canonical_name_zh": "柔和环境阴影",
+      "canonical_phrase": "soft shadows",
+      "samples": [
+        "soft shadows"
+      ],
+      "tags": [
+        "diffused",
+        "grey",
+        "ambient",
+        "subtle",
+        "depth"
+      ]
+    },
+    "dark_gray_brick_wall_wooden_lattice_door_frame_stone_steps": {
+      "canonical_name": "dark gray brick wall wooden lattice door frame stone steps",
+      "canonical_name_zh": "深灰砖墙木格门石阶",
+      "canonical_phrase": "dark gray brick wall, wooden lattice door frame, stone steps",
+      "samples": [
+        "dark gray brick wall, wooden lattice door frame, stone steps"
+      ],
+      "tags": [
+        "gray",
+        "brick",
+        "wood",
+        "rustic",
+        "lattice"
+      ]
+    },
+    "dense_dry_brown_vegetation_cluster": {
+      "canonical_name": "dense dry brown vegetation cluster",
+      "canonical_name_zh": "密集干枯棕色植被",
+      "canonical_phrase": "dense cluster of dry brown leaves and tangled vines",
+      "samples": [
+        "short green grass, scattered brown fallen leaves, single large broad-leafed plant lying on grass, dense foliage",
+        "bed of dry brown leaves, out of focus earthy tones",
+        "dense cluster of thin brown plant stems and leaves, tightly intertwined, overlapping organic forms",
+        "dense dark brown dry vegetation, dry tangled vines"
+      ],
+      "tags": [
+        "brown",
+        "dry",
+        "foliage",
+        "tangled",
+        "organic"
+      ]
+    },
+    "diagonal_railway_tracks_with_concrete_platform": {
+      "canonical_name": "diagonal railway tracks with concrete platform",
+      "canonical_name_zh": "对角铁轨混凝土站台",
+      "canonical_phrase": "railway tracks extending diagonally, concrete platform, metal pedestrian bridge overhead, green vegetation along trackside",
+      "samples": [
+        "railway tracks extending diagonally, concrete platform, metal pedestrian bridge overhead, green vegetation along trackside"
+      ],
+      "tags": [
+        "green",
+        "concrete",
+        "metal",
+        "industrial",
+        "diagonal"
+      ]
+    },
+    "blurred_green_forest_background": {
+      "canonical_name": "blurred green forest background",
+      "canonical_name_zh": "模糊绿色森林背景",
+      "canonical_phrase": "indistinct outdoor elements",
+      "samples": [
+        "indistinct outdoor elements"
+      ],
+      "tags": [
+        "green",
+        "foliage",
+        "bokeh",
+        "nature",
+        "depth"
+      ]
+    },
+    "striped_sofa_with_glass_tables_and_coastal_painting": {
+      "canonical_name": "striped sofa with glass tables and coastal painting",
+      "canonical_name_zh": "条纹沙发配玻璃桌与海景画",
+      "canonical_phrase": "striped sofa, two glass-topped tables, large framed landscape painting depicting coastal scene with mountains and water, textured gray walls, white wainscoting, patterned blue carpet, wall-mounted fixture",
+      "samples": [
+        "striped sofa, two glass-topped tables, large framed landscape painting depicting coastal scene with mountains and water, textured gray walls, white wainscoting, patterned blue carpet, wall-mounted fixture"
+      ],
+      "tags": [
+        "blue",
+        "glass",
+        "striped",
+        "coastal",
+        "wainscoting"
+      ]
+    },
+    "distant_houses_and_trees": {
+      "canonical_name": "distant houses and trees",
+      "canonical_name_zh": "远处的房屋与树木",
+      "canonical_phrase": "distant houses and trees",
+      "samples": [
+        "distant houses and trees"
+      ],
+      "tags": [
+        "village",
+        "foliage",
+        "rustic",
+        "scenery",
+        "horizon"
+      ]
+    },
+    "soft_blurred_indistinct_background_shapes": {
+      "canonical_name": "soft blurred indistinct background shapes",
+      "canonical_name_zh": "柔和模糊背景形状",
+      "canonical_phrase": "softly blurred indistinct shapes with muted tones and light patterns",
+      "samples": [
+        "indistinct shapes",
+        "indistinct, softly blurred",
+        "blurred indistinct light patterns",
+        "indistinct shapes and bright highlights",
+        "soft indistinct shapes",
+        "softly blurred indistinct shapes and muted tones"
+      ],
+      "tags": [
+        "blur",
+        "soft",
+        "abstract",
+        "muted",
+        "bokeh"
+      ]
+    },
+    "warm_indistinct_background_tones": {
+      "canonical_name": "warm indistinct background tones",
+      "canonical_name_zh": "暖色模糊背景",
+      "canonical_phrase": "softly blurred warm beige and dark tones with indistinct details",
+      "samples": [
+        "brass faucet with warm golden hue, softly blurred creamy beige tones",
+        "indistinct tones",
+        "solid dark brown tone",
+        "warm beige tones",
+        "warm red and white artificial lights",
+        "warm orange tone",
+        "indistinct warm hues",
+        "warm wooden tones",
+        "indistinct dark tones",
+        "indistinct warm tones"
+      ],
+      "tags": [
+        "warm",
+        "beige",
+        "blurred",
+        "wood",
+        "ambient"
+      ]
+    },
+    "soft_white_fabric_curtains": {
+      "canonical_name": "soft white fabric curtains",
+      "canonical_name_zh": "柔白布帘",
+      "canonical_phrase": "soft white curtains",
+      "samples": [
+        "soft white curtains"
+      ],
+      "tags": [
+        "white",
+        "fabric",
+        "curtains",
+        "soft",
+        "drapes"
+      ]
+    },
+    "wooden_plank_wall_with_blurred_green_foliage": {
+      "canonical_name": "wooden plank wall with blurred green foliage",
+      "canonical_name_zh": "木板墙配模糊绿植",
+      "canonical_phrase": "wooden plank wall, blurred green foliage, wooden structure",
+      "samples": [
+        "wooden plank wall, blurred green foliage, wooden structure"
+      ],
+      "tags": [
+        "wood",
+        "green",
+        "blurred",
+        "rustic",
+        "plank"
+      ]
+    },
+    "light_blue_patterned_sofa_with_white_wicker_frame": {
+      "canonical_name": "light blue patterned sofa with white wicker frame",
+      "canonical_name_zh": "浅蓝花纹白藤框沙发",
+      "canonical_phrase": "light blue patterned sofa with white wicker frame, sofa cushions featuring repeating white tropical palm and lamppost motifs, pale blue walls",
+      "samples": [
+        "light blue patterned sofa with white wicker frame, sofa cushions featuring repeating white tropical palm and lamppost motifs, pale blue walls"
+      ],
+      "tags": [
+        "sofa",
+        "wicker",
+        "palm",
+        "tropical",
+        "blue"
+      ]
+    },
+    "wooden_window_frames_with_greenery": {
+      "canonical_name": "wooden window frames with greenery",
+      "canonical_name_zh": "木框窗与绿植",
+      "canonical_phrase": "weathered wooden window frames showing greenery outside",
+      "samples": [
+        "wooden cabinets, white tiled walls, window with multiple panes showing greenery outside",
+        "white window frame, green palm fronds outside, wooden shelf, small terracotta pots, wooden ring-shaped object",
+        "wooden walls, windows on left side, wooden window frame",
+        "wooden-framed window showing signs of wear and age",
+        "wildflowers, weathered gray wooden barn with slanted roof and small window",
+        "wooden windowsill, refrigerator with glass door and red logo, sandy beach, green hillside, scattered buildings",
+        "stove, large round wok containing green vegetables, large window with multiple panes",
+        "wooden window frames, hints of greenery outside",
+        "wooden house with brown siding and white-framed windows, large tree trunk in foreground on left",
+        "visible window panes, weathered wood grain, greenery, sky",
+        "wooden windowsill, blue-painted window frame, white wall with scattered decorative rock-like objects, greenery outside"
+      ],
+      "tags": [
+        "wood",
+        "green",
+        "window",
+        "rustic",
+        "panes"
+      ]
+    },
+    "lush_green_geraniums_in_dark_ceramic_pot": {
+      "canonical_name": "lush green geraniums in dark ceramic pot",
+      "canonical_name_zh": "深色陶瓷盆中茂盛天竺葵",
+      "canonical_phrase": "lush green geraniums in foreground, large dark green ceramic pot, traditional wooden window frame with frosted glass panes",
+      "samples": [
+        "lush green geraniums in foreground, large dark green ceramic pot, traditional wooden window frame with frosted glass panes"
+      ],
+      "tags": [
+        "green",
+        "ceramic",
+        "geranium",
+        "rustic",
+        "frosted glass"
+      ]
+    },
+    "smooth_light_gray_surface_with_greenery": {
+      "canonical_name": "smooth light gray surface with greenery",
+      "canonical_name_zh": "光滑浅灰表面配绿植",
+      "canonical_phrase": "smooth light gray surface, hints of greenery, indistinct architectural elements",
+      "samples": [
+        "smooth light gray surface, hints of greenery, indistinct architectural elements"
+      ],
+      "tags": [
+        "gray",
+        "smooth",
+        "greenery",
+        "minimalist",
+        "architecture"
+      ]
+    },
+    "rainy_window_with_cluttered_wooden_counter": {
+      "canonical_name": "rainy window with cluttered wooden counter",
+      "canonical_name_zh": "雨窗杂乱木台",
+      "canonical_phrase": "window with rain streaks, blurred green outdoor scenery, cluttered wooden counter with metal funnel, circular metal plate, blue toolbox",
+      "samples": [
+        "window with rain streaks, blurred green outdoor scenery, cluttered wooden counter with metal funnel, circular metal plate, blue toolbox"
+      ],
+      "tags": [
+        "rain",
+        "wood",
+        "metal",
+        "cluttered",
+        "blue"
+      ]
+    },
+    "clear_blue_sky_with_green_foliage": {
+      "canonical_name": "clear blue sky with green foliage",
+      "canonical_name_zh": "蓝天绿植背景",
+      "canonical_phrase": "clear blue sky with soft green foliage and grass",
+      "samples": [
+        "soft blue sky, indistinct green foliage",
+        "vibrant green grass, clear blue sky",
+        "dense tropical vegetation, dusky blue sky",
+        "dense green foliage, clear blue sky",
+        "hints of green foliage, bright blue sky"
+      ],
+      "tags": [
+        "blue",
+        "sky",
+        "green",
+        "foliage",
+        "nature"
+      ]
+    },
+    "paved_surface_with_warm_artificial_lights": {
+      "canonical_name": "paved surface with warm artificial lights",
+      "canonical_name_zh": "铺面暖光背景",
+      "canonical_phrase": "paved surface, hints of warm artificial lights, indistinct shapes",
+      "samples": [
+        "paved surface, hints of warm artificial lights, indistinct shapes"
+      ],
+      "tags": [
+        "pavement",
+        "warm",
+        "concrete",
+        "ambient",
+        "bokeh"
+      ]
+    },
+    "faded_white_walls_with_dark_bluegray_stains": {
+      "canonical_name": "faded white walls with dark blue-gray stains",
+      "canonical_name_zh": "褪色白墙配深蓝灰渍",
+      "canonical_phrase": "faded white walls with dark blue-gray stains, vines climbing left side with purple flowers, window with star-patterned glass, wooden door, vertical red paper banners with black Chinese characters, small red decorative plaque, small awning, brick chimney on upper right, dense green foliage surrounding base and sides",
+      "samples": [
+        "faded white walls with dark blue-gray stains, vines climbing left side with purple flowers, window with star-patterned glass, wooden door, vertical red paper banners with black Chinese characters, small red decorative plaque, small awning, brick chimney on upper right, dense green foliage surrounding base and sides"
+      ],
+      "tags": [
+        "stained",
+        "vines",
+        "paper",
+        "rustic",
+        "chimney"
+      ]
+    },
+    "weathered_gray_rocks_and_gravel": {
+      "canonical_name": "weathered gray rocks and gravel",
+      "canonical_name_zh": "风化灰岩与碎石",
+      "canonical_phrase": "scattered weathered gray rocks, gravel surface, sparse green vegetation",
+      "samples": [
+        "scattered gray rocks, patches of green grass, textured gravel surface",
+        "gravel, overgrown vegetation, railway tracks extending into the distance",
+        "large weathered gray boulders, green leafy branches overhead, large gray rock",
+        "light gray gravel surface",
+        "weathered stone bridge, rushing stream, mossy rocks, textured concrete, wooded backdrop",
+        "gravel ground with scattered small stones, sparse vegetation, small green leafy branch to right",
+        "weathered gray rock, blurred flowing river with sparkling white highlights"
+      ],
+      "tags": [
+        "gray",
+        "rock",
+        "gravel",
+        "weathered",
+        "outdoor"
+      ]
+    },
+    "woodenframed_glass_door_hallway": {
+      "canonical_name": "wooden-framed glass door hallway",
+      "canonical_name_zh": "木框玻璃门走廊",
+      "canonical_phrase": "wooden-framed glass door, hallway visible behind her",
+      "samples": [
+        "wooden-framed glass door, hallway visible behind her"
+      ],
+      "tags": [
+        "wood",
+        "glass",
+        "hallway",
+        "interior",
+        "doorway"
+      ]
+    },
+    "dense_green_foliage_tropical_plants": {
+      "canonical_name": "dense green foliage tropical plants",
+      "canonical_name_zh": "茂密绿植热带植物",
+      "canonical_phrase": "dense green foliage, broad fern leaves, other tropical plants, mossy textured log",
+      "samples": [
+        "dense green foliage, broad fern leaves, other tropical plants, mossy textured log"
+      ],
+      "tags": [
+        "green",
+        "foliage",
+        "fern",
+        "tropical",
+        "mossy"
+      ]
+    },
+    "light_blue_wooden_wall_with_hibiscus_decals": {
+      "canonical_name": "light blue wooden wall with hibiscus decals",
+      "canonical_name_zh": "浅蓝木墙配木槿花贴",
+      "canonical_phrase": "light blue wooden wall decorated with large blue and white hibiscus decals",
+      "samples": [
+        "light blue wooden wall decorated with large blue and white hibiscus decals"
+      ],
+      "tags": [
+        "light blue",
+        "wooden",
+        "hibiscus",
+        "decals",
+        "tropical"
+      ]
+    },
+    "calm_water_distant_mountains_blue_sky": {
+      "canonical_name": "calm water distant mountains blue sky",
+      "canonical_name_zh": "静水远山蓝天",
+      "canonical_phrase": "calm water, distant mountains, vast bright blue sky with scattered fluffy white clouds",
+      "samples": [
+        "calm water, distant mountains, vast bright blue sky with scattered fluffy white clouds"
+      ],
+      "tags": [
+        "blue",
+        "water",
+        "mountain",
+        "scenic",
+        "clouds"
+      ]
+    },
+    "blue_walls_and_tiled_floors_with_hanging_garments": {
+      "canonical_name": "blue walls and tiled floors with hanging garments",
+      "canonical_name_zh": "蓝墙蓝地挂衣",
+      "canonical_phrase": "solid blue walls, blue tiled floor, hanging blue garments, industrial vibe",
+      "samples": [
+        "blue floor, blue wall",
+        "peeling blue walls, mosaic tiled floor, clothes hanging on a line, chandelier",
+        "deep black void and cool blue wall",
+        "blue and white tiled floor, hanging blue garments, metal bucket on a wooden stand",
+        "solid blue wall, blue floor"
+      ],
+      "tags": [
+        "blue",
+        "tiled",
+        "garments",
+        "industrial",
+        "void"
+      ]
+    },
+    "illuminated_storefronts_with_floral_stalls": {
+      "canonical_name": "illuminated storefronts with floral stalls",
+      "canonical_name_zh": "亮灯店铺与花卉摊位",
+      "canonical_phrase": "illuminated storefronts, floral stalls, dark alleyway, metal structures, hanging items",
+      "samples": [
+        "illuminated storefronts, floral stalls, dark alleyway, metal structures, hanging items"
+      ],
+      "tags": [
+        "neon",
+        "metal",
+        "flower",
+        "urban",
+        "hanging"
+      ]
+    },
+    "clothing_racks_with_garments_and_mirror": {
+      "canonical_name": "clothing racks with garments and mirror",
+      "canonical_name_zh": "挂衣架配镜子",
+      "canonical_phrase": "clothing racks full of garments, standing mirror with blue curtain, plastic storage bins, white fan",
+      "samples": [
+        "clothing racks full of garments, standing mirror with blue curtain, plastic storage bins, white fan"
+      ],
+      "tags": [
+        "blue",
+        "plastic",
+        "garments",
+        "retail",
+        "fan"
+      ]
+    },
+    "pure_bright_white_background": {
+      "canonical_name": "pure bright white background",
+      "canonical_name_zh": "纯亮白背景",
+      "canonical_phrase": "pure bright white",
+      "samples": [
+        "pure bright white"
+      ],
+      "tags": [
+        "white",
+        "bright",
+        "minimalist",
+        "studio",
+        "clean"
+      ]
+    },
+    "singlestory_house_with_palm_trees": {
+      "canonical_name": "single-story house with palm trees",
+      "canonical_name_zh": "单层房屋配棕榈树",
+      "canonical_phrase": "single-story house, palm trees, green shrubs, vibrant blue sky with scattered white clouds",
+      "samples": [
+        "single-story house, palm trees, green shrubs, vibrant blue sky with scattered white clouds"
+      ],
+      "tags": [
+        "blue",
+        "sky",
+        "palm",
+        "tropical",
+        "clouds"
+      ]
+    },
+    "urban_street_scene_with_bicycles_and_foliage": {
+      "canonical_name": "urban street scene with bicycles and foliage",
+      "canonical_name_zh": "带自行车和绿植的街景",
+      "canonical_phrase": "bicycles parked near textured concrete walls with green foliage and utility meters",
+      "samples": [
+        "bicycle with a basket, utility meters, white pipes mounted on textured concrete wall, green ferns growing at base",
+        "dense leafy foliage, bicycle handlebar and frame, windows, wooden siding",
+        "gravel ground, tree trunk, green foliage, concrete structure",
+        "green bulletin board, bicycles parked against a wall"
+      ],
+      "tags": [
+        "green",
+        "concrete",
+        "bicycle",
+        "urban",
+        "foliage"
+      ]
+    },
+    "bright_overexposed_white_background": {
+      "canonical_name": "bright overexposed white background",
+      "canonical_name_zh": "明亮过曝白色背景",
+      "canonical_phrase": "bright overexposed white",
+      "samples": [
+        "bright overexposed white"
+      ],
+      "tags": [
+        "white",
+        "bright",
+        "overexposed",
+        "minimalist",
+        "studio"
+      ]
+    },
+    "lush_green_foliage_stone_path": {
+      "canonical_name": "lush green foliage stone path",
+      "canonical_name_zh": "绿植石径",
+      "canonical_phrase": "weathered stone steps and walls covered in lush green moss and foliage",
+      "samples": [
+        "stone path, vibrant green moss covering walls",
+        "weathered green steps, lush green foliage, white doorway, pink flower hanging above head",
+        "green trees, stone steps",
+        "lush green foliage visible through large window, wooden side table with red lampshade featuring tassel fringe",
+        "weathered stone stairs, stone retaining walls, lush green vegetation including ferns, tall grasses, and dense bushes",
+        "green foliage visible outside glass door"
+      ],
+      "tags": [
+        "green",
+        "stone",
+        "moss",
+        "nature",
+        "rustic"
+      ]
+    },
+    "shallow_turquoise_water_vast_clear_blue_sky": {
+      "canonical_name": "shallow turquoise water vast clear blue sky",
+      "canonical_name_zh": "浅绿海水广阔蓝天",
+      "canonical_phrase": "shallow turquoise water, vast clear blue sky, distant green landmass",
+      "samples": [
+        "shallow turquoise water, vast clear blue sky, distant green landmass"
+      ],
+      "tags": [
+        "turquoise",
+        "water",
+        "sky",
+        "landscape",
+        "distant"
+      ]
+    },
+    "white_bed_with_wooden_headboard_and_lamp": {
+      "canonical_name": "white bed with wooden headboard and lamp",
+      "canonical_name_zh": "白床木床头配灯",
+      "canonical_phrase": "white-sheeted bed, wooden headboard, framed landscape painting on wall, wooden nightstand, white telephone, wall-mounted lamp with white shade",
+      "samples": [
+        "white-sheeted bed, wooden headboard, framed landscape painting on wall, wooden nightstand, white telephone, wall-mounted lamp with white shade"
+      ],
+      "tags": [
+        "white",
+        "wood",
+        "bedroom",
+        "vintage",
+        "wall-mounted lamp"
+      ]
+    },
+    "blurred_background_with_other_horses": {
+      "canonical_name": "blurred background with other horses",
+      "canonical_name_zh": "背景模糊有其他马匹",
+      "canonical_phrase": "other horses visible in blurred background",
+      "samples": [
+        "other horses visible in blurred background"
+      ],
+      "tags": [
+        "brown",
+        "grass",
+        "equine",
+        "pastoral",
+        "depth_of_field"
+      ]
+    },
+    "indoor_furniture_and_decor_items": {
+      "canonical_name": "indoor furniture and decor items",
+      "canonical_name_zh": "室内家具与装饰",
+      "canonical_phrase": "wooden tables, bookshelves, lamps, and cluttered surfaces with personal items",
+      "samples": [
+        "wooden desk cluttered with papers and art supplies, colorful abstract painting on the wall, framed pictures, patterned cushion",
+        "round stone table, bowl of noodles with green herbs, condiment bottles, blurred patrons at wooden tables",
+        "desk lamp, shelves with books and decorative items",
+        "round glass-top patio table with metal frame, blurred greenery, stone elements",
+        "wooden bookshelves, framed notices",
+        "table cluttered with makeup items, water bottles, womanal effects, lush green foliage",
+        "lamp on a side table, curtains, books"
+      ],
+      "tags": [
+        "wood",
+        "lamp",
+        "clutter",
+        "cozy",
+        "shelves"
+      ]
+    },
+    "woven_wicker_chair": {
+      "canonical_name": "woven wicker chair",
+      "canonical_name_zh": "编织藤椅",
+      "canonical_phrase": "woven wicker chair",
+      "samples": [
+        "woven wicker chair"
+      ],
+      "tags": [
+        "brown",
+        "wicker",
+        "chair",
+        "rustic",
+        "woven"
+      ]
+    },
+    "weathered_wooden_wall_with_white_trim": {
+      "canonical_name": "weathered wooden wall with white trim",
+      "canonical_name_zh": "风化木墙配白边",
+      "canonical_phrase": "weathered wooden wall with visible grain and white trim",
+      "samples": [
+        "weathered wooden wall with visible grain and white trim"
+      ],
+      "tags": [
+        "wood",
+        "white",
+        "weathered",
+        "rustic",
+        "grain"
+      ]
+    },
+    "dry_golden_shrubbery_blurred_rocky_terrain": {
+      "canonical_name": "dry golden shrubbery blurred rocky terrain",
+      "canonical_name_zh": "干金灌木模糊岩石地形",
+      "canonical_phrase": "dry golden-brown shrubbery, blurred rocky terrain, sparse vegetation",
+      "samples": [
+        "dry golden-brown shrubbery, blurred rocky terrain, sparse vegetation"
+      ],
+      "tags": [
+        "golden",
+        "shrubbery",
+        "rocky",
+        "arid",
+        "sparse"
+      ]
+    },
+    "palm_trees_blue_corrugated_metal_structure_grassy_ground": {
+      "canonical_name": "palm trees blue corrugated metal structure grassy ground",
+      "canonical_name_zh": "棕榈树蓝波纹金属结构草地",
+      "canonical_phrase": "palm trees, blue corrugated metal structure, grassy ground",
+      "samples": [
+        "palm trees, blue corrugated metal structure, grassy ground"
+      ],
+      "tags": [
+        "blue",
+        "metal",
+        "corrugated",
+        "tropical",
+        "grassy"
+      ]
+    },
+    "weathered_industrial_wall_with_peeling_paint": {
+      "canonical_name": "weathered industrial wall with peeling paint",
+      "canonical_name_zh": "风化工业剥落墙",
+      "canonical_phrase": "weathered concrete or brick wall with peeling paint and industrial details",
+      "samples": [
+        "weathered yellow concrete wall painted with red faded text reading 'NO SMOKING' and 'FLAMMABLE STORAGE', bright blue sky with fluffy white clouds, grassy foreground",
+        "weathered yellow wall with red stenciled text including 'SMOKING' and 'STORAGE', green grass",
+        "stone retaining wall on the right, closed storefronts with visible signs on the left",
+        "weathered wall with peeling paint, white appliance partially visible behind her left shoulder, light brown floor",
+        "weathered brick wall with patches of white paint",
+        "weathered wall with peeling white paint revealing underlying gray plaster, window with metal bars and dark glass, icicles dripping from the bottom edge of the wall",
+        "weathered concrete steps, aged industrial brick wall with rust stains, metal pipes",
+        "weathered concrete steps, aged industrial walls with visible wear, discarded metal cart leaning against wall",
+        "weathered concrete wall, frosted glass window, metal frame, dark railing",
+        "weathered yellow wall with peeling paint, window behind her",
+        "gray brick wall, white-framed window with lattice design, dark brown wooden door frame",
+        "weathered concrete wall with white chalk graffiti, rusted metal shipping container with visible rivets, green shrubbery at lower left"
+      ],
+      "tags": [
+        "weathered",
+        "concrete",
+        "peeling",
+        "industrial",
+        "graffiti"
+      ]
+    },
+    "blurred_indistinct_background_elements": {
+      "canonical_name": "blurred indistinct background elements",
+      "canonical_name_zh": "模糊背景元素",
+      "canonical_phrase": "softly blurred indistinct shapes and architectural details",
+      "samples": [
+        "blurred people, a red sign with white text, stone steps",
+        "blurred hints of blue and dark tones",
+        "white open-frame buggy, blurred vehicles and structures",
+        "another woman in light shirt visible blurred",
+        "blurred indistinct shapes, red notebook, pen on surface",
+        "blurred stage lights, indistinct equipment",
+        "blurred white object, dark indistinct background",
+        "blurred urban architecture with soft blue and white tones",
+        "blurred path, soft green and blue tones",
+        "blurred indistinct architectural elements",
+        "pale blue tones, softly blurred",
+        "blurred environment with cool blue tones",
+        "pale blue tones",
+        "vibrant neon signs in bright yellow and blue, red car parked on street, blurred figures of people in distance",
+        "blurred street scene with indistinct figures and signage",
+        "blurred household items including white cables and red object",
+        "blurred city lights with bokeh effect",
+        "blurred with indistinct shapes"
+      ],
+      "tags": [
+        "blur",
+        "bokeh",
+        "indistinct",
+        "urban",
+        "cool_tones"
+      ]
+    },
+    "multipaned_wooden_window_with_condensation": {
+      "canonical_name": "multi-paned wooden window with condensation",
+      "canonical_name_zh": "多格木窗带冷凝水",
+      "canonical_phrase": "multi-paned wooden window, condensation streaks, blurred snowy exterior",
+      "samples": [
+        "multi-paned wooden window, condensation streaks, blurred snowy exterior"
+      ],
+      "tags": [
+        "wood",
+        "brown",
+        "window",
+        "rustic",
+        "condensation"
+      ]
+    },
+    "outoffocus_vertical_striped_pattern": {
+      "canonical_name": "out-of-focus vertical striped pattern",
+      "canonical_name_zh": "虚化竖条纹背景",
+      "canonical_phrase": "out-of-focus vertical striped pattern",
+      "samples": [
+        "out-of-focus vertical striped pattern"
+      ],
+      "tags": [
+        "blue",
+        "fabric",
+        "bokeh",
+        "abstract",
+        "stripes"
+      ]
+    },
+    "white_wicker_bench_with_floral_cushion": {
+      "canonical_name": "white wicker bench with floral cushion",
+      "canonical_name_zh": "白色藤椅花卉坐垫",
+      "canonical_phrase": "white wicker bench, light blue floral patterned cushion, light blue and white tropical leaf patterned fabric",
+      "samples": [
+        "white wicker bench, light blue floral patterned cushion, light blue and white tropical leaf patterned fabric"
+      ],
+      "tags": [
+        "wicker",
+        "cushion",
+        "floral",
+        "tropical",
+        "light blue"
+      ]
+    },
+    "dusky_sky_with_scattered_clouds_and_silhouetted_buildings": {
+      "canonical_name": "dusky sky with scattered clouds and silhouetted buildings",
+      "canonical_name_zh": "暮色天空散云建筑剪影",
+      "canonical_phrase": "dusky sky with scattered clouds, buildings visible in silhouette to the right",
+      "samples": [
+        "dusky sky with scattered clouds, buildings visible in silhouette to the right"
+      ],
+      "tags": [
+        "dusky",
+        "clouds",
+        "silhouette",
+        "urban",
+        "atmospheric"
+      ]
+    },
+    "softly_blurred_neutral_background": {
+      "canonical_name": "softly blurred neutral background",
+      "canonical_name_zh": "柔和模糊中性背景",
+      "canonical_phrase": "softly blurred background with indistinct light tones",
+      "samples": [
+        "softly blurred with indistinct light tones",
+        "softly blurred indoor setting",
+        "neutral tones, softly blurred",
+        "softly blurred with cool purple and white tones",
+        "softly blurred with indistinct light source",
+        "softly blurred with warm earthy tones",
+        "dark tones, softly blurred"
+      ],
+      "tags": [
+        "blur",
+        "neutral",
+        "soft",
+        "indistinct",
+        "ambient"
+      ]
+    },
+    "vintage_radiator_with_red_stained_panels": {
+      "canonical_name": "vintage radiator with red stained panels",
+      "canonical_name_zh": "复古红染竖板散热器",
+      "canonical_phrase": "vintage radiator with red stained vertical panels",
+      "samples": [
+        "vintage radiator with red stained vertical panels"
+      ],
+      "tags": [
+        "red",
+        "wood",
+        "radiator",
+        "vintage",
+        "stained"
+      ]
+    },
+    "large_multipaned_windows_with_scooter": {
+      "canonical_name": "large multi-paned windows with scooter",
+      "canonical_name_zh": "多窗格大窗与踏板车",
+      "canonical_phrase": "large multi-paned windows, scooter occupying left foreground",
+      "samples": [
+        "large multi-paned windows, scooter occupying left foreground"
+      ],
+      "tags": [
+        "window",
+        "glass",
+        "scooter",
+        "urban",
+        "foreground"
+      ]
+    },
+    "light_wooden_lattice_headboard_with_beige_ceramic_lamp": {
+      "canonical_name": "light wooden lattice headboard with beige ceramic lamp",
+      "canonical_name_zh": "浅色木格床头板配米色陶瓷灯",
+      "canonical_phrase": "light wooden lattice headboard, wooden nightstand, beige ceramic lamp",
+      "samples": [
+        "light wooden lattice headboard, wooden nightstand, beige ceramic lamp"
+      ],
+      "tags": [
+        "wood",
+        "beige",
+        "lattice",
+        "rustic",
+        "ceramic"
+      ]
+    },
+    "weathered_wooden_shed_with_peeling_gray_siding": {
+      "canonical_name": "weathered wooden shed with peeling gray siding",
+      "canonical_name_zh": "风化木棚剥落灰墙",
+      "canonical_phrase": "weathered wooden shed with peeling gray siding, small window with shutter, tall wooden utility pole",
+      "samples": [
+        "weathered wooden shed with peeling gray siding, small window with shutter, tall wooden utility pole"
+      ],
+      "tags": [
+        "gray",
+        "wood",
+        "shed",
+        "rustic",
+        "peeling"
+      ]
+    },
+    "rusted_metal_walls_with_chainlink_ceiling": {
+      "canonical_name": "rusted metal walls with chain-link ceiling",
+      "canonical_name_zh": "锈蚀金属墙链网顶",
+      "canonical_phrase": "rusted metal walls, chain-link fence ceiling, red fire extinguisher, faded warning signs reading DANGER HIGH VOLTAGE and FIRE EXTINGUISHER, large metal box labeled BLACK CORPORATION",
+      "samples": [
+        "rusted metal walls, chain-link fence ceiling, red fire extinguisher, faded warning signs reading DANGER HIGH VOLTAGE and FIRE EXTINGUISHER, large metal box labeled BLACK CORPORATION"
+      ],
+      "tags": [
+        "rust",
+        "metal",
+        "industrial",
+        "red",
+        "black corporation"
+      ]
+    },
+    "floral_patterned_bedspread_with_varied_colors": {
+      "canonical_name": "floral patterned bedspread with varied colors",
+      "canonical_name_zh": "多彩花卉图案床罩",
+      "canonical_phrase": "floral patterned bedspread with vibrant or muted colors and visible texture",
+      "samples": [
+        "floral patterned bedspread with muted tones",
+        "floral patterned bedspread with visible stitching and creases",
+        "floral patterned bedspread with soft yellow pink and purple hues",
+        "floral patterned bedspread, vertical light blue and white striped wallpaper",
+        "floral patterned bedspread with large red, blue, and green flowers on white background",
+        "purple satin pillow beneath head, striped brown and beige bedspread",
+        "patterned floral bedspread",
+        "floral patterned bedspread with muted brown floral motifs on a cream background",
+        "floral patterned bedspread with red and blue flowers",
+        "floral patterned bedding with vibrant red and blue flowers on a light background"
+      ],
+      "tags": [
+        "floral",
+        "bedspread",
+        "patterned",
+        "textured",
+        "colorful"
+      ]
+    },
+    "textured_colored_bedsheet_with_wall": {
+      "canonical_name": "textured colored bedsheet with wall",
+      "canonical_name_zh": "带墙面的彩色床单",
+      "canonical_phrase": "textured colored bedsheet with patterned or plain wall background",
+      "samples": [
+        "light gray patterned sheets",
+        "light blue bedsheet",
+        "blue patterned satin sheets, wall behind",
+        "light blue patterned sheets, blurred gray wall",
+        "textured bedsheet",
+        "blue satin sheet, plain beige wall, warm glowing sconce on the left",
+        "cream-colored sheets"
+      ],
+      "tags": [
+        "bedsheet",
+        "satin",
+        "blue",
+        "patterned",
+        "wall"
+      ]
+    },
+    "light_blue_wall_with_hibiscus_decals": {
+      "canonical_name": "light blue wall with hibiscus decals",
+      "canonical_name_zh": "浅蓝墙配木槿花贴",
+      "canonical_phrase": "light blue wall with large blue hibiscus flower decals",
+      "samples": [
+        "light blue wall with large blue hibiscus flower decals"
+      ],
+      "tags": [
+        "blue",
+        "wall",
+        "hibiscus",
+        "decals",
+        "tropical"
+      ]
+    },
+    "patterned_green_bedspread_with_window_trim": {
+      "canonical_name": "patterned green bedspread with window trim",
+      "canonical_name_zh": "绿色花纹床罩配窗框",
+      "canonical_phrase": "patterned green bedspread, window with green trim, sheer white curtains",
+      "samples": [
+        "patterned green bedspread, window with green trim, sheer white curtains"
+      ],
+      "tags": [
+        "green",
+        "patterned",
+        "bedspread",
+        "sheer",
+        "trim"
+      ]
+    },
+    "weathered_wooden_chair_with_beams": {
+      "canonical_name": "weathered wooden chair with beams",
+      "canonical_name_zh": "风化木椅与横梁",
+      "canonical_phrase": "weathered wooden chair, visible wooden beams, wooden bench",
+      "samples": [
+        "weathered wooden chair, visible wooden beams, wooden bench"
+      ],
+      "tags": [
+        "brown",
+        "wood",
+        "bench",
+        "rustic",
+        "beams"
+      ]
+    },
+    "muted_green_walls_with_white_blinds": {
+      "canonical_name": "muted green walls with white blinds",
+      "canonical_name_zh": "灰绿墙配白百叶窗",
+      "canonical_phrase": "muted green walls, window with bright white vertical blinds, black floor lamp with round bulb, small black horse silhouette mounted on wall",
+      "samples": [
+        "muted green walls, window with bright white vertical blinds, black floor lamp with round bulb, small black horse silhouette mounted on wall"
+      ],
+      "tags": [
+        "green",
+        "wood",
+        "lamp",
+        "minimalist",
+        "silhouette"
+      ]
+    },
+    "clear_blue_sky_distant_rocky_coastline": {
+      "canonical_name": "clear blue sky distant rocky coastline",
+      "canonical_name_zh": "晴空远岸",
+      "canonical_phrase": "clear blue sky, distant rocky coastline",
+      "samples": [
+        "clear blue sky, distant rocky coastline"
+      ],
+      "tags": [
+        "blue",
+        "sky",
+        "rocky",
+        "coastline",
+        "distant"
+      ]
+    },
+    "blurred_background_with_white_surface": {
+      "canonical_name": "blurred background with white surface",
+      "canonical_name_zh": "模糊背景配白色表面",
+      "canonical_phrase": "blurred background with white surface and soft focus",
+      "samples": [
+        "deep green curtain backdrop, blurred motorcycle in background, white surface",
+        "blurred window frames, textured white fabric surface",
+        "white railing, blurred background",
+        "white surface, blurred background"
+      ],
+      "tags": [
+        "white",
+        "blurred",
+        "surface",
+        "soft",
+        "minimal"
+      ]
+    },
+    "red_metallic_surface_item": {
+      "canonical_name": "red metallic surface item",
+      "canonical_name_zh": "红色金属表面物品",
+      "canonical_phrase": "red item, metallic surface",
+      "samples": [
+        "red item, metallic surface"
+      ],
+      "tags": [
+        "red",
+        "metallic",
+        "object",
+        "shiny",
+        "texture"
+      ]
+    },
+    "white_sheer_curtains_beige_carpet": {
+      "canonical_name": "white sheer curtains beige carpet",
+      "canonical_name_zh": "白纱帘米色地毯",
+      "canonical_phrase": "white sheer curtains, beige carpet, white surface",
+      "samples": [
+        "white sheer curtains, beige carpet, white surface"
+      ],
+      "tags": [
+        "white",
+        "sheer",
+        "beige",
+        "carpet",
+        "minimalist"
+      ]
+    },
+    "white_daisies_foreground_tree_trunk_left": {
+      "canonical_name": "white daisies foreground tree trunk left",
+      "canonical_name_zh": "白雏菊前景树桩左侧",
+      "canonical_phrase": "white daisies in foreground, tree trunk to left, blurred foliage and wooden posts in background",
+      "samples": [
+        "white daisies in foreground, tree trunk to left, blurred foliage and wooden posts in background"
+      ],
+      "tags": [
+        "white",
+        "wood",
+        "daisies",
+        "blurred",
+        "rustic"
+      ]
+    },
+    "weathered_wooden_structure_grid_window": {
+      "canonical_name": "weathered wooden structure grid window",
+      "canonical_name_zh": "风化木构网格窗",
+      "canonical_phrase": "weathered wooden structure with a grid-like window",
+      "samples": [
+        "weathered wooden structure with a grid-like window"
+      ],
+      "tags": [
+        "brown",
+        "wood",
+        "grid",
+        "rustic",
+        "window"
+      ]
+    },
+    "interior_window_frames_and_furnishings": {
+      "canonical_name": "interior window frames and furnishings",
+      "canonical_name_zh": "室内窗框与陈设",
+      "canonical_phrase": "window frames with blinds, curtains, upholstered seats, and interior furnishings",
+      "samples": [
+        "window with visible blinds, bed with white sheets, blue upholstered chair",
+        "maroon fabric seats, light gray curtains tied back, green fields, power lines outside",
+        "textured grey rug, metallic trim, seatbelt buckle, window frame",
+        "vintage dark blue classic four-door sedan, metal A-frame ladder, sparse dry vegetation, distant trees, clear blue sky, window frame",
+        "worn black interior, metal door frame, window latch, bright sunlight outside",
+        "metallic window frame, patterned headrest fabric, plastic bottle, horizontal blinds"
+      ],
+      "tags": [
+        "window",
+        "blinds",
+        "upholstery",
+        "metal",
+        "curtains"
+      ]
+    },
+    "wooden_interior_with_windows_and_plants": {
+      "canonical_name": "wooden interior with windows and plants",
+      "canonical_name_zh": "木质窗景绿植室内",
+      "canonical_phrase": "wooden floors and walls with large windows showing greenery and potted plants",
+      "samples": [
+        "wooden-framed windows with sheer curtains, wall-mounted spherical lamp, cushioned bench against the wall",
+        "wooden floor with clearly visible planks, bright window, open doorway leading to bright outdoor area",
+        "high exposed beams, large windows revealing green foliage outside, polished wooden floor",
+        "dark wooden floor, white telescope mounted on a tripod, potted green plants, large window",
+        "wooden chair, potted plants, doorway, windows with greenery visible outside",
+        "wooden floors, potted plants, windows",
+        "wooden flooring, basketball hoop in upper right, large window with wooden frames showing green trees outside, white air conditioning unit standing tall to the right, wooden bench beneath the window",
+        "wooden stool, blue cushioned surface, white cloth, black bag, lush green foliage",
+        "wooden flooring, sheer curtains, window with metal railing outside"
+      ],
+      "tags": [
+        "wood",
+        "green",
+        "window",
+        "natural",
+        "indoor"
+      ]
+    },
+    "dark_wooden_bench_with_geometric_lattice_back": {
+      "canonical_name": "dark wooden bench with geometric lattice back",
+      "canonical_name_zh": "深色木凳几何格栅背",
+      "canonical_phrase": "dark wooden bench with geometric lattice back, blurred greenery, sunlight filtering through the lattice",
+      "samples": [
+        "dark wooden bench with geometric lattice back, blurred greenery, sunlight filtering through the lattice"
+      ],
+      "tags": [
+        "dark",
+        "wood",
+        "bench",
+        "geometric",
+        "sunlight"
+      ]
+    },
+    "small_brown_white_horse_with_thick_mane": {
+      "canonical_name": "small brown white horse with thick mane",
+      "canonical_name_zh": "棕白厚鬃小马",
+      "canonical_phrase": "small brown and white horse with thick mane, other horses, wooden fence, snow-covered ground, distant trees, buildings",
+      "samples": [
+        "small brown and white horse with thick mane, other horses, wooden fence, snow-covered ground, distant trees, buildings"
+      ],
+      "tags": [
+        "brown",
+        "white",
+        "thick mane",
+        "snowy",
+        "wooden fence"
+      ]
+    },
+    "white_tiled_walls_with_radiator_pipe": {
+      "canonical_name": "white tiled walls with radiator pipe",
+      "canonical_name_zh": "白色瓷砖墙配暖气片",
+      "canonical_phrase": "white tiled walls, radiator pipe visible on lower left",
+      "samples": [
+        "white tiled walls, radiator pipe visible on lower left"
+      ],
+      "tags": [
+        "white",
+        "tile",
+        "radiator",
+        "industrial",
+        "pipe"
+      ]
+    },
+    "low_wooden_fence_with_distant_utility_poles": {
+      "canonical_name": "low wooden fence with distant utility poles",
+      "canonical_name_zh": "低木栅栏与远电线杆",
+      "canonical_phrase": "low wooden fence, distant utility poles and wires, gradient sky transitioning from teal to orange near horizon",
+      "samples": [
+        "low wooden fence, distant utility poles and wires, gradient sky transitioning from teal to orange near horizon"
+      ],
+      "tags": [
+        "wood",
+        "teal",
+        "orange",
+        "rural",
+        "wires"
+      ]
+    },
+    "blurred_greenery_white_textured_fabric": {
+      "canonical_name": "blurred greenery white textured fabric",
+      "canonical_name_zh": "模糊绿植白纹织物",
+      "canonical_phrase": "blurred greenery outside, white textured fabric",
+      "samples": [
+        "blurred greenery outside, white textured fabric"
+      ],
+      "tags": [
+        "green",
+        "white",
+        "fabric",
+        "soft",
+        "texture"
+      ]
+    },
+    "wooden_surface_paneling_and_doors": {
+      "canonical_name": "wooden surface paneling and doors",
+      "canonical_name_zh": "木质表面与门板",
+      "canonical_phrase": "wooden surface with vertical blinds, sliding doors, lockers, and horizontal paneling",
+      "samples": [
+        "wooden surface, vertical blinds",
+        "wooden sliding doors with horizontal panels and round knobs",
+        "wooden lockers lining both sides",
+        "horizontal wooden paneling"
+      ],
+      "tags": [
+        "wood",
+        "brown",
+        "interior",
+        "slatted",
+        "furniture"
+      ]
+    },
+    "bright_snowy_outdoor_scene_with_blurred_wooden_window_structure": {
+      "canonical_name": "bright snowy outdoor scene with blurred wooden window structure",
+      "canonical_name_zh": "明亮雪景窗外模糊木结构",
+      "canonical_phrase": "bright snowy outdoor scene, blurred wooden structure visible through the window",
+      "samples": [
+        "bright snowy outdoor scene, blurred wooden structure visible through the window"
+      ],
+      "tags": [
+        "snowy",
+        "wood",
+        "window",
+        "blurred",
+        "bright"
+      ]
+    },
+    "hanging_white_mosquito_net_with_stacked_blue_bird_cages": {
+      "canonical_name": "hanging white mosquito net with stacked blue bird cages",
+      "canonical_name_zh": "悬挂白蚊帐配叠蓝鸟笼",
+      "canonical_phrase": "hanging white mosquito net, stacked blue bird cages, potted plants with purple and red flowers, blurred wooden structure",
+      "samples": [
+        "hanging white mosquito net, stacked blue bird cages, potted plants with purple and red flowers, blurred wooden structure"
+      ],
+      "tags": [
+        "white",
+        "wood",
+        "net",
+        "rustic",
+        "cages"
+      ]
+    },
+    "large_sunlit_rugged_desert_rock_formations": {
+      "canonical_name": "large sunlit rugged desert rock formations",
+      "canonical_name_zh": "巨大阳光沙漠岩层",
+      "canonical_phrase": "large sunlit rock formation, rugged desert rock formations, vibrant deep blue sky",
+      "samples": [
+        "large sunlit rock formation, rugged desert rock formations, vibrant deep blue sky"
+      ],
+      "tags": [
+        "blue",
+        "rock",
+        "desert",
+        "rugged",
+        "sunlit"
+      ]
+    },
+    "urban_buildings_with_windows_and_textures": {
+      "canonical_name": "urban buildings with windows and textures",
+      "canonical_name_zh": "带窗户纹理的都市建筑",
+      "canonical_phrase": "weathered urban buildings with glass windows, concrete facades, and rooftop details",
+      "samples": [
+        "weathered urban buildings with peeling paint, balconies, windows, green tree branches overhead",
+        "dark textured rooftop ledge, tall glass and concrete buildings",
+        "tall modern buildings with glass and concrete facades, urban skyline",
+        "portion of a building with sloped roof and windows",
+        "dense urban skyline with tall residential buildings",
+        "urban buildings and power lines reflected in glass, sheer curtain",
+        "red-roofed stone building with white windows, wet pavement with rain streaks, glass window with faint reflections",
+        "tall modern buildings with visible windows and air conditioning units",
+        "urban buildings, utility wires reflected in glass, sheer light-colored curtain to the right",
+        "weathered metal climbing structure, trees, rooftops"
+      ],
+      "tags": [
+        "urban",
+        "concrete",
+        "glass",
+        "weathered",
+        "skyline"
+      ]
+    },
+    "green_canvas_tent_with_drying_clothes": {
+      "canonical_name": "green canvas tent with drying clothes",
+      "canonical_name_zh": "绿帆布帐篷晾衣",
+      "canonical_phrase": "large green canvas tent, clothes drying on a line, trees and foliage dense, basketball hoop visible above, vast deep blue sky with wispy clouds",
+      "samples": [
+        "large green canvas tent, clothes drying on a line, trees and foliage dense, basketball hoop visible above, vast deep blue sky with wispy clouds"
+      ],
+      "tags": [
+        "canvas",
+        "laundry",
+        "outdoor",
+        "rustic",
+        "hoop"
+      ]
+    },
+    "rolling_sandy_hills_under_bright_pale_sky": {
+      "canonical_name": "rolling sandy hills under bright pale sky",
+      "canonical_name_zh": "沙丘与淡蓝天",
+      "canonical_phrase": "rolling sandy hills under a bright pale sky",
+      "samples": [
+        "rolling sandy hills under a bright pale sky"
+      ],
+      "tags": [
+        "sand",
+        "hills",
+        "pale",
+        "sky",
+        "desert"
+      ]
+    },
+    "vibrant_outdoor_market_stalls_with_crates": {
+      "canonical_name": "vibrant outdoor market stalls with crates",
+      "canonical_name_zh": "色彩鲜艳的户外市场摊位",
+      "canonical_phrase": "crowded market stalls with white crates, colorful awnings, and produce",
+      "samples": [
+        "white crates overflowing with citrus fruits and other produce, vibrant market stalls",
+        "market stalls with yellow flowers in white pots, wooden crates, awnings overhead, blurred pedestrians",
+        "crowded market stalls with colorful awnings, pedestrians walking, multi-story buildings with Chinese signage, overhead wires",
+        "bright yellow canopy with metal truss structure, market stalls with white trays, people moving behind"
+      ],
+      "tags": [
+        "yellow",
+        "wooden",
+        "canopy",
+        "bustling",
+        "crates"
+      ]
+    },
+    "blue_scooter_with_white_wire_basket": {
+      "canonical_name": "blue scooter with white wire basket",
+      "canonical_name_zh": "蓝车白篮",
+      "canonical_phrase": "blue scooter with white wire basket, large windows",
+      "samples": [
+        "blue scooter with white wire basket, large windows"
+      ],
+      "tags": [
+        "blue",
+        "metal",
+        "scooter",
+        "vintage",
+        "wire basket"
+      ]
+    },
+    "worn_wooden_planks_with_metal_edges": {
+      "canonical_name": "worn wooden planks with metal edges",
+      "canonical_name_zh": "磨损木板配金属边缘",
+      "canonical_phrase": "yellow circular sign with black text partially visible behind her head, worn wooden planks, metal edges",
+      "samples": [
+        "yellow circular sign with black text partially visible behind her head, worn wooden planks, metal edges"
+      ],
+      "tags": [
+        "wood",
+        "metal",
+        "rustic",
+        "circular",
+        "planks"
+      ]
+    },
+    "white_bed_with_white_linens": {
+      "canonical_name": "white bed with white linens",
+      "canonical_name_zh": "白色床铺与白色床品",
+      "canonical_phrase": "white bed with white sheets and pillows",
+      "samples": [
+        "white bedsheet, blurred green foliage, dark wooden door with glass panes",
+        "bed with white sheets, bedhead visible",
+        "white bed with pillows, brick walls",
+        "bed with white bedding, plain light-colored wall",
+        "white sheets and pillows",
+        "bed with white sheets and pillow, window with sheer white curtains and dark frame",
+        "white bed with eyelet lace bed skirt, white metal bed frame, light blue pillow, framed artwork on wall, tiled floor",
+        "bed covered in soft white linens with visible stitching, window",
+        "bed with white sheets, window with sheer curtains",
+        "white bed",
+        "white bed, white pillows",
+        "white bedsheet",
+        "white patterned pillow",
+        "white bed frame, light-colored bedding and pillows",
+        "white sheets, window frame, faint outline of ceiling fan",
+        "white bed, partially drawn curtains, light purple walls",
+        "rumpled white bedsheet, textured bedding",
+        "white rumpled sheets",
+        "white rumpled sheets, plain wall",
+        "white rumpled bedsheet",
+        "white sheets",
+        "white pillows",
+        "white bed, white pillow, white bedding",
+        "white bedsheet, white pillows"
+      ],
+      "tags": [
+        "white",
+        "bedding",
+        "sheets",
+        "pillows",
+        "linens"
+      ]
+    },
+    "fluffy_dark_dog_with_large_red_farm_equipment": {
+      "canonical_name": "fluffy dark dog with large red farm equipment",
+      "canonical_name_zh": "黑狗配红色农具",
+      "canonical_phrase": "fluffy dark dog, large red farm equipment, black tractor, rolling hills, green fields, foreground gravel",
+      "samples": [
+        "fluffy dark dog, large red farm equipment, black tractor, rolling hills, green fields, foreground gravel"
+      ],
+      "tags": [
+        "dark",
+        "red",
+        "tractor",
+        "hills",
+        "gravel"
+      ]
+    }
+  },
+  "statistics": {
+    "total_clusters": 242,
+    "multi_sample_clusters": 70,
+    "single_sample_clusters": 172
+  }
+}

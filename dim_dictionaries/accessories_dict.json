@@ -1,0 +1,752 @@
+{
+  "dimension": "accessories",
+  "version": "1.0",
+  "generated_date": "2026-03-18",
+  "mode": "clustered",
+  "clusters": {
+    "white_flip_flops_with_varied_details": {
+      "canonical_name": "white flip flops with varied details",
+      "canonical_name_zh": "白色人字拖",
+      "canonical_phrase": "white flip flops with white soles or red straps",
+      "samples": [
+        "light purple flip flops with white soles",
+        "white earbuds",
+        "white flip-flops",
+        "white flip-flops, crumpled white plastic bag held in right hand",
+        "white flip-flops with red straps",
+        "white flip flops"
+      ],
+      "tags": [
+        "white",
+        "flip-flops",
+        "footwear",
+        "casual",
+        "soles"
+      ]
+    },
+    "small_purple_hair_clip_with_white_thong_sandals": {
+      "canonical_name": "small purple hair clip with white thong sandals",
+      "canonical_name_zh": "紫色发夹配白色凉鞋",
+      "canonical_phrase": "small purple hair clip, white thong sandals",
+      "samples": [
+        "small purple hair clip, white thong sandals"
+      ],
+      "tags": [
+        "purple",
+        "clip",
+        "sandals",
+        "minimalist",
+        "thong"
+      ]
+    },
+    "bright_yellow_slipon_shoes_with_orange_soles": {
+      "canonical_name": "bright yellow slip-on shoes with orange soles",
+      "canonical_name_zh": "亮黄橙色底懒人鞋",
+      "canonical_phrase": "bright yellow slip-on shoes with orange soles",
+      "samples": [
+        "bright yellow slip-on shoes with orange soles"
+      ],
+      "tags": [
+        "yellow",
+        "orange",
+        "slip-on",
+        "casual",
+        "rubber-sole"
+      ]
+    },
+    "white_knit_accessories_and_eyewear": {
+      "canonical_name": "white knit accessories and eyewear",
+      "canonical_name_zh": "白色针织配饰与眼镜",
+      "canonical_phrase": "white knitted mittens, gloves, scarf, round glasses, and silver scissors",
+      "samples": [
+        "white knitted mittens",
+        "white knit gloves",
+        "round white-rimmed glasses",
+        "thin red-framed glasses",
+        "rectangular glasses with thin frames",
+        "thick white knit scarf draped around neck",
+        "silver-framed oval glasses held by the temples",
+        "white comb with visible brand text, silver scissors",
+        "scissors, comb",
+        "white round-rimmed glasses",
+        "white sun hat, gloves",
+        "white gloves held clasped in front of waist"
+      ],
+      "tags": [
+        "white",
+        "knit",
+        "gloves",
+        "glasses",
+        "vintage"
+      ]
+    },
+    "wooden_platform_sandals_dark_straps": {
+      "canonical_name": "wooden platform sandals dark straps",
+      "canonical_name_zh": "木底凉鞋深色带",
+      "canonical_phrase": "wooden platform sandals with dark straps",
+      "samples": [
+        "wooden platform sandals with dark straps"
+      ],
+      "tags": [
+        "wood",
+        "sandals",
+        "platform",
+        "dark",
+        "straps"
+      ]
+    },
+    "colorful_woven_hair_accessories": {
+      "canonical_name": "colorful woven hair accessories",
+      "canonical_name_zh": "多彩编织发饰",
+      "canonical_phrase": "colorful woven hair tie ribbon headband clip",
+      "samples": [
+        "light-colored decorative hair tie",
+        "light blue ribbon",
+        "colorful crocheted headband in yellow orange and cream stripes",
+        "gray hair accessory",
+        "blue hair clip",
+        "light-colored woven band",
+        "blue patterned hair clip"
+      ],
+      "tags": [
+        "hair",
+        "ribbon",
+        "woven",
+        "colorful",
+        "clip"
+      ]
+    },
+    "light_brown_woven_leather_sandals": {
+      "canonical_name": "light brown woven leather sandals",
+      "canonical_name_zh": "浅棕色编织凉鞋",
+      "canonical_phrase": "light brown woven sandals",
+      "samples": [
+        "light brown woven sandals"
+      ],
+      "tags": [
+        "light brown",
+        "woven",
+        "sandals",
+        "boho",
+        "leather"
+      ]
+    },
+    "casual_athletic_sneakers_with_laces": {
+      "canonical_name": "casual athletic sneakers with laces",
+      "canonical_name_zh": "带鞋带的休闲运动鞋",
+      "canonical_phrase": "casual athletic sneakers with visible laces in various colors",
+      "samples": [
+        "light blue sneakers",
+        "light-colored sneakers",
+        "blue and white striped athletic sneakers with white laces",
+        "black high-top canvas sneakers with white laces and circular logo patch, white woven straw hat with small green leaf and yellow flower embroidery held in hands",
+        "orange sneakers with white laces, graphic print socks",
+        "light gray canvas sneakers",
+        "white sneakers with visible laces",
+        "white canvas sneakers",
+        "white low-top sneakers with light blue laces"
+      ],
+      "tags": [
+        "sneakers",
+        "canvas",
+        "white",
+        "casual",
+        "laces"
+      ]
+    },
+    "light_colored_woven_sandals": {
+      "canonical_name": "light colored woven sandals",
+      "canonical_name_zh": "浅色编织凉鞋",
+      "canonical_phrase": "light beige woven sandals with thin straps",
+      "samples": [
+        "light beige woven sandals",
+        "light brown sandals",
+        "light-colored flat sandals with straps",
+        "light-colored thong sandals",
+        "light beige loafers",
+        "light-colored sandals",
+        "yellow and black sandals",
+        "light beige wedge sandals with woven straps",
+        "light beige thong sandals with thin straps"
+      ],
+      "tags": [
+        "beige",
+        "woven",
+        "sandals",
+        "flat",
+        "thong"
+      ]
+    },
+    "simple_colorful_thong_sandals": {
+      "canonical_name": "simple colorful thong sandals",
+      "canonical_name_zh": "简约多彩人字拖凉鞋",
+      "canonical_phrase": "simple colorful thong sandals with straps and bright soles",
+      "samples": [
+        "green thong sandals",
+        "pink sandals with straps",
+        "bright yellow sandal with green sole",
+        "brown sandals",
+        "simple gold thong sandals",
+        "simple sandals"
+      ],
+      "tags": [
+        "sandals",
+        "thong",
+        "colorful",
+        "straps",
+        "casual"
+      ]
+    },
+    "yellow_flip_flops_dark_jacket_held_in_left_hand": {
+      "canonical_name": "yellow flip flops dark jacket held in left hand",
+      "canonical_name_zh": "黄色人字拖左手持深色夹克",
+      "canonical_phrase": "yellow flip flops, dark jacket held in left hand",
+      "samples": [
+        "yellow flip flops, dark jacket held in left hand"
+      ],
+      "tags": [
+        "yellow",
+        "leather",
+        "flip flops",
+        "casual",
+        "held"
+      ]
+    },
+    "black_star_patterned_socks_with_brown_strap_shoes": {
+      "canonical_name": "black star patterned socks with brown strap shoes",
+      "canonical_name_zh": "黑底紫星袜配棕带鞋",
+      "canonical_phrase": "black patterned socks with small purple star-like motifs, brown Mary Jane style shoes with straps",
+      "samples": [
+        "black patterned socks with small purple star-like motifs, brown Mary Jane style shoes with straps"
+      ],
+      "tags": [
+        "socks",
+        "shoes",
+        "purple",
+        "straps",
+        "mary jane"
+      ]
+    },
+    "red_pointed_strappy_high_heels": {
+      "canonical_name": "red pointed strappy high heels",
+      "canonical_name_zh": "红色尖头绑带高跟鞋",
+      "canonical_phrase": "dark red pointed-toe strappy high heels on feet",
+      "samples": [
+        "red pointed-toe high heel on left foot",
+        "strappy red high heels",
+        "dark red high heels",
+        "dark red pointed heels",
+        "red high-heeled shoes",
+        "red open-toe heels"
+      ],
+      "tags": [
+        "red",
+        "leather",
+        "heels",
+        "elegant",
+        "pointed"
+      ]
+    },
+    "glossy_colored_lipsticks_and_ribbons": {
+      "canonical_name": "glossy colored lipsticks and ribbons",
+      "canonical_name_zh": "光泽唇彩与丝带",
+      "canonical_phrase": "glossy red or pink lipstick and red ribbon accessories",
+      "samples": [
+        "red ribbon",
+        "glossy red lipstick",
+        "glossy pink lipstick",
+        "pink lipstick",
+        "reddish lipstick"
+      ],
+      "tags": [
+        "lipstick",
+        "ribbon",
+        "glossy",
+        "red",
+        "pink"
+      ]
+    },
+    "white_and_dark_sneakers_with_laces": {
+      "canonical_name": "white and dark sneakers with laces",
+      "canonical_name_zh": "白黑系带运动鞋",
+      "canonical_phrase": "white or dark brown sneakers with visible laces and patterned soles",
+      "samples": [
+        "dark brown sneakers with white soles and patterned tread",
+        "white sneakers",
+        "white slip-on sneakers with visible laces",
+        "white canvas sneakers with white laces, black star logo on the tongue",
+        "white sneakers with yellow accents",
+        "dark blue Nike sneakers with red and white accents, pink socks featuring small black logos"
+      ],
+      "tags": [
+        "sneakers",
+        "white",
+        "dark",
+        "laces",
+        "casual"
+      ]
+    },
+    "white_athletic_shoes_with_visible_laces": {
+      "canonical_name": "white athletic shoes with visible laces",
+      "canonical_name_zh": "白色运动鞋可见鞋带",
+      "canonical_phrase": "white athletic shoes with visible laces",
+      "samples": [
+        "white athletic shoes with visible laces"
+      ],
+      "tags": [
+        "white",
+        "leather",
+        "sneakers",
+        "sporty",
+        "laces"
+      ]
+    },
+    "lightcolored_sandals_held_in_left_hand": {
+      "canonical_name": "light-colored sandals held in left hand",
+      "canonical_name_zh": "左手持浅色凉鞋",
+      "canonical_phrase": "light-colored sandals held in left hand",
+      "samples": [
+        "light-colored sandals held in left hand"
+      ],
+      "tags": [
+        "sandals",
+        "beige",
+        "leather",
+        "casual",
+        "handheld"
+      ]
+    },
+    "woven_strappy_opentoe_sandals": {
+      "canonical_name": "woven strappy open-toe sandals",
+      "canonical_name_zh": "编织带露趾凉鞋",
+      "canonical_phrase": "woven strappy open-toe sandals with colorful or metallic embellishments",
+      "samples": [
+        "sparkly blue and silver open-toe sandals",
+        "transparent high-heeled sandals with gold straps",
+        "woven sandal with red, green, and yellow straps",
+        "woven sandals",
+        "woven wedge sandals",
+        "silver strappy sandals",
+        "colorful woven sandals",
+        "visible sandals",
+        "patterned sandals",
+        "strappy sandals with gold embellishments",
+        "woven open-toe sandals"
+      ],
+      "tags": [
+        "sandals",
+        "woven",
+        "strappy",
+        "open-toe",
+        "embellished"
+      ]
+    },
+    "dark_gray_textured_leather_gloves": {
+      "canonical_name": "dark gray textured leather gloves",
+      "canonical_name_zh": "深灰纹理皮手套",
+      "canonical_phrase": "dark gray textured gloves with brown leather wrist straps",
+      "samples": [
+        "dark gray textured gloves with brown leather wrist straps"
+      ],
+      "tags": [
+        "dark gray",
+        "textured",
+        "gloves",
+        "leather",
+        "wrist straps"
+      ]
+    },
+    "light_colored_flip_flops_with_straps": {
+      "canonical_name": "light colored flip flops with straps",
+      "canonical_name_zh": "浅色带带人字拖",
+      "canonical_phrase": "light pink or light brown flip flops with thin straps and white soles",
+      "samples": [
+        "pink flip flops",
+        "pink flip-flops with thin straps",
+        "light pink flip-flops",
+        "light pink flip flops",
+        "light pink slip-on shoes with subtle pattern",
+        "pink flip-flops with white soles",
+        "light brown flip-flops with red straps"
+      ],
+      "tags": [
+        "flip flops",
+        "pink",
+        "brown",
+        "straps",
+        "slip-on"
+      ]
+    },
+    "red_and_white_footwear_and_hair_accessories": {
+      "canonical_name": "red and white footwear and hair accessories",
+      "canonical_name_zh": "红白配色鞋履与发饰",
+      "canonical_phrase": "red and white rubber boots, red hair clips, and white socks",
+      "samples": [
+        "red headband, white footwear",
+        "tall red rubber boots",
+        "red plush toy with white eyes",
+        "muddy red boots",
+        "red hair clips, white rubber boots covering lower legs",
+        "red hair clips, white knee-high socks"
+      ],
+      "tags": [
+        "red",
+        "white",
+        "rubber boots",
+        "hair clips",
+        "knee-high socks"
+      ]
+    },
+    "dark_brown_leather_shoes": {
+      "canonical_name": "dark brown leather shoes",
+      "canonical_name_zh": "深棕色皮鞋",
+      "canonical_phrase": "dark brown shoes",
+      "samples": [
+        "dark brown shoes"
+      ],
+      "tags": [
+        "brown",
+        "leather",
+        "footwear",
+        "classic",
+        "shoes"
+      ]
+    },
+    "white_footwear_and_socks_combinations": {
+      "canonical_name": "white footwear and socks combinations",
+      "canonical_name_zh": "白色鞋袜组合",
+      "canonical_phrase": "white socks paired with white sneakers or slip-on shoes",
+      "samples": [
+        "white shoes",
+        "white slip-on shoes",
+        "white socks",
+        "white socks, white athletic shoes",
+        "white socks, light-colored shoes",
+        "white socks, white high-top sneakers",
+        "white socks with red sneakers",
+        "white socks, white sneakers",
+        "white knee-high socks, dark shoes",
+        "bare feet",
+        "white sneakers with red accents"
+      ],
+      "tags": [
+        "white",
+        "socks",
+        "sneakers",
+        "casual",
+        "footwear"
+      ]
+    },
+    "colorful_striped_crocheted_headband": {
+      "canonical_name": "colorful striped crocheted headband",
+      "canonical_name_zh": "彩色条纹钩织发带",
+      "canonical_phrase": "colorful crocheted headband with orange, yellow, purple, and white stripes",
+      "samples": [
+        "colorful crocheted headband with orange, yellow, purple, and white stripes"
+      ],
+      "tags": [
+        "crochet",
+        "headband",
+        "striped",
+        "colorful",
+        "handmade"
+      ]
+    },
+    "ornate_beaded_sandals": {
+      "canonical_name": "ornate beaded sandals",
+      "canonical_name_zh": "华丽串珠凉鞋",
+      "canonical_phrase": "ornate beaded sandals",
+      "samples": [
+        "ornate beaded sandals"
+      ],
+      "tags": [
+        "beaded",
+        "sandals",
+        "ornate",
+        "jeweled",
+        "boho"
+      ]
+    },
+    "dark_leather_bags_with_silver_buckles": {
+      "canonical_name": "dark leather bags with silver buckles",
+      "canonical_name_zh": "深色银扣皮包",
+      "canonical_phrase": "black leather satchel with silver buckle and metal rivets",
+      "samples": [
+        "large black leather schoolbag with silver buckle and metal rivets",
+        "silver metallic bag with black strap",
+        "black feather accessory in hair, large light gray rose brooch pinned to left shoulder, sheer black bag held in right hand",
+        "dark blue leather satchel with silver buckle and straps",
+        "black leather satchel with silver buckle",
+        "dark patterned bag held at left hip",
+        "dark blue backpack with gray straps",
+        "black leather satchel held in front of waist",
+        "black bag"
+      ],
+      "tags": [
+        "black",
+        "leather",
+        "satchel",
+        "metallic",
+        "buckle"
+      ]
+    },
+    "handheld_accessories_and_wearable_jewelry": {
+      "canonical_name": "handheld accessories and wearable jewelry",
+      "canonical_name_zh": "手持配饰与佩戴珠宝",
+      "canonical_phrase": "small glass, beaded sandals, hoop earrings, rings, handbag, fabric, ribbon, and dangling beads held in hands",
+      "samples": [
+        "small glass held in hand, dark slippers",
+        "colorful beaded sandals",
+        "golden hoop earrings",
+        "white sneakers held in raised right hand",
+        "dark blue low-top sneakers with white laces, small white object held in hands",
+        "gold-colored rings on bikini",
+        "small silver ring on right hand",
+        "beige woven handbag held in right hand, folded olive green jacket held in left hand, white sneakers with yellow floral patterns",
+        "light blue fabric held in hands",
+        "navy blue zippered jacket with gray inner lining held in left hand",
+        "dark brown dangling beads",
+        "translucent pink ribbon held in hand",
+        "patterned fabric band"
+      ],
+      "tags": [
+        "jewelry",
+        "handheld",
+        "fabric",
+        "beaded",
+        "ornamental"
+      ]
+    },
+    "dark_colored_backpacks_and_bags": {
+      "canonical_name": "dark colored backpacks and bags",
+      "canonical_name_zh": "深色背包与手提包",
+      "canonical_phrase": "dark colored backpack slung over shoulder or dark tote bag",
+      "samples": [
+        "dark-colored bag",
+        "dark backpack slung over left shoulder",
+        "dark blue backpack slung over one shoulder",
+        "brown backpack",
+        "large dark brown tote bag over the left shoulder",
+        "dark blue shoulder bag with gray straps",
+        "beige bag",
+        "dark backpack over one shoulder, dark blue neckerchief",
+        "red and black bucket hat, black backpack slung over right shoulder",
+        "black elastic hair tie, white backpack strap over left shoulder"
+      ],
+      "tags": [
+        "backpack",
+        "bag",
+        "dark",
+        "shoulder",
+        "tote"
+      ]
+    },
+    "white_beaded_bracelets": {
+      "canonical_name": "white beaded bracelets",
+      "canonical_name_zh": "白色串珠手链",
+      "canonical_phrase": "white beaded bracelets",
+      "samples": [
+        "white beaded bracelets"
+      ],
+      "tags": [
+        "white",
+        "beads",
+        "bracelet",
+        "boho",
+        "handmade"
+      ]
+    },
+    "patterned_shoulder_bags_with_decorative_trim": {
+      "canonical_name": "patterned shoulder bags with decorative trim",
+      "canonical_name_zh": "印花装饰肩包",
+      "canonical_phrase": "colorful patterned shoulder bag with yellow trim and floral motifs",
+      "samples": [
+        "patterned tote bag with clover motifs",
+        "colorful patterned shoulder bag with yellow trim",
+        "patterned bag with yellow trim",
+        "yellow and white patterned shoulder bag with blue floral print",
+        "patterned tote bag with floral design, open-toed sandals with decorative straps",
+        "colorful shoulder bag with yellow trim, red and white checkered strap, blue floral pattern",
+        "patterned shoulder bag with gold strap, barefoot",
+        "patterned bag",
+        "red and white checkered drawstring bag"
+      ],
+      "tags": [
+        "patterned",
+        "shoulder bag",
+        "colorful",
+        "trim",
+        "floral"
+      ]
+    },
+    "strappy_high_heel_shoes": {
+      "canonical_name": "strappy high heel shoes",
+      "canonical_name_zh": "绑带高跟鞋",
+      "canonical_phrase": "black or silver strappy high heels with embellishments",
+      "samples": [
+        "black strappy high heels",
+        "black strappy high heel with silver embellishments",
+        "silver strappy high heels",
+        "black lace-up high heels with black pom-poms",
+        "green sparkly high-heeled shoes",
+        "open-toed black high heels",
+        "silver metallic open-toe high heels"
+      ],
+      "tags": [
+        "strappy",
+        "high heels",
+        "metallic",
+        "embellished",
+        "open toe"
+      ]
+    },
+    "strappy_highheeled_sandals": {
+      "canonical_name": "strappy high-heeled sandals",
+      "canonical_name_zh": "绑带高跟凉鞋",
+      "canonical_phrase": "red or black strappy high-heeled sandals with ankle straps",
+      "samples": [
+        "red thong sandals",
+        "simple red-strapped sandals",
+        "black open-toe sandals, red beaded necklace",
+        "bright red open-toed sandals",
+        "red high-heeled sandals, colorful patterned headband",
+        "black strappy high-heeled sandals",
+        "silver high-heeled sandals",
+        "red strap on foot",
+        "red sandals",
+        "black high-heeled sandals with ankle straps"
+      ],
+      "tags": [
+        "sandals",
+        "heels",
+        "strappy",
+        "ankle-strap",
+        "open-toe"
+      ]
+    },
+    "lightcolored_twisted_rope_belt": {
+      "canonical_name": "light-colored twisted rope belt",
+      "canonical_name_zh": "浅色扭绳腰带",
+      "canonical_phrase": "light-colored rope",
+      "samples": [
+        "light-colored rope"
+      ],
+      "tags": [
+        "beige",
+        "rope",
+        "belt",
+        "boho",
+        "twisted"
+      ]
+    },
+    "colorful_sneakers_with_white_socks": {
+      "canonical_name": "colorful sneakers with white socks",
+      "canonical_name_zh": "彩色运动鞋配白袜",
+      "canonical_phrase": "bright red or colorful sneakers with white socks and laces",
+      "samples": [
+        "white socks, dark blue sneakers with white laces and red accents",
+        "colorful sneakers with red and white laces",
+        "bright red sneakers with white laces and soles, visible elastic band in hair",
+        "white socks with colorful patterns, red sneakers with white soles",
+        "white socks with red and orange graphic designs, bright red sneakers with white laces",
+        "white socks featuring black and red lettering, tan sneakers with white laces and white rubber toe caps"
+      ],
+      "tags": [
+        "sneakers",
+        "socks",
+        "colorful",
+        "casual",
+        "laces"
+      ]
+    },
+    "carried_bags_and_sacks": {
+      "canonical_name": "carried bags and sacks",
+      "canonical_name_zh": "携带的包与袋",
+      "canonical_phrase": "green canvas sack with coiled rope, backpacks, hanging olive green backpack, wire basket held via handlebars",
+      "samples": [
+        "green canvas sack with coiled rope",
+        "backpacks",
+        "hanging olive green backpack",
+        "wire basket (held via handlebars)"
+      ],
+      "tags": [
+        "bag",
+        "sack",
+        "canvas",
+        "hanging",
+        "wire"
+      ]
+    },
+    "colorful_casual_flip_flops": {
+      "canonical_name": "colorful casual flip flops",
+      "canonical_name_zh": "多彩休闲人字拖",
+      "canonical_phrase": "simple colorful flip flops on feet with various patterns",
+      "samples": [
+        "black flip flops",
+        "simple flip flops",
+        "bright yellow-green flip flops with floral pattern",
+        "flip-flops on feet",
+        "orange platform flip flops",
+        "yellow flip-flops",
+        "simple brown flip-flops",
+        "dark blue patterned neckerchief, light gray flip-flops",
+        "flip flop",
+        "red and beige flip flops",
+        "green flip flops, denim jacket held in hand",
+        "bright orange flip-flops",
+        "simple beige flip flops",
+        "green flip flops"
+      ],
+      "tags": [
+        "flip-flops",
+        "sandals",
+        "casual",
+        "colorful",
+        "footwear"
+      ]
+    },
+    "single_gold_hoop_earring": {
+      "canonical_name": "single gold hoop earring",
+      "canonical_name_zh": "单只金圈耳环",
+      "canonical_phrase": "barefoot",
+      "samples": [
+        "barefoot"
+      ],
+      "tags": [
+        "gold",
+        "metal",
+        "earring",
+        "minimalist",
+        "circular"
+      ]
+    },
+    "red_patterned_bandana_and_boots": {
+      "canonical_name": "red patterned bandana and boots",
+      "canonical_name_zh": "红色波点头巾与雨靴",
+      "canonical_phrase": "red polka dot bandana with white floral patterns paired with red rubber boots",
+      "samples": [
+        "red polka-dot bandana, red rubber boots",
+        "red bandana with white polka dots",
+        "red bandana with white floral pattern, red rubber boot",
+        "red bandana with white floral pattern",
+        "red bandana with white polka dots, pair of tall brown leather lace-up boots held in hands",
+        "vibrant pink headscarf",
+        "red polka dot headscarf with white floral patterns",
+        "red bandana with white polka dots, tall red rubber boots",
+        "red polka dot bandana"
+      ],
+      "tags": [
+        "red",
+        "rubber",
+        "bandana",
+        "boots",
+        "polka dot"
+      ]
+    }
+  },
+  "statistics": {
+    "total_clusters": 38,
+    "multi_sample_clusters": 23,
+    "single_sample_clusters": 15
+  }
+}

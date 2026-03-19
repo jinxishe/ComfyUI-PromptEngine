@@ -1,0 +1,1254 @@
+{
+  "dimension": "visual_style",
+  "version": "1.0",
+  "generated_date": "2026-03-18",
+  "mode": "clustered",
+  "clusters": {
+    "soft_film_grain_texture": {
+      "canonical_name": "soft film grain texture",
+      "canonical_name_zh": "柔和胶片颗粒质感",
+      "canonical_phrase": "soft film grain texture with subtle grainy appearance",
+      "samples": [
+        "film-like texture with subtle grain",
+        "film-like grain texture",
+        "natural film grain texture",
+        "soft film grain texture",
+        "film grain texture visible",
+        "film-like texture with grainy appearance",
+        "film grain texture evident",
+        "film grain texture"
+      ],
+      "tags": [
+        "film",
+        "grain",
+        "texture",
+        "vintage",
+        "analog"
+      ]
+    },
+    "natural_candid_pose_cinematic_warm_lighting": {
+      "canonical_name": "natural candid pose cinematic warm lighting",
+      "canonical_name_zh": "自然抓拍电影暖光",
+      "canonical_phrase": "natural candid pose, cinematic warm lighting",
+      "samples": [
+        "natural candid pose, cinematic warm lighting"
+      ],
+      "tags": [
+        "warm",
+        "golden",
+        "cotton",
+        "relaxed",
+        "soft_focus"
+      ]
+    },
+    "vintage_1970s_film_grain": {
+      "canonical_name": "vintage 1970s film grain",
+      "canonical_name_zh": "复古七十年代胶片",
+      "canonical_phrase": "natural film",
+      "samples": [
+        "natural film"
+      ],
+      "tags": [
+        "warm",
+        "grainy",
+        "denim",
+        "nostalgic",
+        "faded"
+      ]
+    },
+    "soft_naturalistic_portrait_style": {
+      "canonical_name": "soft naturalistic portrait style",
+      "canonical_name_zh": "柔和自然主义肖像",
+      "canonical_phrase": "soft naturalistic portrait photography with vibrant and serene mood",
+      "samples": [
+        "soft naturalistic portrait photography",
+        "soft naturalistic",
+        "naturalistic portrait",
+        "vibrant and naturalistic",
+        "vibrant and natural",
+        "chiaroscuro",
+        "serene and curious mood",
+        "naturalistic"
+      ],
+      "tags": [
+        "naturalistic",
+        "soft",
+        "portrait",
+        "serene",
+        "chiaroscuro"
+      ]
+    },
+    "natural_textures": {
+      "canonical_name": "natural textures",
+      "canonical_name_zh": "自然纹理",
+      "canonical_phrase": "natural textures",
+      "samples": [
+        "natural textures"
+      ],
+      "tags": [
+        "earthy",
+        "organic",
+        "fabric",
+        "rustic",
+        "grainy"
+      ]
+    },
+    "candid_yet_stylized_aesthetic": {
+      "canonical_name": "candid yet stylized aesthetic",
+      "canonical_name_zh": "自然风格化美学",
+      "canonical_phrase": "candid yet stylized aesthetic",
+      "samples": [
+        "candid yet stylized aesthetic"
+      ],
+      "tags": [
+        "soft",
+        "denim",
+        "streetwear",
+        "minimalist",
+        "grainy"
+      ]
+    },
+    "high_detail_skin_and_fabric_texture": {
+      "canonical_name": "high detail skin and fabric texture",
+      "canonical_name_zh": "高细节皮肤与织物纹理",
+      "canonical_phrase": "high detail skin texture and fabric weave with natural tones",
+      "samples": [
+        "emphasis on natural skin texture and smooth curves",
+        "high detail on skin texture and fabric weave",
+        "emphasis on skin texture and fabric translucency",
+        "high detail in skin texture and hair strands",
+        "high detail on skin texture and hair strands, natural skin tone with subtle blush, gentle shadows under eyes",
+        "detailed fabric textures and skin tones",
+        "high detail on eyelashes and skin pores, smooth skin texture, subtle natural makeup",
+        "detailed fabric texture, natural pose",
+        "rich detail in fabric texture and skin tone",
+        "detailed fabric texture visible, cinematic"
+      ],
+      "tags": [
+        "skin",
+        "fabric",
+        "texture",
+        "natural",
+        "cinematic"
+      ]
+    },
+    "vibrant_summery_bright_portrait": {
+      "canonical_name": "vibrant summery bright portrait",
+      "canonical_name_zh": "明亮夏日活力风",
+      "canonical_phrase": "vibrant summery bright airy portrait with sunlit candid atmosphere",
+      "samples": [
+        "carefree summery",
+        "playful and vibrant",
+        "bright airy portrait",
+        "vibrant and playful",
+        "vibrant and sunlit photography",
+        "bright cheerful summer portrait",
+        "vibrant and summery",
+        "vibrant summery portrait",
+        "vibrant color pop",
+        "vibrant and summery photography",
+        "vibrant summery",
+        "vibrant and energetic",
+        "candid, sunlit summer scene",
+        "candid summer portrait"
+      ],
+      "tags": [
+        "vibrant",
+        "summer",
+        "bright",
+        "candid",
+        "sunlit"
+      ]
+    },
+    "film_style_photography_aesthetic": {
+      "canonical_name": "film style photography aesthetic",
+      "canonical_name_zh": "胶片摄影风格",
+      "canonical_phrase": "film style photography with vintage grain and soft tones",
+      "samples": [
+        "film-like photography",
+        "film style",
+        "film-style",
+        "photographic style resembling film",
+        "film photograph",
+        "film photography style",
+        "film photography",
+        "film photograph style",
+        "film-like",
+        "film-like style",
+        "film photography aesthetic",
+        "sports photography",
+        "filmic photography",
+        "resembling film",
+        "photography style resembling film",
+        "film still",
+        "film-style photography"
+      ],
+      "tags": [
+        "film",
+        "grain",
+        "vintage",
+        "soft",
+        "analog"
+      ]
+    },
+    "urban_editorial_fashion_photography": {
+      "canonical_name": "urban editorial fashion photography",
+      "canonical_name_zh": "都市时尚摄影",
+      "canonical_phrase": "urban editorial fashion photography with dramatic lighting and cinematic atmosphere",
+      "samples": [
+        "cinematic urban photography",
+        "serene editorial",
+        "editorial fashion",
+        "urban editorial",
+        "dreamy editorial",
+        "urban street photography",
+        "urban street photography style",
+        "editorial fashion with dramatic lighting"
+      ],
+      "tags": [
+        "urban",
+        "editorial",
+        "fashion",
+        "cinematic",
+        "street"
+      ]
+    },
+    "film_photography_natural_candid_moment": {
+      "canonical_name": "film photography natural candid moment",
+      "canonical_name_zh": "胶片摄影自然抓拍瞬间",
+      "canonical_phrase": "film photography style, natural candid moment",
+      "samples": [
+        "film photography style, natural candid moment"
+      ],
+      "tags": [
+        "grainy",
+        "film",
+        "denim",
+        "casual",
+        "motion_blur"
+      ]
+    },
+    "soft_textured_fabric_garment": {
+      "canonical_name": "soft textured fabric garment",
+      "canonical_name_zh": "柔软纹理面料",
+      "canonical_phrase": "soft textures",
+      "samples": [
+        "soft textures"
+      ],
+      "tags": [
+        "pastel",
+        "velvet",
+        "dress",
+        "cozy",
+        "fuzzy"
+      ]
+    },
+    "film_grainy_blue_white_theme": {
+      "canonical_name": "film grainy blue white theme",
+      "canonical_name_zh": "胶片蓝白颗粒风",
+      "canonical_phrase": "film grainy with dominant blue and white color theme",
+      "samples": [
+        "film grainy with dominant blue and white color theme"
+      ],
+      "tags": [
+        "blue",
+        "white",
+        "film",
+        "grainy",
+        "vintage"
+      ]
+    },
+    "candid_natural_photography_style": {
+      "canonical_name": "candid natural photography style",
+      "canonical_name_zh": "自然抓拍摄影",
+      "canonical_phrase": "candid natural photography with soft warm light and authentic moment",
+      "samples": [
+        "candid natural photography",
+        "natural candid pose",
+        "candid moment with soft, warm, natural light",
+        "candid and naturalistic photography",
+        "candid and natural",
+        "natural candid photography",
+        "candid film photography"
+      ],
+      "tags": [
+        "natural",
+        "candid",
+        "warm",
+        "film",
+        "authentic"
+      ]
+    },
+    "soft_naturalistic_photographic_style": {
+      "canonical_name": "soft naturalistic photographic style",
+      "canonical_name_zh": "柔和自然摄影风格",
+      "canonical_phrase": "soft naturalistic photographic style with soft focus and natural tones",
+      "samples": [
+        "naturalistic photographic style",
+        "natural landscape photography",
+        "macro nature photography",
+        "soft-focus, naturalistic",
+        "soft natural tones",
+        "naturalistic photography with soft focus",
+        "naturalistic photography style",
+        "naturalist photography style",
+        "natural wildlife photography",
+        "soft naturalistic tones",
+        "soft focus with naturalistic tones",
+        "naturalistic photography"
+      ],
+      "tags": [
+        "soft",
+        "natural",
+        "photography",
+        "organic",
+        "realistic"
+      ]
+    },
+    "1990s_film_photography": {
+      "canonical_name": "1990s film photography",
+      "canonical_name_zh": "90年代胶片摄影",
+      "canonical_phrase": "1990s film photography",
+      "samples": [
+        "1990s film photography"
+      ],
+      "tags": [
+        "grainy",
+        "faded",
+        "cassette",
+        "vintage",
+        "flash"
+      ]
+    },
+    "vintage_sepia_toned_portrait": {
+      "canonical_name": "vintage sepia toned portrait",
+      "canonical_name_zh": "复古棕褐色肖像",
+      "canonical_phrase": "black and white photography",
+      "samples": [
+        "black and white photography"
+      ],
+      "tags": [
+        "sepia",
+        "paper",
+        "portrait",
+        "nostalgic",
+        "grain"
+      ]
+    },
+    "high_contrast_cinematic_film_aesthetic": {
+      "canonical_name": "high contrast cinematic film aesthetic",
+      "canonical_name_zh": "高对比度电影胶片风",
+      "canonical_phrase": "cinematic high-contrast film aesthetic with dramatic chiaroscuro and film grain",
+      "samples": [
+        "film aesthetic",
+        "vibrant analog film shot with high saturation and soft focus",
+        "dramatic high-contrast",
+        "analog film",
+        "high-contrast film",
+        "analog film aesthetic",
+        "cinematic with high contrast",
+        "cinematic with film-like texture and high detail",
+        "film-like with high contrast",
+        "cinematic, high-contrast",
+        "cinematic high-contrast",
+        "high-contrast cinematic",
+        "cinematic high contrast, film grain texture, dramatic chiaroscuro effect"
+      ],
+      "tags": [
+        "high-contrast",
+        "film-grain",
+        "cinematic",
+        "dramatic",
+        "analog"
+      ]
+    },
+    "muted_grainy_film_aesthetic": {
+      "canonical_name": "muted grainy film aesthetic",
+      "canonical_name_zh": "褪色颗粒胶片风",
+      "canonical_phrase": "cinematic film with muted tones and soft grainy texture",
+      "samples": [
+        "cinematic film with muted tones and grainy texture",
+        "faded film aesthetic",
+        "slightly gritty film aesthetic",
+        "soft, grainy film aesthetic"
+      ],
+      "tags": [
+        "muted",
+        "grainy",
+        "film",
+        "vintage",
+        "soft"
+      ]
+    },
+    "film_grain_texture_aesthetic": {
+      "canonical_name": "film grain texture aesthetic",
+      "canonical_name_zh": "胶片颗粒质感",
+      "canonical_phrase": "film-like texture with natural grain detail and cinematic aesthetic",
+      "samples": [
+        "film-like texture",
+        "film-like texture with grainy detail",
+        "photography style evoking film grain",
+        "filmic black and white",
+        "film-like texture, natural sunlight enhancing the scene",
+        "desolate industrial landscape",
+        "filmic aesthetic with pastel color palette",
+        "film-style texture",
+        "film grain texture, monochrome theme",
+        "film grain aesthetic",
+        "film grain texture, white and blue color theme",
+        "natural film grain",
+        "natural film-like grain",
+        "natural film-like texture",
+        "film-like texture, natural skin texture"
+      ],
+      "tags": [
+        "film",
+        "grain",
+        "texture",
+        "cinematic",
+        "analog"
+      ]
+    },
+    "candid_portrait_visual_style": {
+      "canonical_name": "candid portrait visual style",
+      "canonical_name_zh": "自然肖像风格",
+      "canonical_phrase": "candid portrait with natural lighting and expressive mood",
+      "samples": [
+        "playful candid portrait",
+        "quiet candid portrait",
+        "candid portrait",
+        "refined elegant portrait",
+        "dynamic candid portrait",
+        "candid yet stylized portrait",
+        "serene candid portrait",
+        "candid portrait style",
+        "contemplative portrait",
+        "serene portrait"
+      ],
+      "tags": [
+        "portrait",
+        "candid",
+        "natural_light",
+        "expressive",
+        "soft_focus"
+      ]
+    },
+    "candid_dynamic_action_style": {
+      "canonical_name": "candid dynamic action style",
+      "canonical_name_zh": "抓拍动态风格",
+      "canonical_phrase": "candid dynamic action shot with natural expression",
+      "samples": [
+        "candid dynamic",
+        "dynamic candid action",
+        "candid expression",
+        "candid",
+        "candid style"
+      ],
+      "tags": [
+        "natural",
+        "motion",
+        "spontaneous",
+        "street",
+        "unposed"
+      ]
+    },
+    "intimate_portrait_emphasizing_texture_and_warmth": {
+      "canonical_name": "intimate portrait emphasizing texture and warmth",
+      "canonical_name_zh": "强调质感与温暖的亲密肖像",
+      "canonical_phrase": "intimate portrait emphasizing texture and warmth",
+      "samples": [
+        "intimate portrait emphasizing texture and warmth"
+      ],
+      "tags": [
+        "warm",
+        "velvet",
+        "portrait",
+        "cozy",
+        "soft_light"
+      ]
+    },
+    "1990s_film_aesthetic": {
+      "canonical_name": "1990s film aesthetic",
+      "canonical_name_zh": "90年代电影质感",
+      "canonical_phrase": "1990s film aesthetic",
+      "samples": [
+        "1990s film aesthetic"
+      ],
+      "tags": [
+        "vintage",
+        "grainy",
+        "denim",
+        "grunge",
+        "film_grain"
+      ]
+    },
+    "vintage_film_grain_texture": {
+      "canonical_name": "vintage film grain texture",
+      "canonical_name_zh": "复古胶片颗粒质感",
+      "canonical_phrase": "film-like quality",
+      "samples": [
+        "film-like quality"
+      ],
+      "tags": [
+        "warm",
+        "grainy",
+        "denim",
+        "nostalgic",
+        "light_leak"
+      ]
+    },
+    "monochrome_portrait": {
+      "canonical_name": "monochrome portrait",
+      "canonical_name_zh": "单色肖像",
+      "canonical_phrase": "monochrome portrait",
+      "samples": [
+        "monochrome portrait"
+      ],
+      "tags": [
+        "grayscale",
+        "paper",
+        "sketch",
+        "minimalist",
+        "contour"
+      ]
+    },
+    "vibrant_tropical_beach_aesthetic": {
+      "canonical_name": "vibrant tropical beach aesthetic",
+      "canonical_name_zh": "热带海滩活力风格",
+      "canonical_phrase": "vivid tropical paradise photography with cinematic beach setting",
+      "samples": [
+        "tropical paradise photography",
+        "natural outdoor beach setting",
+        "vivid tropical portrait",
+        "vibrant tropical aesthetic",
+        "surf culture theme",
+        "tranquil waterfront setting",
+        "cinematic tropical beach"
+      ],
+      "tags": [
+        "tropical",
+        "beach",
+        "vibrant",
+        "outdoor",
+        "waterfront"
+      ]
+    },
+    "candid_outdoor_street_photography": {
+      "canonical_name": "candid outdoor street photography",
+      "canonical_name_zh": "街头抓拍摄影",
+      "canonical_phrase": "candid outdoor street photography with natural lighting and motion blur",
+      "samples": [
+        "candid outdoor photography",
+        "natural candid street photography",
+        "candid photography",
+        "candid motion photography",
+        "candid street photography",
+        "candid street food photography",
+        "dynamic candid outdoor photography"
+      ],
+      "tags": [
+        "natural",
+        "street",
+        "motion",
+        "outdoor",
+        "spontaneous"
+      ]
+    },
+    "vibrant_color_film": {
+      "canonical_name": "vibrant color film",
+      "canonical_name_zh": "鲜艳色彩胶片",
+      "canonical_phrase": "vibrant color film",
+      "samples": [
+        "vibrant color film"
+      ],
+      "tags": [
+        "saturated",
+        "analog",
+        "cinematic",
+        "retro",
+        "grain"
+      ]
+    },
+    "cinematic_filmlike_aesthetic": {
+      "canonical_name": "cinematic film-like aesthetic",
+      "canonical_name_zh": "电影感胶片美学",
+      "canonical_phrase": "cinematic film-like quality with moody atmosphere and slight grain",
+      "samples": [
+        "cinematic feel, minimalist aesthetic",
+        "warm cinematic",
+        "cinematic with slightly grainy texture",
+        "gentle, cinematic, filmic quality",
+        "cinematic and moody",
+        "cinematic film-like quality",
+        "cinematic fashion",
+        "cinematic film aesthetic",
+        "cinematic and nostalgic"
+      ],
+      "tags": [
+        "warm",
+        "grainy",
+        "moody",
+        "filmic",
+        "nostalgic"
+      ]
+    },
+    "natural_soft_light_portrait_photography": {
+      "canonical_name": "natural soft light portrait photography",
+      "canonical_name_zh": "自然柔光人像摄影",
+      "canonical_phrase": "natural soft daylight portrait with shallow depth of field and candid elegance",
+      "samples": [
+        "traditional portrait",
+        "shallow depth of field portrait",
+        "soft natural light portrait",
+        "natural daylight",
+        "natural daylight portrait",
+        "casual portrait",
+        "wooden cutout figure portrait",
+        "natural portrait",
+        "portrait photography",
+        "natural outdoor portrait",
+        "clean portrait",
+        "dramatic portrait photography",
+        "soft natural portrait",
+        "candid portrait with soft focus",
+        "elegant portrait photography",
+        "soft natural daylight portrait",
+        "professional studio portrait",
+        "artistic portrait with surreal elements",
+        "soft-focus portrait",
+        "dramatic portrait",
+        "soft portrait",
+        "soft focus portrait",
+        "soft-focus studio portrait",
+        "natural daylight candid portrait"
+      ],
+      "tags": [
+        "natural",
+        "soft",
+        "portrait",
+        "candid",
+        "outdoor"
+      ]
+    },
+    "monochromatic_color_theme_emphasizing_texture": {
+      "canonical_name": "monochromatic color theme emphasizing texture",
+      "canonical_name_zh": "强调质感的单色主题",
+      "canonical_phrase": "monochromatic color theme with strong emphasis on texture and form",
+      "samples": [
+        "monochrome with strong emphasis on silver and gray tones",
+        "monochromatic theme emphasizing texture and form",
+        "vibrant turquoise and deep blue color theme",
+        "dominant colors teal, black, gold",
+        "black and white theme",
+        "white and black theme",
+        "vibrant red and white color theme",
+        "monochrome photography style",
+        "monochrome, emphasizing textures and contours"
+      ],
+      "tags": [
+        "monochrome",
+        "texture",
+        "contrast",
+        "minimalist",
+        "silver"
+      ]
+    },
+    "film_photography_style_natural_tones": {
+      "canonical_name": "film photography style natural tones",
+      "canonical_name_zh": "胶片摄影自然色调",
+      "canonical_phrase": "film photography style with natural color palette and rich tones",
+      "samples": [
+        "film photography style, naturalistic color palette",
+        "film photography style with rich saturation",
+        "film photography with rich textures and natural skin tones",
+        "film photography style with soft focus and rich tones",
+        "film photography style with soft focus and natural grain",
+        "film photography style with rich color saturation",
+        "film photography style, cinematic warm tones"
+      ],
+      "tags": [
+        "film",
+        "natural",
+        "warm",
+        "grain",
+        "soft_focus"
+      ]
+    },
+    "candid_portrait_soft_film_grain": {
+      "canonical_name": "candid portrait soft film grain",
+      "canonical_name_zh": " candid 肖像柔胶片",
+      "canonical_phrase": "candid portrait style with soft film grain texture",
+      "samples": [
+        "candid portrait style with soft film grain texture"
+      ],
+      "tags": [
+        "warm",
+        "paper",
+        "denim",
+        "casual",
+        "grain"
+      ]
+    },
+    "vintage_natural_color_film": {
+      "canonical_name": "vintage natural color film",
+      "canonical_name_zh": "复古自然色彩胶片",
+      "canonical_phrase": "natural color film",
+      "samples": [
+        "natural color film"
+      ],
+      "tags": [
+        "warm",
+        "grainy",
+        "cotton",
+        "nostalgic",
+        "faded"
+      ]
+    },
+    "vintage_black_and_white_film_aesthetic": {
+      "canonical_name": "vintage black and white film aesthetic",
+      "canonical_name_zh": "复古黑白胶片质感",
+      "canonical_phrase": "black and white film aesthetic",
+      "samples": [
+        "black and white film aesthetic"
+      ],
+      "tags": [
+        "monochrome",
+        "grainy",
+        "vintage",
+        "noir",
+        "film_grain"
+      ]
+    },
+    "warm_cinematic_photography_style": {
+      "canonical_name": "warm cinematic photography style",
+      "canonical_name_zh": "暖色调电影摄影",
+      "canonical_phrase": "photography style with warm cinematic tones",
+      "samples": [
+        "photography style with warm cinematic tones"
+      ],
+      "tags": [
+        "warm",
+        "cinematic",
+        "film",
+        "golden",
+        "soft"
+      ]
+    },
+    "photographic_style_resembling_film_with_soft_grain": {
+      "canonical_name": "photographic style resembling film with soft grain",
+      "canonical_name_zh": "胶片质感软颗粒摄影",
+      "canonical_phrase": "photographic style resembling film with soft grain",
+      "samples": [
+        "photographic style resembling film with soft grain"
+      ],
+      "tags": [
+        "film",
+        "grain",
+        "analog",
+        "vintage",
+        "texture"
+      ]
+    },
+    "bright_vibrant_natural_photography": {
+      "canonical_name": "bright vibrant natural photography",
+      "canonical_name_zh": "明亮鲜艳自然摄影",
+      "canonical_phrase": "bright airy vibrant natural daylight photography style",
+      "samples": [
+        "natural daylight photography",
+        "vibrant color photography",
+        "vibrant film photography",
+        "bright and natural photography",
+        "vibrant and energetic photography style",
+        "bright airy photography"
+      ],
+      "tags": [
+        "bright",
+        "vibrant",
+        "natural",
+        "daylight",
+        "airy"
+      ]
+    },
+    "cinematic_curves_and_contours": {
+      "canonical_name": "cinematic curves and contours",
+      "canonical_name_zh": "电影感曲线轮廓",
+      "canonical_phrase": "cinematic with emphasis on curves and contours",
+      "samples": [
+        "cinematic with emphasis on curves and contours"
+      ],
+      "tags": [
+        "soft",
+        "silk",
+        "gown",
+        "elegant",
+        "flowing"
+      ]
+    },
+    "natural_candid_intimate_portrait": {
+      "canonical_name": "natural candid intimate portrait",
+      "canonical_name_zh": "自然亲密抓拍肖像",
+      "canonical_phrase": "natural candid intimate portrait with soft lighting and authentic expressions",
+      "samples": [
+        "natural candid tropical portrait",
+        "natural candid portrait",
+        "dynamic portrait",
+        "candid lifestyle portrait",
+        "intimate and candid photography",
+        "candid portrait with a touch of staged intimacy",
+        "studio portrait",
+        "candid intimate photography"
+      ],
+      "tags": [
+        "soft",
+        "skin",
+        "casual",
+        "lifestyle",
+        "authentic"
+      ]
+    },
+    "cinematic_focus_on_body_contours_and_fabric_folds": {
+      "canonical_name": "cinematic focus on body contours and fabric folds",
+      "canonical_name_zh": "电影感轮廓与褶皱",
+      "canonical_phrase": "cinematic focus on body contours and fabric folds",
+      "samples": [
+        "cinematic focus on body contours and fabric folds"
+      ],
+      "tags": [
+        "dramatic",
+        "silk",
+        "gown",
+        "sculptural",
+        "shadow"
+      ]
+    },
+    "high_detail_texture_contrast_photography": {
+      "canonical_name": "high detail texture contrast photography",
+      "canonical_name_zh": "高细节纹理对比摄影",
+      "canonical_phrase": "high resolution digital photography emphasizing texture and tonal contrast",
+      "samples": [
+        "high-resolution digital photography",
+        "rugged mechanical detail",
+        "textural decay photography",
+        "high contrast monochrome photography emphasizing tonal contrast and texture",
+        "focus on texture and form emphasizing contrast between skin, fabric, and bedding",
+        "high-key studio photography",
+        "emphasizing textures and tonal contrast",
+        "high-resolution digital capture",
+        "high contrast emphasizing form and texture",
+        "high-resolution digital studio photography",
+        "textural still life",
+        "architectural photography",
+        "photorealistic style, high detail rendering",
+        "digital photography",
+        "high detail photographic style, macro perspective",
+        "high-contrast photography",
+        "emphasizing textures and contrasts",
+        "realistic photographic style",
+        "high detail photography style",
+        "emphasizing textures and contrast",
+        "architectural detail photography",
+        "high-detail photographic",
+        "realistic photography style",
+        "photography emphasizing texture and contrast",
+        "black and white photography with focus on texture and tonal contrast"
+      ],
+      "tags": [
+        "monochrome",
+        "texture",
+        "contrast",
+        "photorealistic",
+        "macro"
+      ]
+    },
+    "soft_natural_photography_style": {
+      "canonical_name": "soft natural photography style",
+      "canonical_name_zh": "柔和自然摄影风格",
+      "canonical_phrase": "soft focus natural lighting with gentle tones",
+      "samples": [
+        "warm and natural photography with focus on soft textures and gentle lighting",
+        "soft-focus",
+        "soft focus photography",
+        "soft focus photography emphasizing natural tones",
+        "soft focus, ethereal glow",
+        "soft and natural photography",
+        "photographic style with soft natural lighting",
+        "soft focus",
+        "soft focus on eyes",
+        "natural lighting photography",
+        "natural tones and soft lighting photography"
+      ],
+      "tags": [
+        "soft",
+        "natural",
+        "ethereal",
+        "warm",
+        "glow"
+      ]
+    },
+    "natural_candid_with_cinematic_contrast": {
+      "canonical_name": "natural candid with cinematic contrast",
+      "canonical_name_zh": "自然抓拍电影感",
+      "canonical_phrase": "natural candid with cinematic contrast",
+      "samples": [
+        "natural candid with cinematic contrast"
+      ],
+      "tags": [
+        "soft_light",
+        "denim",
+        "streetwear",
+        "moody",
+        "film_grain"
+      ]
+    },
+    "soft_intimate_sensual_aesthetic": {
+      "canonical_name": "soft intimate sensual aesthetic",
+      "canonical_name_zh": "柔和亲密感性美学",
+      "canonical_phrase": "soft intimate sensual portrait with natural aesthetic and tactile details",
+      "samples": [
+        "soft romantic mood",
+        "tactile intimate portrait",
+        "soft and intimate",
+        "intimate and sensual mood",
+        "sensual intimate photography",
+        "intimate detail",
+        "sensual and natural aesthetic",
+        "serene and natural aesthetic",
+        "intimate portrait",
+        "intimate sensual",
+        "soft sensual mood",
+        "intimate detail photography"
+      ],
+      "tags": [
+        "soft",
+        "skin",
+        "portrait",
+        "romantic",
+        "tactile"
+      ]
+    },
+    "portrait_photography_emphasizing_textures_and_contrasts": {
+      "canonical_name": "portrait photography emphasizing textures and contrasts",
+      "canonical_name_zh": "强调纹理与对比的肖像摄影",
+      "canonical_phrase": "portrait photography emphasizing textures and contrasts",
+      "samples": [
+        "portrait photography emphasizing textures and contrasts"
+      ],
+      "tags": [
+        "monochrome",
+        "leather",
+        "hoodie",
+        "moody",
+        "grainy"
+      ]
+    },
+    "vivid_saturated_motionfilled_aesthetic": {
+      "canonical_name": "vivid saturated motion-filled aesthetic",
+      "canonical_name_zh": "鲜艳饱和动感美学",
+      "canonical_phrase": "vivid, saturated, motion-filled aesthetic",
+      "samples": [
+        "vivid, saturated, motion-filled aesthetic"
+      ],
+      "tags": [
+        "neon",
+        "velvet",
+        "kimono",
+        "dynamic",
+        "glitch"
+      ]
+    },
+    "vibrant_candid_beach_photography": {
+      "canonical_name": "vibrant candid beach photography",
+      "canonical_name_zh": "活力自然海滩摄影",
+      "canonical_phrase": "vibrant sunlit candid beach portrait photography",
+      "samples": [
+        "candid joyful beach portrait",
+        "candid beach photography",
+        "vibrant market photography",
+        "candid, sun-drenched beach photography",
+        "vibrant sunlit beach photography",
+        "natural candid beach portrait",
+        "candid beach portrait"
+      ],
+      "tags": [
+        "sunlit",
+        "candid",
+        "beach",
+        "vibrant",
+        "portrait"
+      ]
+    },
+    "soft_pastel_fabric_with_floral_embroidery": {
+      "canonical_name": "soft pastel fabric with floral embroidery",
+      "canonical_name_zh": "柔粉面料配花卉刺绣",
+      "canonical_phrase": "cinematic and intimate photography",
+      "samples": [
+        "cinematic and intimate photography"
+      ],
+      "tags": [
+        "pastel",
+        "silk",
+        "dress",
+        "romantic",
+        "embroidery"
+      ]
+    },
+    "vintage_1970s_film_photography": {
+      "canonical_name": "vintage 1970s film photography",
+      "canonical_name_zh": "复古1970年代胶片摄影",
+      "canonical_phrase": "natural film photography",
+      "samples": [
+        "natural film photography"
+      ],
+      "tags": [
+        "warm",
+        "grainy",
+        "denim",
+        "nostalgic",
+        "faded"
+      ]
+    },
+    "photographic_style_with_soft_focus": {
+      "canonical_name": "photographic style with soft focus",
+      "canonical_name_zh": "柔焦摄影风格",
+      "canonical_phrase": "photographic style with soft focus and shallow depth of field",
+      "samples": [
+        "stylized photographic aesthetic",
+        "photography style with soft focus on background",
+        "photography style",
+        "photographic style with soft focus on the background",
+        "photographic style evocative and softly lit, emphasizing texture and form",
+        "photographic style with soft focus and shallow depth of field",
+        "photographic style capturing bold colors and natural motion",
+        "photographic style with soft focus and high-key lighting",
+        "photographic style"
+      ],
+      "tags": [
+        "soft-focus",
+        "shallow-depth",
+        "high-key",
+        "textured",
+        "natural-motion"
+      ]
+    },
+    "naturalistic_photography_film_texture": {
+      "canonical_name": "naturalistic photography film texture",
+      "canonical_name_zh": "自然摄影胶片质感",
+      "canonical_phrase": "naturalistic photography style with film-like texture",
+      "samples": [
+        "naturalistic photography style with film-like texture"
+      ],
+      "tags": [
+        "film",
+        "grain",
+        "soft",
+        "vintage",
+        "organic"
+      ]
+    },
+    "soft_focus_film_grain_texture": {
+      "canonical_name": "soft focus film grain texture",
+      "canonical_name_zh": "柔焦胶片质感",
+      "canonical_phrase": "soft focus film photography with visible grain texture",
+      "samples": [
+        "film-like texture with soft focus",
+        "cinematic soft focus, film-like grain texture",
+        "soft film photography",
+        "soft film-like quality",
+        "cinematic soft focus with film grain texture",
+        "soft-focus film photography",
+        "fine texture visible, soft focus on background emphasizing foreground precision",
+        "soft film",
+        "film-like quality, soft focus",
+        "soft-focus film",
+        "film-like with a soft focus",
+        "film grain texture, soft focus"
+      ],
+      "tags": [
+        "film",
+        "grain",
+        "soft",
+        "cinematic",
+        "vintage"
+      ]
+    },
+    "natural_candid_photographic_style": {
+      "canonical_name": "natural candid photographic style",
+      "canonical_name_zh": "自然抓拍摄影风格",
+      "canonical_phrase": "natural candid photography style with warm and energetic tones",
+      "samples": [
+        "candid and warm photography style",
+        "natural candid photographic style",
+        "natural and candid photographic style",
+        "candid energetic photography",
+        "candid and cheerful photography style",
+        "candid photojournalism with naturalistic tones",
+        "candid and energetic photography",
+        "candid photographic style",
+        "candid dynamic photography style",
+        "candid and vibrant photography style",
+        "candid yet posed photography style",
+        "natural candid photography style",
+        "candid and energetic photography style",
+        "candid photographic style, natural candid capture",
+        "candid photography style",
+        "candid and intimate photographic style",
+        "candid and natural photographic style",
+        "candid and dynamic photography style",
+        "candid and intimate photography style",
+        "candid yet posed photography"
+      ],
+      "tags": [
+        "warm",
+        "natural",
+        "candid",
+        "photojournalism",
+        "dynamic"
+      ]
+    },
+    "vivid_candid_outdoor_street_portrait": {
+      "canonical_name": "vivid candid outdoor street portrait",
+      "canonical_name_zh": "生动街头户外人像",
+      "canonical_phrase": "vivid candid outdoor street portrait with bustling market atmosphere",
+      "samples": [
+        "vivid street portrait",
+        "vivid bustling market portrait",
+        "candid street portrait",
+        "vintage travel portrait",
+        "vibrant outdoor portrait",
+        "candid outdoor portrait"
+      ],
+      "tags": [
+        "vivid",
+        "candid",
+        "street",
+        "outdoor",
+        "portrait"
+      ]
+    },
+    "soft_film_aesthetic": {
+      "canonical_name": "soft film aesthetic",
+      "canonical_name_zh": "柔和胶片质感",
+      "canonical_phrase": "soft film aesthetic",
+      "samples": [
+        "soft film aesthetic"
+      ],
+      "tags": [
+        "warm",
+        "grainy",
+        "denim",
+        "vintage",
+        "lens flare"
+      ]
+    },
+    "natural_candid_aesthetic_style": {
+      "canonical_name": "natural candid aesthetic style",
+      "canonical_name_zh": "自然 candid 美学",
+      "canonical_phrase": "natural candid aesthetic with clean lighting and serene atmosphere",
+      "samples": [
+        "natural beauty",
+        "natural candid aesthetic",
+        "natural candid",
+        "candid natural aesthetic",
+        "natural candid with strong contrast",
+        "clean and natural",
+        "natural and clean",
+        "candid natural lighting",
+        "natural candid, serene",
+        "natural candid style",
+        "candid natural",
+        "natural",
+        "natural candid with strong chiaroscuro"
+      ],
+      "tags": [
+        "natural",
+        "candid",
+        "soft_lighting",
+        "serene",
+        "unposed"
+      ]
+    },
+    "textured_urban_portrait": {
+      "canonical_name": "textured urban portrait",
+      "canonical_name_zh": "纹理都市肖像",
+      "canonical_phrase": "textured urban portrait",
+      "samples": [
+        "textured urban portrait"
+      ],
+      "tags": [
+        "gritty",
+        "concrete",
+        "streetwear",
+        "noir",
+        "weathered"
+      ]
+    },
+    "tactile_natural_photographic_style": {
+      "canonical_name": "tactile natural photographic style",
+      "canonical_name_zh": "自然触感摄影风格",
+      "canonical_phrase": "tactile natural photographic style with soft curves and rich textures",
+      "samples": [
+        "photographic style emphasizing natural beauty",
+        "photography style with dominant white and green colors",
+        "emphasis on soft curves and relaxed pose",
+        "photography style with warm color tones",
+        "casual beach photography style",
+        "photography style with warm color theme",
+        "tactile, natural curves",
+        "photographic style with rich textures",
+        "tactile detail photography",
+        "photographic style with emphasis on skin texture and fabric folds",
+        "photographic style with soft natural tones",
+        "photographic style natural color",
+        "black and white photography with selective color",
+        "gritty photographic style emphasizing texture and aged material",
+        "realistic photographic style with visible grain and texture",
+        "tactile sensory engagement",
+        "soft-focus photography",
+        "rich in detail and texture",
+        "rich in detail, emphasizing soft curves and textures"
+      ],
+      "tags": [
+        "natural",
+        "texture",
+        "soft",
+        "grain",
+        "tactile"
+      ]
+    },
+    "cinematic_film_grain_texture": {
+      "canonical_name": "cinematic film grain texture",
+      "canonical_name_zh": "电影胶片颗粒质感",
+      "canonical_phrase": "cinematic film grain texture with high contrast and natural lighting",
+      "samples": [
+        "cinematic lighting with film grain texture",
+        "film grain photography",
+        "film grain texture, cinematic portrait",
+        "cinematic with film grain texture",
+        "film grain texture, cinematic",
+        "high contrast film aesthetic with grain texture",
+        "cinematic daylight with film grain texture",
+        "cinematic film grain texture",
+        "film grain texture, natural candid portrait",
+        "film grain texture, candid portrait",
+        "film grain texture, high contrast between subject and background",
+        "film-like grain texture, cinematic urban photography",
+        "cinematic composition with film grain texture",
+        "film grain texture, cinematic natural",
+        "photographic style evoking film grain texture",
+        "grainy film photography"
+      ],
+      "tags": [
+        "grainy",
+        "film",
+        "cinematic",
+        "high-contrast",
+        "photographic"
+      ]
+    }
+  },
+  "statistics": {
+    "total_clusters": 61,
+    "multi_sample_clusters": 32,
+    "single_sample_clusters": 29
+  }
+}

@@ -1,0 +1,3585 @@
+{
+  "dimension": "color_grade",
+  "version": "1.0",
+  "generated_date": "2026-03-18",
+  "mode": "clustered",
+  "clusters": {
+    "dominant_warm_blue_and_white_color_theme": {
+      "canonical_name": "dominant warm blue and white color theme",
+      "canonical_name_zh": "暖色调蓝白主色",
+      "canonical_phrase": "dominant warm color theme of blue and white",
+      "samples": [
+        "dominant warm color theme of blue and white"
+      ],
+      "tags": [
+        "blue",
+        "white",
+        "warm",
+        "cool",
+        "contrast"
+      ]
+    },
+    "black_white_base_with_subtle_color_accents": {
+      "canonical_name": "black white base with subtle color accents",
+      "canonical_name_zh": "黑白基调配淡彩点缀",
+      "canonical_phrase": "black and white tones with subtle pastel color accents",
+      "samples": [
+        "black, white, and tan",
+        "black, white, and muted green",
+        "subtle color theme of black, white and light blue",
+        "black and white tones with subtle pastel accents",
+        "black and white with subtle color accents"
+      ],
+      "tags": [
+        "monochrome",
+        "pastel",
+        "minimalist",
+        "neutral",
+        "accent"
+      ]
+    },
+    "deep_reds_and_dark_browns": {
+      "canonical_name": "deep reds and dark browns",
+      "canonical_name_zh": "深红与深棕",
+      "canonical_phrase": "dominant color theme of deep reds and dark browns",
+      "samples": [
+        "dominant color theme of deep reds and dark browns"
+      ],
+      "tags": [
+        "red",
+        "brown",
+        "leather",
+        "vintage",
+        "rustic"
+      ]
+    },
+    "muted_earth_tones_with_white_accents": {
+      "canonical_name": "muted earth tones with white accents",
+      "canonical_name_zh": "柔和大地色配白色",
+      "canonical_phrase": "muted earth tones of rust orange and olive green with soft white accents",
+      "samples": [
+        "navy blue and white against natural earth tones",
+        "earthy tones of rust orange, olive green, and creamy white",
+        "cool color tones, white and muted earth tones",
+        "white, yellow, and muted urban tones",
+        "white, green, and earthy tones",
+        "earthy tones and soft whites",
+        "white, blue, and earthy tones"
+      ],
+      "tags": [
+        "earthy",
+        "muted",
+        "white",
+        "natural",
+        "rust"
+      ]
+    },
+    "warm_color_tones": {
+      "canonical_name": "warm color tones",
+      "canonical_name_zh": "暖色调",
+      "canonical_phrase": "soft warm tones with vibrant colors and warm neutral blending",
+      "samples": [
+        "warm tones",
+        "warm tones dominate",
+        "warm color tones",
+        "soft warm tones, vibrant colors",
+        "soft warm tones",
+        "warm neutral tones",
+        "vibrant warm tones",
+        "warm tone",
+        "warm",
+        "warm color tone",
+        "warm and cool tones blending"
+      ],
+      "tags": [
+        "warm",
+        "vibrant",
+        "soft",
+        "neutral",
+        "blending"
+      ]
+    },
+    "warm_reds_and_soft_blues": {
+      "canonical_name": "warm reds and soft blues",
+      "canonical_name_zh": "暖红与柔蓝",
+      "canonical_phrase": "warm reds and soft blues",
+      "samples": [
+        "warm reds and soft blues"
+      ],
+      "tags": [
+        "color",
+        "fabric",
+        "dress",
+        "romantic",
+        "gradient"
+      ]
+    },
+    "rich_warm_earthy_red_and_brown_tones": {
+      "canonical_name": "rich warm earthy red and brown tones",
+      "canonical_name_zh": "浓郁暖调红棕",
+      "canonical_phrase": "rich warm earthy tones of red brown and golden yellow",
+      "samples": [
+        "silver and golden brown",
+        "rich in silver and brown tones",
+        "green and yellow",
+        "orange and green",
+        "red and brown",
+        "warm red and deep brown",
+        "red, white, and earthy brown tones",
+        "rich red and warm brown",
+        "white and golden yellow",
+        "rich red and earthy brown tones",
+        "rich in warm tones of red and yellow"
+      ],
+      "tags": [
+        "earthy",
+        "warm",
+        "red",
+        "brown",
+        "golden"
+      ]
+    },
+    "warm_red_white_dominant_color_grade": {
+      "canonical_name": "warm red white dominant color grade",
+      "canonical_name_zh": "暖红白主导色调",
+      "canonical_phrase": "warm tone with red and white as dominant colors",
+      "samples": [
+        "warm tone with red and white as dominant colors"
+      ],
+      "tags": [
+        "red",
+        "white",
+        "warm",
+        "vintage",
+        "sunset"
+      ]
+    },
+    "dominant_white_pale_green": {
+      "canonical_name": "dominant white pale green",
+      "canonical_name_zh": "主白淡绿",
+      "canonical_phrase": "dominant white and pale green",
+      "samples": [
+        "dominant white and pale green"
+      ],
+      "tags": [
+        "white",
+        "pale green",
+        "pastel",
+        "soft",
+        "minimalist"
+      ]
+    },
+    "dominant_blue_and_green_with_warm_golden_sunlight": {
+      "canonical_name": "dominant blue and green with warm golden sunlight",
+      "canonical_name_zh": "蓝绿主色调配暖金阳光",
+      "canonical_phrase": "lush green and vivid blue with warm golden sunlight highlights",
+      "samples": [
+        "lush green and pale sky blue",
+        "dominant colors are dark denim blue and warm golden light",
+        "dominant colors blue and green with golden sunlight",
+        "deep blue, rich green, and warm golden sunlight",
+        "vivid blue and lush green under intense natural sunlight",
+        "dominant blue and green with warm golden highlights"
+      ],
+      "tags": [
+        "blue",
+        "green",
+        "golden",
+        "sunlight",
+        "natural"
+      ]
+    },
+    "vivid_yellow_pink_purple_color_theme": {
+      "canonical_name": "vivid yellow pink purple color theme",
+      "canonical_name_zh": "黄粉紫 vivid 色调",
+      "canonical_phrase": "vivid color theme of yellow pink and purple dominating scene",
+      "samples": [
+        "vivid color theme of yellow pink and purple dominating scene"
+      ],
+      "tags": [
+        "vivid",
+        "yellow",
+        "pink",
+        "purple",
+        "dominating"
+      ]
+    },
+    "warm_beige_and_pastel_color_theme": {
+      "canonical_name": "warm beige and pastel color theme",
+      "canonical_name_zh": "暖色米白与柔和色调",
+      "canonical_phrase": "soft warm beige combined with pale yellow pink red orange white pastel tones",
+      "samples": [
+        "red and beige color theme",
+        "pink and beige color theme",
+        "pale yellow and white color theme",
+        "orange and beige color theme",
+        "yellow and beige color theme",
+        "pale yellow and beige color theme",
+        "white and beige color theme"
+      ],
+      "tags": [
+        "beige",
+        "pastel",
+        "warm",
+        "soft",
+        "neutral"
+      ]
+    },
+    "vivid_warm_yellow_cool_blue_contrast": {
+      "canonical_name": "vivid warm yellow cool blue contrast",
+      "canonical_name_zh": "鲜明暖黄冷蓝对比",
+      "canonical_phrase": "vivid, high contrast between warm yellow and cool blue",
+      "samples": [
+        "vivid, high contrast between warm yellow and cool blue"
+      ],
+      "tags": [
+        "color",
+        "fabric",
+        "jacket",
+        "cinematic",
+        "neon"
+      ]
+    },
+    "warm_tones_with_dominant_neutrals": {
+      "canonical_name": "warm tones with dominant neutrals",
+      "canonical_name_zh": "暖色调主导中性色",
+      "canonical_phrase": "warm color tones with dominant white, black, and brown",
+      "samples": [
+        "white and warm brown tones",
+        "warm brown tones with black and white dominance",
+        "warm natural tones with dominant white, black, and blue",
+        "warm tones of white, black, and green",
+        "warm color tones, dominant colors white and brown",
+        "warm tones with dominant black and purple",
+        "warm, vibrant, red and black dominant",
+        "warm with dominant white, black, and natural skin tones",
+        "warm tones of white and rust",
+        "warm color tones emphasizing white, purple, and red",
+        "warm tones, dominant colors black and white",
+        "warm tones of green and brown",
+        "warm tones of red, brown, and blue",
+        "warm natural tones with black, white, and beige dominance"
+      ],
+      "tags": [
+        "warm",
+        "neutral",
+        "earth",
+        "monochrome",
+        "rust"
+      ]
+    },
+    "warm_earthy_tones_with_natural_accents": {
+      "canonical_name": "warm earthy tones with natural accents",
+      "canonical_name_zh": "暖色调大地色系",
+      "canonical_phrase": "warm earthy tones with fiery reds deep browns and white accents",
+      "samples": [
+        "warm earthy tones with fiery reds and deep browns",
+        "warm and earthy",
+        "warm earthy tones",
+        "warm tones dominating, warm earthy tones",
+        "warm earthy tones dominated by white and brown",
+        "warm tones with white and earth brown as primary colors",
+        "earthy tones dominate",
+        "warm earthy tones and vibrant green dominating",
+        "warm earthy tones with white, wood brown, and red accents",
+        "sepia tone, warm earthy tones",
+        "warm earthy tones dominated by white and warm wood tones",
+        "earthy brown tones contrasted with bright white",
+        "rich in earthy tones",
+        "warm earthy tones with dominant red, yellow, black, and white",
+        "warm earthy tones with dominant red, blue, and brown"
+      ],
+      "tags": [
+        "warm",
+        "earthy",
+        "brown",
+        "sepia",
+        "natural"
+      ]
+    },
+    "monochrome_black_white_gray_tones": {
+      "canonical_name": "monochrome black white gray tones",
+      "canonical_name_zh": "黑白灰单色调",
+      "canonical_phrase": "monochrome palette with black white and gray tones",
+      "samples": [
+        "monochrome light gray and white tones",
+        "monochrome with high contrast",
+        "black and white, monochromatic",
+        "black and white monochrome",
+        "black, gray, and skin tones",
+        "monochrome emphasizing contrast and texture",
+        "black and white emphasizing texture and contrast, white and gray tones",
+        "monochrome palette",
+        "sepia-toned monochrome",
+        "monochrome tones of black, white, and gray",
+        "monochrome",
+        "grayscale tones of black, white, and gray"
+      ],
+      "tags": [
+        "monochrome",
+        "grayscale",
+        "high-contrast",
+        "sepia",
+        "texture"
+      ]
+    },
+    "warm_golden_tones_with_white_and_wood": {
+      "canonical_name": "warm golden tones with white and wood",
+      "canonical_name_zh": "暖金白木色调",
+      "canonical_phrase": "warm golden tones, white and warm wood tones dominant",
+      "samples": [
+        "warm golden tones, white and warm wood tones dominant"
+      ],
+      "tags": [
+        "golden",
+        "wood",
+        "white",
+        "warm",
+        "natural"
+      ]
+    },
+    "cool_bluegreen_tint": {
+      "canonical_name": "cool blue-green tint",
+      "canonical_name_zh": "冷蓝绿色调",
+      "canonical_phrase": "cool blue-green tint",
+      "samples": [
+        "cool blue-green tint"
+      ],
+      "tags": [
+        "blue",
+        "green",
+        "tint",
+        "cool",
+        "aesthetic"
+      ]
+    },
+    "cool_blue_and_white_tones": {
+      "canonical_name": "cool blue and white tones",
+      "canonical_name_zh": "冷蓝白调",
+      "canonical_phrase": "blue and white tones",
+      "samples": [
+        "blue and white tones"
+      ],
+      "tags": [
+        "blue",
+        "white",
+        "cool",
+        "minimalist",
+        "frost"
+      ]
+    },
+    "warm_golden_beige_with_soft_accents": {
+      "canonical_name": "warm golden beige with soft accents",
+      "canonical_name_zh": "暖金米色柔和色调",
+      "canonical_phrase": "warm golden tones with soft beige and subtle blue or coral accents",
+      "samples": [
+        "warm golden tones, warm beige and white",
+        "warm beige, soft blue, and golden yellow",
+        "warm golden with dominant beige and blue",
+        "warm golden tones, earthy browns, deep navy blue, creamy beige",
+        "warm golden tones with predominant colors coral and beige",
+        "warm beige and soft gold"
+      ],
+      "tags": [
+        "warm",
+        "golden",
+        "beige",
+        "soft",
+        "earthy"
+      ]
+    },
+    "cool_blue_tint_dominating_scene": {
+      "canonical_name": "cool blue tint dominating scene",
+      "canonical_name_zh": "冷蓝色调主导",
+      "canonical_phrase": "cool blue tint dominating the scene",
+      "samples": [
+        "cool blue tint dominating the scene"
+      ],
+      "tags": [
+        "blue",
+        "cool",
+        "tint",
+        "atmosphere",
+        "cinematic"
+      ]
+    },
+    "warm_cinematic_natural_skin_white_dominant": {
+      "canonical_name": "warm cinematic natural skin white dominant",
+      "canonical_name_zh": "暖调电影感自然肤色白色主导",
+      "canonical_phrase": "warm cinematic with natural skin tone and white as dominant color theme",
+      "samples": [
+        "warm cinematic with natural skin tone and white as dominant color theme"
+      ],
+      "tags": [
+        "warm",
+        "cinematic",
+        "natural_skin",
+        "white_theme",
+        "soft_lighting"
+      ]
+    },
+    "vintage_denim_jacket_with_rusted_metal_buttons": {
+      "canonical_name": "vintage denim jacket with rusted metal buttons",
+      "canonical_name_zh": "复古牛仔夹克配生锈金属扣",
+      "canonical_phrase": "dominant colors are blue, yellow, and brown",
+      "samples": [
+        "dominant colors are blue, yellow, and brown"
+      ],
+      "tags": [
+        "denim",
+        "rust",
+        "vintage",
+        "metal",
+        "weathered"
+      ]
+    },
+    "warm_beige_muted_color_palette": {
+      "canonical_name": "warm beige muted color palette",
+      "canonical_name_zh": "暖米色柔和色调",
+      "canonical_phrase": "warm muted beige tones with soft white and black accents",
+      "samples": [
+        "warm muted tones of beige and soft brown",
+        "warm tones of beige, white, and muted purple",
+        "warm beige and black white contrast",
+        "warm beige tones with white and black accents",
+        "warm muted tones, warm beige and soft white color palette",
+        "soft blue and warm beige",
+        "warm beige tones",
+        "warm tones of beige and blue"
+      ],
+      "tags": [
+        "beige",
+        "warm",
+        "muted",
+        "soft",
+        "neutral"
+      ]
+    },
+    "dominant_red_blue_white_color_scheme": {
+      "canonical_name": "dominant red blue white color scheme",
+      "canonical_name_zh": "红蓝白主色调",
+      "canonical_phrase": "dominant red and blue with white accents and occasional black or yellow",
+      "samples": [
+        "dominant blue and white with accents of red",
+        "dominant black and white accented with red",
+        "dominant colors are red, black, white, and blue",
+        "dominant colors are blue, pink, and red",
+        "dominant colors red and blue",
+        "dominant red and blue",
+        "dominant red and yellow with electric blue accents",
+        "dominant colors are red, blue, and beige",
+        "dominant red and white contrasting with green and blue",
+        "dominant colors white and red"
+      ],
+      "tags": [
+        "color",
+        "red",
+        "blue",
+        "white",
+        "contrast"
+      ]
+    },
+    "soft_pastel_pink_and_white_gradient": {
+      "canonical_name": "soft pastel pink and white gradient",
+      "canonical_name_zh": "柔和粉白渐变",
+      "canonical_phrase": "dominant color theme pink and white",
+      "samples": [
+        "dominant color theme pink and white"
+      ],
+      "tags": [
+        "pastel",
+        "pink",
+        "white",
+        "gradient",
+        "soft"
+      ]
+    },
+    "cool_blue_gray_muted_earthy_brown": {
+      "canonical_name": "cool blue gray muted earthy brown",
+      "canonical_name_zh": "冷调蓝灰褐",
+      "canonical_phrase": "cool tones of blue, gray, and muted earthy browns",
+      "samples": [
+        "cool tones of blue, gray, and muted earthy browns"
+      ],
+      "tags": [
+        "blue",
+        "gray",
+        "brown",
+        "muted",
+        "earthy"
+      ]
+    },
+    "vibrant_turquoise_white_green_color_grade": {
+      "canonical_name": "vibrant turquoise white green color grade",
+      "canonical_name_zh": "青绿白活力色调",
+      "canonical_phrase": "vibrant colors theme of turquoise, white, and green",
+      "samples": [
+        "vibrant colors theme of turquoise, white, and green"
+      ],
+      "tags": [
+        "turquoise",
+        "white",
+        "green",
+        "vibrant",
+        "cool_tone"
+      ]
+    },
+    "cyan_and_white_color_theme": {
+      "canonical_name": "cyan and white color theme",
+      "canonical_name_zh": "青白配色主题",
+      "canonical_phrase": "cyan and white color theme",
+      "samples": [
+        "cyan and white color theme"
+      ],
+      "tags": [
+        "cyan",
+        "white",
+        "cool",
+        "minimalist",
+        "pastel"
+      ]
+    },
+    "soft_muted_pastel_tones_with_white_and_gray": {
+      "canonical_name": "soft muted pastel tones with white and gray",
+      "canonical_name_zh": "柔和灰白淡彩调",
+      "canonical_phrase": "soft muted pastel tones with white and gray accents",
+      "samples": [
+        "purple and white with soft beige undertones",
+        "soft grays and whites",
+        "muted blue-gray tones with white and colorful floral accents",
+        "soft greens, light blue, and pale gray",
+        "soft purples and grays",
+        "soft natural tones of white and muted gray",
+        "natural tones with soft whites and muted grays",
+        "white and green with soft gray tones",
+        "soft gray and white tones"
+      ],
+      "tags": [
+        "pastel",
+        "muted",
+        "soft",
+        "white",
+        "gray"
+      ]
+    },
+    "dominant_soft_blue_and_white": {
+      "canonical_name": "dominant soft blue and white",
+      "canonical_name_zh": "主调柔蓝与白",
+      "canonical_phrase": "dominant soft blue and white",
+      "samples": [
+        "dominant soft blue and white"
+      ],
+      "tags": [
+        "blue",
+        "white",
+        "pastel",
+        "minimalist",
+        "cool_tone"
+      ]
+    },
+    "warm_ambient_blue_denim_white_top": {
+      "canonical_name": "warm ambient blue denim white top",
+      "canonical_name_zh": "暖调蓝牛仔白上衣",
+      "canonical_phrase": "warm ambient tones with dominant blue denim and white top contrasting against warm background",
+      "samples": [
+        "warm ambient tones with dominant blue denim and white top contrasting against warm background"
+      ],
+      "tags": [
+        "blue",
+        "denim",
+        "white",
+        "warm",
+        "contrast"
+      ]
+    },
+    "warm_earthy_tones_with_blue_and_pink": {
+      "canonical_name": "warm earthy tones with blue and pink",
+      "canonical_name_zh": "暖调大地色配蓝粉",
+      "canonical_phrase": "warm color tones dominated by earthy browns, soft pinks, and denim blue",
+      "samples": [
+        "warm tones with blue, green, and earthy browns",
+        "warm color tones dominated by soft pinks, whites, and earthy browns",
+        "warm color tones dominated by earthy browns and soft pinks",
+        "warm tones, rich natural colors emphasizing earthy browns, greens, and denim blue"
+      ],
+      "tags": [
+        "warm",
+        "earthy",
+        "denim",
+        "soft pink",
+        "natural"
+      ]
+    },
+    "warm_beige_and_soft_earthy_tones": {
+      "canonical_name": "warm beige and soft earthy tones",
+      "canonical_name_zh": "暖米色柔和大地色调",
+      "canonical_phrase": "warm beige with soft white, muted green, and earthy brown accents",
+      "samples": [
+        "warm beige, muted green, and soft white",
+        "white and soft beige",
+        "warm beige and soft purple",
+        "warm beige, white, and black",
+        "warm beige and brown",
+        "warm beige and soft white",
+        "warm beige and white",
+        "warm beige and green tones",
+        "warm beige and muted green",
+        "warm brown and beige",
+        "soft white, earthy beige, and vibrant green",
+        "warm beige and soft green",
+        "warm tones, soft beige and deep green",
+        "green and warm beige tones",
+        "earthy beige and creamy white",
+        "warm beige and muted dark green"
+      ],
+      "tags": [
+        "beige",
+        "muted",
+        "earthy",
+        "soft",
+        "natural"
+      ]
+    },
+    "warm_whites_soft_browns_muted_blues": {
+      "canonical_name": "warm whites soft browns muted blues",
+      "canonical_name_zh": "暖白柔棕淡蓝",
+      "canonical_phrase": "warm whites, soft browns, and muted blues",
+      "samples": [
+        "warm whites, soft browns, and muted blues"
+      ],
+      "tags": [
+        "color",
+        "earth",
+        "neutral",
+        "calm",
+        "pastel"
+      ]
+    },
+    "rich_purple_and_white_color_theme": {
+      "canonical_name": "rich purple and white color theme",
+      "canonical_name_zh": "紫白浓郁配色",
+      "canonical_phrase": "rich purple and white color theme",
+      "samples": [
+        "rich purple and white color theme"
+      ],
+      "tags": [
+        "purple",
+        "white",
+        "luxury",
+        "elegant",
+        "gradient"
+      ]
+    },
+    "warm_cinematic_golden_orange_glow": {
+      "canonical_name": "warm cinematic golden orange glow",
+      "canonical_name_zh": "暖调电影金橙光",
+      "canonical_phrase": "warm cinematic glow, dominated by golden orange and creamy beige tones",
+      "samples": [
+        "warm cinematic glow, dominated by golden orange and creamy beige tones"
+      ],
+      "tags": [
+        "golden",
+        "orange",
+        "beige",
+        "cinematic",
+        "glow"
+      ]
+    },
+    "warm_tone_white_and_green_theme": {
+      "canonical_name": "warm tone white and green theme",
+      "canonical_name_zh": "暖调白绿主题",
+      "canonical_phrase": "warm tone with predominantly white and green color theme",
+      "samples": [
+        "warm white and vibrant green",
+        "warm color theme with greens and whites",
+        "warm tone with predominantly white and green color theme",
+        "green and white color theme, warm tones",
+        "warm tones with white and green theme",
+        "warm tones, white and green color theme",
+        "warm tan and white color theme"
+      ],
+      "tags": [
+        "warm",
+        "white",
+        "green",
+        "vibrant",
+        "natural"
+      ]
+    },
+    "dominant_white_and_cool_blue_color_grade": {
+      "canonical_name": "dominant white and cool blue color grade",
+      "canonical_name_zh": "主导白与冷蓝色调",
+      "canonical_phrase": "dominant colors white and cool blue",
+      "samples": [
+        "dominant colors white and cool blue"
+      ],
+      "tags": [
+        "white",
+        "cool_blue",
+        "fabric",
+        "minimalist",
+        "frosty"
+      ]
+    },
+    "cinematic_warm_yellow_pink_hue": {
+      "canonical_name": "cinematic warm yellow pink hue",
+      "canonical_name_zh": "电影感暖黄粉色调",
+      "canonical_phrase": "cinematic warm color tone, rich yellow and pink hues",
+      "samples": [
+        "cinematic warm color tone, rich yellow and pink hues"
+      ],
+      "tags": [
+        "warm",
+        "yellow",
+        "pink",
+        "cinematic",
+        "hues"
+      ]
+    },
+    "rich_blue_and_green_color_theme": {
+      "canonical_name": "rich blue and green color theme",
+      "canonical_name_zh": "蓝绿浓郁色调",
+      "canonical_phrase": "rich blue and green color theme",
+      "samples": [
+        "rich blue and green color theme"
+      ],
+      "tags": [
+        "blue",
+        "green",
+        "silk",
+        "ethereal",
+        "jewel"
+      ]
+    },
+    "cool_blue_green_and_black_color_theme": {
+      "canonical_name": "cool blue green and black color theme",
+      "canonical_name_zh": "蓝绿黑冷色调",
+      "canonical_phrase": "cool blue and green color theme with black accents",
+      "samples": [
+        "blue and black color theme",
+        "main color theme black, red, blue",
+        "green and brown color theme",
+        "main color theme blue and green",
+        "light blue and green color theme",
+        "blue and green color theme"
+      ],
+      "tags": [
+        "blue",
+        "green",
+        "black",
+        "cool",
+        "vibrant"
+      ]
+    },
+    "cool_blue_and_warm_beige_color_theme": {
+      "canonical_name": "cool blue and warm beige color theme",
+      "canonical_name_zh": "蓝橙蓝米配色",
+      "canonical_phrase": "soft pastel blue and beige color theme with warm accents",
+      "samples": [
+        "blue and orange color theme",
+        "coral and blue color theme",
+        "blue and beige color theme",
+        "light blue and beige color theme",
+        "pastel blue and beige color theme"
+      ],
+      "tags": [
+        "blue",
+        "beige",
+        "pastel",
+        "cool",
+        "warm"
+      ]
+    },
+    "soft_neutral_beige_and_white_palette": {
+      "canonical_name": "soft neutral beige and white palette",
+      "canonical_name_zh": "柔和中性米白配色",
+      "canonical_phrase": "soft beige, muted white, pale gray, and gentle wood tones",
+      "samples": [
+        "yellowish tones, beige, white, and soft brown",
+        "soft beige, pale gray, and muted blue",
+        "blue and beige",
+        "muted beige, wood tones, and soft white",
+        "white and beige",
+        "beige, black, and white",
+        "soft beige, white, and muted green"
+      ],
+      "tags": [
+        "beige",
+        "neutral",
+        "soft",
+        "minimalist",
+        "pastel"
+      ]
+    },
+    "warm_beige_muted_wood_dark_structure": {
+      "canonical_name": "warm beige muted wood dark structure",
+      "canonical_name_zh": "暖米色哑光木深色结构",
+      "canonical_phrase": "warm beige, muted wood tones, and dark structural elements",
+      "samples": [
+        "warm beige, muted wood tones, and dark structural elements"
+      ],
+      "tags": [
+        "beige",
+        "wood",
+        "structure",
+        "muted",
+        "warm"
+      ]
+    },
+    "red_golden_sand_green_foliage_color_grade": {
+      "canonical_name": "red golden sand green foliage color grade",
+      "canonical_name_zh": "红金沙绿植被色调",
+      "canonical_phrase": "dominant colors are red, golden sand, and green foliage",
+      "samples": [
+        "dominant colors are red, golden sand, and green foliage"
+      ],
+      "tags": [
+        "red",
+        "golden",
+        "foliage",
+        "earthy",
+        "vibrant"
+      ]
+    },
+    "warm_beige_pink_light_blue_palette": {
+      "canonical_name": "warm beige pink light blue palette",
+      "canonical_name_zh": "暖调米粉浅蓝配色",
+      "canonical_phrase": "warm color palette dominated by beige, pink, and light blue tones",
+      "samples": [
+        "warm color palette dominated by beige, pink, and light blue tones"
+      ],
+      "tags": [
+        "beige",
+        "pastel",
+        "soft",
+        "minimalist",
+        "blush"
+      ]
+    },
+    "natural_skin_tone_color_theme": {
+      "canonical_name": "natural skin tone color theme",
+      "canonical_name_zh": "自然肤色色调",
+      "canonical_phrase": "soft natural colors with beige green pink white and skin tones",
+      "samples": [
+        "beige and skin tone color theme",
+        "light blue and skin tone color theme",
+        "white and skin tone color theme",
+        "natural colors theme of green, pink, and white",
+        "natural color theme of beige, green, and white"
+      ],
+      "tags": [
+        "natural",
+        "skin_tone",
+        "beige",
+        "pastel",
+        "soft"
+      ]
+    },
+    "vivid_pink_and_deep_blue_tones": {
+      "canonical_name": "vivid pink and deep blue tones",
+      "canonical_name_zh": "鲜艳粉与深邃蓝",
+      "canonical_phrase": "vivid pink and deep blue tones",
+      "samples": [
+        "vivid pink and deep blue tones"
+      ],
+      "tags": [
+        "pink",
+        "blue",
+        "neon",
+        "cyberpunk",
+        "gradient"
+      ]
+    },
+    "monochrome_deep_blacks_bright_highlights": {
+      "canonical_name": "monochrome deep blacks bright highlights",
+      "canonical_name_zh": "黑白深黑亮高光",
+      "canonical_phrase": "monochrome theme with deep blacks and bright highlights",
+      "samples": [
+        "monochrome theme with deep blacks and bright highlights"
+      ],
+      "tags": [
+        "monochrome",
+        "black",
+        "contrast",
+        "dramatic",
+        "highlights"
+      ]
+    },
+    "dominant_green_and_gold_color_theme": {
+      "canonical_name": "dominant green and gold color theme",
+      "canonical_name_zh": "主色调绿金",
+      "canonical_phrase": "dominant green and gold color theme",
+      "samples": [
+        "dominant green and gold color theme"
+      ],
+      "tags": [
+        "green",
+        "gold",
+        "metallic",
+        "royal",
+        "luxury"
+      ]
+    },
+    "warm_beige_peach_pink_red_brown_teal": {
+      "canonical_name": "warm beige peach pink red brown teal",
+      "canonical_name_zh": "暖调米色桃粉红棕青绿",
+      "canonical_phrase": "warm beige and peach tones with pink red brown teal accents",
+      "samples": [
+        "warm beige and peach tones",
+        "warm tones of pink, blue, and beige",
+        "warm tones with dominant brown, teal, and beige",
+        "warm with pink, red, and beige tones"
+      ],
+      "tags": [
+        "warm",
+        "beige",
+        "peach",
+        "pastel",
+        "soft"
+      ]
+    },
+    "dominated_by_blue_and_yellow_hues": {
+      "canonical_name": "dominated by blue and yellow hues",
+      "canonical_name_zh": "蓝黄主色调",
+      "canonical_phrase": "vibrant blue and yellow tones with strong contrast",
+      "samples": [
+        "dominated by blue and green hues",
+        "dominated by blue and yellow hues",
+        "vibrant yellow and deep blue dominate",
+        "dominated by blue and yellow",
+        "dominated by yellow and blue",
+        "dominated by yellow and blue tones, strong contrast"
+      ],
+      "tags": [
+        "blue",
+        "yellow",
+        "vibrant",
+        "contrast",
+        "cool_warm"
+      ]
+    },
+    "dominant_white_and_golden_yellow": {
+      "canonical_name": "dominant white and golden yellow",
+      "canonical_name_zh": "主白与金黄",
+      "canonical_phrase": "dominant white and golden yellow",
+      "samples": [
+        "dominant white and golden yellow"
+      ],
+      "tags": [
+        "white",
+        "gold",
+        "luxury",
+        "metallic",
+        "bright"
+      ]
+    },
+    "vibrant_green_and_yellow_color_theme": {
+      "canonical_name": "vibrant green and yellow color theme",
+      "canonical_name_zh": "鲜艳绿黄配色",
+      "canonical_phrase": "vibrant color theme dominated by green and yellow tones",
+      "samples": [
+        "vibrant color theme dominated by green and yellow tones"
+      ],
+      "tags": [
+        "green",
+        "yellow",
+        "vibrant",
+        "sunset",
+        "citrus"
+      ]
+    },
+    "cinematic_warm_red_orange_theme": {
+      "canonical_name": "cinematic warm red orange theme",
+      "canonical_name_zh": "电影感暖红橙色调",
+      "canonical_phrase": "cinematic warm color theme dominated by reds and oranges",
+      "samples": [
+        "cinematic warm color theme dominated by reds and oranges"
+      ],
+      "tags": [
+        "warm",
+        "reds",
+        "oranges",
+        "cinematic",
+        "glow"
+      ]
+    },
+    "warm_golden_tones_with_cool_accents": {
+      "canonical_name": "warm golden tones with cool accents",
+      "canonical_name_zh": "暖金调配冷色点缀",
+      "canonical_phrase": "warm golden tones with cool blue accents and rich colors",
+      "samples": [
+        "warm golden tones contrasting with cool blue",
+        "warm golden tone with dominant red and blue colors",
+        "warm golden tones with purple and beige dominance",
+        "cool pale blue with golden accents",
+        "warm golden tones with dominant dark tones and warm skin tones",
+        "warm golden tones with rich colors",
+        "warm golden tones with crisp white and vibrant red accents",
+        "dominant warm red and golden tones",
+        "warm golden tone",
+        "warm golden tones with dominant yellow and white",
+        "warm golden",
+        "warm golden tone, earthy tones and denim blue",
+        "warm golden tones with dominant brown and blue",
+        "dominant golden and soft pink",
+        "warm golden tones and cool blue highlights",
+        "warm golden tones and cool blue reflections",
+        "warm golden hues",
+        "warm golden tones dominated by gold and white",
+        "warm golden tones and white",
+        "vibrant blue and white with warm golden tones",
+        "warm tones with golden sunlight",
+        "rich tones of white, green, and warm golden hues",
+        "warm golden tones with dominant red",
+        "warm golden tones",
+        "warm golden tone with dominant white and pale green"
+      ],
+      "tags": [
+        "golden",
+        "warm",
+        "cool",
+        "contrast",
+        "sunlight"
+      ]
+    },
+    "natural_skin_tones_white_fabric_theme": {
+      "canonical_name": "natural skin tones white fabric theme",
+      "canonical_name_zh": "自然肤色白布主题",
+      "canonical_phrase": "natural skin tones and white fabric as the main color theme",
+      "samples": [
+        "natural skin tones and white fabric as the main color theme"
+      ],
+      "tags": [
+        "skin",
+        "fabric",
+        "white",
+        "minimalist",
+        "neutral"
+      ]
+    },
+    "pastel_pinks_and_muted_grays": {
+      "canonical_name": "pastel pinks and muted grays",
+      "canonical_name_zh": "粉灰柔和色调",
+      "canonical_phrase": "pastel pinks and muted grays",
+      "samples": [
+        "pastel pinks and muted grays"
+      ],
+      "tags": [
+        "pastel",
+        "muted",
+        "pink",
+        "gray",
+        "soft"
+      ]
+    },
+    "dominant_cool_blue_warm_white": {
+      "canonical_name": "dominant cool blue warm white",
+      "canonical_name_zh": "冷蓝暖白主色调",
+      "canonical_phrase": "dominant cool blue and warm white tones",
+      "samples": [
+        "dominant cool blue and warm white tones"
+      ],
+      "tags": [
+        "blue",
+        "white",
+        "cool",
+        "warm",
+        "gradient"
+      ]
+    },
+    "two_tone_color_theme": {
+      "canonical_name": "two tone color theme",
+      "canonical_name_zh": "双色主题",
+      "canonical_phrase": "two tone color theme with green and white",
+      "samples": [
+        "green and white color theme",
+        "color theme of green and white",
+        "color theme of green and orange",
+        "golden and green color theme",
+        "cyan and green color theme",
+        "white and green color theme",
+        "orange and blue color theme"
+      ],
+      "tags": [
+        "color",
+        "green",
+        "white",
+        "theme",
+        "gradient"
+      ]
+    },
+    "monochrome_silver_black_theme": {
+      "canonical_name": "monochrome silver black theme",
+      "canonical_name_zh": "银黑单色主题",
+      "canonical_phrase": "monochrome with a dominant silver and black color theme",
+      "samples": [
+        "monochrome with a dominant silver and black color theme"
+      ],
+      "tags": [
+        "silver",
+        "black",
+        "monochrome",
+        "futuristic",
+        "metallic"
+      ]
+    },
+    "soft_cooltoned_white_navy_blue": {
+      "canonical_name": "soft cool-toned white navy blue",
+      "canonical_name_zh": "柔和冷调白蓝",
+      "canonical_phrase": "soft cool-toned with dominant white and navy blue",
+      "samples": [
+        "soft cool-toned with dominant white and navy blue"
+      ],
+      "tags": [
+        "cool",
+        "white",
+        "navy",
+        "soft",
+        "minimalist"
+      ]
+    },
+    "red_blue_white_accent_color_grade": {
+      "canonical_name": "red blue white accent color grade",
+      "canonical_name_zh": "红蓝白点缀色调",
+      "canonical_phrase": "colors dominated by red and blue with white accents",
+      "samples": [
+        "colors dominated by red and blue with white accents"
+      ],
+      "tags": [
+        "red",
+        "blue",
+        "white",
+        "cinematic",
+        "accent"
+      ]
+    },
+    "natural_tones_with_dominant_green_and_white": {
+      "canonical_name": "natural tones with dominant green and white",
+      "canonical_name_zh": "自然色调主绿白",
+      "canonical_phrase": "natural muted tones with dominant green and white hues",
+      "samples": [
+        "primary colors green and skin tone",
+        "dominant green and white tones with greenish hue",
+        "dominant white, green, and transparent hues",
+        "dominant tones of green and skin tones",
+        "natural color tones with white and green as dominant colors",
+        "natural tones with primary colors pink, green, and white",
+        "natural muted tones with a dominant white and green palette",
+        "dominant colors: green, blue, warm skin tones",
+        "natural tones with dominant skin tones, white, and dark blue",
+        "natural tones with dominant white, beige, and blue-green"
+      ],
+      "tags": [
+        "green",
+        "white",
+        "natural",
+        "muted",
+        "skin_tone"
+      ]
+    },
+    "dominant_red_and_white_with_wood_tones": {
+      "canonical_name": "dominant red and white with wood tones",
+      "canonical_name_zh": "红白主色调配木色",
+      "canonical_phrase": "dominant red and white color scheme with natural wood tones",
+      "samples": [
+        "primary colors are white and red",
+        "dominant colors pink, red, and warm wood tones",
+        "dominant red, white, and wood tones",
+        "dominant red and skin tone",
+        "red, white, and natural wood tones",
+        "primary colors white and red"
+      ],
+      "tags": [
+        "red",
+        "white",
+        "wood",
+        "warm",
+        "natural"
+      ]
+    },
+    "dominant_colors_gold_and_green": {
+      "canonical_name": "dominant colors gold and green",
+      "canonical_name_zh": "主色调金绿",
+      "canonical_phrase": "dominant colors gold and green",
+      "samples": [
+        "dominant colors gold and green"
+      ],
+      "tags": [
+        "gold",
+        "green",
+        "metallic",
+        "luxury",
+        "jewelry"
+      ]
+    },
+    "earthy_yellows_deep_blues_muted_greens": {
+      "canonical_name": "earthy yellows deep blues muted greens",
+      "canonical_name_zh": "土黄深蓝灰绿",
+      "canonical_phrase": "earthy yellows, deep blues, and muted greens",
+      "samples": [
+        "earthy yellows, deep blues, and muted greens"
+      ],
+      "tags": [
+        "color",
+        "palette",
+        "vintage",
+        "natural",
+        "muted"
+      ]
+    },
+    "cool_blue_tinted": {
+      "canonical_name": "cool blue tinted",
+      "canonical_name_zh": "冷蓝色调",
+      "canonical_phrase": "cool blue tinted",
+      "samples": [
+        "cool blue tinted"
+      ],
+      "tags": [
+        "blue",
+        "cool",
+        "tint",
+        "cinematic",
+        "atmosphere"
+      ]
+    },
+    "warm_beige_and_blue_color_tones": {
+      "canonical_name": "warm beige and blue color tones",
+      "canonical_name_zh": "暖色米蓝调",
+      "canonical_phrase": "warm beige and blue tones with natural sunlight highlights",
+      "samples": [
+        "warm color tones emphasizing blue and beige hues",
+        "warm tones of red and beige contrasting with the cool blue-white tones of the snowy environment",
+        "high saturation, dominant colors blue and beige",
+        "warm tones of brown, black, and vibrant thread colors",
+        "natural tones of black, blue, and beige with warm sunlight highlights",
+        "warm tones dominated by beige, tan, and soft gray hues",
+        "warm tones dominate, sandy beige and sky blue hues"
+      ],
+      "tags": [
+        "beige",
+        "blue",
+        "warm",
+        "natural",
+        "sunlight"
+      ]
+    },
+    "dominant_red_and_purple_color_theme": {
+      "canonical_name": "dominant red and purple color theme",
+      "canonical_name_zh": "红紫主导色调",
+      "canonical_phrase": "dominant red and purple color theme",
+      "samples": [
+        "dominant red and purple color theme"
+      ],
+      "tags": [
+        "red",
+        "purple",
+        "gradient",
+        "vibrant",
+        "atmosphere"
+      ]
+    },
+    "rich_green_and_black": {
+      "canonical_name": "rich green and black",
+      "canonical_name_zh": "深绿与黑",
+      "canonical_phrase": "rich green and black",
+      "samples": [
+        "rich green and black"
+      ],
+      "tags": [
+        "green",
+        "black",
+        "velvet",
+        "gothic",
+        "contrast"
+      ]
+    },
+    "warm_tones_deep_blue_bright_white": {
+      "canonical_name": "warm tones deep blue bright white",
+      "canonical_name_zh": "暖调深蓝亮白",
+      "canonical_phrase": "warm tones with deep blue and bright white",
+      "samples": [
+        "warm tones with deep blue and bright white"
+      ],
+      "tags": [
+        "warm",
+        "blue",
+        "white",
+        "contrast",
+        "vibrant"
+      ]
+    },
+    "warm_golden_tones_with_varied_accents": {
+      "canonical_name": "warm golden tones with varied accents",
+      "canonical_name_zh": "暖金色调搭配多样点缀",
+      "canonical_phrase": "warm golden tones with peach pink red green cream white and earthy brown accents",
+      "samples": [
+        "warm golden tones with peach and gray theme",
+        "warm vibrant with pink and white color theme",
+        "dominant warm tones, subtle golden highlights",
+        "warm color theme with cream, pink, and green tones",
+        "warm golden tone, white and golden yellow color theme",
+        "warm golden tones with red and green as dominant color theme",
+        "warm golden tones with primary red and green theme",
+        "warm color theme with golden tones and earthy browns",
+        "warm color theme with white and golden tones",
+        "warm color theme"
+      ],
+      "tags": [
+        "warm",
+        "golden",
+        "peach",
+        "pink",
+        "accent"
+      ]
+    },
+    "soft_blue_and_white_color_grade": {
+      "canonical_name": "soft blue and white color grade",
+      "canonical_name_zh": "柔和蓝白配色",
+      "canonical_phrase": "soft blue and white color grading with cool or warm white tones",
+      "samples": [
+        "soft blues and whites",
+        "cool blues and soft whites",
+        "soft blue and warm white",
+        "soft blue and white"
+      ],
+      "tags": [
+        "blue",
+        "white",
+        "cool",
+        "soft",
+        "pastel"
+      ]
+    },
+    "cool_blue_and_warm_beige": {
+      "canonical_name": "cool blue and warm beige",
+      "canonical_name_zh": "冷蓝暖米色",
+      "canonical_phrase": "cool blue and warm beige",
+      "samples": [
+        "cool blue and warm beige"
+      ],
+      "tags": [
+        "blue",
+        "beige",
+        "contrast",
+        "vintage",
+        "gradient"
+      ]
+    },
+    "rust_orange_pale_beige_garment": {
+      "canonical_name": "rust orange pale beige garment",
+      "canonical_name_zh": "锈橙与米色",
+      "canonical_phrase": "rust-orange and pale beige",
+      "samples": [
+        "rust-orange and pale beige"
+      ],
+      "tags": [
+        "rust",
+        "beige",
+        "fabric",
+        "vintage",
+        "earth"
+      ]
+    },
+    "cool_purples_and_blues": {
+      "canonical_name": "cool purples and blues",
+      "canonical_name_zh": "冷调紫蓝",
+      "canonical_phrase": "cool purples and blues",
+      "samples": [
+        "cool purples and blues"
+      ],
+      "tags": [
+        "purple",
+        "blue",
+        "cool",
+        "gradient",
+        "neon"
+      ]
+    },
+    "warm_color_theme_dominated_by_yellow": {
+      "canonical_name": "warm color theme dominated by yellow",
+      "canonical_name_zh": "暖黄主导色调",
+      "canonical_phrase": "warm color theme dominated by yellow with soft accents",
+      "samples": [
+        "warm color theme with reds and soft yellows",
+        "warm color theme of green and pale yellow",
+        "warm color palette dominated by yellow and blue",
+        "warm color theme dominated by white and yellow",
+        "warm color theme with yellow and green dominant",
+        "warm color theme dominated by yellow and skin tones",
+        "warm color theme dominated by yellow and white",
+        "warm color theme dominated by blue and yellow",
+        "warm color theme of yellow and white",
+        "warm color theme dominated by blue and yellow, vivid colors"
+      ],
+      "tags": [
+        "yellow",
+        "warm",
+        "soft",
+        "vivid",
+        "palette"
+      ]
+    },
+    "soft_pink_and_beige_pastel_tones": {
+      "canonical_name": "soft pink and beige pastel tones",
+      "canonical_name_zh": "柔和粉米色调",
+      "canonical_phrase": "pink and beige",
+      "samples": [
+        "pink and beige"
+      ],
+      "tags": [
+        "pastel",
+        "fabric",
+        "dress",
+        "romantic",
+        "gradient"
+      ]
+    },
+    "dominant_blue_gray_warm_highlights": {
+      "canonical_name": "dominant blue gray warm highlights",
+      "canonical_name_zh": "蓝灰主调暖光",
+      "canonical_phrase": "dominant blue and gray with warm highlights",
+      "samples": [
+        "dominant blue and gray with warm highlights"
+      ],
+      "tags": [
+        "blue",
+        "gray",
+        "warm",
+        "cinematic",
+        "contrast"
+      ]
+    },
+    "beige_and_cream_tones": {
+      "canonical_name": "beige and cream tones",
+      "canonical_name_zh": "米色奶油色调",
+      "canonical_phrase": "beige and cream tones",
+      "samples": [
+        "beige and cream tones"
+      ],
+      "tags": [
+        "beige",
+        "cream",
+        "neutral",
+        "soft",
+        "pastel"
+      ]
+    },
+    "warm_golden_light_with_varied_color_themes": {
+      "canonical_name": "warm golden light with varied color themes",
+      "canonical_name_zh": "暖金光影多彩色调",
+      "canonical_phrase": "warm golden light with dominant contrasting color themes",
+      "samples": [
+        "warm golden light contrasting with deep shadows, red and blue dominant",
+        "warm golden lighting, dominant color theme of blue and green",
+        "warm golden light with dominant pink and red tones",
+        "warm golden lighting, vibrant colors, main color theme is yellow, green, and red",
+        "warm golden light with white and blue color theme",
+        "warm golden light with gold and navy blue theme",
+        "warm golden light with red and green color theme",
+        "warm golden light, red and white color theme dominating the palette",
+        "warm golden lighting with white and black color theme",
+        "warm golden lighting",
+        "warm golden hour glow, dominant colors blue and green",
+        "warm golden light with red and blue as main color theme",
+        "warm golden light with dominant colors black, golden brown, blue",
+        "warm golden light"
+      ],
+      "tags": [
+        "golden",
+        "warm",
+        "contrast",
+        "vibrant",
+        "shadows"
+      ]
+    },
+    "dominant_blue_and_brown_color_palette": {
+      "canonical_name": "dominant blue and brown color palette",
+      "canonical_name_zh": "蓝棕主色调",
+      "canonical_phrase": "dominant blue and brown tones with white accents",
+      "samples": [
+        "dominant blue and brown tones",
+        "dominant blue and white with accents of rust-orange",
+        "dominant blue and gray tones",
+        "dominant white and deep brown with accents of red and blue",
+        "dominant blue, white, and brown",
+        "dominant blue and earthy brown",
+        "dominant blue and black tones",
+        "dominant white, blue, and earthy brown",
+        "deep blue and dark brown dominant",
+        "dominant blue, white, and brown tones",
+        "dominant brown and blue tones",
+        "dominant white and blue tones",
+        "dominant blue and rust tones"
+      ],
+      "tags": [
+        "blue",
+        "brown",
+        "earthy",
+        "rust",
+        "cool"
+      ]
+    },
+    "monochrome_high_contrast_light_dark": {
+      "canonical_name": "monochrome high contrast light dark",
+      "canonical_name_zh": "黑白高对比度",
+      "canonical_phrase": "monochrome, high contrast between light and dark tones",
+      "samples": [
+        "monochrome, high contrast between light and dark tones"
+      ],
+      "tags": [
+        "monochrome",
+        "contrast",
+        "silhouette",
+        "dramatic",
+        "shadows"
+      ]
+    },
+    "light_blue_white_skin_tone_dominant": {
+      "canonical_name": "light blue white skin tone dominant",
+      "canonical_name_zh": "浅蓝白肤色主导",
+      "canonical_phrase": "dominant colors light blue, white, and skin tone",
+      "samples": [
+        "dominant colors light blue, white, and skin tone"
+      ],
+      "tags": [
+        "pastel",
+        "cool",
+        "minimalist",
+        "soft",
+        "ethereal"
+      ]
+    },
+    "warm_peach_and_pale_white": {
+      "canonical_name": "warm peach and pale white",
+      "canonical_name_zh": "暖桃与淡白",
+      "canonical_phrase": "warm peach and pale white",
+      "samples": [
+        "warm peach and pale white"
+      ],
+      "tags": [
+        "peach",
+        "white",
+        "soft",
+        "pastel",
+        "gradient"
+      ]
+    },
+    "dominant_white_and_green_color_palette": {
+      "canonical_name": "dominant white and green color palette",
+      "canonical_name_zh": "白绿主色调",
+      "canonical_phrase": "dominant colors white and green with occasional orange or pink accents",
+      "samples": [
+        "dominant colors white and green",
+        "dominant colors white, green, orange",
+        "dominant colors red, black, green, blue",
+        "dominant colors of green, white, and orange",
+        "dominant colors are white, green, and natural tones",
+        "dominant colors white, pink, green, blue",
+        "dominant colors white, black, green",
+        "dominant colors green and white"
+      ],
+      "tags": [
+        "white",
+        "green",
+        "colorful",
+        "vibrant",
+        "natural"
+      ]
+    },
+    "dominant_cool_blue_muted_green_tones": {
+      "canonical_name": "dominant cool blue muted green tones",
+      "canonical_name_zh": "冷蓝灰绿主色调",
+      "canonical_phrase": "dominant cool blue and muted green tones",
+      "samples": [
+        "dominant cool blue and muted green tones"
+      ],
+      "tags": [
+        "blue",
+        "green",
+        "muted",
+        "cool",
+        "atmosphere"
+      ]
+    },
+    "vibrant_and_warm": {
+      "canonical_name": "vibrant and warm",
+      "canonical_name_zh": "鲜艳暖色调",
+      "canonical_phrase": "vibrant and warm",
+      "samples": [
+        "vibrant and warm"
+      ],
+      "tags": [
+        "color",
+        "fabric",
+        "dress",
+        "sunset",
+        "glow"
+      ]
+    },
+    "rich_red_and_deep_blue_color_themes": {
+      "canonical_name": "rich red and deep blue color themes",
+      "canonical_name_zh": "深红与深蓝色调",
+      "canonical_phrase": "rich red and deep blue color themes",
+      "samples": [
+        "rich red and deep blue color themes"
+      ],
+      "tags": [
+        "red",
+        "blue",
+        "velvet",
+        "royal",
+        "gradient"
+      ]
+    },
+    "high_contrast_vivid_color_grading": {
+      "canonical_name": "high contrast vivid color grading",
+      "canonical_name_zh": "高对比度鲜艳色调",
+      "canonical_phrase": "high contrast black and white with vibrant saturated colors",
+      "samples": [
+        "high-contrast black and white",
+        "black and white with high contrast",
+        "black and white, high contrast with strong tonal separation",
+        "high contrast black and white",
+        "high contrast, dominant colors blue and black",
+        "vibrant and saturated, high contrast",
+        "high contrast with dominant white, black, and vibrant yellow",
+        "high contrast vivid colors"
+      ],
+      "tags": [
+        "contrast",
+        "vibrant",
+        "saturated",
+        "monochrome",
+        "bold"
+      ]
+    },
+    "warm_pink_dominant_color_theme": {
+      "canonical_name": "warm pink dominant color theme",
+      "canonical_name_zh": "暖粉主导色调",
+      "canonical_phrase": "warm color theme dominated by soft pink and skin tones",
+      "samples": [
+        "warm color theme dominated by soft pinks and skin tones",
+        "warm color theme dominated by pink and green hues",
+        "pinkish hue dominating, vibrant yet soft color palette emphasizing pink and warm tones",
+        "warm color theme of pink, white and blue",
+        "warm color theme dominated by pink and blue tones",
+        "warm color theme of pink, red, and floral hues"
+      ],
+      "tags": [
+        "pink",
+        "warm",
+        "soft",
+        "floral",
+        "vibrant"
+      ]
+    },
+    "metallic_silver_and_yellow_garment": {
+      "canonical_name": "metallic silver and yellow garment",
+      "canonical_name_zh": "金属银黄服饰",
+      "canonical_phrase": "silver and yellow tones",
+      "samples": [
+        "silver and yellow tones"
+      ],
+      "tags": [
+        "silver",
+        "yellow",
+        "metallic",
+        "futuristic",
+        "gradient"
+      ]
+    },
+    "cool_blue_gray_denim_jacket": {
+      "canonical_name": "cool blue gray denim jacket",
+      "canonical_name_zh": "冷调蓝灰牛仔夹克",
+      "canonical_phrase": "shades of blue and gray",
+      "samples": [
+        "shades of blue and gray"
+      ],
+      "tags": [
+        "blue",
+        "gray",
+        "denim",
+        "vintage",
+        "faded"
+      ]
+    },
+    "cool_blue_black_background_warm_skin": {
+      "canonical_name": "cool blue black background warm skin",
+      "canonical_name_zh": "冷蓝黑背景暖肤色",
+      "canonical_phrase": "dominant colors blue and black, cool blue background contrasting warm skin tones",
+      "samples": [
+        "dominant colors blue and black, cool blue background contrasting warm skin tones"
+      ],
+      "tags": [
+        "blue",
+        "black",
+        "skin",
+        "cool",
+        "contrast"
+      ]
+    },
+    "warm_orange_dominant_color_theme": {
+      "canonical_name": "warm orange dominant color theme",
+      "canonical_name_zh": "暖橙色主导色调",
+      "canonical_phrase": "warm color theme dominated by orange with pink, beige, or blue accents",
+      "samples": [
+        "warm color theme dominated by orange and pink hues",
+        "warm color theme dominated by orange and beige",
+        "warm color theme dominated by orange and beige tones",
+        "warm orange and electric pink hues",
+        "warm color theme of orange and black",
+        "warm color theme dominated by orange and blue",
+        "warm tones, orange and green color theme",
+        "vibrant orange color theme, warm color temperature"
+      ],
+      "tags": [
+        "orange",
+        "warm",
+        "vibrant",
+        "electric",
+        "hues"
+      ]
+    },
+    "warm_color_theme_dominated_by_blue_and_white": {
+      "canonical_name": "warm color theme dominated by blue and white",
+      "canonical_name_zh": "暖色蓝白主题",
+      "canonical_phrase": "warm color theme dominated by blue and white with soft tones",
+      "samples": [
+        "soft warm color theme dominated by blue, green, and white",
+        "warm color theme dominated by white and soft blue tones",
+        "warm color theme of white and blue",
+        "warm color theme dominated by black and blue",
+        "warm color theme dominated by blue and white",
+        "warm color theme dominated by black and vibrant blue"
+      ],
+      "tags": [
+        "warm",
+        "blue",
+        "white",
+        "soft",
+        "cool"
+      ]
+    },
+    "warm_earthy_tones_vivid_pink_contrast": {
+      "canonical_name": "warm earthy tones vivid pink contrast",
+      "canonical_name_zh": "暖土色调粉红对比",
+      "canonical_phrase": "warm earthy tones with vivid pink contrast",
+      "samples": [
+        "warm earthy tones with vivid pink contrast"
+      ],
+      "tags": [
+        "earthy",
+        "pink",
+        "contrast",
+        "warm",
+        "vivid"
+      ]
+    },
+    "soft_blue_gray_warm_beige": {
+      "canonical_name": "soft blue gray warm beige",
+      "canonical_name_zh": "柔蓝灰暖米色",
+      "canonical_phrase": "soft blue and gray with hints of warm beige",
+      "samples": [
+        "soft blue and gray with hints of warm beige"
+      ],
+      "tags": [
+        "blue",
+        "gray",
+        "beige",
+        "pastel",
+        "muted"
+      ]
+    },
+    "dominant_black_and_blue_color_palette": {
+      "canonical_name": "dominant black and blue color palette",
+      "canonical_name_zh": "黑蓝主导色调",
+      "canonical_phrase": "dominant black and blue color palette with contrasting white and green accents",
+      "samples": [
+        "dominant blue and black",
+        "dominant colors being blue and black",
+        "dominant colors black and white",
+        "dominant colors black and light gray",
+        "dominant black and green color palette",
+        "black and white dominant",
+        "dominant colors black and blue",
+        "dominant colors are black, earthy brown, and vibrant green",
+        "dominant black, white, and green",
+        "dominant deep blue and black",
+        "dominant blue with contrasting white and black"
+      ],
+      "tags": [
+        "color",
+        "palette",
+        "dark",
+        "contrast",
+        "vibrant"
+      ]
+    },
+    "dominant_neutral_earth_tones": {
+      "canonical_name": "dominant neutral earth tones",
+      "canonical_name_zh": "中性大地色调",
+      "canonical_phrase": "dominant colors white gray brown amber soft white deep brown",
+      "samples": [
+        "dominant colors white and light gray",
+        "natural color, dominant colors purple, white, and dark brown",
+        "dominant colors yellow and deep brown",
+        "dominant colors: amber, deep brown, soft white",
+        "white and light gray dominant",
+        "dominant colors are white and brown"
+      ],
+      "tags": [
+        "neutral",
+        "earth",
+        "warm",
+        "minimalist",
+        "monochrome"
+      ]
+    },
+    "cooltoned_blue_white_red": {
+      "canonical_name": "cool-toned blue white red",
+      "canonical_name_zh": "冷调蓝白红",
+      "canonical_phrase": "cool-toned with dominant blue, white, and red",
+      "samples": [
+        "cool-toned with dominant blue, white, and red"
+      ],
+      "tags": [
+        "blue",
+        "white",
+        "red",
+        "cool",
+        "vibrant"
+      ]
+    },
+    "silver_brown_golden_hue_theme": {
+      "canonical_name": "silver brown golden hue theme",
+      "canonical_name_zh": "银棕金调主题",
+      "canonical_phrase": "silver and brown color theme with golden hue",
+      "samples": [
+        "silver and brown color theme with golden hue"
+      ],
+      "tags": [
+        "silver",
+        "brown",
+        "golden",
+        "metallic",
+        "luxury"
+      ]
+    },
+    "warm_tones_dominant_blue_white_theme": {
+      "canonical_name": "warm tones dominant blue white theme",
+      "canonical_name_zh": "暖色调主蓝白主题",
+      "canonical_phrase": "warm color tones with a dominant blue and white theme",
+      "samples": [
+        "warm color tones with a dominant blue and white theme"
+      ],
+      "tags": [
+        "warm",
+        "blue",
+        "white",
+        "cool",
+        "contrast"
+      ]
+    },
+    "cool_toned_palette_with_green_and_blue_hues": {
+      "canonical_name": "cool toned palette with green and blue hues",
+      "canonical_name_zh": "冷色调绿蓝配色",
+      "canonical_phrase": "cool greenish and blue tones with muted silver and purple accents",
+      "samples": [
+        "cool greenish tint, pale green and white dominant colors",
+        "cool green and muted silver tones",
+        "cool tone",
+        "cool tones with dominant black and blue hues",
+        "cool blue tones with dominant blue and purple theme",
+        "cool blue and muted purple",
+        "cool color tone with cyan and green hues"
+      ],
+      "tags": [
+        "cool",
+        "green",
+        "blue",
+        "muted",
+        "cyan"
+      ]
+    },
+    "dominant_cream_color_theme": {
+      "canonical_name": "dominant cream color theme",
+      "canonical_name_zh": "奶油色主导主题",
+      "canonical_phrase": "dominant color theme featuring cream with accents of beige, purple, teal, green, or red",
+      "samples": [
+        "dominant color theme of cream and beige",
+        "dominant color theme of purple and cream",
+        "teal and cream dominant theme",
+        "dominant color theme of cream, green, and red"
+      ],
+      "tags": [
+        "cream",
+        "beige",
+        "pastel",
+        "soft",
+        "accent"
+      ]
+    },
+    "warm_blue_green_color_tones": {
+      "canonical_name": "warm blue green color tones",
+      "canonical_name_zh": "暖调蓝绿色彩",
+      "canonical_phrase": "warm color tones dominated by blue and green",
+      "samples": [
+        "warm color tones dominated by blue and green"
+      ],
+      "tags": [
+        "blue",
+        "green",
+        "warm",
+        "cool",
+        "vintage"
+      ]
+    },
+    "vibrant_green_and_yellow_color_theme_color_theme": {
+      "canonical_name": "vibrant green and yellow color theme",
+      "canonical_name_zh": "鲜绿与亮黄配色",
+      "canonical_phrase": "green and yellow color theme",
+      "samples": [
+        "green and yellow color theme"
+      ],
+      "tags": [
+        "green",
+        "yellow",
+        "vibrant",
+        "sunset",
+        "citrus"
+      ]
+    },
+    "warm_gold_and_black_dominant_palette": {
+      "canonical_name": "warm gold and black dominant palette",
+      "canonical_name_zh": "暖金黑主色调",
+      "canonical_phrase": "warm tones with dominant gold and black accents",
+      "samples": [
+        "warm tones with black and gold as primary colors",
+        "warm-toned, dominant hues of gold and black",
+        "warm peach and gold",
+        "warm tones with cream and gold dominating the palette",
+        "warm golds, soft creams, and deep blacks",
+        "warm golds and deep navy blues",
+        "warm tones of gold and brown",
+        "warm tones of gold, white, and soft beige",
+        "warm golds and cool blues",
+        "warm golds and deep blacks",
+        "warm gold and cream tones"
+      ],
+      "tags": [
+        "gold",
+        "black",
+        "warm",
+        "luxury",
+        "elegant"
+      ]
+    },
+    "white_navy_blue_soft_skin_tones": {
+      "canonical_name": "white navy blue soft skin tones",
+      "canonical_name_zh": "白蓝肤色调",
+      "canonical_phrase": "dominant colors are white, navy blue, and soft skin tones",
+      "samples": [
+        "dominant colors are white, navy blue, and soft skin tones"
+      ],
+      "tags": [
+        "white",
+        "navy",
+        "skin",
+        "cool",
+        "minimal"
+      ]
+    },
+    "dominant_white_blue_and_gray_colors": {
+      "canonical_name": "dominant white blue and gray colors",
+      "canonical_name_zh": "主色调白蓝灰",
+      "canonical_phrase": "dominant colors are white blue and gray with subtle accents",
+      "samples": [
+        "dominant colors being white, blue, and gray",
+        "dominant colors are white, blue, and vibrant polka dot hues",
+        "dominant colors are gray and blue-violet",
+        "dominant colors are white and light blue",
+        "dominant colors are blue, gray, and yellow",
+        "dominant colors being blue, white, and yellow",
+        "dominant colors being blue and white",
+        "dominant colors white and blue",
+        "dominant colors are teal and white",
+        "dominant colors blue and white"
+      ],
+      "tags": [
+        "white",
+        "blue",
+        "gray",
+        "cool_tone",
+        "polka_dot"
+      ]
+    },
+    "warm_tones_light_blue_white_theme": {
+      "canonical_name": "warm tones light blue white theme",
+      "canonical_name_zh": "暖调浅蓝白主题",
+      "canonical_phrase": "warm tones, light blue and white color theme",
+      "samples": [
+        "warm tones, light blue and white color theme"
+      ],
+      "tags": [
+        "warm",
+        "light blue",
+        "white",
+        "pastel",
+        "cool"
+      ]
+    },
+    "warm_tones_white_blue_theme": {
+      "canonical_name": "warm tones white blue theme",
+      "canonical_name_zh": "暖调白蓝主题",
+      "canonical_phrase": "warm tones with white and blue theme",
+      "samples": [
+        "warm tones with white and blue theme"
+      ],
+      "tags": [
+        "warm",
+        "white",
+        "blue",
+        "cool",
+        "vintage"
+      ]
+    },
+    "warm_beige_cream_and_gold_tones": {
+      "canonical_name": "warm beige cream and gold tones",
+      "canonical_name_zh": "暖调米色奶油金",
+      "canonical_phrase": "warm beige and cream color theme with soft gold accents",
+      "samples": [
+        "warm tones dominated by beige, gold, and pale skin",
+        "warm beige, cream, and soft gold tones",
+        "warm beige and white color theme",
+        "warm color theme dominated by cream and beige tones",
+        "warm tones with black and beige theme",
+        "warm color tones, warm beige and soft blue color theme",
+        "warm color theme dominated by beige and muted floral tones",
+        "warm color theme dominated by beige and brown tones",
+        "warm color theme of beige and soft skin tones",
+        "warm color theme of beige, white, and floral hues",
+        "warm color theme dominated by beige and black",
+        "warm color theme dominated by white and beige tones",
+        "warm color theme dominated by beige and white",
+        "warm tones of beige, gold, and soft skin hues",
+        "warm color theme of cream and beige",
+        "beige and cream with accents of warm sunlight"
+      ],
+      "tags": [
+        "beige",
+        "cream",
+        "gold",
+        "warm",
+        "soft"
+      ]
+    },
+    "dominant_white_and_skin_tone_palette": {
+      "canonical_name": "dominant white and skin tone palette",
+      "canonical_name_zh": "白与肤色主导色调",
+      "canonical_phrase": "dominated by white and soft skin tones with high brightness",
+      "samples": [
+        "white and skin tones dominate",
+        "white and soft skin tones",
+        "dominated by white and soft skin tones",
+        "black and skin tone"
+      ],
+      "tags": [
+        "white",
+        "skin_tone",
+        "soft",
+        "bright",
+        "minimalist"
+      ]
+    },
+    "white_and_navy_blue_primary_color_theme": {
+      "canonical_name": "white and navy blue primary color theme",
+      "canonical_name_zh": "白蓝主色调",
+      "canonical_phrase": "primary color theme of white and navy blue",
+      "samples": [
+        "primary color theme of white and navy blue"
+      ],
+      "tags": [
+        "white",
+        "navy",
+        "blue",
+        "monochrome",
+        "contrast"
+      ]
+    },
+    "vibrant_pink_lush_green_color_theme": {
+      "canonical_name": "vibrant pink lush green color theme",
+      "canonical_name_zh": "鲜艳粉绿配色",
+      "canonical_phrase": "vibrant pink and lush green color theme",
+      "samples": [
+        "vibrant pink and lush green color theme"
+      ],
+      "tags": [
+        "pink",
+        "green",
+        "silk",
+        "futuristic",
+        "neon"
+      ]
+    },
+    "white_base_with_colorful_accents": {
+      "canonical_name": "white base with colorful accents",
+      "canonical_name_zh": "白色基底多彩点缀",
+      "canonical_phrase": "white base with green blue red yellow pink purple accents",
+      "samples": [
+        "white, green, and blue with hints of red",
+        "white, brown, pink",
+        "green, white, red, yellow",
+        "white, blue, and purple",
+        "white, dark blue, and green",
+        "red, white, green"
+      ],
+      "tags": [
+        "white",
+        "colorful",
+        "pastel",
+        "vibrant",
+        "mixed_hues"
+      ]
+    },
+    "cool_blue_dominant_with_red_contrast": {
+      "canonical_name": "cool blue dominant with red contrast",
+      "canonical_name_zh": "冷蓝主调配红对比",
+      "canonical_phrase": "cool blue tones with sharp red contrast and high key lighting",
+      "samples": [
+        "cool blue tones contrasted with vibrant green",
+        "cool blue tones with sharp red contrast",
+        "high-key with red and blue dominant colors",
+        "cool blue tones with high contrast between bold red and muted gray"
+      ],
+      "tags": [
+        "blue",
+        "red",
+        "contrast",
+        "cool",
+        "vibrant"
+      ]
+    },
+    "warm_blue_earthy_color_grade": {
+      "canonical_name": "warm blue earthy color grade",
+      "canonical_name_zh": "暖调蓝土色",
+      "canonical_phrase": "warm tones with color theme dominated by blue and earthy tones",
+      "samples": [
+        "warm tones with color theme dominated by blue and earthy tones"
+      ],
+      "tags": [
+        "blue",
+        "earthy",
+        "warm",
+        "cinematic",
+        "vintage"
+      ]
+    },
+    "warm_cinematic_glow_purple_earthy_tones": {
+      "canonical_name": "warm cinematic glow purple earthy tones",
+      "canonical_name_zh": "暖调电影感紫褐色调",
+      "canonical_phrase": "warm cinematic glow, dominant purple and earthy tones",
+      "samples": [
+        "warm cinematic glow, dominant purple and earthy tones"
+      ],
+      "tags": [
+        "purple",
+        "earthy",
+        "cinematic",
+        "warm",
+        "glow"
+      ]
+    },
+    "white_grey_subtle_warm_highlights": {
+      "canonical_name": "white grey subtle warm highlights",
+      "canonical_name_zh": "白灰暖光",
+      "canonical_phrase": "white and grey with subtle warm highlights",
+      "samples": [
+        "white and grey with subtle warm highlights"
+      ],
+      "tags": [
+        "white",
+        "grey",
+        "warm",
+        "fabric",
+        "soft"
+      ]
+    },
+    "cool_blue_and_gray_tones": {
+      "canonical_name": "cool blue and gray tones",
+      "canonical_name_zh": "冷蓝灰调",
+      "canonical_phrase": "cool blue and gray tones with muted green accents",
+      "samples": [
+        "cool blue tone",
+        "cool blue and gray tones",
+        "cool blue and muted grey",
+        "cool blue and lush green tones",
+        "cool blue and dark tones",
+        "cool tones of gray, blue, and deep green",
+        "cool blue and muted green tones",
+        "cool blue tones",
+        "cool blue tones and neutral grays",
+        "cool blue and neutral tones"
+      ],
+      "tags": [
+        "cool",
+        "blue",
+        "gray",
+        "muted",
+        "atmospheric"
+      ]
+    },
+    "dominant_cool_blue_and_green_tones": {
+      "canonical_name": "dominant cool blue and green tones",
+      "canonical_name_zh": "主色调蓝绿",
+      "canonical_phrase": "dominant blue and green tones with warm accents",
+      "samples": [
+        "dominant colors are blue and teal with orange accents",
+        "blue, beige, and green dominant tones",
+        "dominant blue, green and olive tones",
+        "dominant blue and golden tones",
+        "dominant orange and blue tones",
+        "dominant blue and green tones"
+      ],
+      "tags": [
+        "blue",
+        "green",
+        "cool",
+        "accent",
+        "vibrant"
+      ]
+    },
+    "navy_blue_white_floral_pattern": {
+      "canonical_name": "navy blue white floral pattern",
+      "canonical_name_zh": "海军蓝白花卉图案",
+      "canonical_phrase": "navy blue, white, and floral patterns",
+      "samples": [
+        "navy blue, white, and floral patterns"
+      ],
+      "tags": [
+        "navy",
+        "white",
+        "floral",
+        "textile",
+        "pattern"
+      ]
+    },
+    "cool_blue_warm_beige_tones": {
+      "canonical_name": "cool blue warm beige tones",
+      "canonical_name_zh": "冷蓝暖米色调",
+      "canonical_phrase": "cool blue and warm beige tones",
+      "samples": [
+        "cool blue and warm beige tones"
+      ],
+      "tags": [
+        "blue",
+        "beige",
+        "contrast",
+        "vintage",
+        "gradient"
+      ]
+    },
+    "warm_pastel_earthy_color_theme": {
+      "canonical_name": "warm pastel earthy color theme",
+      "canonical_name_zh": "暖色调柔和大地色系",
+      "canonical_phrase": "warm pastel color theme dominated by earthy greens browns and skin tones",
+      "samples": [
+        "natural warm tones, pastel color theme",
+        "warm pastel color theme dominated by skin tones and the dragonfly's vibrant markings",
+        "warm color theme dominated by blues and greens",
+        "rich green and warm skin tone",
+        "warm color theme dominated by greens and earthy browns",
+        "warm color theme dominated by skin tones and greens",
+        "warm pastel color theme dominated by greens and purples",
+        "warm color theme of pastel floral tones and muted metallics",
+        "warm color theme dominated by green and skin tones",
+        "dominant warm color theme of earthy browns and faded greens"
+      ],
+      "tags": [
+        "warm",
+        "pastel",
+        "earthy",
+        "natural",
+        "organic"
+      ]
+    },
+    "dominant_warm_red_and_orange_color_palette": {
+      "canonical_name": "dominant warm red and orange color palette",
+      "canonical_name_zh": "主导暖红橙色调",
+      "canonical_phrase": "dominated by warm red and orange hues with pink accents",
+      "samples": [
+        "dominant red and orange color palette",
+        "dominated by magenta and orange hues",
+        "dominant orange and floral reds",
+        "dominated by pink and orange tones",
+        "dominated by green and pink hues",
+        "dominated by contrasting colors of red and green",
+        "dominant pink and orange hues",
+        "dominant red and orange"
+      ],
+      "tags": [
+        "warm",
+        "red",
+        "orange",
+        "vibrant",
+        "magenta"
+      ]
+    },
+    "earthy_brown_and_vibrant_green_color_grade": {
+      "canonical_name": "earthy brown and vibrant green color grade",
+      "canonical_name_zh": "土褐与鲜绿色调",
+      "canonical_phrase": "dominant color theme of earthy browns and vibrant greens",
+      "samples": [
+        "dominant color theme of earthy browns and vibrant greens"
+      ],
+      "tags": [
+        "earthy",
+        "vibrant",
+        "green",
+        "brown",
+        "natural"
+      ]
+    },
+    "dominant_colors_blue_pink_green": {
+      "canonical_name": "dominant colors blue pink green",
+      "canonical_name_zh": "主色调蓝粉绿",
+      "canonical_phrase": "dominant colors blue, pink, and green",
+      "samples": [
+        "dominant colors blue, pink, and green"
+      ],
+      "tags": [
+        "blue",
+        "pink",
+        "green",
+        "vibrant",
+        "colorful"
+      ]
+    },
+    "soft_coral_and_white_pastel_theme": {
+      "canonical_name": "soft coral and white pastel theme",
+      "canonical_name_zh": "珊瑚白柔和色调",
+      "canonical_phrase": "coral and white color theme",
+      "samples": [
+        "coral and white color theme"
+      ],
+      "tags": [
+        "coral",
+        "white",
+        "pastel",
+        "soft",
+        "gradient"
+      ]
+    },
+    "warm_color_theme_with_varied_background": {
+      "canonical_name": "warm color theme with varied background",
+      "canonical_name_zh": "暖色调主题多变背景",
+      "canonical_phrase": "warm color theme dominated by skin tones and blue background",
+      "samples": [
+        "warm color theme dominated by skin tones and blue background",
+        "warm color theme dominated by blue and pink tones",
+        "warm color theme dominated by amber and deep brown tones",
+        "warm color theme dominated by blue and green tones"
+      ],
+      "tags": [
+        "warm",
+        "skin",
+        "blue",
+        "amber",
+        "pink"
+      ]
+    },
+    "blue_and_cream_color_theme": {
+      "canonical_name": "blue and cream color theme",
+      "canonical_name_zh": "蓝奶油色主题",
+      "canonical_phrase": "warm blue and cream color theme with soft tones",
+      "samples": [
+        "blue and cream",
+        "cream and brown color theme",
+        "blue and cream color theme",
+        "warm blue and cream color theme",
+        "cream and blue color theme"
+      ],
+      "tags": [
+        "blue",
+        "cream",
+        "pastel",
+        "soft",
+        "cool"
+      ]
+    },
+    "vintage_yellow_and_white_denim_jacket": {
+      "canonical_name": "vintage yellow and white denim jacket",
+      "canonical_name_zh": "复古黄白牛仔夹克",
+      "canonical_phrase": "yellow and white color theme",
+      "samples": [
+        "yellow and white color theme"
+      ],
+      "tags": [
+        "yellow",
+        "white",
+        "denim",
+        "vintage",
+        "faded"
+      ]
+    },
+    "natural_beige_blue_green_tones": {
+      "canonical_name": "natural beige blue green tones",
+      "canonical_name_zh": "自然米蓝绿色调",
+      "canonical_phrase": "natural tones of beige, blue, and green",
+      "samples": [
+        "natural tones of beige, blue, and green"
+      ],
+      "tags": [
+        "beige",
+        "blue",
+        "green",
+        "earth",
+        "pastel"
+      ]
+    },
+    "warm_color_theme_with_white_and_black": {
+      "canonical_name": "warm color theme with white and black",
+      "canonical_name_zh": "暖色调黑白主题",
+      "canonical_phrase": "warm color theme dominated by white and black tones",
+      "samples": [
+        "warm tones, black and white color theme",
+        "warm color theme with white and skin tones dominating",
+        "warm white and black color theme",
+        "warm color theme with white and green dominating",
+        "warm tones, white and black color theme",
+        "warm color theme, white and green dominant",
+        "warm color theme with black and green dominant",
+        "warm color theme dominated by black and white tones",
+        "warm color theme with dominant whites and blacks"
+      ],
+      "tags": [
+        "warm",
+        "white",
+        "black",
+        "monochrome",
+        "contrast"
+      ]
+    },
+    "warm_soft_pink_and_white_tones": {
+      "canonical_name": "warm soft pink and white tones",
+      "canonical_name_zh": "暖调柔粉白",
+      "canonical_phrase": "warm soft pink and white tones with gentle pastel hues",
+      "samples": [
+        "warm color tones, pink and beige dominant",
+        "warm pastel tones of pink, white, and soft blue",
+        "dominant color theme of soft pink and warm skin tones",
+        "warm tones with soft pinks and whites",
+        "pinkish hue, soft white and warm pink",
+        "warm pink and deep shadow tones",
+        "warm tones with dominant soft pink, warm yellow, and green",
+        "pink and soft white tones",
+        "warm color tone emphasizing pinks and golds",
+        "soft and warm with white and pink tones",
+        "warm tones with dominant pink and white theme"
+      ],
+      "tags": [
+        "pink",
+        "warm",
+        "soft",
+        "pastel",
+        "beige"
+      ]
+    },
+    "black_blue_floral_pink_dominant_theme": {
+      "canonical_name": "black blue floral pink dominant theme",
+      "canonical_name_zh": "黑蓝粉花主色调",
+      "canonical_phrase": "dominant color theme of black, blue, and floral pink tones",
+      "samples": [
+        "dominant color theme of black, blue, and floral pink tones"
+      ],
+      "tags": [
+        "color",
+        "fabric",
+        "dress",
+        "elegant",
+        "floral"
+      ]
+    },
+    "soft_blues_warm_sandy_beige_tones": {
+      "canonical_name": "soft blues warm sandy beige tones",
+      "canonical_name_zh": "柔蓝暖沙色调",
+      "canonical_phrase": "soft blues and warm sandy beige tones",
+      "samples": [
+        "soft blues and warm sandy beige tones"
+      ],
+      "tags": [
+        "blue",
+        "beige",
+        "sandy",
+        "pastel",
+        "earthy"
+      ]
+    },
+    "gold_and_green_color_theme": {
+      "canonical_name": "gold and green color theme",
+      "canonical_name_zh": "金绿配色主题",
+      "canonical_phrase": "gold and green color theme",
+      "samples": [
+        "gold and green color theme"
+      ],
+      "tags": [
+        "gold",
+        "green",
+        "metallic",
+        "luxury",
+        "jewel"
+      ]
+    },
+    "dominant_beige_white_blue_green_black": {
+      "canonical_name": "dominant beige white blue green black",
+      "canonical_name_zh": "米白蓝绿黑主色调",
+      "canonical_phrase": "dominant beige and white with blue green or black accents",
+      "samples": [
+        "dominant colors white, blue, beige",
+        "dominant green and beige",
+        "beige, white, and blue dominated",
+        "dominant blue and beige",
+        "dominant beige, black, and white",
+        "dominant colors white, red, and muted beige",
+        "dominant colors black and beige",
+        "dominant colors blue, green, and beige"
+      ],
+      "tags": [
+        "beige",
+        "neutral",
+        "pastel",
+        "minimalist",
+        "muted"
+      ]
+    },
+    "earthy_brown_and_green_tones": {
+      "canonical_name": "earthy brown and green tones",
+      "canonical_name_zh": "大地棕绿色调",
+      "canonical_phrase": "rich earthy brown and green tones with muted accents",
+      "samples": [
+        "vibrant green and earthy brown tones",
+        "earthy tones of brown and muted peach",
+        "earthy tones of brown and beige",
+        "white, black, and earthy brown",
+        "earthy tones of brown and green",
+        "dominant colors are green and earthy brown",
+        "rich earthy tones, deep browns and muted greens",
+        "earthy brown and vibrant green"
+      ],
+      "tags": [
+        "earthy",
+        "brown",
+        "green",
+        "muted",
+        "natural"
+      ]
+    },
+    "dominant_cool_blue_and_white_theme": {
+      "canonical_name": "dominant cool blue and white theme",
+      "canonical_name_zh": "主导冷色蓝白主题",
+      "canonical_phrase": "dominant cool color theme of blue and white",
+      "samples": [
+        "dominant cool color theme of blue and white"
+      ],
+      "tags": [
+        "blue",
+        "white",
+        "cool",
+        "frost",
+        "ice"
+      ]
+    },
+    "pastel_purples_warm_beige_tones": {
+      "canonical_name": "pastel purples warm beige tones",
+      "canonical_name_zh": "淡紫暖米色调",
+      "canonical_phrase": "pastel purples and warm beige tones",
+      "samples": [
+        "pastel purples and warm beige tones"
+      ],
+      "tags": [
+        "pastel",
+        "purple",
+        "beige",
+        "soft",
+        "gradient"
+      ]
+    },
+    "warm_golden_color_theme": {
+      "canonical_name": "warm golden color theme",
+      "canonical_name_zh": "暖金色调主题",
+      "canonical_phrase": "warm golden tones with vibrant floral hues and soft pastel accents",
+      "samples": [
+        "warm color theme dominated by golden sunlight and vibrant floral hues",
+        "warm golden tones and soft pastel floral hues",
+        "warm color palette dominated by golden yellows and cool blues",
+        "rich warm color theme dominated by golds and deep blacks",
+        "golden tones and lush greens",
+        "warm color theme dominated by red and blue with golden light tones",
+        "dominant palette of cool purples and warm golds",
+        "warm color theme dominated by gold and blue tones",
+        "vibrant warm color theme dominated by golds and greens"
+      ],
+      "tags": [
+        "golden",
+        "warm",
+        "floral",
+        "pastel",
+        "sunlight"
+      ]
+    },
+    "cool_blue_and_white_palette": {
+      "canonical_name": "cool blue and white palette",
+      "canonical_name_zh": "冷蓝白配色",
+      "canonical_phrase": "dominant color palette of blue and white",
+      "samples": [
+        "dominant color palette of blue and white"
+      ],
+      "tags": [
+        "blue",
+        "white",
+        "fabric",
+        "minimalist",
+        "ice"
+      ]
+    },
+    "cinematic_warm_lighting_with_cool_blue_tones": {
+      "canonical_name": "cinematic warm lighting with cool blue tones",
+      "canonical_name_zh": "电影感暖光配冷蓝调",
+      "canonical_phrase": "cinematic warm lighting with cool blue tones and faded film aesthetic",
+      "samples": [
+        "cinematic warm lighting with cool blue tones on mat, dominant brown and blue color theme",
+        "warm slightly faded film aesthetic, blue and white color theme",
+        "cinematic warmth, dominant colors purple and blue",
+        "cinematic warm tone, dominant colors blue and light blue",
+        "warm cinematic lighting, dominant colors blue and green"
+      ],
+      "tags": [
+        "warm",
+        "blue",
+        "cinematic",
+        "faded",
+        "film"
+      ]
+    },
+    "muted_earth_tones_vivid_pink_contrast": {
+      "canonical_name": "muted earth tones vivid pink contrast",
+      "canonical_name_zh": "灰土色与亮粉对比",
+      "canonical_phrase": "muted earth tones contrasted with vivid pink",
+      "samples": [
+        "muted earth tones contrasted with vivid pink"
+      ],
+      "tags": [
+        "earth",
+        "pink",
+        "contrast",
+        "muted",
+        "vivid"
+      ]
+    },
+    "cinematic_warm_pink_red_tone": {
+      "canonical_name": "cinematic warm pink red tone",
+      "canonical_name_zh": "电影感暖粉红调",
+      "canonical_phrase": "cinematic warm tone, dominant colors pink and red",
+      "samples": [
+        "cinematic warm tone, dominant colors pink and red"
+      ],
+      "tags": [
+        "pink",
+        "red",
+        "warm",
+        "cinematic",
+        "glow"
+      ]
+    },
+    "warm_wood_tones_with_cool_accents": {
+      "canonical_name": "warm wood tones with cool accents",
+      "canonical_name_zh": "暖木色调配冷色点缀",
+      "canonical_phrase": "dominant warm wood tones contrasted with cool blue, teal, or white accents",
+      "samples": [
+        "warm wood tones and cool patterned fabric",
+        "warm color theme dominated by skin tones and wood browns",
+        "warm color theme dominated by soft grays and natural wood tones",
+        "dominant warm color theme of amber and peach tones",
+        "pale blue and white against warm brown wood",
+        "dominant color theme of blue and warm wood tones",
+        "warm wood tones with black and white",
+        "warm color theme dominated by wood tones and white",
+        "warm color theme dominated by wood tones and teal",
+        "dominated by white, light blue, and warm wood tones"
+      ],
+      "tags": [
+        "wood",
+        "warm",
+        "cool",
+        "natural",
+        "contrast"
+      ]
+    },
+    "monochrome_black_white_gray_silver_theme": {
+      "canonical_name": "monochrome black white gray silver theme",
+      "canonical_name_zh": "黑白灰银单色主题",
+      "canonical_phrase": "monochrome color theme featuring black white gray and silver tones",
+      "samples": [
+        "white and gray color theme",
+        "blue and gray color theme",
+        "black and white theme",
+        "black and white color theme",
+        "silver and gray color theme",
+        "white and black color theme",
+        "primary color theme of white and black",
+        "dark gray and white color theme"
+      ],
+      "tags": [
+        "monochrome",
+        "neutral",
+        "metallic",
+        "minimalist",
+        "grayscale"
+      ]
+    },
+    "vintage_blue_and_brown_tones": {
+      "canonical_name": "vintage blue and brown tones",
+      "canonical_name_zh": "复古蓝棕色调",
+      "canonical_phrase": "blue and brown tones",
+      "samples": [
+        "blue and brown tones"
+      ],
+      "tags": [
+        "blue",
+        "brown",
+        "vintage",
+        "denim",
+        "rustic"
+      ]
+    },
+    "cool_blue_white_icy_tones": {
+      "canonical_name": "cool blue white icy tones",
+      "canonical_name_zh": "冷蓝白冰色调",
+      "canonical_phrase": "cool blue and white color tones",
+      "samples": [
+        "cool blue and white color tones"
+      ],
+      "tags": [
+        "blue",
+        "white",
+        "ice",
+        "cool",
+        "frost"
+      ]
+    },
+    "cool_blue_tones_with_warm_highlights": {
+      "canonical_name": "cool blue tones with warm highlights",
+      "canonical_name_zh": "冷蓝暖调对比",
+      "canonical_phrase": "cool blue tones with warm highlights and creamy whites",
+      "samples": [
+        "cool blue tones with warm highlights",
+        "cool blue and warm brown tones",
+        "warm sandy tones and cool blue",
+        "warm reds and creamy whites contrasted with cool blue",
+        "cool blue and warm white tones"
+      ],
+      "tags": [
+        "blue",
+        "warm",
+        "contrast",
+        "cinematic",
+        "highlight"
+      ]
+    },
+    "muted_earth_tones_with_black": {
+      "canonical_name": "muted earth tones with black",
+      "canonical_name_zh": " muted 大地色系配黑",
+      "canonical_phrase": "muted earth tones of brown and gray with black accents",
+      "samples": [
+        "muted earth tones of brown and gray with blue and white sky contrast",
+        "black and muted earth tones",
+        "earthy tones and black",
+        "earthy tones and muted greens",
+        "dominant beige and muted earth tones",
+        "muted earth tones"
+      ],
+      "tags": [
+        "muted",
+        "earth",
+        "brown",
+        "black",
+        "neutral"
+      ]
+    },
+    "warm_film_grain_white_blue_theme": {
+      "canonical_name": "warm film grain white blue theme",
+      "canonical_name_zh": "暖调胶片白蓝主题",
+      "canonical_phrase": "warm film grain texture with dominant white and blue theme",
+      "samples": [
+        "warm film grain texture with dominant white and blue theme"
+      ],
+      "tags": [
+        "warm",
+        "film_grain",
+        "white",
+        "blue",
+        "vintage"
+      ]
+    },
+    "pastel_pink_and_green_gradient": {
+      "canonical_name": "pastel pink and green gradient",
+      "canonical_name_zh": "粉绿渐变色调",
+      "canonical_phrase": "pink and green hues",
+      "samples": [
+        "pink and green hues"
+      ],
+      "tags": [
+        "pastel",
+        "gradient",
+        "silk",
+        "ethereal",
+        "ombre"
+      ]
+    },
+    "cinematic_warm_red_and_deep_blue": {
+      "canonical_name": "cinematic warm red and deep blue",
+      "canonical_name_zh": "电影感暖红深蓝",
+      "canonical_phrase": "cinematic warm color theme with dominant reds and deep blues",
+      "samples": [
+        "cinematic warm color theme with dominant reds and deep blues"
+      ],
+      "tags": [
+        "red",
+        "blue",
+        "cinematic",
+        "warm",
+        "contrast"
+      ]
+    },
+    "vivid_dominant_blue_and_red": {
+      "canonical_name": "vivid dominant blue and red",
+      "canonical_name_zh": "鲜艳蓝红主导",
+      "canonical_phrase": "vivid colors dominated by blue and red with electric accents",
+      "samples": [
+        "vivid blue and white",
+        "vivid magenta and electric blue",
+        "vivid blue and green",
+        "vivid blue and red",
+        "vivid colors, theme dominated by blue and red"
+      ],
+      "tags": [
+        "vivid",
+        "blue",
+        "red",
+        "electric",
+        "high-contrast"
+      ]
+    },
+    "dominant_white_and_blue_color_scheme": {
+      "canonical_name": "dominant white and blue color scheme",
+      "canonical_name_zh": "白蓝主导色调",
+      "canonical_phrase": "dominant white and blue color palette with varying shades",
+      "samples": [
+        "dominant blue and white",
+        "dominant white and blue",
+        "blue and white dominant",
+        "dominant white, black, and pale blue",
+        "dominant white and soft blue",
+        "dominant white, yellow, and blue",
+        "white and dark navy blue dominant"
+      ],
+      "tags": [
+        "white",
+        "blue",
+        "cool",
+        "clean",
+        "minimalist"
+      ]
+    },
+    "soft_purple_rich_reddishbrown": {
+      "canonical_name": "soft purple rich reddish-brown",
+      "canonical_name_zh": "柔紫与深红棕",
+      "canonical_phrase": "soft purple and rich reddish-brown",
+      "samples": [
+        "soft purple and rich reddish-brown"
+      ],
+      "tags": [
+        "purple",
+        "reddish-brown",
+        "velvet",
+        "vintage",
+        "gradient"
+      ]
+    },
+    "predominantly_white_and_gold_tones": {
+      "canonical_name": "predominantly white and gold tones",
+      "canonical_name_zh": "白金色调为主",
+      "canonical_phrase": "predominantly white and gold tones",
+      "samples": [
+        "predominantly white and gold tones"
+      ],
+      "tags": [
+        "white",
+        "gold",
+        "metallic",
+        "luxury",
+        "shimmer"
+      ]
+    },
+    "warm_cinematic_color_theme": {
+      "canonical_name": "warm cinematic color theme",
+      "canonical_name_zh": "暖色调电影感",
+      "canonical_phrase": "warm cinematic tone with dominant blue and golden hues",
+      "samples": [
+        "cinematic warm tone with dominant black and blue theme",
+        "warm cinematic tone, red and blue color theme",
+        "warm cinematic with dominant black, gray, and golden tones",
+        "cinematic warm tones, blue and brown color theme",
+        "cinematic warm color theme dominated by golden yellow and deep blue",
+        "warm cinematic tone with dominant blue and golden yellow hues",
+        "warm cinematic tone, red and green color theme",
+        "cinematic warm tone",
+        "warm cinematic with muted pink and gray dominant theme",
+        "warm cinematic tone with golden hues"
+      ],
+      "tags": [
+        "warm",
+        "cinematic",
+        "blue",
+        "golden",
+        "muted"
+      ]
+    },
+    "cool_blue_dominant_color_palette": {
+      "canonical_name": "cool blue dominant color palette",
+      "canonical_name_zh": "冷蓝主导色调",
+      "canonical_phrase": "cool blue dominant with gray green white lavender accents",
+      "samples": [
+        "cool blue and gray",
+        "cool green and blue",
+        "cool blue and soft white tones",
+        "cool blue and soft white",
+        "cool blue and pale white",
+        "cool blue and white",
+        "cool blue and bright white",
+        "cool blue and lavender"
+      ],
+      "tags": [
+        "cool blue",
+        "pale white",
+        "lavender",
+        "soft tones",
+        "minimalist"
+      ]
+    },
+    "dominant_black_white_skin_tones": {
+      "canonical_name": "dominant black white skin tones",
+      "canonical_name_zh": "黑白肤色主色调",
+      "canonical_phrase": "dominant colors black, white, and skin tones",
+      "samples": [
+        "dominant colors black, white, and skin tones"
+      ],
+      "tags": [
+        "monochrome",
+        "neutral",
+        "minimalist",
+        "skin",
+        "contrast"
+      ]
+    },
+    "vivid_blue_and_yellow_color_theme": {
+      "canonical_name": "vivid blue and yellow color theme",
+      "canonical_name_zh": "鲜蓝黄配色",
+      "canonical_phrase": "vivid blue and yellow color theme",
+      "samples": [
+        "vivid blue and yellow color theme"
+      ],
+      "tags": [
+        "blue",
+        "yellow",
+        "vivid",
+        "colorful",
+        "contrast"
+      ]
+    },
+    "warm_white_orange_wood_tones": {
+      "canonical_name": "warm white orange wood tones",
+      "canonical_name_zh": "暖白橙木色调",
+      "canonical_phrase": "warm color theme of white, orange, and wood tones",
+      "samples": [
+        "warm color theme of white, orange, and wood tones"
+      ],
+      "tags": [
+        "warm",
+        "wood",
+        "orange",
+        "rustic",
+        "natural"
+      ]
+    },
+    "dominant_two_color_theme": {
+      "canonical_name": "dominant two color theme",
+      "canonical_name_zh": "双色调主题",
+      "canonical_phrase": "strong two color theme with vibrant orange and navy blue",
+      "samples": [
+        "orange and white color theme",
+        "theme of white and navy blue",
+        "rich orange and yellow color theme",
+        "dominant blue and orange color theme",
+        "white and navy blue color theme",
+        "color theme of white and navy blue",
+        "strong blue and orange color theme",
+        "vibrant orange and grey color theme",
+        "white and orange color theme"
+      ],
+      "tags": [
+        "color",
+        "theme",
+        "vibrant",
+        "contrast",
+        "palette"
+      ]
+    },
+    "natural_earthy_vibrant_color_palette": {
+      "canonical_name": "natural earthy vibrant color palette",
+      "canonical_name_zh": "自然大地鲜艳色调",
+      "canonical_phrase": "natural earthy tones with vibrant blue green pink yellow accents",
+      "samples": [
+        "naturalistic color palette dominated by earthy tones and vibrant blue",
+        "earthy tones with natural contrast",
+        "soft pink and blue with natural skin tones",
+        "earthy tones and vibrant yellow, vibrant yet natural color palette",
+        "natural vibrant color palette dominated by blue and pink",
+        "warm neutral color palette",
+        "natural color tones, black and green dominate the palette",
+        "earthy tones and white dominating the color palette",
+        "natural earthy tones and vibrant green dominating the palette",
+        "natural color palette dominated by blue and black with warm tones",
+        "warm color palette dominated by pink and green tones"
+      ],
+      "tags": [
+        "earthy",
+        "vibrant",
+        "natural",
+        "colorful",
+        "organic"
+      ]
+    },
+    "green_white_dominant_red_accents": {
+      "canonical_name": "green white dominant red accents",
+      "canonical_name_zh": "绿白主调红点缀",
+      "canonical_phrase": "dominant colors green and white with red accents",
+      "samples": [
+        "dominant colors green and white with red accents"
+      ],
+      "tags": [
+        "green",
+        "white",
+        "red",
+        "sporty",
+        "accent"
+      ]
+    },
+    "warm_pink_red_wood_tone_theme": {
+      "canonical_name": "warm pink red wood tone theme",
+      "canonical_name_zh": "暖粉红木色调",
+      "canonical_phrase": "warm color theme dominated by pink, red, and rich wood tones",
+      "samples": [
+        "warm color theme dominated by pink, red, and rich wood tones"
+      ],
+      "tags": [
+        "pink",
+        "red",
+        "wood",
+        "warm",
+        "rich"
+      ]
+    },
+    "warm_color_theme_dominated_by_red": {
+      "canonical_name": "warm color theme dominated by red",
+      "canonical_name_zh": "暖色调主导红色",
+      "canonical_phrase": "warm color theme dominated by red with secondary accents",
+      "samples": [
+        "warm color theme dominated by white, gray, and red",
+        "warm color theme dominated by blue and red",
+        "warm color theme dominated by red and brown",
+        "warm color theme dominated by green and red",
+        "warm color theme dominated by red and pink",
+        "warm color theme of red, green and brown",
+        "warm color theme dominated by red and green",
+        "warm color theme emphasizing blue and red",
+        "warm color theme dominated by red and skin tones",
+        "warm color theme dominated by red and blue",
+        "warm tones, red and green color theme"
+      ],
+      "tags": [
+        "warm",
+        "red",
+        "color",
+        "theme",
+        "accent"
+      ]
+    },
+    "dominant_blue_green_white_color_palette": {
+      "canonical_name": "dominant blue green white color palette",
+      "canonical_name_zh": "蓝绿白主色调",
+      "canonical_phrase": "dominant colors of blue, green, and white with occasional gray or gold accents",
+      "samples": [
+        "dominant blue, white, and dark green",
+        "dominant colors of blue, green, and white",
+        "dominant colors are blue, green, and gray",
+        "dominant colors blue, gold, white",
+        "dominant colors blue, green, and white",
+        "dominant colors blue, gray, green",
+        "dominant colors blue and green"
+      ],
+      "tags": [
+        "blue",
+        "green",
+        "white",
+        "cool_tone",
+        "vibrant"
+      ]
+    },
+    "warm_golden_tones_strong_contrast": {
+      "canonical_name": "warm golden tones strong contrast",
+      "canonical_name_zh": "暖金调强对比",
+      "canonical_phrase": "warm golden tones, strong contrast between bright sky and darker foreground",
+      "samples": [
+        "warm golden tones, strong contrast between bright sky and darker foreground"
+      ],
+      "tags": [
+        "golden",
+        "contrast",
+        "sky",
+        "warm",
+        "foreground"
+      ]
+    },
+    "cool_tone_purple_beige_theme": {
+      "canonical_name": "cool tone purple beige theme",
+      "canonical_name_zh": "冷调紫米色主题",
+      "canonical_phrase": "cool tone with dominant purple and beige theme",
+      "samples": [
+        "cool tone with dominant purple and beige theme"
+      ],
+      "tags": [
+        "purple",
+        "beige",
+        "cool",
+        "aesthetic",
+        "gradient"
+      ]
+    },
+    "dark_blue_white_warm_wood_tones": {
+      "canonical_name": "dark blue white warm wood tones",
+      "canonical_name_zh": "深蓝白暖木色调",
+      "canonical_phrase": "dominant colors dark blue, white, warm wood tones",
+      "samples": [
+        "dominant colors dark blue, white, warm wood tones"
+      ],
+      "tags": [
+        "blue",
+        "wood",
+        "warm",
+        "minimalist",
+        "contrast"
+      ]
+    },
+    "warm_natural_tones_vibrant_greens_whites": {
+      "canonical_name": "warm natural tones vibrant greens whites",
+      "canonical_name_zh": "暖自然色调鲜绿白",
+      "canonical_phrase": "warm natural tones, vibrant greens and whites",
+      "samples": [
+        "warm natural tones, vibrant greens and whites"
+      ],
+      "tags": [
+        "warm",
+        "green",
+        "white",
+        "natural",
+        "vibrant"
+      ]
+    },
+    "dominant_white_cool_blue_tones": {
+      "canonical_name": "dominant white cool blue tones",
+      "canonical_name_zh": "主调白冷蓝",
+      "canonical_phrase": "dominant white and cool blue tones",
+      "samples": [
+        "dominant white and cool blue tones"
+      ],
+      "tags": [
+        "white",
+        "blue",
+        "cool",
+        "minimalist",
+        "ice"
+      ]
+    },
+    "soft_pastel_and_neutral_color_palette": {
+      "canonical_name": "soft pastel and neutral color palette",
+      "canonical_name_zh": "柔和中性色调",
+      "canonical_phrase": "soft pastel and neutral tones with white blue black gray cream",
+      "samples": [
+        "white and blue",
+        "white and black",
+        "predominantly blue and white",
+        "black and white",
+        "blue and white",
+        "white and blue tones",
+        "blue and green",
+        "black and gray",
+        "white and cream",
+        "white and soft blue tones",
+        "white and gray",
+        "white and neutral tones"
+      ],
+      "tags": [
+        "pastel",
+        "neutral",
+        "soft",
+        "minimalist",
+        "cool"
+      ]
+    },
+    "dark_and_green_color_theme": {
+      "canonical_name": "dark and green color theme",
+      "canonical_name_zh": "暗黑绿色主题",
+      "canonical_phrase": "primary color theme of dark green and black with gold accents",
+      "samples": [
+        "red and green as primary color theme",
+        "natural colors theme of black and green",
+        "primary color theme of gray and green",
+        "black and gold color theme",
+        "green and black color theme"
+      ],
+      "tags": [
+        "green",
+        "black",
+        "gold",
+        "dark",
+        "monochrome"
+      ]
+    },
+    "lush_green_vibrant_red_color_grade": {
+      "canonical_name": "lush green vibrant red color grade",
+      "canonical_name_zh": "翠绿鲜红色调",
+      "canonical_phrase": "lush green and vibrant red",
+      "samples": [
+        "lush green and vibrant red"
+      ],
+      "tags": [
+        "green",
+        "red",
+        "saturated",
+        "nature",
+        "bold"
+      ]
+    },
+    "dominated_by_blue_and_brown_tones": {
+      "canonical_name": "dominated by blue and brown tones",
+      "canonical_name_zh": "蓝棕色调主导",
+      "canonical_phrase": "dominated by blue and brown tones",
+      "samples": [
+        "dominated by blue and brown tones"
+      ],
+      "tags": [
+        "blue",
+        "brown",
+        "leather",
+        "vintage",
+        "rustic"
+      ]
+    },
+    "dominant_blue_and_warm_earth_tones": {
+      "canonical_name": "dominant blue and warm earth tones",
+      "canonical_name_zh": "深蓝与暖土色调",
+      "canonical_phrase": "dominant deep blue contrasted with warm earthy tones",
+      "samples": [
+        "cool blue and muted earth tones",
+        "warm tones of sea and sky",
+        "silver and warm earth tones",
+        "dominant deep blue and warm earth tones",
+        "vibrant blue and earthy tones",
+        "high contrast vivid with warm earthy tones and cool blues",
+        "dominant blue and warm earth tone",
+        "warm earthy tones contrasted with vibrant blue",
+        "dominant blue and earthy tones",
+        "warm earthy tones contrasted with cool blue and white",
+        "dominated by blue and earthy tones with deep contrast"
+      ],
+      "tags": [
+        "blue",
+        "earthy",
+        "contrast",
+        "muted",
+        "vibrant"
+      ]
+    },
+    "warm_white_pale_peach_tones": {
+      "canonical_name": "warm white pale peach tones",
+      "canonical_name_zh": "暖白淡桃色调",
+      "canonical_phrase": "warm white and pale peach tones",
+      "samples": [
+        "warm white and pale peach tones"
+      ],
+      "tags": [
+        "warm",
+        "peach",
+        "soft",
+        "pastel",
+        "glow"
+      ]
+    },
+    "muted_pastel_tones_with_soft_grays": {
+      "canonical_name": "muted pastel tones with soft grays",
+      "canonical_name_zh": "柔和灰调粉彩",
+      "canonical_phrase": "muted pastel palette featuring soft grays, faded blues, and earthy beige tones",
+      "samples": [
+        "muted pinks and grays",
+        "soft blues and beige tones",
+        "dark browns and muted yellows",
+        "muted tones of blue, green, and beige",
+        "contrasting colors of black, pink, and muted gray tones",
+        "muted green, white, and gray",
+        "red and muted blues",
+        "muted grays, soft whites, and faded green",
+        "muted greens, soft grays, and pale pastels",
+        "black and muted blue-gray",
+        "muted blues and soft whites",
+        "muted greens and soft blues",
+        "muted blues and earthy tones",
+        "muted blues, grays, and soft whites",
+        "muted browns, yellows, and deep reds",
+        "muted blues and grays with a touch of yellow"
+      ],
+      "tags": [
+        "muted",
+        "pastel",
+        "soft",
+        "earthy",
+        "desaturated"
+      ]
+    },
+    "dominant_white_and_earthy_tones": {
+      "canonical_name": "dominant white and earthy tones",
+      "canonical_name_zh": "主调白与大地色",
+      "canonical_phrase": "dominant white and earthy tones",
+      "samples": [
+        "dominant white and earthy tones"
+      ],
+      "tags": [
+        "white",
+        "earth",
+        "neutral",
+        "minimalist",
+        "matte"
+      ]
+    },
+    "teal_and_pink_dominant_themes": {
+      "canonical_name": "teal and pink dominant themes",
+      "canonical_name_zh": "青粉主导色调",
+      "canonical_phrase": "teal and pink dominant themes",
+      "samples": [
+        "teal and pink dominant themes"
+      ],
+      "tags": [
+        "teal",
+        "pink",
+        "neon",
+        "cyberpunk",
+        "gradient"
+      ]
+    },
+    "white_and_blue_or_brown_color_theme": {
+      "canonical_name": "white and blue or brown color theme",
+      "canonical_name_zh": "白蓝棕配色主题",
+      "canonical_phrase": "white and blue or brown color theme with earthy or cool tones",
+      "samples": [
+        "brown and white color theme",
+        "white and blue color theme",
+        "blue and wood color theme",
+        "white and earthy brown color theme",
+        "white and dark blue color theme",
+        "blue and brown color theme",
+        "white and brown theme",
+        "light blue and white color theme",
+        "white and light blue color theme",
+        "blue and white color theme"
+      ],
+      "tags": [
+        "color",
+        "white",
+        "blue",
+        "brown",
+        "earthy"
+      ]
+    },
+    "rich_green_and_vibrant_red": {
+      "canonical_name": "rich green and vibrant red",
+      "canonical_name_zh": "翠绿与鲜红",
+      "canonical_phrase": "rich green and vibrant red",
+      "samples": [
+        "rich green and vibrant red"
+      ],
+      "tags": [
+        "green",
+        "red",
+        "silk",
+        "luxury",
+        "jewel"
+      ]
+    },
+    "earthy_browns_with_soft_cool_tones": {
+      "canonical_name": "earthy browns with soft cool tones",
+      "canonical_name_zh": "大地棕配柔和冷色",
+      "canonical_phrase": "earthy browns mixed with soft blues, greens, and warm sunlight",
+      "samples": [
+        "soft purples, blues, and earthy browns",
+        "earthy browns, faded greens, and vivid blue",
+        "earthy browns and deep blacks",
+        "earthy browns, deep blues, and golden sunlight tones",
+        "earthy browns and soft whites",
+        "earthy browns, greens, and light blue",
+        "soft blues, earthy browns, and warm pinks",
+        "earthy browns and soft blues"
+      ],
+      "tags": [
+        "earthy",
+        "browns",
+        "soft",
+        "muted",
+        "natural"
+      ]
+    },
+    "golden_white_color_theme": {
+      "canonical_name": "golden white color theme",
+      "canonical_name_zh": "金白配色主题",
+      "canonical_phrase": "golden and white color theme",
+      "samples": [
+        "golden and white color theme"
+      ],
+      "tags": [
+        "gold",
+        "white",
+        "luxury",
+        "metallic",
+        "elegant"
+      ]
+    },
+    "warm_golden_yellow_dominant_palette": {
+      "canonical_name": "warm golden yellow dominant palette",
+      "canonical_name_zh": "暖金黄主色调",
+      "canonical_phrase": "warm golden yellow hues with earthy browns and soft accents",
+      "samples": [
+        "warm golden yellow hues",
+        "warm golden tones, earthy browns and soft golden yellows",
+        "warm white and golden yellow",
+        "warm golden yellow, soft blue, rich brown",
+        "warm golden yellow and cool white with deep black shadows",
+        "warm golden yellows and earthy browns",
+        "warm golden yellow and teal dominant",
+        "deep blue and golden yellow",
+        "golden yellow and deep blue"
+      ],
+      "tags": [
+        "golden",
+        "warm",
+        "earthy",
+        "cinematic",
+        "yellow"
+      ]
+    },
+    "white_and_warm_golden_tones": {
+      "canonical_name": "white and warm golden tones",
+      "canonical_name_zh": "白与暖金色调",
+      "canonical_phrase": "dominant color theme of white and warm golden tones",
+      "samples": [
+        "dominant color theme of white and warm golden tones"
+      ],
+      "tags": [
+        "white",
+        "gold",
+        "fabric",
+        "luxury",
+        "metallic"
+      ]
+    },
+    "warm_tones_with_high_contrast": {
+      "canonical_name": "warm tones with high contrast",
+      "canonical_name_zh": "暖色调高对比",
+      "canonical_phrase": "warm tones, high contrast, rich saturated colors, deep shadows, strong lighting",
+      "samples": [
+        "cool tones, high contrast",
+        "warm tones, high contrast",
+        "warm and cool tones dominate the palette, high contrast",
+        "warm tones with deep shadows",
+        "warm tones, rich saturated colors",
+        "warm tones with strong contrast",
+        "warm lighting with rich contrast between white and black fabrics",
+        "warm tones with high contrast between red and dark surroundings",
+        "warm white and deep shadows",
+        "dominant warm tones with soft white highlights",
+        "vibrant contrast between bright clothing and dark background",
+        "warm tones with high contrast between white, dark tones, and bright sunlight highlights"
+      ],
+      "tags": [
+        "warm",
+        "contrast",
+        "saturated",
+        "shadows",
+        "vibrant"
+      ]
+    },
+    "navy_blue_white_pastel_soft_tones": {
+      "canonical_name": "navy blue white pastel soft tones",
+      "canonical_name_zh": "深蓝白柔和粉彩",
+      "canonical_phrase": "dominant navy blue and white with soft pastel tones",
+      "samples": [
+        "dominant navy blue and white with soft pastel tones"
+      ],
+      "tags": [
+        "navy",
+        "pastel",
+        "soft",
+        "fabric",
+        "minimalist"
+      ]
+    },
+    "dominant_pink_maroon_earthy_tones": {
+      "canonical_name": "dominant pink maroon earthy tones",
+      "canonical_name_zh": "粉紫红土色调",
+      "canonical_phrase": "dominant pink and maroon with earthy tones",
+      "samples": [
+        "dominant pink and maroon with earthy tones"
+      ],
+      "tags": [
+        "pink",
+        "maroon",
+        "earthy",
+        "warm",
+        "vintage"
+      ]
+    },
+    "strong_blue_and_white_contrast": {
+      "canonical_name": "strong blue and white contrast",
+      "canonical_name_zh": "蓝白强对比",
+      "canonical_phrase": "vivid blue and white tones with sharp high contrast",
+      "samples": [
+        "strong color contrast between white and blue",
+        "vivid color contrast emphasizing blue and white tones",
+        "dominant blue and white theme, high contrast",
+        "strong color contrast between white and green",
+        "strong blue and white color contrast",
+        "dominant blue and white with high contrast",
+        "rich saturated blue with sharp white contrast"
+      ],
+      "tags": [
+        "blue",
+        "white",
+        "contrast",
+        "vivid",
+        "saturated"
+      ]
+    }
+  },
+  "statistics": {
+    "total_clusters": 198,
+    "multi_sample_clusters": 80,
+    "single_sample_clusters": 118
+  }
+}

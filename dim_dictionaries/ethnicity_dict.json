@@ -1,0 +1,628 @@
+{
+  "dimension": "ethnicity",
+  "version": "1.0",
+  "generated_date": "2026-03-18",
+  "mode": "enum",
+  "clusters": {
+    "east_asian": {
+      "canonical_name": "East Asian",
+      "canonical_name_zh": "东亚",
+      "canonical_phrase": "East Asian",
+      "samples": [
+        "East Asian"
+      ],
+      "tags": [
+        "east asian",
+        "asian",
+        "chinese",
+        "japanese",
+        "korean"
+      ]
+    },
+    "southeast_asian": {
+      "canonical_name": "Southeast Asian",
+      "canonical_name_zh": "东南亚",
+      "canonical_phrase": "Southeast Asian",
+      "samples": [
+        "Southeast Asian"
+      ],
+      "tags": [
+        "southeast asian",
+        "thai",
+        "vietnamese",
+        "filipino",
+        "asian"
+      ]
+    },
+    "chinese": {
+      "canonical_name": "Chinese",
+      "canonical_name_zh": "中国",
+      "canonical_phrase": "Chinese",
+      "samples": [
+        "Chinese"
+      ],
+      "tags": [
+        "chinese",
+        "feature",
+        "feature",
+        "feature",
+        "feature"
+      ]
+    },
+    "japanese": {
+      "canonical_name": "Japanese",
+      "canonical_name_zh": "日本",
+      "canonical_phrase": "Japanese",
+      "samples": [
+        "Japanese"
+      ],
+      "tags": [
+        "japanese",
+        "feature",
+        "feature",
+        "feature",
+        "feature"
+      ]
+    },
+    "korean": {
+      "canonical_name": "Korean",
+      "canonical_name_zh": "韩国",
+      "canonical_phrase": "Korean",
+      "samples": [
+        "Korean"
+      ],
+      "tags": [
+        "korean",
+        "feature",
+        "feature",
+        "feature",
+        "feature"
+      ]
+    },
+    "thai": {
+      "canonical_name": "Thai",
+      "canonical_name_zh": "泰国",
+      "canonical_phrase": "Thai",
+      "samples": [
+        "Thai"
+      ],
+      "tags": [
+        "thai",
+        "feature",
+        "feature",
+        "feature",
+        "feature"
+      ]
+    },
+    "vietnamese": {
+      "canonical_name": "Vietnamese",
+      "canonical_name_zh": "越南",
+      "canonical_phrase": "Vietnamese",
+      "samples": [
+        "Vietnamese"
+      ],
+      "tags": [
+        "vietnamese",
+        "feature",
+        "feature",
+        "feature",
+        "feature"
+      ]
+    },
+    "filipino": {
+      "canonical_name": "Filipino",
+      "canonical_name_zh": "菲律宾",
+      "canonical_phrase": "Filipino",
+      "samples": [
+        "Filipino"
+      ],
+      "tags": [
+        "filipino",
+        "feature",
+        "feature",
+        "feature",
+        "feature"
+      ]
+    },
+    "indonesian": {
+      "canonical_name": "Indonesian",
+      "canonical_name_zh": "印度尼西亚",
+      "canonical_phrase": "Indonesian",
+      "samples": [
+        "Indonesian"
+      ],
+      "tags": [
+        "indonesian",
+        "feature",
+        "feature",
+        "feature",
+        "feature"
+      ]
+    },
+    "south_asian": {
+      "canonical_name": "South Asian",
+      "canonical_name_zh": "南亚",
+      "canonical_phrase": "South Asian",
+      "samples": [
+        "South Asian"
+      ],
+      "tags": [
+        "south asian",
+        "indian",
+        "desi",
+        "brown",
+        "asian"
+      ]
+    },
+    "indian": {
+      "canonical_name": "Indian",
+      "canonical_name_zh": "印度",
+      "canonical_phrase": "Indian",
+      "samples": [
+        "Indian"
+      ],
+      "tags": [
+        "indian",
+        "feature",
+        "feature",
+        "feature",
+        "feature"
+      ]
+    },
+    "pakistani": {
+      "canonical_name": "Pakistani",
+      "canonical_name_zh": "巴基斯坦",
+      "canonical_phrase": "Pakistani",
+      "samples": [
+        "Pakistani"
+      ],
+      "tags": [
+        "pakistani",
+        "feature",
+        "feature",
+        "feature",
+        "feature"
+      ]
+    },
+    "bangladeshi": {
+      "canonical_name": "Bangladeshi",
+      "canonical_name_zh": "孟加拉国",
+      "canonical_phrase": "Bangladeshi",
+      "samples": [
+        "Bangladeshi"
+      ],
+      "tags": [
+        "bangladeshi",
+        "feature",
+        "feature",
+        "feature",
+        "feature"
+      ]
+    },
+    "sri_lankan": {
+      "canonical_name": "Sri Lankan",
+      "canonical_name_zh": "斯里兰卡",
+      "canonical_phrase": "Sri Lankan",
+      "samples": [
+        "Sri Lankan"
+      ],
+      "tags": [
+        "sri",
+        "lankan",
+        "feature",
+        "feature",
+        "feature"
+      ]
+    },
+    "caucasian": {
+      "canonical_name": "Caucasian",
+      "canonical_name_zh": "高加索",
+      "canonical_phrase": "Caucasian",
+      "samples": [
+        "Caucasian"
+      ],
+      "tags": [
+        "caucasian",
+        "white",
+        "european",
+        "western",
+        "fair"
+      ]
+    },
+    "white": {
+      "canonical_name": "White",
+      "canonical_name_zh": "白人",
+      "canonical_phrase": "White",
+      "samples": [
+        "White"
+      ],
+      "tags": [
+        "white",
+        "feature",
+        "feature",
+        "feature",
+        "feature"
+      ]
+    },
+    "european": {
+      "canonical_name": "European",
+      "canonical_name_zh": "欧洲",
+      "canonical_phrase": "European",
+      "samples": [
+        "European"
+      ],
+      "tags": [
+        "european",
+        "feature",
+        "feature",
+        "feature",
+        "feature"
+      ]
+    },
+    "nordic": {
+      "canonical_name": "Nordic",
+      "canonical_name_zh": "北欧",
+      "canonical_phrase": "Nordic",
+      "samples": [
+        "Nordic"
+      ],
+      "tags": [
+        "nordic",
+        "feature",
+        "feature",
+        "feature",
+        "feature"
+      ]
+    },
+    "mediterranean": {
+      "canonical_name": "Mediterranean",
+      "canonical_name_zh": "地中海",
+      "canonical_phrase": "Mediterranean",
+      "samples": [
+        "Mediterranean"
+      ],
+      "tags": [
+        "mediterranean",
+        "feature",
+        "feature",
+        "feature",
+        "feature"
+      ]
+    },
+    "black": {
+      "canonical_name": "Black",
+      "canonical_name_zh": "黑人",
+      "canonical_phrase": "Black",
+      "samples": [
+        "Black"
+      ],
+      "tags": [
+        "black",
+        "african",
+        "dark skin",
+        "afro",
+        "melanated"
+      ]
+    },
+    "african": {
+      "canonical_name": "African",
+      "canonical_name_zh": "非洲",
+      "canonical_phrase": "African",
+      "samples": [
+        "African"
+      ],
+      "tags": [
+        "african",
+        "feature",
+        "feature",
+        "feature",
+        "feature"
+      ]
+    },
+    "afrocaribbean": {
+      "canonical_name": "Afro-Caribbean",
+      "canonical_name_zh": "非加勒比",
+      "canonical_phrase": "Afro-Caribbean",
+      "samples": [
+        "Afro-Caribbean"
+      ],
+      "tags": [
+        "afro",
+        "caribbean",
+        "feature",
+        "feature",
+        "feature"
+      ]
+    },
+    "subsaharan_african": {
+      "canonical_name": "Sub-Saharan African",
+      "canonical_name_zh": "撒哈拉以南非洲",
+      "canonical_phrase": "Sub-Saharan African",
+      "samples": [
+        "Sub-Saharan African"
+      ],
+      "tags": [
+        "sub",
+        "saharan",
+        "african",
+        "feature",
+        "feature"
+      ]
+    },
+    "hispanic": {
+      "canonical_name": "Hispanic",
+      "canonical_name_zh": "西班牙裔",
+      "canonical_phrase": "Hispanic",
+      "samples": [
+        "Hispanic"
+      ],
+      "tags": [
+        "hispanic",
+        "latino",
+        "latin american",
+        "spanish",
+        "mestizo"
+      ]
+    },
+    "latino": {
+      "canonical_name": "Latino",
+      "canonical_name_zh": "拉丁裔",
+      "canonical_phrase": "Latino",
+      "samples": [
+        "Latino"
+      ],
+      "tags": [
+        "latino",
+        "feature",
+        "feature",
+        "feature",
+        "feature"
+      ]
+    },
+    "latin_american": {
+      "canonical_name": "Latin American",
+      "canonical_name_zh": "拉丁美洲",
+      "canonical_phrase": "Latin American",
+      "samples": [
+        "Latin American"
+      ],
+      "tags": [
+        "latin",
+        "american",
+        "feature",
+        "feature",
+        "feature"
+      ]
+    },
+    "mestizo": {
+      "canonical_name": "Mestizo",
+      "canonical_name_zh": "梅斯蒂索（欧印混血）",
+      "canonical_phrase": "Mestizo",
+      "samples": [
+        "Mestizo"
+      ],
+      "tags": [
+        "mestizo",
+        "feature",
+        "feature",
+        "feature",
+        "feature"
+      ]
+    },
+    "middle_eastern": {
+      "canonical_name": "Middle Eastern",
+      "canonical_name_zh": "中东",
+      "canonical_phrase": "Middle Eastern",
+      "samples": [
+        "Middle Eastern"
+      ],
+      "tags": [
+        "middle eastern",
+        "arab",
+        "persian",
+        "west asian",
+        "mediterranean"
+      ]
+    },
+    "arab": {
+      "canonical_name": "Arab",
+      "canonical_name_zh": "阿拉伯",
+      "canonical_phrase": "Arab",
+      "samples": [
+        "Arab"
+      ],
+      "tags": [
+        "arab",
+        "feature",
+        "feature",
+        "feature",
+        "feature"
+      ]
+    },
+    "persian": {
+      "canonical_name": "Persian",
+      "canonical_name_zh": "波斯",
+      "canonical_phrase": "Persian",
+      "samples": [
+        "Persian"
+      ],
+      "tags": [
+        "persian",
+        "feature",
+        "feature",
+        "feature",
+        "feature"
+      ]
+    },
+    "turkish": {
+      "canonical_name": "Turkish",
+      "canonical_name_zh": "土耳其",
+      "canonical_phrase": "Turkish",
+      "samples": [
+        "Turkish"
+      ],
+      "tags": [
+        "turkish",
+        "feature",
+        "feature",
+        "feature",
+        "feature"
+      ]
+    },
+    "west_asian": {
+      "canonical_name": "West Asian",
+      "canonical_name_zh": "西亚",
+      "canonical_phrase": "West Asian",
+      "samples": [
+        "West Asian"
+      ],
+      "tags": [
+        "west",
+        "asian",
+        "feature",
+        "feature",
+        "feature"
+      ]
+    },
+    "pacific_islander": {
+      "canonical_name": "Pacific Islander",
+      "canonical_name_zh": "太平洋岛民",
+      "canonical_phrase": "Pacific Islander",
+      "samples": [
+        "Pacific Islander"
+      ],
+      "tags": [
+        "pacific",
+        "islander",
+        "feature",
+        "feature",
+        "feature"
+      ]
+    },
+    "polynesian": {
+      "canonical_name": "Polynesian",
+      "canonical_name_zh": "波利尼西亚",
+      "canonical_phrase": "Polynesian",
+      "samples": [
+        "Polynesian"
+      ],
+      "tags": [
+        "polynesian",
+        "feature",
+        "feature",
+        "feature",
+        "feature"
+      ]
+    },
+    "maori": {
+      "canonical_name": "Maori",
+      "canonical_name_zh": "毛利人",
+      "canonical_phrase": "Maori",
+      "samples": [
+        "Maori"
+      ],
+      "tags": [
+        "maori",
+        "feature",
+        "feature",
+        "feature",
+        "feature"
+      ]
+    },
+    "aboriginal_australian": {
+      "canonical_name": "Aboriginal Australian",
+      "canonical_name_zh": "澳大利亚原住民",
+      "canonical_phrase": "Aboriginal Australian",
+      "samples": [
+        "Aboriginal Australian"
+      ],
+      "tags": [
+        "aboriginal",
+        "australian",
+        "feature",
+        "feature",
+        "feature"
+      ]
+    },
+    "mixed_race": {
+      "canonical_name": "Mixed Race",
+      "canonical_name_zh": "混血",
+      "canonical_phrase": "Mixed Race",
+      "samples": [
+        "Mixed Race"
+      ],
+      "tags": [
+        "mixed",
+        "race",
+        "feature",
+        "feature",
+        "feature"
+      ]
+    },
+    "biracial": {
+      "canonical_name": "Biracial",
+      "canonical_name_zh": "双种族",
+      "canonical_phrase": "Biracial",
+      "samples": [
+        "Biracial"
+      ],
+      "tags": [
+        "biracial",
+        "feature",
+        "feature",
+        "feature",
+        "feature"
+      ]
+    },
+    "multiracial": {
+      "canonical_name": "Multiracial",
+      "canonical_name_zh": "多种族",
+      "canonical_phrase": "Multiracial",
+      "samples": [
+        "Multiracial"
+      ],
+      "tags": [
+        "multiracial",
+        "feature",
+        "feature",
+        "feature",
+        "feature"
+      ]
+    },
+    "eurasian": {
+      "canonical_name": "Eurasian",
+      "canonical_name_zh": "欧亚混血",
+      "canonical_phrase": "Eurasian",
+      "samples": [
+        "Eurasian"
+      ],
+      "tags": [
+        "eurasian",
+        "feature",
+        "feature",
+        "feature",
+        "feature"
+      ]
+    },
+    "afroasian": {
+      "canonical_name": "Afro-Asian",
+      "canonical_name_zh": "非亚混血",
+      "canonical_phrase": "Afro-Asian",
+      "samples": [
+        "Afro-Asian"
+      ],
+      "tags": [
+        "afro",
+        "asian",
+        "feature",
+        "feature",
+        "feature"
+      ]
+    }
+  },
+  "statistics": {
+    "total_clusters": 41,
+    "multi_sample_clusters": 0,
+    "single_sample_clusters": 41
+  }
+}

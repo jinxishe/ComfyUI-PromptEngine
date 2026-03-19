@@ -1,0 +1,134 @@
+{
+  "dimension": "age_appearance",
+  "version": "1.0",
+  "generated_date": "2026-03-18",
+  "mode": "enum",
+  "clusters": {
+    "young": {
+      "canonical_name": "Young",
+      "canonical_name_zh": "年轻",
+      "canonical_phrase": "young",
+      "samples": [
+        "young"
+      ],
+      "tags": [
+        "young",
+        "youth",
+        "early twenties",
+        "fresh",
+        "vibrant"
+      ]
+    },
+    "young_adult": {
+      "canonical_name": "Young Adult",
+      "canonical_name_zh": "青年",
+      "canonical_phrase": "young adult",
+      "samples": [
+        "young adult"
+      ],
+      "tags": [
+        "young adult",
+        "twenties",
+        "adult",
+        "mid-twenties",
+        "mature"
+      ]
+    },
+    "adult": {
+      "canonical_name": "Adult",
+      "canonical_name_zh": "成年",
+      "canonical_phrase": "adult",
+      "samples": [
+        "adult"
+      ],
+      "tags": [
+        "adult",
+        "thirties",
+        "grown",
+        "mature",
+        "independent"
+      ]
+    },
+    "midtwenties": {
+      "canonical_name": "Mid-Twenties",
+      "canonical_name_zh": "二十五岁左右",
+      "canonical_phrase": "mid-twenties",
+      "samples": [
+        "mid-twenties",
+        "mid-20s"
+      ],
+      "tags": [
+        "mid-twenties",
+        "25",
+        "young adult",
+        "adult",
+        "twenties"
+      ]
+    },
+    "late_twenties": {
+      "canonical_name": "Late Twenties",
+      "canonical_name_zh": "二十八岁左右",
+      "canonical_phrase": "late twenties",
+      "samples": [
+        "late twenties"
+      ],
+      "tags": [
+        "late twenties",
+        "28",
+        "adult",
+        "mature",
+        "young professional"
+      ]
+    },
+    "early_thirties": {
+      "canonical_name": "Early Thirties",
+      "canonical_name_zh": "三十岁出头",
+      "canonical_phrase": "early thirties",
+      "samples": [
+        "early thirties"
+      ],
+      "tags": [
+        "early thirties",
+        "30",
+        "adult",
+        "mature",
+        "professional"
+      ]
+    },
+    "midthirties": {
+      "canonical_name": "Mid-Thirties",
+      "canonical_name_zh": "三十五岁左右",
+      "canonical_phrase": "mid-thirties",
+      "samples": [
+        "mid-thirties"
+      ],
+      "tags": [
+        "mid-thirties",
+        "35",
+        "adult",
+        "mature",
+        "professional"
+      ]
+    },
+    "middleaged": {
+      "canonical_name": "Middle-Aged",
+      "canonical_name_zh": "中年",
+      "canonical_phrase": "middle-aged",
+      "samples": [
+        "middle-aged"
+      ],
+      "tags": [
+        "middle-aged",
+        "forties",
+        "mature",
+        "adult",
+        "experienced"
+      ]
+    }
+  },
+  "statistics": {
+    "total_clusters": 8,
+    "multi_sample_clusters": 1,
+    "single_sample_clusters": 7
+  }
+}

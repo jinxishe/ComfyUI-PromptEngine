@@ -1,0 +1,3718 @@
+{
+  "dimension": "pose",
+  "version": "1.0",
+  "generated_date": "2026-03-18",
+  "mode": "clustered",
+  "clusters": {
+    "upright_standing_pose_with_relaxed_arms": {
+      "canonical_name": "upright standing pose with relaxed arms",
+      "canonical_name_zh": "直立放松站姿",
+      "canonical_phrase": "standing upright with torso aligned and arms hanging relaxed at sides",
+      "samples": [
+        "standing with body angled slightly to the side, one leg forward, arms relaxed at sides",
+        "standing with right leg slightly forward and weight shifted to left foot, arms hanging relaxed at sides, torso upright",
+        "standing with right leg forward and left leg back, torso angled slightly to left, right arm holding briefcase, left arm relaxed at side",
+        "standing with arms relaxed at sides, legs slightly apart, torso upright",
+        "standing upright with arms slightly bent, left arm relaxed by side, legs slightly apart, holding sneakers raised in right hand",
+        "standing with torso upright, head tilted back, arms resting on a light blue circular table, legs slightly apart",
+        "standing with weight on left leg, left arm relaxed by side, right arm holding bag, head turned slightly to right",
+        "standing with torso angled forward, arms relaxed at sides with one hand slightly forward, legs slightly apart",
+        "standing with legs slightly apart, arms relaxed at sides, torso angled forward"
+      ],
+      "tags": [
+        "casual",
+        "neutral",
+        "relaxed",
+        "upright",
+        "natural"
+      ]
+    },
+    "reclined_floral_surface_relaxed_pose": {
+      "canonical_name": "reclined floral surface relaxed pose",
+      "canonical_name_zh": "花卉表面躺卧姿态",
+      "canonical_phrase": "reclined on a floral patterned surface, torso angled slightly forward, head resting gently on right shoulder",
+      "samples": [
+        "reclined on a floral patterned surface, torso angled slightly forward, head resting gently on right shoulder"
+      ],
+      "tags": [
+        "floral",
+        "fabric",
+        "casual",
+        "soft",
+        "shoulder_rest"
+      ]
+    },
+    "standing_threequarter_profile_with_head_turn": {
+      "canonical_name": "standing three-quarter profile with head turn",
+      "canonical_name_zh": "侧身站立头部转向",
+      "canonical_phrase": "standing in three-quarter profile view, body angled slightly away while head turns to face camera directly, right arm rests along railing",
+      "samples": [
+        "standing in three-quarter profile view, body angled slightly away while head turns to face camera directly, right arm rests along railing"
+      ],
+      "tags": [
+        "profile",
+        "railing",
+        "casual",
+        "denim",
+        "arm_rest"
+      ]
+    },
+    "midstride_head_tilted_upward_right_clenched_fist": {
+      "canonical_name": "mid-stride head tilted upward right clenched fist",
+      "canonical_name_zh": "迈步抬头右拳紧握",
+      "canonical_phrase": "mid-stride, head tilted slightly upward, right arm bent with a clenched fist near chest, left arm relaxed by side",
+      "samples": [
+        "mid-stride, head tilted slightly upward, right arm bent with a clenched fist near chest, left arm relaxed by side"
+      ],
+      "tags": [
+        "dynamic",
+        "leather",
+        "jacket",
+        "heroic",
+        "fist"
+      ]
+    },
+    "hand_resting_against_textured_wall": {
+      "canonical_name": "hand resting against textured wall",
+      "canonical_name_zh": "手轻靠纹理墙",
+      "canonical_phrase": "hand gently resting against a textured wall, fingers slightly curled, arm slightly bent, hand positioned near the hip",
+      "samples": [
+        "hand gently resting against a textured wall, fingers slightly curled, arm slightly bent, hand positioned near the hip"
+      ],
+      "tags": [
+        "stone",
+        "concrete",
+        "casual",
+        "relaxed",
+        "curled_fingers"
+      ]
+    },
+    "kneeling_standing_or_lying_poses": {
+      "canonical_name": "kneeling standing or lying poses",
+      "canonical_name_zh": "跪立躺姿",
+      "canonical_phrase": "person kneeling standing or lying on ground or rock",
+      "samples": [
+        "kneeling, leaning forward with both hands pressed against a mirror",
+        "kneeling in deep white snow, holding a small white goat",
+        "kneeling on dirt ground, torso upright, hands gripping satchel handles",
+        "standing between two textured golden-brown rock formations, one hand resting on each rock, torso angled slightly forward, legs straight and close together",
+        "kneeling on white sand, head tilted back, arms raised with one hand behind head and the other resting near thigh",
+        "kneeling on stone ground with one hand resting on knee, torso upright",
+        "lying diagonally across a large textured gray rock, right arm extended along the rock, left hand raised to forehead, head tilted slightly upward",
+        "standing with knees slightly bent, torso leaning forward, hands resting on a large gray rock"
+      ],
+      "tags": [
+        "kneeling",
+        "standing",
+        "rock",
+        "sand",
+        "upright"
+      ]
+    },
+    "standing_upright_with_relaxed_arms": {
+      "canonical_name": "standing upright with relaxed arms",
+      "canonical_name_zh": "直立放松站姿",
+      "canonical_phrase": "standing upright torso relaxed arms hanging or clasped",
+      "samples": [
+        "torso upright with slight forward lean, arms hanging down holding shorts, legs partially visible with slight bend at knees",
+        "standing waist-deep in river, torso upright, legs slightly apart for balance, head slightly tilted downward, hands clasped together in front of waist",
+        "standing upright with torso upright and waist cinched, hips slightly tilted forward, right arm raised to brush back hair, legs partially submerged",
+        "standing with torso angled forward, arms at sides, shoulders relaxed, waist visible, hips narrow, legs partially visible"
+      ],
+      "tags": [
+        "standing",
+        "relaxed",
+        "casual",
+        "natural",
+        "upright"
+      ]
+    },
+    "torso_upright_hands_near_chest_touching_lips_eating": {
+      "canonical_name": "torso upright hands near chest touching lips eating",
+      "canonical_name_zh": "躯干直立手近胸触唇进食",
+      "canonical_phrase": "torso upright, hands positioned near chest level, fingers gently touching lips while eating",
+      "samples": [
+        "torso upright, hands positioned near chest level, fingers gently touching lips while eating"
+      ],
+      "tags": [
+        "silver",
+        "silk",
+        "blouse",
+        "elegant",
+        "fingers"
+      ]
+    },
+    "hands_near_face_holding_doll": {
+      "canonical_name": "hands near face holding doll",
+      "canonical_name_zh": "手托娃娃靠近面部",
+      "canonical_phrase": "hands positioned near face holding a doll",
+      "samples": [
+        "hands positioned near face holding a doll"
+      ],
+      "tags": [
+        "ceramic",
+        "porcelain",
+        "doll",
+        "intimate",
+        "grip"
+      ]
+    },
+    "standing_arms_extended_torso_tilted": {
+      "canonical_name": "standing arms extended torso tilted",
+      "canonical_name_zh": "站立双臂伸展躯干前倾",
+      "canonical_phrase": "standing with arms extended outward, torso slightly tilted forward",
+      "samples": [
+        "standing with arms extended outward, torso slightly tilted forward"
+      ],
+      "tags": [
+        "blue",
+        "denim",
+        "jacket",
+        "dynamic",
+        "outstretched"
+      ]
+    },
+    "standing_figure_with_partial_torso_visibility": {
+      "canonical_name": "standing figure with partial torso visibility",
+      "canonical_name_zh": "站立半身可见",
+      "canonical_phrase": "standing figure, torso and legs visible, looking over shoulder, right shoulder visible",
+      "samples": [
+        "standing, torso and legs visible",
+        "partially visible on the right",
+        "standing, right shoulder and upper arm visible",
+        "standing, looking over shoulder"
+      ],
+      "tags": [
+        "standing",
+        "partial",
+        "shoulder",
+        "over-shoulder",
+        "visible"
+      ]
+    },
+    "sitting_torso_forward_hand_on_box": {
+      "canonical_name": "sitting torso forward hand on box",
+      "canonical_name_zh": "坐姿前倾手扶盒子",
+      "canonical_phrase": "sitting, torso angled slightly forward, right hand resting on box, left arm extended upward out of frame, legs bent with one knee raised",
+      "samples": [
+        "sitting, torso angled slightly forward, right hand resting on box, left arm extended upward out of frame, legs bent with one knee raised"
+      ],
+      "tags": [
+        "blue",
+        "denim",
+        "casual",
+        "dynamic",
+        "one-knee"
+      ]
+    },
+    "standing_torso_angled_away_relaxed_pose": {
+      "canonical_name": "standing torso angled away relaxed pose",
+      "canonical_name_zh": "侧身站立放松姿态",
+      "canonical_phrase": "standing with torso angled away, right hand relaxed at side, left arm bent slightly, legs shoulder-width apart with feet flat on ground",
+      "samples": [
+        "standing with torso angled away, right hand relaxed at side, left arm bent slightly, legs shoulder-width apart with feet flat on ground"
+      ],
+      "tags": [
+        "blue",
+        "denim",
+        "casual",
+        "relaxed",
+        "flat feet"
+      ]
+    },
+    "leaning_forward_holding_garment_near_mouth": {
+      "canonical_name": "leaning forward holding garment near mouth",
+      "canonical_name_zh": "前倾持衣近口",
+      "canonical_phrase": "leaning forward, one arm extended toward a sink holding a garment, other arm bent with hand near mouth",
+      "samples": [
+        "leaning forward, one arm extended toward a sink holding a garment, other arm bent with hand near mouth"
+      ],
+      "tags": [
+        "blue",
+        "cotton",
+        "shirt",
+        "casual",
+        "sink"
+      ]
+    },
+    "standing_torso_angled_hands_at_sides": {
+      "canonical_name": "standing torso angled hands at sides",
+      "canonical_name_zh": "站立躯干微侧双手垂放",
+      "canonical_phrase": "standing with torso slightly angled, hands gently resting at sides",
+      "samples": [
+        "standing with torso slightly angled, hands gently resting at sides"
+      ],
+      "tags": [
+        "casual",
+        "cotton",
+        "relaxed",
+        "neutral",
+        "natural"
+      ]
+    },
+    "seated_arms_bent_hands_clasped_under_chin": {
+      "canonical_name": "seated arms bent hands clasped under chin",
+      "canonical_name_zh": "坐姿屈臂双手托腮",
+      "canonical_phrase": "seated, arms bent at elbows, hands clasped under chin, chin resting on crossed arms",
+      "samples": [
+        "seated, arms bent at elbows, hands clasped under chin, chin resting on crossed arms"
+      ],
+      "tags": [
+        "blue",
+        "denim",
+        "hoodie",
+        "contemplative",
+        "clasped_hands"
+      ]
+    },
+    "standing_upright_with_relaxed_posture": {
+      "canonical_name": "standing upright with relaxed posture",
+      "canonical_name_zh": "直立放松姿态",
+      "canonical_phrase": "standing upright with relaxed posture, slight weight shift, arms resting near body",
+      "samples": [
+        "standing upright with torso straight, right leg bent with foot on bucket, left leg straight, right hand gripping gate, left hand resting on wall",
+        "standing upright with slight weight on right leg",
+        "standing with left hand resting near thigh, right arm slightly bent, legs straight",
+        "standing with left leg bent and resting on the edge of the tub, arms holding the towel around torso",
+        "standing with body angled slightly left, right leg forward, left leg slightly bent, arms relaxed at sides",
+        "standing with one leg bent and foot resting on a white surface",
+        "standing with torso angled slightly, legs bent at knees and feet planted apart, hand resting by thigh",
+        "standing with weight on left leg, body angled sideways, right hand lifting wrap fabric, left hand resting near hip",
+        "foot positioned upward with toes slightly curled, calf visible beneath, relaxed posture",
+        "standing upright with slight weight on right leg, left foot slightly lifted, arms relaxed at sides, torso straight",
+        "standing upright, arms slightly bent at elbows, hands resting near thighs",
+        "standing upright with slight curve at waist, arms extended resting on top rail, legs straight, feet flat on platform"
+      ],
+      "tags": [
+        "standing",
+        "relaxed",
+        "casual",
+        "upright",
+        "natural"
+      ]
+    },
+    "sitting_on_workbench_or_bench": {
+      "canonical_name": "sitting on workbench or bench",
+      "canonical_name_zh": "坐在工作台或长凳上",
+      "canonical_phrase": "sitting on a wooden workbench or bench with arms resting or holding objects",
+      "samples": [
+        "resting near a cluttered workbench",
+        "sitting on a worn wooden bench, right arm raised holding onto overhead rail",
+        "sitting on a wooden workbench, left hand resting on thigh holding object, right arm bent with hand near hip",
+        "sitting with arms resting on a tool handle"
+      ],
+      "tags": [
+        "wood",
+        "workbench",
+        "casual",
+        "relaxed",
+        "tool"
+      ]
+    },
+    "upright_torso_with_hands_clasped_near_chest": {
+      "canonical_name": "upright torso with hands clasped near chest",
+      "canonical_name_zh": "躯干直立双手合十胸前",
+      "canonical_phrase": "torso upright, arms raised or crossed, hands clasped together near chest or waist",
+      "samples": [
+        "standing with torso angled slightly away, hands gently holding fabric near chest, head turned over shoulder",
+        "arms extended upward, shoulders slightly rounded, torso upright, hands clasped together in front of chest",
+        "torso upright, arms crossed in front of torso, hands clasped together",
+        "torso slightly turned, hands gently clasped near waist",
+        "torso upright, arms raised holding a phone to eye level, legs slightly apart",
+        "torso angled slightly forward, hands clasped together near chest",
+        "torso upright, arms raised slightly with hands near shoulders",
+        "torso angled forward, hands adjusting bikini top",
+        "torso angled forward, hands lifting garment",
+        "torso upright, arms raised high above head with hands clasped together"
+      ],
+      "tags": [
+        "standing",
+        "clasped_hands",
+        "upright_posture",
+        "fabric_interaction",
+        "gentle_pose"
+      ]
+    },
+    "body_angled_forward_arms_wrapped": {
+      "canonical_name": "body angled forward arms wrapped",
+      "canonical_name_zh": "身体前倾双臂环抱",
+      "canonical_phrase": "body angled slightly forward with arms wrapped around herself",
+      "samples": [
+        "body angled slightly forward with arms wrapped around herself"
+      ],
+      "tags": [
+        "forward",
+        "hug",
+        "casual",
+        "soft",
+        "self-embrace"
+      ]
+    },
+    "crouching_low_over_rock_with_submerged_feet": {
+      "canonical_name": "crouching low over rock with submerged feet",
+      "canonical_name_zh": "岩石上低伏蹲姿",
+      "canonical_phrase": "crouching low over a rock, hands resting firmly on the rock surface, legs bent with feet partially submerged",
+      "samples": [
+        "crouching low over a rock, hands resting firmly on the rock surface, legs bent with feet partially submerged"
+      ],
+      "tags": [
+        "stone",
+        "concrete",
+        "tactical",
+        "wet",
+        "submerged"
+      ]
+    },
+    "seated_on_sand_holding_gummy_candies": {
+      "canonical_name": "seated on sand holding gummy candies",
+      "canonical_name_zh": "坐沙地手持糖果",
+      "canonical_phrase": "seated on sand, legs bent with one knee raised, hands holding colorful gummy candies",
+      "samples": [
+        "seated on sand, legs bent with one knee raised, hands holding colorful gummy candies"
+      ],
+      "tags": [
+        "colorful",
+        "gummy",
+        "candy",
+        "casual",
+        "knee"
+      ]
+    },
+    "standing_figure_with_varied_arm_gestures": {
+      "canonical_name": "standing figure with varied arm gestures",
+      "canonical_name_zh": "站立人物多变手臂姿态",
+      "canonical_phrase": "standing figure with arms extended, raised, or holding objects",
+      "samples": [
+        "viewed from behind, arms extended sideways for balance, legs positioned one slightly bent one extended",
+        "standing with right arm raised with hand near head, left arm extended slightly, legs slightly apart",
+        "standing, hands gripping a black lever",
+        "standing with arms crossed in front of torso holding racket",
+        "balancing on a turquoise unicycle with arms extended outward at shoulder height, palms open",
+        "standing, holding tennis racket with both hands in front of face",
+        "standing with arms outstretched, one hand reaching forward",
+        "standing beside a weathered wooden wall, holding an old wooden tennis racket in hand",
+        "arms extended upward, hands open with fingers spread, reaching upward",
+        "standing, right hand extended upward balancing a basketball on fingertip, left arm slightly bent with open palm",
+        "standing with arms raised and hands open, one leg slightly forward",
+        "standing with both hands raised above head gripping a basketball"
+      ],
+      "tags": [
+        "standing",
+        "arms",
+        "balance",
+        "racket",
+        "basketball"
+      ]
+    },
+    "standing_torso_angled_forward_arms_bent": {
+      "canonical_name": "standing torso angled forward arms bent",
+      "canonical_name_zh": "站立前倾躯干手臂弯曲",
+      "canonical_phrase": "standing, torso angled forward, arms slightly bent at elbows, legs partially visible",
+      "samples": [
+        "standing, torso angled forward, arms slightly bent at elbows, legs partially visible"
+      ],
+      "tags": [
+        "blue",
+        "denim",
+        "jacket",
+        "casual",
+        "partial_legs"
+      ]
+    },
+    "standing_slanted_pose_left_hand_wall": {
+      "canonical_name": "standing slanted pose left hand wall",
+      "canonical_name_zh": "斜倚单手扶墙",
+      "canonical_phrase": "standing in a slanted pose with left hand resting on wall",
+      "samples": [
+        "standing in a slanted pose with left hand resting on wall"
+      ],
+      "tags": [
+        "blue",
+        "denim",
+        "jacket",
+        "casual",
+        "leaning"
+      ]
+    },
+    "sitting_with_arms_resting_on_knees_and_hands_clasped_together": {
+      "canonical_name": "sitting with arms resting on knees and hands clasped together",
+      "canonical_name_zh": "双膝抱臂双手交握",
+      "canonical_phrase": "sitting with arms resting on knees and hands clasped together",
+      "samples": [
+        "sitting with arms resting on knees and hands clasped together"
+      ],
+      "tags": [
+        "knees",
+        "clasped",
+        "casual",
+        "relaxed",
+        "folded"
+      ]
+    },
+    "standing_pose_with_relaxed_arms": {
+      "canonical_name": "standing pose with relaxed arms",
+      "canonical_name_zh": "站立放松姿态",
+      "canonical_phrase": "standing upright with arms relaxed at sides or gently touching nearby objects",
+      "samples": [
+        "standing upright with arms relaxed at sides",
+        "standing centrally, right hand raised to chin, left arm hanging relaxed",
+        "standing, right hand raised to head, left arm relaxed by side, torso slightly tilted forward",
+        "standing, right arm extended slightly forward, left arm relaxed at side",
+        "standing with arms slightly extended to sides, hands relaxed, torso facing forward",
+        "standing with torso angled slightly left, head turned to face camera, right hand gripping a thick green leaf stem",
+        "standing with torso angled slightly forward, one hand grasping fabric at hip level, other arm hanging relaxed",
+        "standing, torso slightly angled forward, head tilted slightly to the left, right hand gently touching cheek near jawline",
+        "standing in a relaxed pose with one hand gently touching green foliage, the other arm hanging naturally, torso slightly angled forward"
+      ],
+      "tags": [
+        "standing",
+        "relaxed",
+        "casual",
+        "natural",
+        "foliage"
+      ]
+    },
+    "standing_near_metal_pole_gripping": {
+      "canonical_name": "standing near metal pole gripping",
+      "canonical_name_zh": "倚靠金属杆抓握",
+      "canonical_phrase": "standing near a metal pole, right hand gripping the pole, left arm resting along her side, head tilted slightly to her right",
+      "samples": [
+        "standing near a metal pole, right hand gripping the pole, left arm resting along her side, head tilted slightly to her right"
+      ],
+      "tags": [
+        "silver",
+        "metal",
+        "casual",
+        "relaxed",
+        "tilted head"
+      ]
+    },
+    "head_tilted_upward_chest_up": {
+      "canonical_name": "head tilted upward chest up",
+      "canonical_name_zh": "抬头挺胸",
+      "canonical_phrase": "head tilted upward, chest up",
+      "samples": [
+        "head tilted upward, chest up"
+      ],
+      "tags": [
+        "blue",
+        "leather",
+        "jacket",
+        "confident",
+        "chin_up"
+      ]
+    },
+    "standing_pose_with_one_leg_bent": {
+      "canonical_name": "standing pose with one leg bent",
+      "canonical_name_zh": "单腿弯曲站立姿势",
+      "canonical_phrase": "standing with one leg bent at the knee and the other extended",
+      "samples": [
+        "standing with arms outstretched (one hand raised high, one extended downward), one leg lifted and bent at the knee",
+        "standing, right leg slightly bent at the knee, left leg extending forward",
+        "standing with right leg bent and foot resting near knee, left leg extended slightly forward, hands lifting the edge of the skirt",
+        "standing on log, right leg bent at knee with foot resting on log, left leg extended, hands near face with fingers touching cheek",
+        "standing with back arched slightly forward, head bowed down, one leg bent at the knee, the other extended",
+        "leg and foot extending upward from lower left, foot curled slightly at toes, ankle joint angled",
+        "standing with one leg bent at the knee resting on a metal chair, the other extended forward, hands raised above head gripping a wooden beam",
+        "standing with one leg lifted and bent at the knee, gazing over shoulder"
+      ],
+      "tags": [
+        "standing",
+        "bent_knee",
+        "extended_leg",
+        "dynamic_pose",
+        "asymmetrical_stance"
+      ]
+    },
+    "standing_back_turned_hands_waistband": {
+      "canonical_name": "standing back turned hands waistband",
+      "canonical_name_zh": "背对镜头手调腰边",
+      "canonical_phrase": "standing with back turned to camera, hands adjusting waistband",
+      "samples": [
+        "standing with back turned to camera, hands adjusting waistband"
+      ],
+      "tags": [
+        "denim",
+        "jeans",
+        "casual",
+        "minimalist",
+        "waistband"
+      ]
+    },
+    "standing_close_together_hand_on_head": {
+      "canonical_name": "standing close together hand on head",
+      "canonical_name_zh": "并肩站立手抚头",
+      "canonical_phrase": "standing close together, one woman's right hand gently resting on the other's head, arms at sides, legs standing close together, torso slightly angled, body angled slightly forward",
+      "samples": [
+        "standing close together, one woman's right hand gently resting on the other's head, arms at sides, legs standing close together, torso slightly angled, body angled slightly forward"
+      ],
+      "tags": [
+        "skin",
+        "cotton",
+        "casual",
+        "intimate",
+        "hand_on_head"
+      ]
+    },
+    "relaxed_lying_poses_with_hand_gestures": {
+      "canonical_name": "relaxed lying poses with hand gestures",
+      "canonical_name_zh": "放松躺姿配手部动作",
+      "canonical_phrase": "person lying supine or prone with arms relaxed and hands near head or abdomen",
+      "samples": [
+        "lying supine, one arm bent with hand resting near temple, torso angled slightly toward viewer",
+        "lying supine, arms relaxed at sides with one hand near hip and other resting beside, legs extended",
+        "lying supine, head resting on left arm, right hand near chin",
+        "lying on stomach, head turned to look over shoulder, body arched slightly at waist, arms resting beside body, legs extended",
+        "lying on stomach, arms raised holding sheet up to head",
+        "lying on side, upper body arched slightly upward, arms raised overhead with hands clasped near headboard",
+        "lying diagonally, head resting on left arm, right hand gently touching forehead",
+        "lying on side propped up by a white pillow, hands clasped gently over abdomen",
+        "lying on side, head resting on hand, torso angled slightly upward, arm bent with hand near temple",
+        "lying supine, head tilted slightly upward, one hand resting gently on abdomen, arms relaxed at sides",
+        "lying prone, head resting on right forearm, left hand near temple, arms extended, relaxed posture"
+      ],
+      "tags": [
+        "white",
+        "pillow",
+        "sheet",
+        "casual",
+        "forearm"
+      ]
+    },
+    "standing_beside_wooden_pillar_holding_broomstick_leash": {
+      "canonical_name": "standing beside wooden pillar holding broomstick leash",
+      "canonical_name_zh": "倚木柱持扫帚牵绳",
+      "canonical_phrase": "standing beside wooden pillar, left hand resting on pillar, right hand holding broomstick and leash",
+      "samples": [
+        "standing beside wooden pillar, left hand resting on pillar, right hand holding broomstick and leash"
+      ],
+      "tags": [
+        "wood",
+        "broomstick",
+        "leash",
+        "casual",
+        "rustic"
+      ]
+    },
+    "standing_on_metal_pole": {
+      "canonical_name": "standing on metal pole",
+      "canonical_name_zh": "金属杆上站立",
+      "canonical_phrase": "standing on a metal pole, head tilted back, hands gripping the pole, legs bare and extended downward",
+      "samples": [
+        "standing on a metal pole, head tilted back, hands gripping the pole, legs bare and extended downward"
+      ],
+      "tags": [
+        "silver",
+        "metal",
+        "bare legs",
+        "dynamic",
+        "gripping"
+      ]
+    },
+    "standing_with_legs_slightly_bent": {
+      "canonical_name": "standing with legs slightly bent",
+      "canonical_name_zh": "双腿微曲站立",
+      "canonical_phrase": "standing with legs slightly bent, left hand on door frame, right hand resting on hip",
+      "samples": [
+        "standing with legs slightly bent, left hand on door frame, right hand resting on hip"
+      ],
+      "tags": [
+        "casual",
+        "denim",
+        "relaxed",
+        "doorframe",
+        "hand-on-hip"
+      ]
+    },
+    "standing_pose_with_hands_clasped": {
+      "canonical_name": "standing pose with hands clasped",
+      "canonical_name_zh": "双手交握站立姿势",
+      "canonical_phrase": "standing upright with hands clasped together near chest or waist",
+      "samples": [
+        "standing behind dog, hands gently holding dog's chest",
+        "standing, hands gently gripping hat, arms at waist level",
+        "standing, hands clasped together near chest level",
+        "standing with both hands gripping the jacket's front edges, torso slightly turned, arms slightly bent",
+        "standing with legs straight, hands clasped at waist",
+        "standing, hands clasped in front holding clutch",
+        "leaning against rock, hands clasped together in front of waist",
+        "standing upright, holding bag with both hands clasped",
+        "standing, holding a dog",
+        "standing, hands clasped together near waist",
+        "standing upright with hands clasped in front",
+        "standing upright with slight forward lean, torso facing forward, legs apart, hands gripping bikini top strings",
+        "standing, hands clasped together at waist level",
+        "standing side by side, hands clasped together near waist",
+        "standing, hands clasped gently over chest",
+        "standing with hands clasped behind back",
+        "standing, hands gripping the jacket near the zipper",
+        "standing, hands gently adjusting the straps near her collarbone",
+        "standing with slight lean forward, hands gripping fabric above waist, legs slightly apart",
+        "standing, hands gripping overalls straps near waist",
+        "standing, arms crossed at waist with hands partially tucked into sweater hem",
+        "standing, hands clasped near chest, leaning slightly against a wooden post",
+        "standing, hands gripping jacket at sides",
+        "standing upright with slight forward lean, hands clasped together holding a black briefcase",
+        "standing, hand gently curled near chest",
+        "standing, arms holding shirt draped over them",
+        "standing, hands actively tying shoelaces",
+        "standing, hands clasped gently in front of waist, head tilted downward",
+        "standing, hands clasped together in front of her",
+        "hands clasped gently in foreground",
+        "standing upright with slight forward lean, hands clasped loosely in front"
+      ],
+      "tags": [
+        "standing",
+        "clasped_hands",
+        "formal",
+        "casual",
+        "waist_level"
+      ]
+    },
+    "standing_upright_relaxed_arms": {
+      "canonical_name": "standing upright relaxed arms",
+      "canonical_name_zh": "直立放松双臂",
+      "canonical_phrase": "standing upright with torso straight and arms hanging relaxed at sides",
+      "samples": [
+        "standing upright on a concrete block, arms hanging naturally at sides, hands relaxed, torso straight",
+        "standing upright, arms hanging by sides, hands relaxed, torso straight",
+        "torso upright, legs positioned as if mid-stride, left hand relaxed at side, holding jacket in right hand",
+        "upright torso, arms hanging loosely at sides, hands relaxed with fingers slightly curled",
+        "standing upright, arms hanging relaxed at sides, hands slightly curled, torso straight, shoulders relaxed, legs straight and unobstructed",
+        "standing upright with torso upright, arms relaxed at sides, hands clasped loosely in front",
+        "standing, leaning against a slanted wooden wall, torso angled forward, arms hanging loosely at sides with relaxed hands, legs visible",
+        "standing upright with torso straight, head tilted slightly forward, arms hanging relaxed at sides, legs straight and together",
+        "torso upright, shoulders relaxed, hands clasped around the grip",
+        "torso upright, arms relaxed at sides with hands open, legs straight with one foot slightly forward",
+        "standing with arms hanging loosely by sides, hands relaxed, legs straight",
+        "standing upright, arms hanging relaxed at sides, torso straight, legs straight and close together",
+        "torso upright, arms relaxed with one hand near shoulder, legs straight and close together",
+        "standing upright with torso straight, slight curve at waist, arms hanging loosely at sides, hands relaxed with fingers slightly curled, legs straight",
+        "standing upright, right hand gripping a thick rope, left arm relaxed at side, torso upright, legs straight and together"
+      ],
+      "tags": [
+        "concrete",
+        "jacket",
+        "rope",
+        "wooden",
+        "casual"
+      ]
+    },
+    "crouching_arms_raised_gripping_rim": {
+      "canonical_name": "crouching arms raised gripping rim",
+      "canonical_name_zh": "蹲姿举臂抓边缘",
+      "canonical_phrase": "crouching, arms raised with one hand gripping the rim of the container and the other resting near her knee",
+      "samples": [
+        "crouching, arms raised with one hand gripping the rim of the container and the other resting near her knee"
+      ],
+      "tags": [
+        "blue",
+        "denim",
+        "dress",
+        "dynamic",
+        "rim"
+      ]
+    },
+    "seated_upright_combing_hair": {
+      "canonical_name": "seated upright combing hair",
+      "canonical_name_zh": "坐姿梳头",
+      "canonical_phrase": "seated upright, hands resting near lap, one hand holding comb near temple, other hand wielding scissors near hairline",
+      "samples": [
+        "seated upright, hands resting near lap, one hand holding comb near temple, other hand wielding scissors near hairline"
+      ],
+      "tags": [
+        "hair",
+        "scissors",
+        "comb",
+        "casual",
+        "grooming"
+      ]
+    },
+    "seated_hands_compressing_colored_gels": {
+      "canonical_name": "seated hands compressing colored gels",
+      "canonical_name_zh": "坐姿双手挤压彩色凝胶",
+      "canonical_phrase": "seated, arms bent with palms open, one hand compressing yellow gel, another cupping dark purple gel",
+      "samples": [
+        "seated, arms bent with palms open, one hand compressing yellow gel, another cupping dark purple gel"
+      ],
+      "tags": [
+        "yellow",
+        "purple",
+        "gel",
+        "seated",
+        "cupping"
+      ]
+    },
+    "hands_cupped_beneath_faucet": {
+      "canonical_name": "hands cupped beneath faucet",
+      "canonical_name_zh": "手托水龙头下方",
+      "canonical_phrase": "hands slightly cupped beneath faucet, forearm resting horizontally",
+      "samples": [
+        "hands slightly cupped beneath faucet, forearm resting horizontally"
+      ],
+      "tags": [
+        "water",
+        "metal",
+        "faucet",
+        "minimalist",
+        "cupped"
+      ]
+    },
+    "torso_angled_with_hands_on_hips_or_bag": {
+      "canonical_name": "torso angled with hands on hips or bag",
+      "canonical_name_zh": "躯干倾斜手放髋部或包",
+      "canonical_phrase": "torso angled toward viewer with hands resting on hips or holding bag handle",
+      "samples": [
+        "hands placed on hips, torso angled toward viewer, leaning against wall",
+        "sitting, holding beads in both hands extending toward the camera",
+        "torso angled slightly away but head turned to gaze directly at viewer, hands resting on bag handle",
+        "arms raised with hands resting near shoulders, torso angled toward the viewer"
+      ],
+      "tags": [
+        "hip",
+        "bag",
+        "leaning",
+        "beads",
+        "casual"
+      ]
+    },
+    "standing_upright_holding_bag": {
+      "canonical_name": "standing upright holding bag",
+      "canonical_name_zh": "站立手提包",
+      "canonical_phrase": "standing upright, left hand holding bag, right hand gripping bag handle",
+      "samples": [
+        "standing upright, left hand holding bag, right hand gripping bag handle"
+      ],
+      "tags": [
+        "leather",
+        "tote",
+        "casual",
+        "urban",
+        "grip"
+      ]
+    },
+    "right_hand_gently_resting_against_cheek": {
+      "canonical_name": "right hand gently resting against cheek",
+      "canonical_name_zh": "右手轻托脸颊",
+      "canonical_phrase": "right hand gently resting against cheek",
+      "samples": [
+        "right hand gently resting against cheek"
+      ],
+      "tags": [
+        "skin",
+        "cotton",
+        "casual",
+        "soft",
+        "fingertips"
+      ]
+    },
+    "standing_pose_with_varied_arm_positions": {
+      "canonical_name": "standing pose with varied arm positions",
+      "canonical_name_zh": "站立姿势手臂多变",
+      "canonical_phrase": "standing pose with arms bent or raised in various positions",
+      "samples": [
+        "standing, arms bent with hands clasped together, leaning slightly forward",
+        "standing, arms bent at elbows, hands cradling bag at chest level",
+        "standing, right arm raised with hand near top of head, left arm bent with hand near hip, legs straight",
+        "standing with arms bent at shoulder height, legs straight with weight evenly distributed",
+        "standing with knees bent, right arm extended upward in serve motion, left arm slightly back for balance",
+        "standing with arms raised behind head, legs bent in playful pose, one foot lifted"
+      ],
+      "tags": [
+        "standing",
+        "arms",
+        "bent",
+        "casual",
+        "dynamic"
+      ]
+    },
+    "dynamic_pose_on_red_metal_ladder": {
+      "canonical_name": "dynamic pose on red metal ladder",
+      "canonical_name_zh": "红梯动态姿势",
+      "canonical_phrase": "person striking dynamic pose on red metal ladder with varied limb positions",
+      "samples": [
+        "standing on a red metal ladder with one leg lifted high and foot pointed, arms bent behind back, torso leaning back, head tilted up",
+        "body suspended horizontally mid-air, arms gripping a rusted metal ladder rung, legs bent at knees",
+        "arms extended upward gripping a rusted metal ladder, torso angled diagonally, legs extended straight behind",
+        "standing on a red metal ladder, one hand resting on her hip, the other hanging by her side, legs bent at the knees"
+      ],
+      "tags": [
+        "red",
+        "metal",
+        "ladder",
+        "dynamic",
+        "acrobatic"
+      ]
+    },
+    "seated_figure_with_bent_knees_and_bare_feet": {
+      "canonical_name": "seated figure with bent knees and bare feet",
+      "canonical_name_zh": "屈膝赤脚坐姿",
+      "canonical_phrase": "seated with legs bent at knees, bare feet, leaning forward or upright",
+      "samples": [
+        "seated barefoot on car trunk, legs bent at knees, body leaning forward, torso slightly angled, right hand resting on chrome bumper, left hand gripping edge of skirt",
+        "leaning out of vehicle, one hand gripping door frame, torso angled forward, legs bent at knees, barefoot",
+        "seated on edge of black bench, legs bent at knee, feet bare, left arm raised above head gripping window frame, hand covering mouth",
+        "sitting with legs bent and one knee raised, torso leaning forward slightly, right hand holding shirt fabric near chest, left arm resting out of frame",
+        "seated on tractor, torso upright, legs bent at knees, hands gripping steering wheel",
+        "sitting on toilet, legs bent at knees, arms raised above head running through hair, torso slightly leaning forward"
+      ],
+      "tags": [
+        "barefoot",
+        "bent_knees",
+        "casual",
+        "relaxed",
+        "seated"
+      ]
+    },
+    "crouched_on_steps_leaning_forward": {
+      "canonical_name": "crouched on steps leaning forward",
+      "canonical_name_zh": "台阶上前倾蹲姿",
+      "canonical_phrase": "crouched on steps, one hand resting on the step, the other near her ankle, torso leaning forward",
+      "samples": [
+        "crouched on steps, one hand resting on the step, the other near her ankle, torso leaning forward"
+      ],
+      "tags": [
+        "blue",
+        "denim",
+        "hoodie",
+        "casual",
+        "ankle"
+      ]
+    },
+    "standing_holding_birch_bark_sign": {
+      "canonical_name": "standing holding birch bark sign",
+      "canonical_name_zh": "站立手持桦树皮牌",
+      "canonical_phrase": "standing upright, holding a large birch bark sign with both hands",
+      "samples": [
+        "standing upright, holding a large birch bark sign with both hands"
+      ],
+      "tags": [
+        "birch",
+        "wood",
+        "sign",
+        "rustic",
+        "upright"
+      ]
+    },
+    "woman_eating_with_fork_on_blue_towel": {
+      "canonical_name": "woman eating with fork on blue towel",
+      "canonical_name_zh": "女子用叉进食蓝巾旁",
+      "canonical_phrase": "right hand raised to mouth holding fork, left hand resting on blue towel beside her",
+      "samples": [
+        "right hand raised to mouth holding fork, left hand resting on blue towel beside her"
+      ],
+      "tags": [
+        "blue",
+        "towel",
+        "fork",
+        "eating",
+        "casual"
+      ]
+    },
+    "standing_relaxed_head_tilted_up": {
+      "canonical_name": "standing relaxed head tilted up",
+      "canonical_name_zh": "站立放松头部微仰",
+      "canonical_phrase": "standing relaxed with head tilted upward and arms at sides",
+      "samples": [
+        "standing sideways, arms relaxed at sides, head tilted slightly upward",
+        "standing with head tilted back, arms relaxed at sides, body angled slightly forward",
+        "standing with head tilted back, arms relaxed at sides, torso angled slightly away",
+        "head tilted upward, right arm extended holding flowers aloft, left arm relaxed by side"
+      ],
+      "tags": [
+        "casual",
+        "upright",
+        "soft",
+        "natural",
+        "flowers"
+      ]
+    },
+    "rear_view_bending_forward_denim_shorts": {
+      "canonical_name": "rear view bending forward denim shorts",
+      "canonical_name_zh": "后视弯腰牛仔短裤",
+      "canonical_phrase": "viewed from behind, bending forward with arms extended, one hand gripping waistband of denim shorts, other arm reaching out",
+      "samples": [
+        "viewed from behind, bending forward with arms extended, one hand gripping waistband of denim shorts, other arm reaching out"
+      ],
+      "tags": [
+        "denim",
+        "shorts",
+        "rear",
+        "bending",
+        "grip"
+      ]
+    },
+    "kneeling_on_blue_towel_hands_on_white_tablecloth": {
+      "canonical_name": "kneeling on blue towel hands on white tablecloth",
+      "canonical_name_zh": "蓝毛巾跪姿白桌布",
+      "canonical_phrase": "kneeling on a blue towel, hands resting on a white tablecloth-covered surface",
+      "samples": [
+        "kneeling on a blue towel, hands resting on a white tablecloth-covered surface"
+      ],
+      "tags": [
+        "blue",
+        "towel",
+        "tablecloth",
+        "casual",
+        "resting"
+      ]
+    },
+    "torso_angled_peeking_wooden_post": {
+      "canonical_name": "torso angled peeking wooden post",
+      "canonical_name_zh": "侧身探出木柱",
+      "canonical_phrase": "torso angled slightly, right hand gripping a weathered wooden post, peeking from behind it",
+      "samples": [
+        "torso angled slightly, right hand gripping a weathered wooden post, peeking from behind it"
+      ],
+      "tags": [
+        "wood",
+        "weathered",
+        "peeking",
+        "casual",
+        "grip"
+      ]
+    },
+    "torso_leaning_forward_with_arms_extended": {
+      "canonical_name": "torso leaning forward with arms extended",
+      "canonical_name_zh": "前倾躯干双臂伸展",
+      "canonical_phrase": "torso leaning forward dynamically, arms extended outward, legs in motion",
+      "samples": [
+        "leaning forward on one hand, torso angled diagonally, right arm extended gripping object, legs extended back, feet bare",
+        "reclining on rocky outcrop, body angled diagonally, arms resting beside torso with one hand near hip, legs extended with feet pointed outward",
+        "body leaning forward dynamically, arms extended outward with open palms, legs in mid-stride with one foot lifted off the gravel path",
+        "torso leaning forward, arms extended, hands resting flat on surface",
+        "torso leaning forward, shoulders slightly tensed, arms extended outward with hands slightly open, mid-stride"
+      ],
+      "tags": [
+        "dynamic",
+        "leaning",
+        "extended_arms",
+        "mid_stride",
+        "forward_tilt"
+      ]
+    },
+    "side_profile_view_pose": {
+      "canonical_name": "side profile view pose",
+      "canonical_name_zh": "侧面视角姿势",
+      "canonical_phrase": "standing or seated in side profile view",
+      "samples": [
+        "standing beside a stove, profile view",
+        "side profile view, hand gently pressed against window",
+        "seated, profile view",
+        "side profile view"
+      ],
+      "tags": [
+        "profile",
+        "side",
+        "silhouette",
+        "contour",
+        "view"
+      ]
+    },
+    "hand_resting_near_waist_leg_bent_upward": {
+      "canonical_name": "hand resting near waist leg bent upward",
+      "canonical_name_zh": "手靠腰侧腿向上弯",
+      "canonical_phrase": "hand resting gently near waist, leg bent and angled upward",
+      "samples": [
+        "hand resting gently near waist, leg bent and angled upward"
+      ],
+      "tags": [
+        "silver",
+        "silk",
+        "dress",
+        "elegant",
+        "waist"
+      ]
+    },
+    "lying_diagonally_on_sofa": {
+      "canonical_name": "lying diagonally on sofa",
+      "canonical_name_zh": "斜躺沙发",
+      "canonical_phrase": "lying diagonally across sofa, head resting on left hand with fingers near temple, right hand resting gently on abdomen, legs extended along sofa",
+      "samples": [
+        "lying diagonally across sofa, head resting on left hand with fingers near temple, right hand resting gently on abdomen, legs extended along sofa"
+      ],
+      "tags": [
+        "sofa",
+        "relaxed",
+        "casual",
+        "diagonal",
+        "hand_on_head"
+      ]
+    },
+    "standing_gripping_ladder_with_hand_near_neck": {
+      "canonical_name": "standing gripping ladder with hand near neck",
+      "canonical_name_zh": "站立抓梯手近颈",
+      "canonical_phrase": "standing, right arm extended upward gripping a metal ladder, left hand resting near neck",
+      "samples": [
+        "standing, right arm extended upward gripping a metal ladder, left hand resting near neck"
+      ],
+      "tags": [
+        "metal",
+        "ladder",
+        "casual",
+        "urban",
+        "grip"
+      ]
+    },
+    "standing_pose_with_slight_torso_lean": {
+      "canonical_name": "standing pose with slight torso lean",
+      "canonical_name_zh": "微倾身站立姿势",
+      "canonical_phrase": "standing with slight torso lean and arms resting naturally at sides",
+      "samples": [
+        "standing with arms resting at sides, torso angled slightly toward viewer",
+        "standing with body angled toward viewer, one hand resting near hip, other slightly bent at side",
+        "standing leaning against white bookshelves, left hand holding a magazine, right arm relaxed by side, torso angled slightly toward viewer",
+        "standing upright with slight torso lean, right hand resting on white tabletop, left arm hanging naturally at side",
+        "standing with torso angled slightly to side, left arm resting along side"
+      ],
+      "tags": [
+        "standing",
+        "casual",
+        "relaxed",
+        "natural",
+        "lean"
+      ]
+    },
+    "leaning_close_together_with_shoulder_hand": {
+      "canonical_name": "leaning close together with shoulder hand",
+      "canonical_name_zh": "依偎肩手",
+      "canonical_phrase": "leaning close together with one hand resting on the other's shoulder",
+      "samples": [
+        "leaning close together with one hand resting on the other's shoulder"
+      ],
+      "tags": [
+        "intimate",
+        "casual",
+        "denim",
+        "soft",
+        "hand_rest"
+      ]
+    },
+    "torso_angled_forward_arms_raised_pulling_jacket_open": {
+      "canonical_name": "torso angled forward arms raised pulling jacket open",
+      "canonical_name_zh": "前倾躯干抬手拉开夹克",
+      "canonical_phrase": "standing with torso angled forward, legs slightly apart, arms raised to shoulder height pulling jacket open",
+      "samples": [
+        "standing with torso angled forward, legs slightly apart, arms raised to shoulder height pulling jacket open"
+      ],
+      "tags": [
+        "denim",
+        "leather",
+        "jacket",
+        "dynamic",
+        "pulling"
+      ]
+    },
+    "sitting_crosslegged_angled_profile": {
+      "canonical_name": "sitting cross-legged angled profile",
+      "canonical_name_zh": "盘腿坐姿侧身",
+      "canonical_phrase": "sitting cross-legged, body angled slightly away from viewer, head turned in profile toward left, hands gently cradling hat",
+      "samples": [
+        "sitting cross-legged, body angled slightly away from viewer, head turned in profile toward left, hands gently cradling hat"
+      ],
+      "tags": [
+        "hat",
+        "cradling",
+        "casual",
+        "relaxed",
+        "profile"
+      ]
+    },
+    "sitting_crosslegged_relaxed_pose": {
+      "canonical_name": "sitting cross-legged relaxed pose",
+      "canonical_name_zh": "盘腿坐姿放松",
+      "canonical_phrase": "sitting cross-legged with relaxed posture and varied arm positions",
+      "samples": [
+        "sitting cross-legged, right arm raised gripping hair, left hand resting near thigh, torso slightly leaning forward",
+        "sitting cross-legged, right hand resting on thigh, left arm bent with hand near hip",
+        "sitting cross-legged, hands resting on thighs, torso slightly leaning forward",
+        "sitting cross-legged, head tilted back, mouth open laughing"
+      ],
+      "tags": [
+        "cross-legged",
+        "sitting",
+        "casual",
+        "relaxed",
+        "thighs"
+      ]
+    },
+    "standing_hands_on_hips_legs_bent": {
+      "canonical_name": "standing hands on hips legs bent",
+      "canonical_name_zh": "双手叉腰屈膝站立",
+      "canonical_phrase": "standing with hands on hips, fingers slightly curled, legs slightly apart and bent at the knees",
+      "samples": [
+        "standing with hands on hips, fingers slightly curled, legs slightly apart and bent at the knees"
+      ],
+      "tags": [
+        "casual",
+        "denim",
+        "confident",
+        "relaxed",
+        "curled_fingers"
+      ]
+    },
+    "seated_on_bench_legs_parted": {
+      "canonical_name": "seated on bench legs parted",
+      "canonical_name_zh": "坐长凳分腿",
+      "canonical_phrase": "seated on a bench, legs parted, one hand resting on the bench beside her, the other near her thigh",
+      "samples": [
+        "seated on a bench, legs parted, one hand resting on the bench beside her, the other near her thigh"
+      ],
+      "tags": [
+        "wood",
+        "denim",
+        "casual",
+        "relaxed",
+        "hand_rest"
+      ]
+    },
+    "standing_angled_gripping_metal_rails": {
+      "canonical_name": "standing angled gripping metal rails",
+      "canonical_name_zh": "侧身站立抓握金属栏杆",
+      "canonical_phrase": "standing with body angled slightly to right, arms extended outward gripping horizontal metal rails, head tilted downward",
+      "samples": [
+        "standing with body angled slightly to right, arms extended outward gripping horizontal metal rails, head tilted downward"
+      ],
+      "tags": [
+        "silver",
+        "metal",
+        "casual",
+        "urban",
+        "tilted_head"
+      ]
+    },
+    "low_crouching_pose_with_hands_near_ground": {
+      "canonical_name": "low crouching pose with hands near ground",
+      "canonical_name_zh": "低蹲双手近地",
+      "canonical_phrase": "crouching low to the ground with hands near knees or planted forward",
+      "samples": [
+        "crouching low, holding a single pink lily bud with both hands near knees",
+        "crouching low on forest floor, hands holding a bamboo shoot close to mouth",
+        "crouching low to the ground, holding a plastic watering can with both hands",
+        "crouching low on ground, hands clasped around skirt",
+        "crouching with one knee bent and the other leg extended, arms reaching forward over head",
+        "crouching low to the ground",
+        "crouched near water",
+        "crouching with hands planted forward, torso angled, hips turned",
+        "crouching on a paved surface, arms curved inward holding a flower, knees bent",
+        "crouching low to ground with knees bent, arms wrapped around bent knees, feet planted firmly"
+      ],
+      "tags": [
+        "crouch",
+        "low",
+        "hands",
+        "ground",
+        "bent_knees"
+      ]
+    },
+    "seated_crosslegged_relaxed_pose": {
+      "canonical_name": "seated cross-legged relaxed pose",
+      "canonical_name_zh": "盘腿坐姿放松",
+      "canonical_phrase": "sitting cross-legged with arms resting on knees or legs",
+      "samples": [
+        "legs crossed at the knee resting on bed, one hand holding garment edge, relaxed pose with weight distributed evenly",
+        "sitting cross-legged, arms resting gently on knees",
+        "sitting cross-legged, arms resting on knees, hands gently touching sneakers",
+        "seated with knees drawn up, arms wrapped around legs, fingers gently touching lower lip"
+      ],
+      "tags": [
+        "cross-legged",
+        "seated",
+        "relaxed",
+        "casual",
+        "knees"
+      ]
+    },
+    "seated_hands_cradling_cat": {
+      "canonical_name": "seated hands cradling cat",
+      "canonical_name_zh": "坐姿抱猫",
+      "canonical_phrase": "seated, hands gently cradling a cat",
+      "samples": [
+        "seated, hands gently cradling a cat"
+      ],
+      "tags": [
+        "warm",
+        "soft",
+        "knit sweater",
+        "cozy",
+        "fluffy fur"
+      ]
+    },
+    "standing_angled_relaxed_pose": {
+      "canonical_name": "standing angled relaxed pose",
+      "canonical_name_zh": "侧身站立放松姿态",
+      "canonical_phrase": "standing with body angled slightly away, one hand resting by thigh, other hanging relaxed, legs straight and together",
+      "samples": [
+        "standing with body angled slightly away, one hand resting by thigh, other hanging relaxed, legs straight and together"
+      ],
+      "tags": [
+        "casual",
+        "denim",
+        "minimalist",
+        "natural",
+        "asymmetrical"
+      ]
+    },
+    "standing_angled_arms_raised_palms_open": {
+      "canonical_name": "standing angled arms raised palms open",
+      "canonical_name_zh": "侧身站立双臂上举掌心向外",
+      "canonical_phrase": "standing with body angled slightly away, arms gracefully raised with palms open, head tilted back",
+      "samples": [
+        "standing with body angled slightly away, arms gracefully raised with palms open, head tilted back"
+      ],
+      "tags": [
+        "silhouette",
+        "silk",
+        "flowing",
+        "ethereal",
+        "open_palm"
+      ]
+    },
+    "seated_figure_on_upholstered_furniture": {
+      "canonical_name": "seated figure on upholstered furniture",
+      "canonical_name_zh": "坐于软垫家具上",
+      "canonical_phrase": "seated on upholstered furniture with relaxed arm and leg positioning",
+      "samples": [
+        "seated on white wicker furniture, left hand resting on furniture edge, right hand resting on thigh, legs extended slightly apart",
+        "sitting on a dark leather couch with left arm resting on the backrest, fingers curled slightly",
+        "seated on a green upholstered couch with bent knees and legs crossed, arms wrapped around her own shoulders",
+        "sitting on sofa, torso leaning back, legs bent at knees with left leg extended and right leg tucked, right hand gripping strap, left hand resting near hip",
+        "seated on a textured gray couch, left hand resting on thigh, right arm bent with hand near hip"
+      ],
+      "tags": [
+        "couch",
+        "leather",
+        "casual",
+        "relaxed",
+        "crossed_legs"
+      ]
+    },
+    "standing_right_arm_textured_wall": {
+      "canonical_name": "standing right arm textured wall",
+      "canonical_name_zh": "靠墙站立右臂",
+      "canonical_phrase": "standing, right arm resting along textured wall, left hand near dark railing",
+      "samples": [
+        "standing, right arm resting along textured wall, left hand near dark railing"
+      ],
+      "tags": [
+        "brick",
+        "concrete",
+        "casual",
+        "urban",
+        "railing"
+      ]
+    },
+    "standing_leaning_against_textured_beige_wall": {
+      "canonical_name": "standing leaning against textured beige wall",
+      "canonical_name_zh": "倚靠米色纹理墙站立",
+      "canonical_phrase": "standing leaning against a textured beige wall, one hand resting on the wall, the other hanging by her side, legs slightly apart, torso upright",
+      "samples": [
+        "standing leaning against a textured beige wall, one hand resting on the wall, the other hanging by her side, legs slightly apart, torso upright"
+      ],
+      "tags": [
+        "beige",
+        "textured",
+        "casual",
+        "upright",
+        "one-hand-rest"
+      ]
+    },
+    "sitting_crosslegged_upright_torso": {
+      "canonical_name": "sitting cross-legged upright torso",
+      "canonical_name_zh": "盘腿坐姿躯干直立",
+      "canonical_phrase": "sitting cross-legged, torso upright, arms resting by sides, legs slightly parted",
+      "samples": [
+        "sitting cross-legged, torso upright, arms resting by sides, legs slightly parted"
+      ],
+      "tags": [
+        "denim",
+        "cotton",
+        "casual",
+        "relaxed",
+        "cross-legged"
+      ]
+    },
+    "standing_pose_with_hands_on_hips": {
+      "canonical_name": "standing pose with hands on hips",
+      "canonical_name_zh": "双手叉腰站姿",
+      "canonical_phrase": "standing upright with hands resting on hips and legs slightly apart",
+      "samples": [
+        "standing with one hand on hip, other hanging by side, legs slightly apart",
+        "standing with hands resting on hips, legs slightly apart, torso upright",
+        "thighs close together, one hip slightly raised",
+        "standing upright, left hand resting against right rock, legs straight",
+        "standing in a leaning pose with one hand by side, other hand near hip, right leg bent, left leg forward",
+        "standing with hands resting on hips, torso angled slightly to the side, head tilted slightly downward",
+        "standing, hands resting on hips, legs slightly apart",
+        "standing with legs slightly apart, one hand slightly extended outward, the other near hip, looking back over shoulder",
+        "standing with one hand near hip, torso angled forward",
+        "standing with arms resting at sides, one hand near hip, legs straight, feet flat on ground",
+        "standing upright, hands resting on hips, legs straight",
+        "standing with legs apart and hands on hips",
+        "standing upright, right hand resting on hip, left hand holding a long bamboo pole, legs straight, feet flat on stone steps",
+        "standing with one hand on hip, torso angled slightly, legs apart",
+        "standing with legs slightly apart, torso angled, hands resting near thighs"
+      ],
+      "tags": [
+        "standing",
+        "hands-on-hips",
+        "casual",
+        "upright",
+        "legs-apart"
+      ]
+    },
+    "seated_figure_with_arms_resting": {
+      "canonical_name": "seated figure with arms resting",
+      "canonical_name_zh": "坐姿手臂放松",
+      "canonical_phrase": "seated figure with arms resting on surface or at sides",
+      "samples": [
+        "seated with hands resting on the counter",
+        "seated with torso upright, arms resting at sides",
+        "seated",
+        "seated at a table, holding chopsticks near face",
+        "sitting on a marble bathroom counter with head resting down, eyes closed, lips slightly parted, one hand resting on the edge, the other arm draped along her thigh",
+        "sitting perched on counter, left hand resting on surface, right hand raised to mouth, legs dangling"
+      ],
+      "tags": [
+        "seated",
+        "counter",
+        "relaxed",
+        "casual",
+        "dangling"
+      ]
+    },
+    "sitting_crosslegged_with_hand_near_chin": {
+      "canonical_name": "sitting cross-legged with hand near chin",
+      "canonical_name_zh": "盘腿坐姿手托下巴",
+      "canonical_phrase": "sitting cross-legged, right hand resting near chin, left arm bent across midsection",
+      "samples": [
+        "sitting cross-legged, right hand resting near chin, left arm bent across midsection"
+      ],
+      "tags": [
+        "blue",
+        "denim",
+        "casual",
+        "contemplative",
+        "chin_rest"
+      ]
+    },
+    "standing_arms_down_torso_twisted_head_over_shoulder": {
+      "canonical_name": "standing arms down torso twisted head over shoulder",
+      "canonical_name_zh": "站立垂臂扭身回眸",
+      "canonical_phrase": "standing with arms down by sides, torso slightly twisted, head turned to look over shoulder",
+      "samples": [
+        "standing with arms down by sides, torso slightly twisted, head turned to look over shoulder"
+      ],
+      "tags": [
+        "blue",
+        "denim",
+        "jacket",
+        "casual",
+        "glance"
+      ]
+    },
+    "standing_on_wooden_steps_holding_gray_hoodie": {
+      "canonical_name": "standing on wooden steps holding gray hoodie",
+      "canonical_name_zh": "木阶站立持灰卫衣",
+      "canonical_phrase": "standing on wooden steps, arms raised overhead holding a gray hoodie by the sleeves",
+      "samples": [
+        "standing on wooden steps, arms raised overhead holding a gray hoodie by the sleeves"
+      ],
+      "tags": [
+        "wood",
+        "gray",
+        "hoodie",
+        "casual",
+        "sleeves"
+      ]
+    },
+    "sitting_on_rock_with_extended_legs": {
+      "canonical_name": "sitting on rock with extended legs",
+      "canonical_name_zh": "坐岩石伸腿",
+      "canonical_phrase": "sitting on rock, legs extended forward, left arm resting along rock, head tilted slightly upward",
+      "samples": [
+        "sitting on rock, legs extended forward, left arm resting along rock, head tilted slightly upward"
+      ],
+      "tags": [
+        "stone",
+        "denim",
+        "casual",
+        "relaxed",
+        "tilted head"
+      ]
+    },
+    "sitting_on_stool_with_varied_posture": {
+      "canonical_name": "sitting on stool with varied posture",
+      "canonical_name_zh": "坐于凳上姿态各异",
+      "canonical_phrase": "person sitting on stool, torso leaning forward or back, arms resting on thighs or table, legs bent or crossed",
+      "samples": [
+        "seated on a wooden stool with one leg bent and the other extended, arms resting on thighs, torso leaning back, head tilted back",
+        "sitting on a metal stool, body angled slightly to the right, torso leaning forward, arms hanging down with hands clasped together resting on thighs, legs bent at knees, feet flat on the ground",
+        "sitting on a bamboo stool, arms raised slightly, legs crossed at ankles, feet bare",
+        "sitting on ottoman, torso leaning forward, head tilted downward, right hand touching hair, left arm resting on table, legs bent at knee with one leg crossed over the other, right leg extended"
+      ],
+      "tags": [
+        "stool",
+        "wooden",
+        "casual",
+        "relaxed",
+        "crossed_legs"
+      ]
+    },
+    "torso_angled_forward_head_tilted_hands_resting_near_bust": {
+      "canonical_name": "torso angled forward head tilted hands resting near bust",
+      "canonical_name_zh": "躯干前倾头微侧手置胸侧",
+      "canonical_phrase": "torso angled slightly forward, head tilted slightly, hands gently resting near the bust",
+      "samples": [
+        "torso angled slightly forward, head tilted slightly, hands gently resting near the bust"
+      ],
+      "tags": [
+        "silhouette",
+        "fabric",
+        "casual",
+        "elegant",
+        "hand_position"
+      ]
+    },
+    "torso_upright_one_arm_raised": {
+      "canonical_name": "torso upright one arm raised",
+      "canonical_name_zh": "躯干直立单手高举",
+      "canonical_phrase": "torso upright, one arm raised with hand resting behind head",
+      "samples": [
+        "torso upright, one arm raised with hand resting behind head"
+      ],
+      "tags": [
+        "casual",
+        "cotton",
+        "relaxed",
+        "blue",
+        "hand_behind_head"
+      ]
+    },
+    "standing_right_hand_raised_near_shoulder": {
+      "canonical_name": "standing right hand raised near shoulder",
+      "canonical_name_zh": "站立右手举至肩旁",
+      "canonical_phrase": "standing, right hand raised with fingers slightly curled near shoulder, left hand resting on wooden lattice fence",
+      "samples": [
+        "standing, right hand raised with fingers slightly curled near shoulder, left hand resting on wooden lattice fence"
+      ],
+      "tags": [
+        "wood",
+        "lattice",
+        "fence",
+        "curled",
+        "relaxed"
+      ]
+    },
+    "standing_pose_hands_near_waist": {
+      "canonical_name": "standing pose hands near waist",
+      "canonical_name_zh": "站立双手靠近腰部",
+      "canonical_phrase": "standing upright with hands resting gently near waist level",
+      "samples": [
+        "standing with hands gently resting near waist",
+        "standing, right hand clasped over folder held under left arm, both hands resting at waist level",
+        "standing with hands resting near waist",
+        "standing upright, left hand resting gently on glass, right hand slightly curled near waist"
+      ],
+      "tags": [
+        "standing",
+        "waist",
+        "hands",
+        "casual",
+        "relaxed"
+      ]
+    },
+    "hand_fingers_near_face_or_object": {
+      "canonical_name": "hand fingers near face or object",
+      "canonical_name_zh": "手靠近面部或物体",
+      "canonical_phrase": "fingers gently touching face or holding object near mouth",
+      "samples": [
+        "finger held gently near cheek",
+        "head tilted slightly upward, index finger gently touching lower lip, left hand raised near chin with fingers curled",
+        "hands raised near face with fingers slightly curled",
+        "fingers gently touching lower lip, fingers positioned near chin",
+        "hand gripping rim with fingers curled around edge and thumb visible on right side",
+        "fingers slightly curled, hand gently touching edge of shell",
+        "right hand holding stick near mouth, lips parted mid-bite",
+        "hand holding a precision brush steady near lower lip, fingers curled gently around handle",
+        "fingers slightly curved holding object",
+        "palms pressed together, fingers slightly curled",
+        "fingers splayed and slightly curled, hand pressing against surface",
+        "fingers curled around the surface, cradling the ball"
+      ],
+      "tags": [
+        "hand",
+        "fingers",
+        "face",
+        "touching",
+        "grip"
+      ]
+    },
+    "standing_holding_white_rabbit": {
+      "canonical_name": "standing holding white rabbit",
+      "canonical_name_zh": "站立抱白兔",
+      "canonical_phrase": "standing, holding a small white rabbit with both hands near chest level",
+      "samples": [
+        "standing, holding a small white rabbit with both hands near chest level"
+      ],
+      "tags": [
+        "white",
+        "rabbit",
+        "hands",
+        "chest",
+        "cute"
+      ]
+    },
+    "standing_forward_torso_raised_right_arm": {
+      "canonical_name": "standing forward torso raised right arm",
+      "canonical_name_zh": "前倾站立右臂高举",
+      "canonical_phrase": "standing with torso angled slightly forward, right arm raised with hand near head, left arm relaxed by side, legs slightly apart",
+      "samples": [
+        "standing with torso angled slightly forward, right arm raised with hand near head, left arm relaxed by side, legs slightly apart"
+      ],
+      "tags": [
+        "blue",
+        "denim",
+        "casual",
+        "dynamic",
+        "hand_near_head"
+      ]
+    },
+    "standing_forward_torso_head_right": {
+      "canonical_name": "standing forward torso head right",
+      "canonical_name_zh": "站立前躯右转头",
+      "canonical_phrase": "standing with torso facing forward and head slightly turned to right",
+      "samples": [
+        "standing with torso facing forward and head slightly turned to right"
+      ],
+      "tags": [
+        "denim",
+        "leather",
+        "casual",
+        "urban",
+        "chin_tilt"
+      ]
+    },
+    "standing_or_hanging_gripping_metal_bar": {
+      "canonical_name": "standing or hanging gripping metal bar",
+      "canonical_name_zh": "站立或悬挂抓握金属杆",
+      "canonical_phrase": "standing or hanging figure gripping a rusty white metal bar",
+      "samples": [
+        "standing, head tilted back, one hand gripping a white metal bar of the buggy, legs partially visible",
+        "standing inside open doorway, torso angled slightly forward, left hand gripping vertical metal bar, right arm bent with hand resting near shoulder",
+        "standing in profile facing right, head tilted slightly upward, torso upright, one hand resting on rusted white metal bar",
+        "hanging by both hands from a rusty white metal bar, arms extended upward, torso leaning forward, legs bent slightly at the knees",
+        "peeking through bars, right hand gripping a rusted red metal bar, left hand partially visible holding another bar behind"
+      ],
+      "tags": [
+        "rusty",
+        "metal",
+        "bar",
+        "grip",
+        "industrial"
+      ]
+    },
+    "seated_atop_horse_holding_reins": {
+      "canonical_name": "seated atop horse holding reins",
+      "canonical_name_zh": "骑在马上握缰绳",
+      "canonical_phrase": "seated atop a horse, holding reins with both hands",
+      "samples": [
+        "seated atop a horse, holding reins with both hands"
+      ],
+      "tags": [
+        "brown",
+        "leather",
+        "riding_boots",
+        "western",
+        "reins"
+      ]
+    },
+    "sitting_floor_angled_body_head_tilted": {
+      "canonical_name": "sitting floor angled body head tilted",
+      "canonical_name_zh": "坐姿侧身低头",
+      "canonical_phrase": "sitting on floor, body angled toward camera, head tilted slightly, arms resting by sides with right hand slightly curled, legs bent at knees",
+      "samples": [
+        "sitting on floor, body angled toward camera, head tilted slightly, arms resting by sides with right hand slightly curled, legs bent at knees"
+      ],
+      "tags": [
+        "blue",
+        "denim",
+        "casual",
+        "relaxed",
+        "curled_fingers"
+      ]
+    },
+    "seated_figure_with_hand_near_temple": {
+      "canonical_name": "seated figure with hand near temple",
+      "canonical_name_zh": "手扶额头坐姿",
+      "canonical_phrase": "seated person with hand resting near temple, head tilted slightly",
+      "samples": [
+        "seated, right hand resting near temple with elbow on table, left hand resting on table surface, head tilted slightly forward",
+        "seated, head resting against window frame, right hand raised to temple",
+        "sitting upright on a wooden step platform, right hand gently touching temple, left hand resting on right knee",
+        "sitting in a chair, head slightly tilted downward, right hand holding a newspaper, left hand resting on a table"
+      ],
+      "tags": [
+        "seated",
+        "contemplative",
+        "casual",
+        "wood",
+        "newspaper"
+      ]
+    },
+    "standing_with_torso_slightly_turned": {
+      "canonical_name": "standing with torso slightly turned",
+      "canonical_name_zh": "站立微转躯干",
+      "canonical_phrase": "standing with torso slightly turned, left hand on hip, right arm bent, head tilted upward",
+      "samples": [
+        "standing with torso slightly turned, left hand on hip, right arm bent, head tilted upward"
+      ],
+      "tags": [
+        "blue",
+        "denim",
+        "jacket",
+        "casual",
+        "hand_on_hip"
+      ]
+    },
+    "standing_upright_with_head_tilted_back": {
+      "canonical_name": "standing upright with head tilted back",
+      "canonical_name_zh": "直立抬头",
+      "canonical_phrase": "standing upright with arms at sides and head tilted back",
+      "samples": [
+        "standing with head tilted back, arms along body",
+        "standing upright with arms at sides, head slightly tilted",
+        "standing with arms hanging naturally at sides, head tilted slightly upward",
+        "standing in profile with head tilted back, torso upright"
+      ],
+      "tags": [
+        "standing",
+        "upright",
+        "head-tilted",
+        "arms-down",
+        "profile"
+      ]
+    },
+    "torso_angled_leaning_back_against_beam": {
+      "canonical_name": "torso angled leaning back against beam",
+      "canonical_name_zh": "躯干倾斜背靠梁",
+      "canonical_phrase": "torso angled, body leaning back against beam, left arm raised with hand resting on wooden beam",
+      "samples": [
+        "torso angled, body leaning back against beam, left arm raised with hand resting on wooden beam"
+      ],
+      "tags": [
+        "wood",
+        "wooden",
+        "casual",
+        "relaxed",
+        "raised arm"
+      ]
+    },
+    "standing_behind_chainlink_fence": {
+      "canonical_name": "standing behind chain-link fence",
+      "canonical_name_zh": "站在铁丝网后",
+      "canonical_phrase": "standing behind a chain-link fence",
+      "samples": [
+        "standing behind a chain-link fence"
+      ],
+      "tags": [
+        "silver",
+        "metal",
+        "fence",
+        "urban",
+        "mesh"
+      ]
+    },
+    "standing_gripping_green_plant_stem": {
+      "canonical_name": "standing gripping green plant stem",
+      "canonical_name_zh": "站立抓握绿色植物茎",
+      "canonical_phrase": "standing with one hand gripping a large green plant stem, torso upright, legs slightly apart",
+      "samples": [
+        "standing with one hand gripping a large green plant stem, torso upright, legs slightly apart"
+      ],
+      "tags": [
+        "green",
+        "plant",
+        "organic",
+        "upright",
+        "gripping"
+      ]
+    },
+    "seated_upright_with_relaxed_arms": {
+      "canonical_name": "seated upright with relaxed arms",
+      "canonical_name_zh": "坐姿端正双臂放松",
+      "canonical_phrase": "person sitting upright on a bench or chair with arms resting by sides or on thighs",
+      "samples": [
+        "sitting upright on a tree root, bare legs extended forward, arms resting by sides",
+        "seated on a green bench, arms resting on knees, torso leaning forward slightly",
+        "seated upright, arms resting along sides with hands gently clasped, legs uncrossed with knees slightly bent",
+        "sitting upright, arms resting along sides, legs slightly apart",
+        "sitting centered on a bench, arms resting along the armrests, legs extended forward with feet bare and toes curled slightly",
+        "seated upright with hands resting on armrests, legs extended forward",
+        "reclining on a white plastic chair, arms resting along the chair's armrests, legs extended",
+        "sitting upright with arms resting on thighs, legs slightly spread",
+        "seated with left leg bent and right leg extended, arms relaxed with one hand supporting head and the other resting near thigh"
+      ],
+      "tags": [
+        "bench",
+        "wood",
+        "casual",
+        "relaxed",
+        "barefoot"
+      ]
+    },
+    "sitting_crosslegged_or_extended_legs": {
+      "canonical_name": "sitting cross-legged or extended legs",
+      "canonical_name_zh": "坐姿双腿交叉或伸展",
+      "canonical_phrase": "sitting on floor or stool with legs extended or crossed",
+      "samples": [
+        "seated on wooden floor, right hand resting on left knee, left hand touching floor, torso angled slightly to her right",
+        "leaning forward with torso angled slightly to her right, hands resting on the back of a red and black Yamaha jet ski cover",
+        "sitting on ground, torso upright, legs extended forward, hands resting on ground beside her",
+        "sitting cross-legged, torso upright, arms resting gently on ground beside her, legs extended forward",
+        "leaning forward with one arm resting on a wooden dresser and the other hand near her hip",
+        "seated cross-legged on a wooden stool, hands clasped together near her chest",
+        "seated cross-legged, torso angled slightly to her right, hands resting gently on her calves and ankles",
+        "sitting on a wooden barrier, hands clasped together in front of her",
+        "sitting cross-legged on a wooden stool, left hand holding a black laptop, right hand gently touching her hair",
+        "sitting on a wicker barstool, legs extended forward with one foot resting on another stool, arms resting along her thighs"
+      ],
+      "tags": [
+        "wooden",
+        "cross-legged",
+        "upright",
+        "casual",
+        "hands_on_knees"
+      ]
+    },
+    "standing_leaning_concrete_pillar": {
+      "canonical_name": "standing leaning concrete pillar",
+      "canonical_name_zh": "倚靠混凝土柱站立",
+      "canonical_phrase": "standing upright leaning slightly against a weathered concrete pillar, hands resting naturally at sides, torso facing forward, legs straight, feet flat on ground",
+      "samples": [
+        "standing upright leaning slightly against a weathered concrete pillar, hands resting naturally at sides, torso facing forward, legs straight, feet flat on ground"
+      ],
+      "tags": [
+        "concrete",
+        "weathered",
+        "casual",
+        "minimalist",
+        "natural"
+      ]
+    },
+    "kneeling_torso_upright_head_turned_shoulder": {
+      "canonical_name": "kneeling torso upright head turned shoulder",
+      "canonical_name_zh": "跪姿挺胸转头",
+      "canonical_phrase": "kneeling, torso upright, head turned over shoulder, hands resting at sides with arms hanging relaxed, feet flat on surface",
+      "samples": [
+        "kneeling, torso upright, head turned over shoulder, hands resting at sides with arms hanging relaxed, feet flat on surface"
+      ],
+      "tags": [
+        "blue",
+        "denim",
+        "hoodie",
+        "casual",
+        "relaxed"
+      ]
+    },
+    "body_leaning_forward_over_blue_wooden_bench": {
+      "canonical_name": "body leaning forward over blue wooden bench",
+      "canonical_name_zh": "身体前倾靠蓝木长凳",
+      "canonical_phrase": "body leaning forward over a blue wooden bench, hands resting on knees",
+      "samples": [
+        "body leaning forward over a blue wooden bench, hands resting on knees"
+      ],
+      "tags": [
+        "blue",
+        "wood",
+        "casual",
+        "relaxed",
+        "knees"
+      ]
+    },
+    "torso_leaning_forward_with_hands_clasped_under_chin": {
+      "canonical_name": "torso leaning forward with hands clasped under chin",
+      "canonical_name_zh": "手托下巴前倾姿势",
+      "canonical_phrase": "torso leaning forward, arms resting on surface, hands clasped under chin",
+      "samples": [
+        "arms resting on surface with forearms crossed, chin resting on hands",
+        "resting chin on hand, arms draped over mossy stone",
+        "torso leaning forward, arms crossed resting on surface with hands clasped under chin",
+        "hands clasped together near chin",
+        "resting arms on mossy stone edges",
+        "hands clasped under chin, resting on white textured fabric"
+      ],
+      "tags": [
+        "chin",
+        "clasped",
+        "resting",
+        "leaning",
+        "crossed"
+      ]
+    },
+    "standing_pose_with_arms_at_sides": {
+      "canonical_name": "standing pose with arms at sides",
+      "canonical_name_zh": "双臂自然下垂的站姿",
+      "canonical_phrase": "standing upright with arms hanging loosely at sides and legs straight",
+      "samples": [
+        "standing with arms slightly extended to sides, hands partially visible near waist level",
+        "standing upright, arms slightly away from body, legs straight",
+        "standing with arms extended outward, legs straight",
+        "standing with arms crossed at waist, legs straight, feet bare",
+        "standing with torso angled slightly away, one arm hanging loosely at side, other partially obscured, legs positioned apart with weight on right foot",
+        "standing, arms along body (implied), legs together (implied)",
+        "standing on one leg with weight shifted, body leaning forward, arms and legs in dynamic motion, hands gesturing outward or raised",
+        "standing, torso angled forward, arms extended outward with right hand near hip and left arm slightly raised, legs partially visible",
+        "standing with arms loosely at sides, torso angled slightly forward, legs straight",
+        "standing upright, arms hanging loosely at sides, hands partially visible near hips, legs straight, feet flat on ground",
+        "standing, arms hanging loosely at sides, hands slightly open",
+        "standing with arms extended outward with palms open, legs slightly apart, feet on uneven ground",
+        "standing with slight torso tilt, hands partially visible near jacket front",
+        "standing with legs straight, mid-thigh to hip area centered"
+      ],
+      "tags": [
+        "casual",
+        "relaxed",
+        "neutral",
+        "minimalist",
+        "natural"
+      ]
+    },
+    "side_profile_facing_left_torso_angled_forward": {
+      "canonical_name": "side profile facing left torso angled forward",
+      "canonical_name_zh": "侧脸朝左前倾躯干",
+      "canonical_phrase": "side profile facing left, torso angled forward, hands resting near the fence",
+      "samples": [
+        "side profile facing left, torso angled forward, hands resting near the fence"
+      ],
+      "tags": [
+        "blue",
+        "denim",
+        "jacket",
+        "casual",
+        "fence"
+      ]
+    },
+    "knees_bent_sitting_holding_orange_basketball": {
+      "canonical_name": "knees bent sitting holding orange basketball",
+      "canonical_name_zh": "屈膝坐地持橙球",
+      "canonical_phrase": "knees bent, sitting on wooden floor, holding an orange basketball with both hands",
+      "samples": [
+        "knees bent, sitting on wooden floor, holding an orange basketball with both hands"
+      ],
+      "tags": [
+        "orange",
+        "wood",
+        "casual",
+        "sporty",
+        "basketball"
+      ]
+    },
+    "crouching_on_wooden_pallets": {
+      "canonical_name": "crouching on wooden pallets",
+      "canonical_name_zh": "蹲在木托盘上",
+      "canonical_phrase": "crouching on wooden pallets, one hand resting on the ground, legs bent at the knee",
+      "samples": [
+        "crouching on wooden pallets, one hand resting on the ground, legs bent at the knee"
+      ],
+      "tags": [
+        "wood",
+        "rustic",
+        "casual",
+        "bent",
+        "ground"
+      ]
+    },
+    "standing_upright_facing_forward": {
+      "canonical_name": "standing upright facing forward",
+      "canonical_name_zh": "直立面向前方",
+      "canonical_phrase": "standing upright facing forward with arms at sides",
+      "samples": [
+        "facing forward with a broad smile",
+        "standing confidently",
+        "standing, looking thoughtfully to the left",
+        "standing upright with arms at sides, torso facing forward",
+        "standing with torso angled, arms at sides",
+        "standing upright, arms at sides",
+        "standing centered",
+        "front-facing",
+        "standing behind reeds, head upright",
+        "standing upright with torso facing forward",
+        "standing upright with arms at sides",
+        "standing upright, shoulders visible, head facing forward",
+        "standing upright, arms holding horizontal beam of gate, legs straight",
+        "standing upright with arms at sides, torso centered",
+        "standing upright",
+        "upright with feet planted, arms by sides or holding objects",
+        "standing upright, chest up framing",
+        "standing",
+        "standing upright, torso facing forward, hands not visible"
+      ],
+      "tags": [
+        "standing",
+        "upright",
+        "front-facing",
+        "neutral",
+        "full-body"
+      ]
+    },
+    "floating_supine_limbs_extended": {
+      "canonical_name": "floating supine limbs extended",
+      "canonical_name_zh": "仰卧漂浮四肢伸展",
+      "canonical_phrase": "floating supine with limbs extended outward and head tilted back",
+      "samples": [
+        "suspended mid-air, limbs extended outward, arms raised above head, legs trailing behind",
+        "body slightly curved, fins gently fanned",
+        "wings fully extended upward and slightly back, body angled downward, legs tucked close, beak pointed forward",
+        "swimming in dynamic motion",
+        "swimming oriented slightly upward with head near water's surface",
+        "body curves gracefully, fins spread wide",
+        "floating supine, arms extended overhead with fingers slightly spread, head tilted back",
+        "floating supine, head tilted back, arms relaxed at sides, legs extended straight"
+      ],
+      "tags": [
+        "water",
+        "fluid",
+        "dynamic",
+        "graceful",
+        "extended"
+      ]
+    },
+    "sitting_in_bathtub_legs_bent": {
+      "canonical_name": "sitting in bathtub legs bent",
+      "canonical_name_zh": "浴缸坐姿屈膝",
+      "canonical_phrase": "sitting in bathtub, legs bent at knees, one hand resting on tub edge, torso angled slightly away",
+      "samples": [
+        "sitting in bathtub, legs bent at knees, one hand resting on tub edge, torso angled slightly away"
+      ],
+      "tags": [
+        "ceramic",
+        "white",
+        "bathrobe",
+        "relaxed",
+        "hand_on_edge"
+      ]
+    },
+    "standing_holding_coiled_blue_hose": {
+      "canonical_name": "standing holding coiled blue hose",
+      "canonical_name_zh": "站立手持蓝色卷管",
+      "canonical_phrase": "standing with head slightly tilted, holding a coiled light blue garden hose with both hands",
+      "samples": [
+        "standing with head slightly tilted, holding a coiled light blue garden hose with both hands"
+      ],
+      "tags": [
+        "blue",
+        "hose",
+        "garden",
+        "casual",
+        "tilted"
+      ]
+    },
+    "standing_right_hand_on_hip": {
+      "canonical_name": "standing right hand on hip",
+      "canonical_name_zh": "站立右手叉腰",
+      "canonical_phrase": "standing, right hand resting on hip, left arm hanging relaxed",
+      "samples": [
+        "standing, right hand resting on hip, left arm hanging relaxed"
+      ],
+      "tags": [
+        "blue",
+        "denim",
+        "t-shirt",
+        "casual",
+        "relaxed"
+      ]
+    },
+    "person_lying_on_ground_with_relaxed_posture": {
+      "canonical_name": "person lying on ground with relaxed posture",
+      "canonical_name_zh": "躺卧地面放松姿态",
+      "canonical_phrase": "person lying on grass or ground, body curled or extended, arms bent or resting, head tilted upward",
+      "samples": [
+        "lying on side, body curled slightly, one arm bent near head, head tilted upward",
+        "body curled inward, head resting against towel",
+        "lying on grass, arms raised slightly with elbows bent, torso angled slightly upward",
+        "lying on grass, arms resting by sides with one hand near ground, legs extended with toes curled",
+        "lying on side, one leg bent at hip with knee raised, other leg extended partially out of frame"
+      ],
+      "tags": [
+        "grass",
+        "relaxed",
+        "casual",
+        "curled",
+        "tilted_head"
+      ]
+    },
+    "relaxed_lying_poses_on_soft_surfaces": {
+      "canonical_name": "relaxed lying poses on soft surfaces",
+      "canonical_name_zh": "床上放松躺姿",
+      "canonical_phrase": "person lying relaxed on bed or bathtub with bent limbs",
+      "samples": [
+        "lying supine, head tilted slightly upward, arms bent with hands clasped behind head, legs bent at knees with feet flat on bed",
+        "lying supine in bathtub, arms raised holding showerhead, legs partially submerged",
+        "lying on stomach, head turned to left, legs bent at knees with feet tucked, arms extended forward with hands flat on bed",
+        "lying on side, right arm bent with hand resting on bed, left arm extended down",
+        "reclining on bed, right arm bent with hand resting on thigh, left arm extended across body with hand clasping knee, legs bent at knee with one leg drawn up, torso slightly tilted upward"
+      ],
+      "tags": [
+        "bed",
+        "bathtub",
+        "relaxed",
+        "casual",
+        "supine"
+      ]
+    },
+    "standing_torso_forward_tilt_relaxed_arms": {
+      "canonical_name": "standing torso forward tilt relaxed arms",
+      "canonical_name_zh": "站立前倾躯干放松双臂",
+      "canonical_phrase": "standing, torso tilted slightly forward, arms relaxed at sides, hands gently resting by thighs",
+      "samples": [
+        "standing, torso tilted slightly forward, arms relaxed at sides, hands gently resting by thighs"
+      ],
+      "tags": [
+        "blue",
+        "denim",
+        "casual",
+        "slouchy",
+        "thighs"
+      ]
+    },
+    "standing_upright_with_legs_staggered": {
+      "canonical_name": "standing upright with legs staggered",
+      "canonical_name_zh": "直立站立双腿交错",
+      "canonical_phrase": "standing with hands at sides, torso upright, left leg slightly forward, right leg back",
+      "samples": [
+        "standing with hands at sides, torso upright, left leg slightly forward, right leg back"
+      ],
+      "tags": [
+        "cotton",
+        "casual",
+        "denim",
+        "relaxed",
+        "staggered stance"
+      ]
+    },
+    "standing_grip_pillar_hip_rest": {
+      "canonical_name": "standing grip pillar hip rest",
+      "canonical_name_zh": "站立抓柱手放髋",
+      "canonical_phrase": "standing, right hand gripping a weathered wooden pillar, left hand resting near hip",
+      "samples": [
+        "standing, right hand gripping a weathered wooden pillar, left hand resting near hip"
+      ],
+      "tags": [
+        "wood",
+        "weathered",
+        "casual",
+        "relaxed",
+        "grip"
+      ]
+    },
+    "seated_figure_with_bent_legs_and_relaxed_arms": {
+      "canonical_name": "seated figure with bent legs and relaxed arms",
+      "canonical_name_zh": "坐姿屈腿放松手臂",
+      "canonical_phrase": "seated figure with bent legs, arms resting on thighs or near face, leaning forward or back",
+      "samples": [
+        "sitting on dry pine needles, torso leaning forward, legs bent with knees up, hands resting near face and hips",
+        "sitting cross-legged, arms resting on thighs, legs bent at knees",
+        "seated with legs bent and feet tucked, hands resting on thighs, leaning back",
+        "seated on a plush red cushioned chair, legs bent at the knees with one foot tucked beneath the other, torso slightly angled, arms resting along her sides"
+      ],
+      "tags": [
+        "sitting",
+        "cross-legged",
+        "relaxed",
+        "casual",
+        "tucked_feet"
+      ]
+    },
+    "standing_upright_hands_clasped_front": {
+      "canonical_name": "standing upright hands clasped front",
+      "canonical_name_zh": "直立双手胸前交握",
+      "canonical_phrase": "standing upright with arms hanging naturally and hands clasped gently in front of torso",
+      "samples": [
+        "standing upright, arms at sides with hands clasped in front, legs straight",
+        "standing centered, torso upright, arms hanging naturally at sides, legs straight with feet together",
+        "standing upright, arms hanging naturally at sides, hands clasped gently in front",
+        "torso upright, legs straight, hands clasped at center of top",
+        "standing upright, arms hanging naturally at sides, legs straight and together",
+        "standing centered, torso upright, hands clasped together in front of chest",
+        "standing upright, hands clasped together in front of lower abdomen, legs slightly apart",
+        "standing with arms hanging relaxed at sides, hands clasped loosely in front, legs straight with weight distributed on both feet",
+        "standing full-length, arms hanging loosely at sides with relaxed hands, legs straight with slight inward angle at ankles"
+      ],
+      "tags": [
+        "standing",
+        "clasped_hands",
+        "upright",
+        "relaxed",
+        "formal"
+      ]
+    },
+    "reclining_head_tilted_back_arms_behind_head": {
+      "canonical_name": "reclining head tilted back arms behind head",
+      "canonical_name_zh": "后仰躺卧双手枕头",
+      "canonical_phrase": "reclining with head tilted back, arms positioned behind her head, body relaxed",
+      "samples": [
+        "reclining with head tilted back, arms positioned behind her head, body relaxed"
+      ],
+      "tags": [
+        "blue",
+        "silk",
+        "evening_gown",
+        "elegant",
+        "relaxed_posture"
+      ]
+    },
+    "sitting_on_rough_stone_block": {
+      "canonical_name": "sitting on rough stone block",
+      "canonical_name_zh": "坐于粗糙石台",
+      "canonical_phrase": "sitting on a rough stone block, legs extended forward, one foot resting on ground, other slightly raised, arms resting on stone block",
+      "samples": [
+        "sitting on a rough stone block, legs extended forward, one foot resting on ground, other slightly raised, arms resting on stone block"
+      ],
+      "tags": [
+        "stone",
+        "concrete",
+        "casual",
+        "relaxed",
+        "extended_legs"
+      ]
+    },
+    "hands_lifting_hem_of_jeans_to_expose_upper_torso": {
+      "canonical_name": "hands lifting hem of jeans to expose upper torso",
+      "canonical_name_zh": "手掀牛仔裤露上身",
+      "canonical_phrase": "hands lifting hem of jeans to expose upper torso",
+      "samples": [
+        "hands lifting hem of jeans to expose upper torso"
+      ],
+      "tags": [
+        "denim",
+        "blue",
+        "jeans",
+        "casual",
+        "exposed_skin"
+      ]
+    },
+    "seated_figure_on_stone_steps": {
+      "canonical_name": "seated figure on stone steps",
+      "canonical_name_zh": "坐于石阶的人物",
+      "canonical_phrase": "seated on stone steps with upright torso and hands resting on thighs",
+      "samples": [
+        "sitting on a stone lantern base, torso upright, hands resting on thighs, legs slightly apart",
+        "sitting on stone steps, hands clasped together resting on thighs, legs straight",
+        "seated on concrete steps, torso upright, hands resting near knees with fingers gently curled",
+        "sitting on concrete steps, holding racket across lap"
+      ],
+      "tags": [
+        "stone",
+        "concrete",
+        "steps",
+        "casual",
+        "relaxed"
+      ]
+    },
+    "seated_figure_with_hands_resting_on_lap": {
+      "canonical_name": "seated figure with hands resting on lap",
+      "canonical_name_zh": "坐姿双手放膝",
+      "canonical_phrase": "seated figure, hands resting gently on lap, relaxed posture, upright torso, legs crossed or extended",
+      "samples": [
+        "seated with torso upright, arms resting gently across lap, hands clasped loosely together",
+        "seated on a folding chair, legs bare, hands resting on lap",
+        "seated with legs slightly apart, hands gently resting near lap, one hand partially curled",
+        "seated on a wooden chair, holding binoculars with both hands, bare feet resting on the chair seat",
+        "seated with one leg bent and the other extended, hands resting gently on lap and bed; head tilted back, arms wrapped around torso",
+        "sitting, one hand resting on lap, torso angled slightly to left, head tilted slightly forward",
+        "sitting barefoot on a wooden chair, head tilted back, legs crossed at ankles with right foot resting on left thigh, hands holding binoculars",
+        "seated in armchair, right hand raised to lips with fingers curled, left hand resting on lap, legs crossed at ankles",
+        "seated on window ledge, hands clasped together resting on lap",
+        "sitting upright, hands clasped together resting on lap, feet clad in flats"
+      ],
+      "tags": [
+        "seated",
+        "lap",
+        "relaxed",
+        "casual",
+        "barefoot"
+      ]
+    },
+    "right_hand_raised_near_lips_holding_object": {
+      "canonical_name": "right hand raised near lips holding object",
+      "canonical_name_zh": "右手举至唇边持物",
+      "canonical_phrase": "right hand raised near lips holding object, left arm resting along side",
+      "samples": [
+        "right hand raised near lips holding object, left arm resting along side"
+      ],
+      "tags": [
+        "gold",
+        "silk",
+        "blouse",
+        "elegant",
+        "gemstone"
+      ]
+    },
+    "head_tilted_upward_right_chest_up": {
+      "canonical_name": "head tilted upward right chest up",
+      "canonical_name_zh": "头微仰向右胸向上",
+      "canonical_phrase": "head tilted slightly upward and to her right, chest up",
+      "samples": [
+        "head tilted slightly upward and to her right, chest up"
+      ],
+      "tags": [
+        "upward",
+        "tilted",
+        "chest",
+        "posture",
+        "dynamic"
+      ]
+    },
+    "standing_figure_holding_object": {
+      "canonical_name": "standing figure holding object",
+      "canonical_name_zh": "站立手持物体",
+      "canonical_phrase": "standing figure holding various objects near face or beside sign",
+      "samples": [
+        "standing, holding bouquet",
+        "standing, holding a snowball",
+        "standing, holding bouquet near mouth",
+        "standing beside a bus stop sign, right hand holding flowers, left hand resting on the signpost",
+        "holding purple flowering plants in front of face",
+        "standing, holding a large bouquet of white lilies with green stems and leaves",
+        "standing, holding a white rectangular object near face"
+      ],
+      "tags": [
+        "bouquet",
+        "flowers",
+        "white",
+        "outdoor",
+        "holding"
+      ]
+    },
+    "standing_hug_with_hand_on_neck": {
+      "canonical_name": "standing hug with hand on neck",
+      "canonical_name_zh": "站立拥抱手搭颈",
+      "canonical_phrase": "standing, right hand resting on pony's neck, left arm wrapped around pony's body, hugging pony",
+      "samples": [
+        "standing, right hand resting on pony's neck, left arm wrapped around pony's body, hugging pony"
+      ],
+      "tags": [
+        "warm",
+        "soft",
+        "casual",
+        "intimate",
+        "hand_on_neck"
+      ]
+    },
+    "torso_angled_forward_relaxed_shoulders": {
+      "canonical_name": "torso angled forward relaxed shoulders",
+      "canonical_name_zh": "躯干前倾肩部放松",
+      "canonical_phrase": "torso angled slightly forward, shoulders relaxed",
+      "samples": [
+        "torso angled slightly forward, shoulders relaxed"
+      ],
+      "tags": [
+        "cotton",
+        "casual",
+        "slouchy",
+        "relaxed",
+        "forward-leaning"
+      ]
+    },
+    "standing_upright_right_arm_bent_elbow": {
+      "canonical_name": "standing upright right arm bent elbow",
+      "canonical_name_zh": "直立右臂弯曲",
+      "canonical_phrase": "standing upright, right arm bent at elbow, left arm relaxed",
+      "samples": [
+        "standing upright, right arm bent at elbow, left arm relaxed"
+      ],
+      "tags": [
+        "blue",
+        "denim",
+        "t-shirt",
+        "casual",
+        "bent elbow"
+      ]
+    },
+    "seated_torso_angled_slightly_side": {
+      "canonical_name": "seated torso angled slightly side",
+      "canonical_name_zh": "坐姿侧倾躯干",
+      "canonical_phrase": "seated, torso angled slightly to the side",
+      "samples": [
+        "seated, torso angled slightly to the side"
+      ],
+      "tags": [
+        "blue",
+        "denim",
+        "jacket",
+        "casual",
+        "leaning"
+      ]
+    },
+    "standing_forward_torso_angled_head_tilted": {
+      "canonical_name": "standing forward torso angled head tilted",
+      "canonical_name_zh": "前倾站姿微头",
+      "canonical_phrase": "standing with torso angled slightly forward, head tilted gently, arms resting at sides with one hand partially tucked into dress seam",
+      "samples": [
+        "standing with torso angled slightly forward, head tilted gently, arms resting at sides with one hand partially tucked into dress seam"
+      ],
+      "tags": [
+        "dress",
+        "seam",
+        "tucked",
+        "casual",
+        "relaxed"
+      ]
+    },
+    "walking_forward_with_relaxed_arms": {
+      "canonical_name": "walking forward with relaxed arms",
+      "canonical_name_zh": "行走中放松双臂",
+      "canonical_phrase": "walking forward with slight lean and arms relaxed at sides",
+      "samples": [
+        "walking up stairs, right foot stepping forward, left foot planted, arms relaxed at sides",
+        "walking forward with slight tilt of head, arms relaxed at sides, torso upright",
+        "reclining across steps, head resting on upper step, arms relaxed at sides with one hand near hip, legs extended along steps",
+        "ascending stairs, arms extended for balance, torso slightly leaning forward, legs mid-stride with one foot on a step and the other lifting",
+        "standing mid-step, arms relaxed at sides, body angled slightly forward",
+        "walking away, arms slightly outstretched, right hand raised near shoulder height, left hand relaxed at side",
+        "walking forward with a slight forward lean, right arm swinging naturally at the side",
+        "walking forward, right hand resting near hip, left arm slightly bent"
+      ],
+      "tags": [
+        "casual",
+        "natural",
+        "upright",
+        "mid-stride",
+        "balanced"
+      ]
+    },
+    "standing_pose_arms_raised_above_head": {
+      "canonical_name": "standing pose arms raised above head",
+      "canonical_name_zh": "站立双臂举过头顶",
+      "canonical_phrase": "standing pose with arms raised high above head, hands clasped or open, torso angled or leaning",
+      "samples": [
+        "arms raised with hands near head, torso slightly angled forward",
+        "standing, arms raised above head hands clasped, torso slightly tilted back",
+        "standing with one arm raised high above head, other hand extended outward, torso angled slightly forward",
+        "standing with torso leaning slightly forward, arms curved above head with hands raised behind head",
+        "arms raised high above head, torso angled, body curved",
+        "standing tall with arms raised high above head, palms open, head tilted back",
+        "standing on knees, arms raised pulling top over head",
+        "arms raised with hands behind head, body slightly leaning forward",
+        "standing, arms slightly raised with hands near shoulders",
+        "standing upright with arms raised above head and hands clasped behind head",
+        "seated, arms raised behind head",
+        "standing with arms raised above head with hands clasped, torso slightly twisted",
+        "arms raised holding mirror frame, hands partially visible",
+        "body leaning forward, arms extended holding pot",
+        "standing with arms outstretched or raised, hands open or near face",
+        "standing with right arm raised above head with fingers curled, waist exposed showing navel"
+      ],
+      "tags": [
+        "standing",
+        "arms_up",
+        "casual",
+        "dynamic",
+        "torso_twist"
+      ]
+    },
+    "sitting_beside_window_with_hand_near_knee": {
+      "canonical_name": "sitting beside window with hand near knee",
+      "canonical_name_zh": "窗边坐姿手近膝",
+      "canonical_phrase": "sitting beside a window, left hand resting near knee, right arm bent with hand near thigh",
+      "samples": [
+        "sitting beside a window, left hand resting near knee, right arm bent with hand near thigh"
+      ],
+      "tags": [
+        "natural",
+        "linen",
+        "casual",
+        "relaxed",
+        "hand_rest"
+      ]
+    },
+    "standing_right_hand_on_jacket_collar": {
+      "canonical_name": "standing right hand on jacket collar",
+      "canonical_name_zh": "右手扶衣领站立",
+      "canonical_phrase": "standing, right hand resting on jacket collar, left hand hanging by side",
+      "samples": [
+        "standing, right hand resting on jacket collar, left hand hanging by side"
+      ],
+      "tags": [
+        "jacket",
+        "denim",
+        "casual",
+        "relaxed",
+        "hand-on-collar"
+      ]
+    },
+    "standing_relaxed_hand_on_hip_thigh": {
+      "canonical_name": "standing relaxed hand on hip thigh",
+      "canonical_name_zh": "站立放松手放髋大腿",
+      "canonical_phrase": "standing, arms relaxed by sides, one hand resting near hip, other gently touching thigh",
+      "samples": [
+        "standing, arms relaxed by sides, one hand resting near hip, other gently touching thigh"
+      ],
+      "tags": [
+        "casual",
+        "denim",
+        "cotton",
+        "minimalist",
+        "hand_on_hip"
+      ]
+    },
+    "upright_torso_with_arms_crossed_or_relaxed": {
+      "canonical_name": "upright torso with arms crossed or relaxed",
+      "canonical_name_zh": "直立躯干双臂交叉或放松",
+      "canonical_phrase": "torso upright, arms crossed over chest or relaxed at sides, head tilted slightly",
+      "samples": [
+        "arms crossed under chin, torso slightly tilted forward",
+        "torso upright, arms raised slightly, head tilted back",
+        "torso angled slightly forward, hand gripping edge of fabric",
+        "torso partially obscured by foliage, back and shoulders visible",
+        "torso upright, shoulders slightly forward",
+        "torso upright, arms holding bag at waist level",
+        "arms crossed over midsection",
+        "torso tilted slightly forward, eyes looking upward with parted lips",
+        "torso slightly tilted forward, arms wrapped around upper body with hands clasped near collarbone",
+        "torso partially covered, positioned low behind foliage",
+        "head tilted downward, torso angled slightly forward, hands gripping fabric at hips",
+        "torso slightly tilted forward, one hand gripping the edge of the blanket near cheek",
+        "upper chest and shoulder area visible",
+        "upper back and shoulder blades visible, hair flowing over shoulder",
+        "arms crossed loosely over chest, torso slightly angled, head tilted back",
+        "torso upright, arms crossed at waist",
+        "head tilted upward, shoulders visible, upper torso angled",
+        "torso upright, arms relaxed at sides"
+      ],
+      "tags": [
+        "upright",
+        "crossed_arms",
+        "casual",
+        "fabric",
+        "relaxed"
+      ]
+    },
+    "standing_threequarter_pose_jeans_pocket": {
+      "canonical_name": "standing three-quarter pose jeans pocket",
+      "canonical_name_zh": "站立三分身牛仔裤口袋",
+      "canonical_phrase": "standing in a three-quarter pose with her left hand in her jeans pocket, her right arm hanging relaxed by her side",
+      "samples": [
+        "standing in a three-quarter pose with her left hand in her jeans pocket, her right arm hanging relaxed by her side"
+      ],
+      "tags": [
+        "denim",
+        "relaxed",
+        "casual",
+        "pocket",
+        "jeans"
+      ]
+    },
+    "relaxed_sofa_recline_with_clasped_hands": {
+      "canonical_name": "relaxed sofa recline with clasped hands",
+      "canonical_name_zh": "沙发放松姿态双手交叠",
+      "canonical_phrase": "resting on sofa, torso slightly tilted, legs extended and relaxed, hands gently clasped over midriff",
+      "samples": [
+        "resting on sofa, torso slightly tilted, legs extended and relaxed, hands gently clasped over midriff"
+      ],
+      "tags": [
+        "beige",
+        "velvet",
+        "casual",
+        "cozy",
+        "midriff"
+      ]
+    },
+    "standing_upright_lifting_necktie": {
+      "canonical_name": "standing upright lifting necktie",
+      "canonical_name_zh": "站立抬手提领带",
+      "canonical_phrase": "standing upright, right hand lifting necktie",
+      "samples": [
+        "standing upright, right hand lifting necktie"
+      ],
+      "tags": [
+        "blue",
+        "silk",
+        "necktie",
+        "formal",
+        "adjusting"
+      ]
+    },
+    "seated_barefoot_on_log_gripping_stick": {
+      "canonical_name": "seated barefoot on log gripping stick",
+      "canonical_name_zh": "赤脚坐木抓棍",
+      "canonical_phrase": "seated on a log, barefoot with feet resting on the log, left hand gripping a stick, right hand reaching toward water",
+      "samples": [
+        "seated on a log, barefoot with feet resting on the log, left hand gripping a stick, right hand reaching toward water"
+      ],
+      "tags": [
+        "wood",
+        "barefoot",
+        "stick",
+        "rustic",
+        "reaching"
+      ]
+    },
+    "leaning_against_vertical_structure": {
+      "canonical_name": "leaning against vertical structure",
+      "canonical_name_zh": "倚靠垂直结构",
+      "canonical_phrase": "person leaning against wall or pillar with arm raised",
+      "samples": [
+        "leaning back against a wall",
+        "leaning against a white pillar, one arm raised gripping the pillar above head, other hand pressing against pillar at waist height, torso angled slightly forward",
+        "back partially turned",
+        "leaning against a wooden pillar",
+        "leaning against wall, head tilted back, one arm raised high"
+      ],
+      "tags": [
+        "wall",
+        "pillar",
+        "wood",
+        "casual",
+        "arm_raised"
+      ]
+    },
+    "torso_angled_forward_with_hands_near_head": {
+      "canonical_name": "torso angled forward with hands near head",
+      "canonical_name_zh": "躯干前倾双手近头",
+      "canonical_phrase": "torso angled slightly forward, hands raised or clasped near chin or head",
+      "samples": [
+        "torso angled slightly forward, hands clasped together near chin",
+        "torso angled slightly forward, arms raised with hands near back of head",
+        "torso angled slightly forward, hand raised near chin with fingers curled",
+        "standing with arms folded beneath chin, torso angled slightly forward",
+        "torso angled slightly forward, right hand raised near chin in a clenched fist gesture",
+        "torso angled slightly forward, arms raised with hands near head"
+      ],
+      "tags": [
+        "forward",
+        "chin",
+        "head",
+        "clasped",
+        "fist"
+      ]
+    },
+    "torso_leaning_forward_on_wooden_pallet": {
+      "canonical_name": "torso leaning forward on wooden pallet",
+      "canonical_name_zh": "前倾倚靠木托盘",
+      "canonical_phrase": "torso leaning forward, left leg bent with foot resting on a wooden pallet, hands gripping the pallet edge",
+      "samples": [
+        "torso leaning forward, left leg bent with foot resting on a wooden pallet, hands gripping the pallet edge"
+      ],
+      "tags": [
+        "wood",
+        "denim",
+        "casual",
+        "dynamic",
+        "grip"
+      ]
+    },
+    "seated_leaning_forward_hand_on_window": {
+      "canonical_name": "seated leaning forward hand on window",
+      "canonical_name_zh": "坐姿前倾手扶窗",
+      "canonical_phrase": "seated, leaning forward, left hand resting on window frame, right arm bent at elbow",
+      "samples": [
+        "seated, leaning forward, left hand resting on window frame, right arm bent at elbow"
+      ],
+      "tags": [
+        "blue",
+        "denim",
+        "jacket",
+        "casual",
+        "window frame"
+      ]
+    },
+    "sitting_crosslegged_with_extended_leg": {
+      "canonical_name": "sitting cross-legged with extended leg",
+      "canonical_name_zh": "盘腿坐单腿伸展",
+      "canonical_phrase": "sitting cross-legged, one leg bent, the other extended, hands cupping a potato",
+      "samples": [
+        "sitting cross-legged, one leg bent, the other extended, hands cupping a potato"
+      ],
+      "tags": [
+        "brown",
+        "earthenware",
+        "tunic",
+        "rustic",
+        "cupped hands"
+      ]
+    },
+    "lying_supine_with_arms_raised": {
+      "canonical_name": "lying supine with arms raised",
+      "canonical_name_zh": "仰卧抬臂",
+      "canonical_phrase": "woman lying supine on back with arms raised above head",
+      "samples": [
+        "lying supine, arms resting above her head, torso slightly arched",
+        "lying supine with head tilted back, arms raised with hands gently cradling the sides of her head",
+        "lying supine, arms raised gripping a white floatation board above her, legs bent at the knees, feet submerged",
+        "lying supine diagonally, left arm extended flat on sand, right arm bent near hip, legs gracefully curved with left knee bent and right leg extended, feet bare with toes slightly curled",
+        "lying supine, arms extended outwards with palms up, legs slightly parted",
+        "lying flat on back, arms and legs spread wide forming snow angel shape, hands slightly raised with fingers splayed, legs extended outward"
+      ],
+      "tags": [
+        "white",
+        "sand",
+        "bikini",
+        "relaxed",
+        "floatation"
+      ]
+    },
+    "standing_upright_right_hand_clasped_folder": {
+      "canonical_name": "standing upright right hand clasped folder",
+      "canonical_name_zh": "直立右手夹文件夹",
+      "canonical_phrase": "standing upright, right hand clasped over the folder held under the left arm",
+      "samples": [
+        "standing upright, right hand clasped over the folder held under the left arm"
+      ],
+      "tags": [
+        "folder",
+        "paper",
+        "business",
+        "formal",
+        "clasped"
+      ]
+    },
+    "standing_upright_head_tilted_down": {
+      "canonical_name": "standing upright head tilted down",
+      "canonical_name_zh": "直立低头站姿",
+      "canonical_phrase": "standing upright with head tilted downward, arms hanging loosely by sides with hands slightly curled, legs straight, feet planted firmly",
+      "samples": [
+        "standing upright with head tilted downward, arms hanging loosely by sides with hands slightly curled, legs straight, feet planted firmly"
+      ],
+      "tags": [
+        "blue",
+        "cotton",
+        "t-shirt",
+        "melancholy",
+        "curled_fingers"
+      ]
+    },
+    "sitting_arms_crossed_bare_feet_tucked": {
+      "canonical_name": "sitting arms crossed bare feet tucked",
+      "canonical_name_zh": "抱臂坐足蜷缩",
+      "canonical_phrase": "sitting with arms crossed over torso, one hand resting on window ledge, feet bare and tucked beneath knees",
+      "samples": [
+        "sitting with arms crossed over torso, one hand resting on window ledge, feet bare and tucked beneath knees"
+      ],
+      "tags": [
+        "barefoot",
+        "crossed_arms",
+        "window_sill",
+        "casual",
+        "tucked_feet"
+      ]
+    },
+    "kneeling_on_desk_holding_newspaper": {
+      "canonical_name": "kneeling on desk holding newspaper",
+      "canonical_name_zh": "跪桌持报",
+      "canonical_phrase": "kneeling on desk, legs bent at knees, torso angled slightly forward, holding large open newspaper with both hands, head turned to gaze over shoulder",
+      "samples": [
+        "kneeling on desk, legs bent at knees, torso angled slightly forward, holding large open newspaper with both hands, head turned to gaze over shoulder"
+      ],
+      "tags": [
+        "paper",
+        "desk",
+        "casual",
+        "vintage",
+        "newspaper"
+      ]
+    },
+    "torso_upright_or_slightly_forward_with_arms_at_sides": {
+      "canonical_name": "torso upright or slightly forward with arms at sides",
+      "canonical_name_zh": "躯干直立或微前倾双臂自然下垂",
+      "canonical_phrase": "torso upright or slightly angled forward, arms resting loosely by sides, legs straight",
+      "samples": [
+        "torso angled forward, arms resting loosely at sides",
+        "torso angled slightly forward, arms resting on chair arms, legs extended forward",
+        "torso angled slightly forward, arms resting by sides",
+        "torso upright, arms resting on wooden structure, legs straight and close together",
+        "torso slightly tilted forward, arms resting by sides",
+        "torso angled forward, arms resting by sides",
+        "torso upright, arms folded across midsection, legs crossed at ankles",
+        "torso upright, arms resting at sides",
+        "torso centered, arms resting by sides",
+        "torso upright, arms resting loosely by sides, legs slightly apart",
+        "torso facing forward, right arm raised high above head, left arm resting at side",
+        "torso leaning forward, arms crossed resting on a black wire mesh basket",
+        "torso upright, arms resting by sides"
+      ],
+      "tags": [
+        "casual",
+        "relaxed",
+        "neutral",
+        "standing",
+        "natural"
+      ]
+    },
+    "standing_barefoot_with_arms_raised": {
+      "canonical_name": "standing barefoot with arms raised",
+      "canonical_name_zh": "赤脚站立双臂高举",
+      "canonical_phrase": "standing barefoot on sand with arms raised high and wide",
+      "samples": [
+        "standing with right arm raised high with open palm, left hand holding sandals, legs partially submerged",
+        "standing barefoot on wet sand, body angled slightly away from camera, head turned over shoulder, left hand on hip, right arm relaxed by side, legs in walking stance with one foot forward",
+        "standing barefoot, arms raised high and wide with palms open, one leg lifted and bent at the knee",
+        "standing barefoot, arms slightly bent and held out to sides with hands covered in sand",
+        "bent over at the waist, hands submerged in water actively shaping wet sand"
+      ],
+      "tags": [
+        "sand",
+        "barefoot",
+        "wet",
+        "outdoor",
+        "dynamic"
+      ]
+    },
+    "standing_upright_arms_extended_holding_towel": {
+      "canonical_name": "standing upright arms extended holding towel",
+      "canonical_name_zh": "直立双臂伸展持毛巾",
+      "canonical_phrase": "standing upright with arms extended to sides holding the towel",
+      "samples": [
+        "standing upright with arms extended to sides holding the towel"
+      ],
+      "tags": [
+        "white",
+        "cotton",
+        "towel",
+        "minimalist",
+        "extended arms"
+      ]
+    },
+    "body_angled_slightly_to_side": {
+      "canonical_name": "body angled slightly to side",
+      "canonical_name_zh": "身体微侧头靠肩",
+      "canonical_phrase": "body angled slightly to the side, head resting on shoulder",
+      "samples": [
+        "body angled slightly to the side, head resting on shoulder"
+      ],
+      "tags": [
+        "casual",
+        "denim",
+        "relaxed",
+        "soft",
+        "intimate"
+      ]
+    },
+    "standing_hand_on_white_surface": {
+      "canonical_name": "standing hand on white surface",
+      "canonical_name_zh": "手扶白色表面站立",
+      "canonical_phrase": "standing with one hand resting on a white surface, torso angled forward",
+      "samples": [
+        "standing with one hand resting on a white surface, torso angled forward"
+      ],
+      "tags": [
+        "white",
+        "surface",
+        "casual",
+        "forward",
+        "resting"
+      ]
+    },
+    "sitting_on_ledge_with_bent_legs": {
+      "canonical_name": "sitting on ledge with bent legs",
+      "canonical_name_zh": "坐于 ledge 屈膝",
+      "canonical_phrase": "sitting on concrete ledge with legs bent and arms resting",
+      "samples": [
+        "sitting on a tiled ledge, left arm resting along leg, right hand gently touching knee",
+        "sitting on a concrete ledge, arms resting by sides with one hand near hip, legs bent at knee",
+        "sitting on concrete with legs crossed, one foot resting on the other knee, hands near ankles",
+        "sitting on ledge with legs bent at knees, one foot slightly forward, right arm draped over bent right knee, left arm resting behind",
+        "sitting on grassy slope, arms wrapped around dog, legs bent, body angled slightly forward",
+        "sitting on sloped concrete, head tilted back, torso angled forward, hands resting on concrete, one leg bent, other extended"
+      ],
+      "tags": [
+        "concrete",
+        "ledge",
+        "bent_knees",
+        "casual",
+        "relaxed"
+      ]
+    },
+    "leaning_forward_over_sink_hands_clasped": {
+      "canonical_name": "leaning forward over sink hands clasped",
+      "canonical_name_zh": "俯身水槽双手合十",
+      "canonical_phrase": "leaning forward over a sink, hands clasped together under running water",
+      "samples": [
+        "leaning forward over a sink, hands clasped together under running water"
+      ],
+      "tags": [
+        "ceramic",
+        "white",
+        "casual",
+        "wet",
+        "clasped_hands"
+      ]
+    },
+    "standing_one_hand_resting_on_frame_body_angled_slightly": {
+      "canonical_name": "standing one hand resting on frame body angled slightly",
+      "canonical_name_zh": "单手扶框侧身站立",
+      "canonical_phrase": "standing, one hand resting on frame, body angled slightly",
+      "samples": [
+        "standing, one hand resting on frame, body angled slightly"
+      ],
+      "tags": [
+        "blue",
+        "denim",
+        "jacket",
+        "casual",
+        "hand_on_frame"
+      ]
+    },
+    "holding_toasted_marshmallow_skewer": {
+      "canonical_name": "holding toasted marshmallow skewer",
+      "canonical_name_zh": "手持烤棉花糖签",
+      "canonical_phrase": "holding a wooden skewer with a toasted marshmallow near her right cheek",
+      "samples": [
+        "holding a wooden skewer with a toasted marshmallow near her right cheek"
+      ],
+      "tags": [
+        "golden",
+        "wooden",
+        "casual",
+        "cozy",
+        "marshmallow"
+      ]
+    },
+    "standing_pose_hand_near_temple": {
+      "canonical_name": "standing pose hand near temple",
+      "canonical_name_zh": "手扶额头站立姿势",
+      "canonical_phrase": "standing with torso angled, head tilted, hand gently touching hair near temple",
+      "samples": [
+        "standing with right hand gently touching temple, left arm relaxed by side, torso slightly angled, waist curved inward, hips slightly flared",
+        "torso angled slightly away, right hand lifting a strand of hair near temple, left arm bent at shoulder",
+        "head tilted upward toward the sun, torso angled away from the camera, one hand raised near temple with fingers gently brushing hairline",
+        "standing with torso angled slightly forward, head tilted slightly upward, one arm raised with hand near temple gently touching hair"
+      ],
+      "tags": [
+        "standing",
+        "hair",
+        "temple",
+        "casual",
+        "elegant"
+      ]
+    },
+    "standing_head_tilted_back_right_hand_under_chin": {
+      "canonical_name": "standing head tilted back right hand under chin",
+      "canonical_name_zh": "站立头右仰手托下巴",
+      "canonical_phrase": "standing, head tilted back and to right, right hand resting under chin, left hand gripping bag strap",
+      "samples": [
+        "standing, head tilted back and to right, right hand resting under chin, left hand gripping bag strap"
+      ],
+      "tags": [
+        "casual",
+        "denim",
+        "relaxed",
+        "bag",
+        "chin_rest"
+      ]
+    },
+    "standing_pose_with_torso_angled_and_hand_on_hip": {
+      "canonical_name": "standing pose with torso angled and hand on hip",
+      "canonical_name_zh": "侧身站立手放臀部",
+      "canonical_phrase": "standing pose, torso angled slightly, hand resting on hip, relaxed posture",
+      "samples": [
+        "standing with torso angled slightly right, left hand raised to hair, right hand resting on hip, legs partially visible and slightly bent",
+        "standing, left hand resting on red pillar, right arm bent at shoulder, torso angled slightly to left",
+        "standing with torso angled slightly left, right arm bent with hand resting near hip, left arm partially visible",
+        "standing with torso angled slightly left, right arm bent with hand resting near hip, left arm hanging relaxed, legs partially visible",
+        "standing in profile, head slightly tilted downward, right arm bent at the elbow with hand resting near hip"
+      ],
+      "tags": [
+        "standing",
+        "hip",
+        "torso",
+        "relaxed",
+        "profile"
+      ]
+    },
+    "standing_profile_left_hand_hip": {
+      "canonical_name": "standing profile left hand hip",
+      "canonical_name_zh": "侧身站立左手叉腰",
+      "canonical_phrase": "standing in profile facing left, right hand resting on hip, left arm hanging relaxed, torso slightly turned",
+      "samples": [
+        "standing in profile facing left, right hand resting on hip, left arm hanging relaxed, torso slightly turned"
+      ],
+      "tags": [
+        "blue",
+        "denim",
+        "t-shirt",
+        "casual",
+        "relaxed"
+      ]
+    },
+    "kneeling_on_white_surface_lifting_skirt": {
+      "canonical_name": "kneeling on white surface lifting skirt",
+      "canonical_name_zh": "白面跪姿提裙",
+      "canonical_phrase": "kneeling on a white surface, hands gently lifting the skirt",
+      "samples": [
+        "kneeling on a white surface, hands gently lifting the skirt"
+      ],
+      "tags": [
+        "white",
+        "fabric",
+        "skirt",
+        "elegant",
+        "lifting"
+      ]
+    },
+    "seated_crosslegged_hands_on_knees": {
+      "canonical_name": "seated cross-legged hands on knees",
+      "canonical_name_zh": "盘腿而坐手放膝上",
+      "canonical_phrase": "seated cross-legged, hands resting on knees, torso leaning slightly forward",
+      "samples": [
+        "seated cross-legged, hands resting on knees, torso leaning slightly forward"
+      ],
+      "tags": [
+        "blue",
+        "cotton",
+        "tunic",
+        "zen",
+        "cross-legged"
+      ]
+    },
+    "upright_standing_pose_with_relaxed_arms_hands_curled": {
+      "canonical_name": "upright standing pose with relaxed arms",
+      "canonical_name_zh": "直立放松站姿",
+      "canonical_phrase": "standing upright with arms relaxed at sides and hands slightly curled",
+      "samples": [
+        "standing with one foot slightly forward, arms relaxed, hands resting near backpack strap, leaning slightly against door frame",
+        "standing beside each other, arms relaxed at sides and holding a wooden rake with both gloved hands",
+        "standing upright, arms relaxed, one hand holding towel near chest, legs straight",
+        "standing upright with arms relaxed at sides, hands slightly curled",
+        "standing upright, arms relaxed at sides with one hand slightly curled, legs visible from mid-thigh down",
+        "standing, right arm extended slightly with fingers gently touching dry tangled vines, left arm relaxed by side",
+        "standing, arms relaxed at sides, hands slightly curled",
+        "standing upright with arms slightly extended outward and hands relaxed, legs slightly apart",
+        "standing upright with arms relaxed at sides, hands slightly curled, legs straight and together",
+        "standing upright, arms relaxed at sides, hands open",
+        "standing with arms relaxed at sides, one hand slightly curled, legs slightly apart, weight balanced",
+        "standing, arms relaxed at sides, one hand slightly curled",
+        "standing upright, arms at sides, hands relaxed",
+        "standing upright with arms at sides, hands relaxed by hips",
+        "standing confidently with arms relaxed by sides, hands slightly open, legs straight, feet flat on ground",
+        "standing, arms relaxed at sides with one hand slightly curled, legs slightly apart",
+        "standing upright, arms relaxed at sides, hands slightly curled",
+        "standing, arms extended slightly to the sides, one hand gripping fabric, other relaxed at side, feet bare with sandals",
+        "standing, arms hanging relaxed at sides with hands gently curled, head slightly tilted"
+      ],
+      "tags": [
+        "standing",
+        "relaxed",
+        "casual",
+        "natural",
+        "upright"
+      ]
+    },
+    "sitting_deep_snow_hugging_dog": {
+      "canonical_name": "sitting deep snow hugging dog",
+      "canonical_name_zh": "深雪坐抱狗",
+      "canonical_phrase": "sitting in deep snow with legs bent and feet partially submerged, hugging a dog",
+      "samples": [
+        "sitting in deep snow with legs bent and feet partially submerged, hugging a dog"
+      ],
+      "tags": [
+        "white",
+        "fluffy",
+        "winter",
+        "cozy",
+        "submerged"
+      ]
+    },
+    "standing_with_one_hand_resting_near_hip_torso_angled_slightly": {
+      "canonical_name": "standing with one hand resting near hip, torso angled slightly",
+      "canonical_name_zh": "单手扶腰侧身站立",
+      "canonical_phrase": "standing with one hand resting near hip, torso angled slightly",
+      "samples": [
+        "standing with one hand resting near hip, torso angled slightly"
+      ],
+      "tags": [
+        "blue",
+        "denim",
+        "jacket",
+        "casual",
+        "hand_on_hip"
+      ]
+    },
+    "sitting_forward_torso_hand_thigh_hip": {
+      "canonical_name": "sitting forward torso hand thigh hip",
+      "canonical_name_zh": "前倾坐姿手放腿臀",
+      "canonical_phrase": "sitting, torso angled slightly forward, right hand resting on thigh, left hand near hip",
+      "samples": [
+        "sitting, torso angled slightly forward, right hand resting on thigh, left hand near hip"
+      ],
+      "tags": [
+        "blue",
+        "denim",
+        "casual",
+        "relaxed",
+        "hand_rest"
+      ]
+    },
+    "torso_upright_hands_on_glass_counter": {
+      "canonical_name": "torso upright hands on glass counter",
+      "canonical_name_zh": "躯干直立手放玻璃柜",
+      "canonical_phrase": "torso upright, hands resting on a glass counter",
+      "samples": [
+        "torso upright, hands resting on a glass counter"
+      ],
+      "tags": [
+        "glass",
+        "counter",
+        "casual",
+        "relaxed",
+        "resting"
+      ]
+    },
+    "standing_pose_with_varied_arm_positions_holding_objects": {
+      "canonical_name": "standing pose with varied arm positions",
+      "canonical_name_zh": "站立姿势手臂多变",
+      "canonical_phrase": "standing upright with feet shoulder-width apart and arms bent holding objects",
+      "samples": [
+        "standing alert, front paws planted shoulder-width apart, head held high",
+        "standing with feet shoulder-width apart, arms bent at elbows holding umbrella, head tilted downward",
+        "standing, head slightly bowed, right arm draped over body, left arm tucked under blanket",
+        "standing, left arm bent at elbow gripping stems, right arm bent holding flowers",
+        "standing with head slightly bowed, arms raised holding fabric at shoulder height, legs slightly apart",
+        "standing upright, arms bent at shoulder level holding branches near face, legs shoulder-width apart"
+      ],
+      "tags": [
+        "standing",
+        "upright",
+        "holding",
+        "bent_arms",
+        "shoulder_width"
+      ]
+    },
+    "standing_pose_with_bent_arms": {
+      "canonical_name": "standing pose with bent arms",
+      "canonical_name_zh": "站立弯曲手臂姿势",
+      "canonical_phrase": "standing upright with arms bent at elbows and hands near chest or hips",
+      "samples": [
+        "standing with legs slightly apart, left hand raised near cheek, right arm bent at elbow, head tilted slightly downward",
+        "standing upright with arms bent at elbows holding binoculars",
+        "standing upright with arms bent at elbows holding a basket",
+        "standing with arms slightly bent and one hand near hip, torso upright",
+        "standing with torso angled slightly right, right arm bent with hand near hip, left arm hanging down",
+        "standing with arms bent at elbows and hands near chest, torso slightly turned",
+        "standing with arms bent at elbows, one hand gripping waistband, torso twisted to side",
+        "standing with head tilted slightly upward, arms bent at elbows with right hand clenched into a fist near waist",
+        "standing with one arm bent at elbow resting near side, torso angled slightly forward",
+        "standing with arms bent at elbows and hands near hips, torso angled slightly forward",
+        "standing, torso angled slightly right, arms extended forward gripping nozzle, left arm bent at elbow",
+        "standing, torso leaning forward, right arm bent with hand gripping fabric at hip, left arm out of frame",
+        "standing leaning against a red surface, arms bent at the elbows, torso angled slightly",
+        "standing upright with arms slightly bent at sides",
+        "standing with arms slightly bent at sides, one hand near skirt hem, head tilted down"
+      ],
+      "tags": [
+        "standing",
+        "bent_arms",
+        "casual",
+        "relaxed",
+        "hands_on_hips"
+      ]
+    },
+    "leaning_forward_gripping_dark_pole": {
+      "canonical_name": "leaning forward gripping dark pole",
+      "canonical_name_zh": "前倾抓握深色杆",
+      "canonical_phrase": "leaning forward with knees slightly bent, hands gripping a dark pole",
+      "samples": [
+        "leaning forward with knees slightly bent, hands gripping a dark pole"
+      ],
+      "tags": [
+        "dark",
+        "metal",
+        "athletic",
+        "dynamic",
+        "grip"
+      ]
+    },
+    "torso_upright_arms_holding_umbrella_handle": {
+      "canonical_name": "torso upright arms holding umbrella handle",
+      "canonical_name_zh": "躯干直立手持伞柄",
+      "canonical_phrase": "torso upright, arms holding umbrella handle close to body",
+      "samples": [
+        "torso upright, arms holding umbrella handle close to body"
+      ],
+      "tags": [
+        "umbrella",
+        "handle",
+        "coat",
+        "formal",
+        "close"
+      ]
+    },
+    "standing_holding_broom": {
+      "canonical_name": "standing holding broom",
+      "canonical_name_zh": "站立持扫帚",
+      "canonical_phrase": "standing, holding a broom",
+      "samples": [
+        "standing, holding a broom"
+      ],
+      "tags": [
+        "wood",
+        "broom",
+        "cleaner",
+        "domestic",
+        "vertical"
+      ]
+    },
+    "torso_angled_forward_leaning_pose": {
+      "canonical_name": "torso angled forward leaning pose",
+      "canonical_name_zh": "躯干前倾倚靠姿势",
+      "canonical_phrase": "torso angled forward leaning on surface with hands resting",
+      "samples": [
+        "torso angled forward, hands resting on hips",
+        "upper body visible, arms resting on a textured white surface",
+        "body curved forward leaning on a weathered wooden dock, arms extended overhead, torso angled, hips and buttocks visible",
+        "torso angled slightly forward, left hand resting near cheek, holding a slender blade of grass horizontally across nose and upper lip",
+        "torso angled forward, hands resting near lower body",
+        "torso angled slightly forward, arms extended outward with hands resting on unseen surface",
+        "body angled forward, arms extended slightly outward, hands resting on unseen surface, looking down",
+        "torso angled slightly forward, head tilted gently upward, arms partially visible with hands resting near waist",
+        "on hands and forearms on a weathered wooden surface, torso angled forward",
+        "torso angled slightly to the side, one arm extended forward, other slightly bent, hands resting on a weathered wooden surface"
+      ],
+      "tags": [
+        "wooden",
+        "white",
+        "casual",
+        "leaning",
+        "hands-on-hips"
+      ]
+    },
+    "sitting_on_rock_with_clasped_hands": {
+      "canonical_name": "sitting on rock with clasped hands",
+      "canonical_name_zh": "坐岩石双手交握",
+      "canonical_phrase": "sitting on a rock, arms resting on knees, hands clasped together",
+      "samples": [
+        "sitting on a rock, arms resting on knees, hands clasped together"
+      ],
+      "tags": [
+        "stone",
+        "casual",
+        "relaxed",
+        "knees",
+        "clasped"
+      ]
+    },
+    "sitting_gracefully_on_sofa": {
+      "canonical_name": "sitting gracefully on sofa",
+      "canonical_name_zh": "优雅坐于沙发",
+      "canonical_phrase": "sitting gracefully on sofa, body angled slightly to right, legs extended forward with feet resting on floor, hands resting gently on sofa armrests and seat cushion",
+      "samples": [
+        "sitting gracefully on sofa, body angled slightly to right, legs extended forward with feet resting on floor, hands resting gently on sofa armrests and seat cushion"
+      ],
+      "tags": [
+        "beige",
+        "velvet",
+        "dress",
+        "serene",
+        "feet_on_floor"
+      ]
+    },
+    "standing_balanced_on_one_foot_atop_railway_platform_edge": {
+      "canonical_name": "standing balanced on one foot atop railway platform edge",
+      "canonical_name_zh": "单脚平衡立于铁轨站台边缘",
+      "canonical_phrase": "standing balanced on one foot atop a railway platform edge with the other leg lifted and bent at the knee, arms extended outward with palms slightly cupped",
+      "samples": [
+        "standing balanced on one foot atop a railway platform edge with the other leg lifted and bent at the knee, arms extended outward with palms slightly cupped"
+      ],
+      "tags": [
+        "concrete",
+        "denim",
+        "urban",
+        "dynamic",
+        "cupped palms"
+      ]
+    },
+    "standing_legs_apart_head_tilted_down": {
+      "canonical_name": "standing legs apart head tilted down",
+      "canonical_name_zh": "双腿微开低头站立",
+      "canonical_phrase": "standing with legs slightly apart, head tilted down, hands gently holding the hem of the skirt",
+      "samples": [
+        "standing with legs slightly apart, head tilted down, hands gently holding the hem of the skirt"
+      ],
+      "tags": [
+        "skirt",
+        "fabric",
+        "casual",
+        "melancholy",
+        "hem"
+      ]
+    },
+    "standing_upright_with_hands_on_hips_or_waist": {
+      "canonical_name": "standing upright with hands on hips or waist",
+      "canonical_name_zh": "双手叉腰或扶腰站立",
+      "canonical_phrase": "standing upright with hands on hips or waist, slight forward lean",
+      "samples": [
+        "standing upright with slight forward lean, hands gripping waistband of bikini bottoms, legs straight and bare",
+        "standing upright with torso facing forward, left hand resting on hip, right hand lightly touching waistband of underwear",
+        "standing with hands at sides, torso upright",
+        "standing upright with slight forward lean, left hand holding a green bush, right hand near waist",
+        "standing with hands on hips, torso upright, slight forward lean",
+        "standing upright with arms crossed over chest, hands gripping fabric, legs straight"
+      ],
+      "tags": [
+        "standing",
+        "bikini",
+        "underwear",
+        "casual",
+        "hands-on-hips"
+      ]
+    },
+    "standing_pose_with_loose_arms": {
+      "canonical_name": "standing pose with loose arms",
+      "canonical_name_zh": "站立姿态双臂自然下垂",
+      "canonical_phrase": "standing with torso upright, arms hanging loosely at sides, head tilted slightly",
+      "samples": [
+        "standing with head tilted back, arms curved, one hand gripping hose, other near chest, legs partially visible",
+        "standing slightly angled, head tilted back, right arm bent with hand resting on refrigerator, left arm hanging by side",
+        "standing with head tilted slightly downward, right arm resting along post, left hand hanging loosely at side, legs slightly apart",
+        "standing with torso upright, arms hanging loosely at sides",
+        "standing, arms hanging loosely by sides, head slightly tilted",
+        "standing with torso upright, head tilted back, arms hanging loosely at sides",
+        "standing with left shoulder against a weathered wooden post, arms at sides, torso slightly turned, head tilted downward and to her right",
+        "standing partially behind a light blue painted wooden post, hands resting loosely at her sides, body slightly angled, torso upright, legs straight",
+        "standing tall, torso upright, arms hanging loosely at sides, head tilted slightly upward",
+        "standing, arms hanging loosely at sides, torso angled slightly away from camera"
+      ],
+      "tags": [
+        "standing",
+        "loose arms",
+        "upright torso",
+        "casual",
+        "relaxed"
+      ]
+    },
+    "midstep_standing_pose_with_bent_arms": {
+      "canonical_name": "mid-step standing pose with bent arms",
+      "canonical_name_zh": "抬腿站立屈臂姿势",
+      "canonical_phrase": "standing with one leg lifted mid-step, arms bent at elbows, hands near hips",
+      "samples": [
+        "standing with one leg lifted mid-step, arms bent at elbows, hands near hips"
+      ],
+      "tags": [
+        "blue",
+        "denim",
+        "casual",
+        "dynamic",
+        "hands-on-hips"
+      ]
+    },
+    "standing_upright_torso_angled_hands_resting": {
+      "canonical_name": "standing upright torso angled hands resting",
+      "canonical_name_zh": "站立微侧双手交叠",
+      "canonical_phrase": "standing upright with torso angled slightly away, hands resting gently over each other near chest",
+      "samples": [
+        "standing upright with torso angled slightly away, hands resting gently over each other near chest"
+      ],
+      "tags": [
+        "casual",
+        "cotton",
+        "relaxed",
+        "crossed_arms",
+        "chest_level"
+      ]
+    },
+    "standing_upright_arms_at_sides": {
+      "canonical_name": "standing upright arms at sides",
+      "canonical_name_zh": "直立站立双臂下垂",
+      "canonical_phrase": "standing with torso upright and arms resting at sides",
+      "samples": [
+        "standing with torso upright and arms resting at sides"
+      ],
+      "tags": [
+        "white",
+        "cotton",
+        "t-shirt",
+        "minimalist",
+        "relaxed"
+      ]
+    },
+    "leaning_doorframe_right_arm_up": {
+      "canonical_name": "leaning doorframe right arm up",
+      "canonical_name_zh": "倚门框右臂上举",
+      "canonical_phrase": "leaning against doorframe with right arm extended upwards, torso slightly twisted, legs bent at knees",
+      "samples": [
+        "leaning against doorframe with right arm extended upwards, torso slightly twisted, legs bent at knees"
+      ],
+      "tags": [
+        "blue",
+        "denim",
+        "casual",
+        "dynamic",
+        "twisted_torso"
+      ]
+    },
+    "standing_figure_with_one_hand_raised_to_head": {
+      "canonical_name": "standing figure with one hand raised to head",
+      "canonical_name_zh": "单手扶头站立",
+      "canonical_phrase": "standing pose with one hand raised to head and other hand resting",
+      "samples": [
+        "resting head against wall, one hand on shoulder, other hand extended forward with fingers spread, torso angled slightly away",
+        "standing, one hand raised to head, other resting near shoulder",
+        "one hand raised to head, other resting on wall, face in profile looking upward",
+        "standing, one hand raised holding a vine, the other resting by her side"
+      ],
+      "tags": [
+        "standing",
+        "hand_to_head",
+        "profile",
+        "relaxed",
+        "contemplative"
+      ]
+    },
+    "upright_torso_loose_arms_balanced_stance": {
+      "canonical_name": "upright torso loose arms balanced stance",
+      "canonical_name_zh": "躯干直立双臂自然平衡站姿",
+      "canonical_phrase": "torso upright, arms hanging loosely at her sides, legs slightly apart, weight balanced evenly",
+      "samples": [
+        "torso upright, arms hanging loosely at her sides, legs slightly apart, weight balanced evenly"
+      ],
+      "tags": [
+        "cotton",
+        "casual",
+        "neutral",
+        "relaxed",
+        "symmetrical"
+      ]
+    },
+    "crouching_on_wooden_railing_with_extended_arm": {
+      "canonical_name": "crouching on wooden railing with extended arm",
+      "canonical_name_zh": "木栏杆上蹲姿伸臂",
+      "canonical_phrase": "crouching on a wooden railing with hands resting on knees and one arm extended outward",
+      "samples": [
+        "crouching on a wooden railing with hands resting on knees and one arm extended outward"
+      ],
+      "tags": [
+        "wood",
+        "rustic",
+        "casual",
+        "dynamic",
+        "extended_arm"
+      ]
+    },
+    "standing_relaxed_pose_with_head_turned": {
+      "canonical_name": "standing relaxed pose with head turned",
+      "canonical_name_zh": "站立放松转头",
+      "canonical_phrase": "standing, right hand resting gently by side, left arm hanging relaxed, head turned slightly over shoulder",
+      "samples": [
+        "standing, right hand resting gently by side, left arm hanging relaxed, head turned slightly over shoulder"
+      ],
+      "tags": [
+        "casual",
+        "denim",
+        "cotton",
+        "relaxed",
+        "over-shoulder"
+      ]
+    },
+    "seated_right_arm_on_bag_left_hand_holding_basketball": {
+      "canonical_name": "seated right arm on bag left hand holding basketball",
+      "canonical_name_zh": "坐右臂搭包左手持球",
+      "canonical_phrase": "seated, right arm resting on bag, left hand holding basketball",
+      "samples": [
+        "seated, right arm resting on bag, left hand holding basketball"
+      ],
+      "tags": [
+        "leather",
+        "denim",
+        "casual",
+        "sporty",
+        "basketball"
+      ]
+    },
+    "standing_leaning_on_railing_pose": {
+      "canonical_name": "standing leaning on railing pose",
+      "canonical_name_zh": "倚靠栏杆站立姿势",
+      "canonical_phrase": "standing leaning on railing with arms resting or gripping",
+      "samples": [
+        "torso leaning forward, head tilted slightly upward, arms bent with hands resting on railing, legs spread wide with knees slightly bent",
+        "sitting on railing, torso upright, legs bent at knees with feet dangling, hands resting on railing with palms down",
+        "standing on stone steps leaning against a metal railing with both hands gripping it, left leg slightly forward, right foot flat on step",
+        "bending forward at the waist from a white wooden railing, head inverted toward the camera, arms bent at elbows with hands resting near head, legs long and toned",
+        "standing barefoot on a white wooden pier railing, one leg bent at the knee, arms raised dynamically, torso tilted forward",
+        "standing with legs slightly apart, weight shifted onto right foot, right hand resting on railing, left hand touching hip",
+        "standing with one leg slightly bent and the other extended, right hand resting on a metal railing, left hand by her side",
+        "standing with arms extended resting on railing, body angled slightly right, head turned"
+      ],
+      "tags": [
+        "railing",
+        "wood",
+        "metal",
+        "casual",
+        "leaning"
+      ]
+    },
+    "low_crouching_pose_with_hands_on_knees": {
+      "canonical_name": "low crouching pose with hands on knees",
+      "canonical_name_zh": "低蹲姿势手放膝盖",
+      "canonical_phrase": "crouching low with knees bent and hands resting on knees or thighs",
+      "samples": [
+        "crouching on a wooden windowsill, hands clasped together resting on thighs",
+        "crouching, arms bent with hands resting near neck",
+        "crouching low to the ground, hands resting gently on knees and one hand near thigh",
+        "crouching, arms bent with hands clasped together in front of knees, legs bent at knees, feet flat on platform",
+        "crouched low to the ground, left hand resting on knee, right hand holding a small rusty shovel",
+        "crouching low, body angled slightly toward viewer, head tilted upward, one hand resting on ground, other near knee",
+        "crouching low on a mossy textured log, hands resting on log surface, torso upright, legs bent at knees, feet flat on ground",
+        "crouching low with knees bent, hands resting on wooden planks",
+        "crouching with knees bent, arms resting on thighs, hands clasped together near ankles",
+        "crouching, torso leaning forward, hands resting on mossy stones",
+        "crouching on stone steps, hands gesturing toward bowls, leaning against a stone pillar",
+        "crouching low, hands resting on knees and thighs, arms bent at elbows, torso angled forward, legs bent at knees with feet flat on ground",
+        "crouching, arms resting by sides, one knee bent higher than the other, torso leaning against rock"
+      ],
+      "tags": [
+        "crouching",
+        "knees",
+        "hands",
+        "low",
+        "bent"
+      ]
+    },
+    "standing_profile_left_hand_hip_torso_angled": {
+      "canonical_name": "standing profile left hand hip",
+      "canonical_name_zh": "侧身站立左手近臀",
+      "canonical_phrase": "standing in profile, left hand partially visible near hip, torso angled slightly forward",
+      "samples": [
+        "standing in profile, left hand partially visible near hip, torso angled slightly forward"
+      ],
+      "tags": [
+        "blue",
+        "denim",
+        "jacket",
+        "casual",
+        "partial_hand"
+      ]
+    },
+    "standing_torso_angled_hands_near_waist": {
+      "canonical_name": "standing torso angled hands near waist",
+      "canonical_name_zh": "站立躯干微倾手近腰",
+      "canonical_phrase": "standing with torso slightly angled, hands resting near waist",
+      "samples": [
+        "standing with torso slightly angled, hands resting near waist"
+      ],
+      "tags": [
+        "casual",
+        "denim",
+        "relaxed",
+        "slouch",
+        "pocket"
+      ]
+    },
+    "arms_resting_on_striped_cushion": {
+      "canonical_name": "arms resting on striped cushion",
+      "canonical_name_zh": "手臂搁在条纹软垫上",
+      "canonical_phrase": "arms resting on a striped cushioned surface, hands positioned with fingers slightly curled",
+      "samples": [
+        "arms resting on a striped cushioned surface, hands positioned with fingers slightly curled"
+      ],
+      "tags": [
+        "striped",
+        "cushion",
+        "relaxed",
+        "curled_fingers",
+        "soft"
+      ]
+    },
+    "standing_or_seated_holding_food_items": {
+      "canonical_name": "standing or seated holding food items",
+      "canonical_name_zh": "站立或坐姿手持食物",
+      "canonical_phrase": "standing or seated person holding food items with hands near mouth or chest",
+      "samples": [
+        "standing, arms curved around watermelon, feet planted",
+        "torso angled slightly forward, right hand raised holding a spoon",
+        "standing, left hand holding a glass bowl, right hand lifting a spoon to mouth",
+        "standing, right hand holding fruit container forward, left arm slightly extended",
+        "torso angled slightly to the right, holding food item gently in both hands",
+        "hand holding food item, head tilted slightly upward",
+        "hand gently holding a tiny crab with thumb and index finger",
+        "torso slightly angled forward, biting into a ripe orange fruit with both hands",
+        "hand holding a teddy bear",
+        "standing, right arm holding fruit, left arm resting on white object",
+        "standing, head tilted upward, mouth wide open in mid-bite, right hand holding a large orange crab claw near mouth, left hand gripping the claw",
+        "standing upright, right arm raised holding a cup, left arm bent with spoon near mouth, legs straight and slightly apart",
+        "standing with left arm bent and elbow resting against a white surface, right hand holding fruit near mouth",
+        "standing, right hand holding a piece of white powder cake near mouth, left hand holding more cake",
+        "sitting with torso upright, hands positioned near the cup and spoon",
+        "seated, holding a white spoon in right hand and green chopsticks in left hand",
+        "standing upright, right hand holding fruit, left hand holding plastic bag",
+        "torso slightly angled forward, right hand raised near chin holding fruit"
+      ],
+      "tags": [
+        "food",
+        "spoon",
+        "fruit",
+        "casual",
+        "eating"
+      ]
+    },
+    "standing_upright_slight_forward_lean": {
+      "canonical_name": "standing upright slight forward lean",
+      "canonical_name_zh": "直立微前倾站姿",
+      "canonical_phrase": "standing upright with slight forward lean, hands hanging loosely at sides",
+      "samples": [
+        "standing upright with slight forward lean, hands hanging loosely at sides"
+      ],
+      "tags": [
+        "blue",
+        "denim",
+        "t-shirt",
+        "casual",
+        "loose_hands"
+      ]
+    },
+    "standing_upright_with_slight_weight_on_right_leg": {
+      "canonical_name": "standing upright with slight weight on right leg",
+      "canonical_name_zh": "右腿微倾站立",
+      "canonical_phrase": "standing upright with slight weight on right leg, torso angled slightly left, arms bent at elbows with hands resting near lower abdomen, fingers gently curled",
+      "samples": [
+        "standing upright with slight weight on right leg, torso angled slightly left, arms bent at elbows with hands resting near lower abdomen, fingers gently curled"
+      ],
+      "tags": [
+        "cotton",
+        "casual",
+        "relaxed",
+        "curled_fingers",
+        "slight_weight"
+      ]
+    },
+    "seated_arms_wrapped_torso_leaning_forward": {
+      "canonical_name": "seated arms wrapped torso leaning forward",
+      "canonical_name_zh": "抱臂前倾坐姿",
+      "canonical_phrase": "seated, arms wrapped around herself, torso slightly leaning forward",
+      "samples": [
+        "seated, arms wrapped around herself, torso slightly leaning forward"
+      ],
+      "tags": [
+        "blue",
+        "denim",
+        "hoodie",
+        "melancholy",
+        "hugging"
+      ]
+    },
+    "shoulders_partially_visible_hand_lifting_strap": {
+      "canonical_name": "shoulders partially visible hand lifting strap",
+      "canonical_name_zh": "露肩手提肩带",
+      "canonical_phrase": "shoulders partially visible, one hand gently lifting a strap near neck",
+      "samples": [
+        "shoulders partially visible, one hand gently lifting a strap near neck"
+      ],
+      "tags": [
+        "strap",
+        "neck",
+        "shoulder",
+        "casual",
+        "tactile"
+      ]
+    },
+    "standing_with_hand_on_hip": {
+      "canonical_name": "standing with hand on hip",
+      "canonical_name_zh": "单手叉腰站立",
+      "canonical_phrase": "standing upright with one hand resting on hip and other hand hanging by side",
+      "samples": [
+        "standing with left hand resting near hip and right arm hanging by side",
+        "standing with one hand resting on hip and other hand gripping jacket edge",
+        "standing upright with hands resting gently on hips",
+        "standing with one hand resting on hip and the other near thigh"
+      ],
+      "tags": [
+        "standing",
+        "hand_on_hip",
+        "casual",
+        "relaxed",
+        "jacket"
+      ]
+    },
+    "standing_pose_with_hands_on_hips_hands_on_hips": {
+      "canonical_name": "standing pose with hands on hips",
+      "canonical_name_zh": "双手叉腰站立姿势",
+      "canonical_phrase": "standing with hands resting on hips and arms slightly bent",
+      "samples": [
+        "standing, head tilted slightly downward, arms bent with hands resting on hips",
+        "standing with legs slightly apart, right hand resting on vehicle side, left arm bent at elbow",
+        "standing with left hand resting near hip, right arm bent, torso slightly tilted",
+        "standing with right hand resting on hip, left arm bent with hand near shoulder, head tilted slightly to right",
+        "standing with body angled sideways, right hand resting on hip, left arm bent at elbow",
+        "standing with right arm bent and hand resting near hip",
+        "standing with arms slightly bent and hands resting near hips"
+      ],
+      "tags": [
+        "standing",
+        "hands_on_hips",
+        "casual",
+        "confident",
+        "relaxed"
+      ]
+    },
+    "crouching_hands_gripping_wooden_pole": {
+      "canonical_name": "crouching hands gripping wooden pole",
+      "canonical_name_zh": "蹲姿双手抓木杆",
+      "canonical_phrase": "crouching, both hands gripping a wooden pole",
+      "samples": [
+        "crouching, both hands gripping a wooden pole"
+      ],
+      "tags": [
+        "brown",
+        "wood",
+        "tunic",
+        "action",
+        "grip"
+      ]
+    },
+    "seated_upright_head_tilted_chest_visible": {
+      "canonical_name": "seated upright head tilted chest visible",
+      "canonical_name_zh": "坐姿端正头微倾胸可见",
+      "canonical_phrase": "seated or standing upright, head slightly tilted, upper chest visible",
+      "samples": [
+        "seated or standing upright, head slightly tilted, upper chest visible"
+      ],
+      "tags": [
+        "blue",
+        "denim",
+        "t-shirt",
+        "casual",
+        "tilted_head"
+      ]
+    },
+    "standing_head_tilted_slightly_right": {
+      "canonical_name": "standing head tilted slightly right",
+      "canonical_name_zh": "站立头部微向右倾",
+      "canonical_phrase": "standing, head tilted slightly to her right",
+      "samples": [
+        "standing, head tilted slightly to her right"
+      ],
+      "tags": [
+        "blue",
+        "denim",
+        "dress",
+        "casual",
+        "tilted_head"
+      ]
+    },
+    "standing_or_kneeling_head_tilt": {
+      "canonical_name": "standing or kneeling head tilt",
+      "canonical_name_zh": "站立或跪姿低头",
+      "canonical_phrase": "standing or kneeling figure with head tilted downward or slightly upward",
+      "samples": [
+        "leaning forward with head tilted downward",
+        "standing, head tilted downward",
+        "standing, head tilted slightly upward",
+        "kneeling on the edge of a wooden boat, head tilted downward",
+        "standing upright, head slightly tilted",
+        "standing upright, head tilted slightly down"
+      ],
+      "tags": [
+        "head_tilt",
+        "kneeling",
+        "standing",
+        "wooden_boat",
+        "casual"
+      ]
+    }
+  },
+  "statistics": {
+    "total_clusters": 213,
+    "multi_sample_clusters": 70,
+    "single_sample_clusters": 143
+  }
+}

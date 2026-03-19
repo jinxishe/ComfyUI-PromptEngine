@@ -1,0 +1,1845 @@
+{
+  "dimension": "location_type",
+  "version": "1.0",
+  "generated_date": "2026-03-18",
+  "mode": "clustered",
+  "clusters": {
+    "ancient_stone_desert_road": {
+      "canonical_name": "ancient stone desert road",
+      "canonical_name_zh": "古老石质沙漠路",
+      "canonical_phrase": "desert road",
+      "samples": [
+        "desert road"
+      ],
+      "tags": [
+        "sandstone",
+        "dusty",
+        "path",
+        "arid",
+        "cracked"
+      ]
+    },
+    "indoor_and_outdoor_commercial_market_spaces": {
+      "canonical_name": "indoor and outdoor commercial market spaces",
+      "canonical_name_zh": "室内外商业市场空间",
+      "canonical_phrase": "detailed indoor and outdoor market stalls with various goods",
+      "samples": [
+        "outdoor market",
+        "covered market structure",
+        "fish market or pet shop",
+        "shop",
+        "jewelry store",
+        "market"
+      ],
+      "tags": [
+        "market",
+        "stalls",
+        "goods",
+        "commercial",
+        "retail"
+      ]
+    },
+    "outdoor_stone_or_concrete_steps": {
+      "canonical_name": "outdoor stone or concrete steps",
+      "canonical_name_zh": "户外石阶或混凝土台阶",
+      "canonical_phrase": "outdoor stone or concrete steps near weathered building",
+      "samples": [
+        "outdoor concrete stairs",
+        "outdoor stone steps beside a wooden lattice door frame",
+        "outdoor concrete steps near a weathered building",
+        "outdoor stone steps",
+        "outdoor or semi-outdoor with stone steps",
+        "outdoor stone steps area",
+        "outdoor concrete steps",
+        "outdoor or semi-outdoor area with concrete steps",
+        "outdoor steps",
+        "outdoor stone stairs on a verdant hillside",
+        "outdoor stone steps beside a narrow water channel",
+        "narrow moss-covered stone passage",
+        "concrete steps with weathered wooden beams"
+      ],
+      "tags": [
+        "stone",
+        "concrete",
+        "outdoor",
+        "weathered",
+        "stairs"
+      ]
+    },
+    "futuristic_neonlit_cyberpunk_alleyway": {
+      "canonical_name": "futuristic neon-lit cyberpunk alleyway",
+      "canonical_name_zh": "未来霓虹赛博小巷",
+      "canonical_phrase": "architectural setting",
+      "samples": [
+        "architectural setting"
+      ],
+      "tags": [
+        "neon",
+        "concrete",
+        "hoodie",
+        "cyberpunk",
+        "rain-slicked"
+      ]
+    },
+    "outdoor_grassy_yard": {
+      "canonical_name": "outdoor grassy yard",
+      "canonical_name_zh": "户外草地庭院",
+      "canonical_phrase": "outdoor sunlit grassy yard with natural lighting",
+      "samples": [
+        "outdoor sunflower field",
+        "sunlit grassy yard",
+        "outdoor yard",
+        "outdoor lumber yard"
+      ],
+      "tags": [
+        "green",
+        "grass",
+        "yard",
+        "sunny",
+        "natural"
+      ]
+    },
+    "industrial_setting_or_space": {
+      "canonical_name": "industrial setting or space",
+      "canonical_name_zh": "工业场景空间",
+      "canonical_phrase": "industrial setting with warehouse or studio space",
+      "samples": [
+        "industrial desert",
+        "industrial or warehouse setting",
+        "large industrial studio space",
+        "outdoor industrial area",
+        "industrial waterfront",
+        "industrial setting",
+        "industrial space",
+        "industrial"
+      ],
+      "tags": [
+        "concrete",
+        "metal",
+        "warehouse",
+        "utilitarian",
+        "factory"
+      ]
+    },
+    "narrow_urban_street_canyon": {
+      "canonical_name": "narrow urban street canyon",
+      "canonical_name_zh": "狭窄城市街道",
+      "canonical_phrase": "narrow bustling urban street canyon with tight architecture",
+      "samples": [
+        "narrow urban street",
+        "narrow street",
+        "narrow bustling street canyon",
+        "bustling narrow street market in Hong Kong",
+        "narrow corridor"
+      ],
+      "tags": [
+        "concrete",
+        "stone",
+        "crowded",
+        "urban",
+        "canyon"
+      ]
+    },
+    "dusty_gravel_road_rugged_desert": {
+      "canonical_name": "dusty gravel road rugged desert",
+      "canonical_name_zh": "崎岖沙漠碎石路",
+      "canonical_phrase": "dusty gravel road in a rugged desert landscape",
+      "samples": [
+        "dusty gravel road in a rugged desert landscape"
+      ],
+      "tags": [
+        "brown",
+        "gravel",
+        "dirt",
+        "arid",
+        "winding"
+      ]
+    },
+    "large_opensided_metal_garage": {
+      "canonical_name": "large open-sided metal garage",
+      "canonical_name_zh": "大型敞口金属车库",
+      "canonical_phrase": "large open-sided metal garage",
+      "samples": [
+        "large open-sided metal garage"
+      ],
+      "tags": [
+        "gray",
+        "metal",
+        "garage",
+        "industrial",
+        "open-sided"
+      ]
+    },
+    "outdoor_natural_landscape": {
+      "canonical_name": "outdoor natural landscape",
+      "canonical_name_zh": "户外自然风景",
+      "canonical_phrase": "outdoor natural landscape",
+      "samples": [
+        "outdoor natural landscape"
+      ],
+      "tags": [
+        "green",
+        "stone",
+        "forest",
+        "serene",
+        "mountain"
+      ]
+    },
+    "outdoor_concrete_surfaces_and_paths": {
+      "canonical_name": "outdoor concrete surfaces and paths",
+      "canonical_name_zh": "户外混凝土路面",
+      "canonical_phrase": "outdoor concrete ground path with shelter structure",
+      "samples": [
+        "outdoor narrow concrete path",
+        "outdoor concrete area with shelter structure",
+        "outdoor rocky path near a weathered concrete building",
+        "concrete sea wall",
+        "outdoor concrete ground",
+        "outdoor concrete surface"
+      ],
+      "tags": [
+        "concrete",
+        "gray",
+        "outdoor",
+        "urban",
+        "path"
+      ]
+    },
+    "natural_outdoor_earthy_setting": {
+      "canonical_name": "natural outdoor earthy setting",
+      "canonical_name_zh": "自然户外田园",
+      "canonical_phrase": "natural outdoor garden setting with earthy tones and floral elements",
+      "samples": [
+        "natural setting",
+        "outdoor garden setting",
+        "natural outdoor setting",
+        "outdoor natural setting",
+        "outdoor summer setting",
+        "outdoor floral setting",
+        "earthy setting",
+        "outdoor setting",
+        "rural outdoor setting"
+      ],
+      "tags": [
+        "green",
+        "grass",
+        "floral",
+        "rustic",
+        "summer"
+      ]
+    },
+    "outdoor_indoor_stone_wall_setting": {
+      "canonical_name": "outdoor indoor stone wall setting",
+      "canonical_name_zh": "户外室内石墙场景",
+      "canonical_phrase": "outdoor or indoor setting with stone wall",
+      "samples": [
+        "outdoor or indoor setting with stone wall"
+      ],
+      "tags": [
+        "stone",
+        "wall",
+        "rustic",
+        "texture",
+        "architecture"
+      ]
+    },
+    "tropical_outdoor_natural_setting": {
+      "canonical_name": "tropical outdoor natural setting",
+      "canonical_name_zh": "热带户外自然",
+      "canonical_phrase": "lush tropical foliage and natural outdoor scenery",
+      "samples": [
+        "outdoor tropical setting",
+        "tropical foliage",
+        "lush tropical garden",
+        "tropical setting",
+        "amidst a pile of coconuts",
+        "natural tropical setting",
+        "tropical outdoors",
+        "tropical beach",
+        "tropical",
+        "tropical outdoor setting",
+        "outdoor tropical path",
+        "tropical forest"
+      ],
+      "tags": [
+        "green",
+        "foliage",
+        "tropical",
+        "nature",
+        "coconut"
+      ]
+    },
+    "indoor_room_with_tatami_mat_floor": {
+      "canonical_name": "indoor room with tatami mat floor",
+      "canonical_name_zh": "室内榻榻米地板",
+      "canonical_phrase": "indoor with tatami mat floor",
+      "samples": [
+        "indoor with tatami mat floor"
+      ],
+      "tags": [
+        "beige",
+        "straw",
+        "flooring",
+        "minimalist",
+        "woven"
+      ]
+    },
+    "rustic_wooden_outdoor_structures": {
+      "canonical_name": "rustic wooden outdoor structures",
+      "canonical_name_zh": "乡村木质户外结构",
+      "canonical_phrase": "rustic wooden structure with weathered planks and barrels",
+      "samples": [
+        "indoor or outdoor setting with wooden barrel",
+        "indoor or outdoor setting with weathered wooden planks",
+        "outdoor near wooden structure",
+        "outdoor wooden deck",
+        "indoor or sheltered area with wooden pillar",
+        "traditional wooden structure with curved tiled roof",
+        "outdoor setting with wooden bench",
+        "bed of golden straw",
+        "wooden porch structure",
+        "wooden storage area",
+        "outdoor or studio setting with weathered wooden surface",
+        "rustic outdoor setting",
+        "wooden porch",
+        "classical architecture with stone columns and balustrades",
+        "outdoor architectural setting",
+        "outdoor or warehouse setting with barrels",
+        "outdoor with wooden structure",
+        "outdoor under a wooden eave",
+        "indoor or outdoor rustic setting",
+        "outdoor or semi-outdoor with weathered wooden structure",
+        "outdoor near traditional wooden house",
+        "rustic farmstead",
+        "outdoor with rustic structures",
+        "rustic wooden shelter",
+        "wooden surface outdoors",
+        "outdoor rustic setting",
+        "indoor or outdoor setting with straw pile",
+        "interior of a rustic wooden structure",
+        "outdoor with architectural structures",
+        "under wooden beams",
+        "outdoor or rustic structure",
+        "on a wooden boat"
+      ],
+      "tags": [
+        "wood",
+        "rustic",
+        "outdoor",
+        "weathered",
+        "barrel"
+      ]
+    },
+    "glasswalled_underwater_aquarium_exhibit": {
+      "canonical_name": "glass-walled underwater aquarium exhibit",
+      "canonical_name_zh": "玻璃墙水下水族馆",
+      "canonical_phrase": "aquarium",
+      "samples": [
+        "aquarium"
+      ],
+      "tags": [
+        "blue",
+        "glass",
+        "tank",
+        "marine",
+        "fish"
+      ]
+    },
+    "outdoor_water_setting_with_natural_or_stone_elements": {
+      "canonical_name": "outdoor water setting with natural or stone elements",
+      "canonical_name_zh": "户外水域自然石景",
+      "canonical_phrase": "outdoor water setting with natural or stone elements",
+      "samples": [
+        "mossy riverbank",
+        "outdoor water channel",
+        "outdoor natural setting with stone water channel",
+        "wooded area with stone bridge over rushing stream",
+        "outdoor swimming pool edge",
+        "outdoor water setting",
+        "outdoor diving board",
+        "outdoor stream",
+        "stone patio near pool",
+        "vibrant blue water",
+        "outdoor swimming pool area",
+        "outdoors by a stream"
+      ],
+      "tags": [
+        "blue",
+        "stone",
+        "stream",
+        "pool",
+        "natural"
+      ]
+    },
+    "outdoor_street_setting": {
+      "canonical_name": "outdoor street setting",
+      "canonical_name_zh": "户外街道场景",
+      "canonical_phrase": "outdoor street setting",
+      "samples": [
+        "outdoor street setting"
+      ],
+      "tags": [
+        "concrete",
+        "asphalt",
+        "sidewalk",
+        "urban",
+        "neon"
+      ]
+    },
+    "cluttered_dimly_lit_indoor_space": {
+      "canonical_name": "cluttered dimly lit indoor space",
+      "canonical_name_zh": "昏暗杂乱室内空间",
+      "canonical_phrase": "cluttered dimly lit indoor space with indistinct shapes and dark tones",
+      "samples": [
+        "workshop",
+        "dimly lit space with indistinct shapes",
+        "minimalistic background",
+        "indistinct dark background",
+        "cluttered indoor space",
+        "cluttered wooden shed",
+        "cluttered kitchen",
+        "dimly lit room",
+        "cluttered utilitarian space",
+        "cluttered craft studio",
+        "indistinct dark tones",
+        "dimly lit space",
+        "softly lit room",
+        "dimly lit indoor or outdoor space",
+        "cluttered workshop",
+        "indistinct warm tones"
+      ],
+      "tags": [
+        "cluttered",
+        "dim",
+        "indoor",
+        "dark",
+        "utilitarian"
+      ]
+    },
+    "various_indoor_environments": {
+      "canonical_name": "various indoor environments",
+      "canonical_name_zh": "多种室内环境",
+      "canonical_phrase": "indoor setting with white table and shelves",
+      "samples": [
+        "indoor setting with white table",
+        "indoor setting",
+        "indoor setting with shelves",
+        "indoor aquarium setting",
+        "indoor dining setting",
+        "bustling indoor setting"
+      ],
+      "tags": [
+        "white",
+        "table",
+        "shelves",
+        "aquarium",
+        "dining"
+      ]
+    },
+    "stone_steps_at_canal_edge_doorway": {
+      "canonical_name": "stone steps at canal edge doorway",
+      "canonical_name_zh": "运河边石阶门洞",
+      "canonical_phrase": "doorway with stone steps and canal edge",
+      "samples": [
+        "doorway with stone steps and canal edge"
+      ],
+      "tags": [
+        "grey",
+        "stone",
+        "waterfront",
+        "rustic",
+        "steps"
+      ]
+    },
+    "outdoors_near_calm_water": {
+      "canonical_name": "outdoors near calm water",
+      "canonical_name_zh": "户外平静水域",
+      "canonical_phrase": "outdoors near a calm body of water with open sea view",
+      "samples": [
+        "outdoors near a calm body of water",
+        "outdoors on water",
+        "outdoor near a lake",
+        "vast calm sea",
+        "outdoor near calm water",
+        "near water",
+        "open water",
+        "outdoor near water",
+        "outdoors by a calm body of water",
+        "outdoors by a body of water",
+        "outdoors near water",
+        "by the sea"
+      ],
+      "tags": [
+        "water",
+        "calm",
+        "outdoor",
+        "lake",
+        "sea"
+      ]
+    },
+    "rustic_wooden_boat_cabin_interior": {
+      "canonical_name": "rustic wooden boat cabin interior",
+      "canonical_name_zh": "木质船舱内部",
+      "canonical_phrase": "boat cabin",
+      "samples": [
+        "boat cabin"
+      ],
+      "tags": [
+        "navy",
+        "wood",
+        "cabin",
+        "nautical",
+        "porthole"
+      ]
+    },
+    "indoor_tiled_commercial_space": {
+      "canonical_name": "indoor tiled commercial space",
+      "canonical_name_zh": "室内瓷砖商业空间",
+      "canonical_phrase": "indoor tiled floor in a bustling commercial area",
+      "samples": [
+        "tiled floor",
+        "indoor tiled area",
+        "bustling indoor market",
+        "indoor room with tiled windowsill",
+        "indoor display area",
+        "storefront"
+      ],
+      "tags": [
+        "tiled",
+        "floor",
+        "market",
+        "storefront",
+        "commercial"
+      ]
+    },
+    "inside_large_blue_cylindrical_container": {
+      "canonical_name": "inside large blue cylindrical container",
+      "canonical_name_zh": "大型蓝色圆柱容器内",
+      "canonical_phrase": "inside a large blue cylindrical container",
+      "samples": [
+        "inside a large blue cylindrical container"
+      ],
+      "tags": [
+        "blue",
+        "cylinder",
+        "container",
+        "industrial",
+        "enclosed"
+      ]
+    },
+    "outdoor_location_on_ground_or_pavement": {
+      "canonical_name": "outdoor location on ground or pavement",
+      "canonical_name_zh": "户外地面或路面",
+      "canonical_phrase": "outdoor scene on bare ground or paved surface with natural elements",
+      "samples": [
+        "outdoors on bare ground",
+        "outdoor",
+        "outdoors on a paved surface",
+        "outdoor with palm fronds",
+        "outdoors"
+      ],
+      "tags": [
+        "outdoor",
+        "ground",
+        "pavement",
+        "natural",
+        "open"
+      ]
+    },
+    "outdoors_at_a_bus_stop": {
+      "canonical_name": "outdoors at a bus stop",
+      "canonical_name_zh": "户外公交站",
+      "canonical_phrase": "outdoors at a bus stop",
+      "samples": [
+        "outdoors at a bus stop"
+      ],
+      "tags": [
+        "concrete",
+        "metal",
+        "bus shelter",
+        "urban",
+        "waiting"
+      ]
+    },
+    "indoor_room_with_tatami_mat_floor_tatami": {
+      "canonical_name": "indoor room with tatami mat floor",
+      "canonical_name_zh": "榻榻米地板室内房间",
+      "canonical_phrase": "indoor room with tatami mat floor",
+      "samples": [
+        "indoor room with tatami mat floor"
+      ],
+      "tags": [
+        "beige",
+        "straw",
+        "minimalist",
+        "zen",
+        "woven"
+      ]
+    },
+    "outdoor_natural_tree_setting": {
+      "canonical_name": "outdoor natural tree setting",
+      "canonical_name_zh": "户外自然树景",
+      "canonical_phrase": "outdoors under dense tree canopy with natural foliage",
+      "samples": [
+        "outdoors among trees",
+        "under a waterfall",
+        "outdoors under a flowering tree",
+        "outdoors beside a tree trunk",
+        "outdoor near tree and fence",
+        "outdoor under dense canopy",
+        "outdoors under foliage",
+        "outdoors with tree",
+        "outdoors near a large weathered tree",
+        "outdoors under tree"
+      ],
+      "tags": [
+        "green",
+        "wood",
+        "forest",
+        "organic",
+        "canopy"
+      ]
+    },
+    "indoor_interior_space": {
+      "canonical_name": "indoor interior space",
+      "canonical_name_zh": "室内空间",
+      "canonical_phrase": "detailed interior room setting with natural lighting",
+      "samples": [
+        "interior",
+        "interior setting",
+        "hotel room interior",
+        "interior room",
+        "domestic interior",
+        "interior space"
+      ],
+      "tags": [
+        "room",
+        "walls",
+        "floor",
+        "furniture",
+        "cozy"
+      ]
+    },
+    "indoor_semioutdoor_glass_pane_room": {
+      "canonical_name": "indoor semi-outdoor glass pane room",
+      "canonical_name_zh": "室内半户外玻璃房",
+      "canonical_phrase": "indoor or semi-outdoor with glass panes",
+      "samples": [
+        "indoor or semi-outdoor with glass panes"
+      ],
+      "tags": [
+        "glass",
+        "transparent",
+        "sunroom",
+        "bright",
+        "modern"
+      ]
+    },
+    "indoor_looking_out_to_beach": {
+      "canonical_name": "indoor looking out to beach",
+      "canonical_name_zh": "室内望向海滩",
+      "canonical_phrase": "indoor looking out to beach",
+      "samples": [
+        "indoor looking out to beach"
+      ],
+      "tags": [
+        "sand",
+        "glass",
+        "window",
+        "coastal",
+        "sunlight"
+      ]
+    },
+    "generic_indoor_room_space": {
+      "canonical_name": "generic indoor room space",
+      "canonical_name_zh": "通用室内空间",
+      "canonical_phrase": "generic indoor room space with varied architectural details",
+      "samples": [
+        "bedroom",
+        "inside a room",
+        "indoor shop or cafe",
+        "upper floor overlooking a grand multi-level atrium",
+        "indoor hall with ornate architecture",
+        "bustling indoor station corridor",
+        "indoor",
+        "room",
+        "spacious room",
+        "indoor bathroom",
+        "indoor hallway",
+        "indoor room with bookshelves and glass-fronted cabinets",
+        "bed",
+        "indoor bedroom",
+        "indoor room",
+        "household",
+        "grand hall",
+        "room with vanity",
+        "hotel room",
+        "indoor living space",
+        "bathroom",
+        "indoor space",
+        "kitchen",
+        "simple room",
+        "indoor spacious room",
+        "indoors"
+      ],
+      "tags": [
+        "indoor",
+        "room",
+        "interior",
+        "architecture",
+        "spacious"
+      ]
+    },
+    "dim_rustic_wooden_interior": {
+      "canonical_name": "dim rustic wooden interior",
+      "canonical_name_zh": "昏暗木质乡村室内",
+      "canonical_phrase": "dim rustic wooden interior with weathered textures",
+      "samples": [
+        "rustic interior",
+        "rustic shed interior",
+        "dim wooden barn interior",
+        "dim interior",
+        "dim industrial shed"
+      ],
+      "tags": [
+        "dim",
+        "wood",
+        "rustic",
+        "barn",
+        "shed"
+      ]
+    },
+    "wet_rocky_waters_edge": {
+      "canonical_name": "wet rocky water's edge",
+      "canonical_name_zh": "湿润岩石水边",
+      "canonical_phrase": "water's edge",
+      "samples": [
+        "water's edge"
+      ],
+      "tags": [
+        "blue",
+        "stone",
+        "shore",
+        "natural",
+        "damp"
+      ]
+    },
+    "indistinct_location_type": {
+      "canonical_name": "indistinct location type",
+      "canonical_name_zh": "模糊地点类型",
+      "canonical_phrase": "indistinct",
+      "samples": [
+        "indistinct"
+      ],
+      "tags": [
+        "foggy",
+        "blur",
+        "soft",
+        "vague",
+        "nebulous"
+      ]
+    },
+    "outdoor_grassy_field": {
+      "canonical_name": "outdoor grassy field",
+      "canonical_name_zh": "户外草地田野",
+      "canonical_phrase": "outdoor grassy field with dry patches and uneven terrain",
+      "samples": [
+        "outdoors in a grassy field",
+        "open grassy field with dry patches",
+        "farm field",
+        "field",
+        "field of white flowers",
+        "open grassy field",
+        "grassy field",
+        "outdoor grass field",
+        "outdoor grassy field",
+        "outdoor field with dry grass",
+        "outdoor field",
+        "outdoor dry grass field",
+        "field of white blossoms",
+        "grassy field with uneven earthy terrain",
+        "melon field",
+        "wheat field"
+      ],
+      "tags": [
+        "green",
+        "grass",
+        "field",
+        "rural",
+        "natural"
+      ]
+    },
+    "outdoor_coastal_beach_setting": {
+      "canonical_name": "outdoor coastal beach setting",
+      "canonical_name_zh": "户外海滨沙滩",
+      "canonical_phrase": "outdoor coastal beach setting with sand dunes and shoreline",
+      "samples": [
+        "outdoor beach setting",
+        "outdoor coastal area",
+        "outdoor beach dunes",
+        "outdoor beach",
+        "outdoor beachside area",
+        "outdoor coastal"
+      ],
+      "tags": [
+        "sand",
+        "water",
+        "coastal",
+        "sunny",
+        "dunes"
+      ]
+    },
+    "deep_ocean_trench_environment": {
+      "canonical_name": "deep ocean trench environment",
+      "canonical_name_zh": "深海海沟环境",
+      "canonical_phrase": "underwater",
+      "samples": [
+        "underwater"
+      ],
+      "tags": [
+        "blue",
+        "bioluminescent",
+        "coral",
+        "pressure",
+        "current"
+      ]
+    },
+    "weathered_rooftop_edge_at_dusk": {
+      "canonical_name": "weathered rooftop edge at dusk",
+      "canonical_name_zh": "黄昏风化屋顶边缘",
+      "canonical_phrase": "rooftop edge",
+      "samples": [
+        "rooftop edge"
+      ],
+      "tags": [
+        "rust",
+        "concrete",
+        "urban",
+        "moody",
+        "ledge"
+      ]
+    },
+    "urban_street_environment": {
+      "canonical_name": "urban street environment",
+      "canonical_name_zh": "城市街道环境",
+      "canonical_phrase": "detailed asphalt street scene with street corner",
+      "samples": [
+        "street",
+        "street corner",
+        "asphalt street",
+        "street scene"
+      ],
+      "tags": [
+        "asphalt",
+        "pavement",
+        "urban",
+        "outdoor",
+        "corner"
+      ]
+    },
+    "rugged_volcanic_landscape": {
+      "canonical_name": "rugged volcanic landscape",
+      "canonical_name_zh": "崎岖火山地貌",
+      "canonical_phrase": "rugged volcanic landscape",
+      "samples": [
+        "rugged volcanic landscape"
+      ],
+      "tags": [
+        "black",
+        "basalt",
+        "terrain",
+        "arid",
+        "cracked"
+      ]
+    },
+    "sandy_beach_with_shallow_water": {
+      "canonical_name": "sandy beach with shallow water",
+      "canonical_name_zh": "沙滩浅水区",
+      "canonical_phrase": "bright white sandy beach with shallow ocean water",
+      "samples": [
+        "white sandy beach",
+        "sandy beach",
+        "bright sandy beach",
+        "sandy beach with shallow ocean water",
+        "pebbled beach",
+        "rocky sandy beach",
+        "wide sandy beach"
+      ],
+      "tags": [
+        "sand",
+        "beach",
+        "ocean",
+        "shallow",
+        "bright"
+      ]
+    },
+    "inside_transparent_glass_container": {
+      "canonical_name": "inside transparent glass container",
+      "canonical_name_zh": "透明玻璃容器内",
+      "canonical_phrase": "inside transparent glass container",
+      "samples": [
+        "inside transparent glass container"
+      ],
+      "tags": [
+        "glass",
+        "clear",
+        "enclosed",
+        "minimalist",
+        "reflection"
+      ]
+    },
+    "textured_concrete_urban_surfaces": {
+      "canonical_name": "textured concrete urban surfaces",
+      "canonical_name_zh": "纹理混凝土城市表面",
+      "canonical_phrase": "wide textured concrete promenade or dilapidated urban wall",
+      "samples": [
+        "textured concrete surface",
+        "urban concrete wall",
+        "dilapidated multi-story concrete building",
+        "wide concrete promenade"
+      ],
+      "tags": [
+        "concrete",
+        "gray",
+        "urban",
+        "rough",
+        "promenade"
+      ]
+    },
+    "indoor_space_with_large_windows": {
+      "canonical_name": "indoor space with large windows",
+      "canonical_name_zh": "带大窗户的室内空间",
+      "canonical_phrase": "indoor room with large windows and beige walls",
+      "samples": [
+        "indoor near a large window",
+        "indoor or structured environment with large blue structure",
+        "indoor room with tall windows",
+        "indoor room with large window",
+        "indoor room with large windows",
+        "indoor with beige walls",
+        "standing on a blue surface",
+        "indoor or semi-outdoor space with large windows",
+        "indoors near a large window",
+        "indoor near large window",
+        "indoor or semi-indoor space with large windows"
+      ],
+      "tags": [
+        "window",
+        "indoor",
+        "beige",
+        "natural_light",
+        "architecture"
+      ]
+    },
+    "outdoor_garden_or_park_space": {
+      "canonical_name": "outdoor garden or park space",
+      "canonical_name_zh": "户外花园或公园",
+      "canonical_phrase": "outdoor garden or park setting with greenery and open space",
+      "samples": [
+        "outdoor park or field",
+        "outdoor park or garden path",
+        "indoor or covered garden setting",
+        "outdoor playground",
+        "garden",
+        "playground",
+        "outdoor garden",
+        "garden or outdoor space",
+        "outdoor garden or park",
+        "outdoor park"
+      ],
+      "tags": [
+        "green",
+        "grass",
+        "nature",
+        "scenic",
+        "leisure"
+      ]
+    },
+    "tiled_bathtub": {
+      "canonical_name": "tiled bathtub",
+      "canonical_name_zh": "瓷砖浴缸",
+      "canonical_phrase": "tiled bathtub",
+      "samples": [
+        "tiled bathtub"
+      ],
+      "tags": [
+        "ceramic",
+        "white",
+        "bathroom",
+        "classic",
+        "glazed"
+      ]
+    },
+    "outdoor_wooded_setting": {
+      "canonical_name": "outdoor wooded setting",
+      "canonical_name_zh": "户外林地",
+      "canonical_phrase": "outdoor wooded setting",
+      "samples": [
+        "outdoor wooded setting"
+      ],
+      "tags": [
+        "green",
+        "wood",
+        "forest",
+        "natural",
+        "trees"
+      ]
+    },
+    "outdoor_grassy_terrain": {
+      "canonical_name": "outdoor grassy terrain",
+      "canonical_name_zh": "户外草地地形",
+      "canonical_phrase": "outdoor grassy terrain with gentle slopes and dry earth",
+      "samples": [
+        "outdoors in tall grass",
+        "gently sloping grassy hill",
+        "outdoor grassy terrain",
+        "grassy park area",
+        "dry hilly landscape",
+        "outdoors on grass",
+        "grassy yard",
+        "outdoor grassy area near a fence",
+        "outdoor hillside",
+        "outdoor dry grass terrain",
+        "grassy slope",
+        "outdoor grassy area",
+        "outdoor grass lawn",
+        "outdoor dry earth",
+        "outdoor dry grassy hills"
+      ],
+      "tags": [
+        "green",
+        "grass",
+        "hillside",
+        "natural",
+        "lawn"
+      ]
+    },
+    "outdoor_natural_vegetation_terrain": {
+      "canonical_name": "outdoor natural vegetation terrain",
+      "canonical_name_zh": "户外自然植被地形",
+      "canonical_phrase": "outdoor scene with dense green vegetation and natural ground",
+      "samples": [
+        "dense patch of wild vegetation",
+        "outdoors in tall green grass",
+        "lush jungle",
+        "outdoor rocky terrain with dense green leaves",
+        "dense forest",
+        "outdoor dirt ground with sparse green grass"
+      ],
+      "tags": [
+        "green",
+        "grass",
+        "forest",
+        "wild",
+        "outdoor"
+      ]
+    },
+    "outdoor_stone_paved_area": {
+      "canonical_name": "outdoor stone paved area",
+      "canonical_name_zh": "户外石铺区域",
+      "canonical_phrase": "outdoor stone paved area with wooden structure and stone wall",
+      "samples": [
+        "outdoor stone-paved area with wooden structure",
+        "outdoor near weathered stone wall",
+        "outdoor with stone wall",
+        "outdoor with stone structure",
+        "stone archway",
+        "outdoor with stone wall and foliage"
+      ],
+      "tags": [
+        "stone",
+        "wood",
+        "outdoor",
+        "archway",
+        "weathered"
+      ]
+    },
+    "lush_outdoor_garden_forest_setting": {
+      "canonical_name": "lush outdoor garden forest setting",
+      "canonical_name_zh": "葱郁户外花园森林",
+      "canonical_phrase": "outdoor garden or forest setting",
+      "samples": [
+        "outdoor garden or forest setting"
+      ],
+      "tags": [
+        "green",
+        "wood",
+        "dress",
+        "natural",
+        "moss"
+      ]
+    },
+    "weathered_door_and_wall_settings": {
+      "canonical_name": "weathered door and wall settings",
+      "canonical_name_zh": "风化门窗与墙体",
+      "canonical_phrase": "weathered wooden or metal door and wall in indoor or outdoor setting",
+      "samples": [
+        "outdoor or industrial setting with corrugated metal siding",
+        "doorway of weathered wooden shack",
+        "outdoor area near a weathered green door",
+        "doorway",
+        "weathered wooden doorway",
+        "indoor or urban setting with corrugated metal wall",
+        "outdoor or indoor setting with a weathered door",
+        "indoor or outdoor wall setting",
+        "outdoor weathered metal surface",
+        "traditional Japanese interior",
+        "outdoor or indoor setting with weathered wooden door",
+        "doorway of a weathered single-story house",
+        "outdoor traditional Japanese setting",
+        "indoor with open doorway to outdoors",
+        "doorway of a white boat cabin",
+        "traditional shrine",
+        "wooden doorway",
+        "outdoor or indoor with weathered wall",
+        "traditional Japanese shrine courtyard",
+        "indoor traditional Japanese room",
+        "traditional Japanese doorway",
+        "outdoor or industrial setting with weathered corrugated metal surface"
+      ],
+      "tags": [
+        "weathered",
+        "wooden",
+        "metal",
+        "rustic",
+        "doorway"
+      ]
+    },
+    "indoor_or_outdoor_against_wall": {
+      "canonical_name": "indoor or outdoor against wall",
+      "canonical_name_zh": "室内或室外靠墙",
+      "canonical_phrase": "indoor or outdoor against wall",
+      "samples": [
+        "indoor or outdoor against wall"
+      ],
+      "tags": [
+        "brick",
+        "concrete",
+        "jeans",
+        "urban",
+        "shadow"
+      ]
+    },
+    "outdoor_dusty_dirt_ground": {
+      "canonical_name": "outdoor dusty dirt ground",
+      "canonical_name_zh": "户外尘土泥地",
+      "canonical_phrase": "outdoor setting with dry dusty dirt ground",
+      "samples": [
+        "outdoor dirt ground",
+        "dry dusty ground",
+        "dusty outdoor setting",
+        "sun-drenched dusty yard",
+        "outdoor sandy ground",
+        "outdoor dusty ground",
+        "outdoors on dirt ground"
+      ],
+      "tags": [
+        "dusty",
+        "dirt",
+        "outdoor",
+        "dry",
+        "yard"
+      ]
+    },
+    "urban_path": {
+      "canonical_name": "urban path",
+      "canonical_name_zh": "城市小径",
+      "canonical_phrase": "urban path",
+      "samples": [
+        "urban path"
+      ],
+      "tags": [
+        "concrete",
+        "sidewalk",
+        "city",
+        "street",
+        "pavement"
+      ]
+    },
+    "outdoor_paved_walkway_beside_wooden_railing": {
+      "canonical_name": "outdoor paved walkway beside wooden railing",
+      "canonical_name_zh": "户外铺路旁木栏杆",
+      "canonical_phrase": "outdoor paved walkway beside a wooden railing",
+      "samples": [
+        "outdoor paved walkway beside a wooden railing"
+      ],
+      "tags": [
+        "paved",
+        "wood",
+        "railing",
+        "outdoor",
+        "pathway"
+      ]
+    },
+    "vast_open_green_grass_field": {
+      "canonical_name": "vast open green grass field",
+      "canonical_name_zh": "广阔绿色草地田野",
+      "canonical_phrase": "vast open field with lush green grass and crops",
+      "samples": [
+        "lush green field",
+        "field with tall green grass and sunflower plants",
+        "vast field",
+        "vast expanse of green grass field",
+        "bright green grass field",
+        "field of green crops",
+        "green grass field",
+        "vast green grassy field",
+        "harvested field",
+        "vast open field"
+      ],
+      "tags": [
+        "green",
+        "grass",
+        "field",
+        "open",
+        "crops"
+      ]
+    },
+    "urban_canal_side": {
+      "canonical_name": "urban canal side",
+      "canonical_name_zh": "城市运河边",
+      "canonical_phrase": "urban canal side",
+      "samples": [
+        "urban canal side"
+      ],
+      "tags": [
+        "blue",
+        "stone",
+        "bridge",
+        "industrial",
+        "reflection"
+      ]
+    },
+    "indoor_wooden_gymnasium_setting": {
+      "canonical_name": "indoor wooden gymnasium setting",
+      "canonical_name_zh": "室内木质健身房",
+      "canonical_phrase": "indoor wooden gymnasium with wooden bench and table",
+      "samples": [
+        "indoor setting with wooden step platform",
+        "wooden gymnasium",
+        "indoor setting with wooden bench",
+        "indoor setting with wooden table",
+        "gymnasium",
+        "indoor wooden-floored gymnasium"
+      ],
+      "tags": [
+        "wood",
+        "gym",
+        "indoor",
+        "bench",
+        "platform"
+      ]
+    },
+    "outdoor_sunlit_stone_pathway": {
+      "canonical_name": "outdoor sunlit stone pathway",
+      "canonical_name_zh": "户外阳光石板路",
+      "canonical_phrase": "outdoor sunlit stone pathway",
+      "samples": [
+        "outdoor sunlit stone pathway"
+      ],
+      "tags": [
+        "stone",
+        "pathway",
+        "sunlit",
+        "outdoor",
+        "cobblestone"
+      ]
+    },
+    "indoor_looking_out_to_urban_exterior": {
+      "canonical_name": "indoor looking out to urban exterior",
+      "canonical_name_zh": "室内望向城市外部",
+      "canonical_phrase": "indoor looking out to urban exterior",
+      "samples": [
+        "indoor looking out to urban exterior"
+      ],
+      "tags": [
+        "concrete",
+        "glass",
+        "window",
+        "cityscape",
+        "natural light"
+      ]
+    },
+    "coastal_or_seaside_setting": {
+      "canonical_name": "coastal or seaside setting",
+      "canonical_name_zh": "海滨或海岸场景",
+      "canonical_phrase": "coastal landscape with shoreline and seaside atmosphere",
+      "samples": [
+        "coastal scene",
+        "shoreline with coastal cityscape",
+        "beach",
+        "coastal",
+        "coastal landscape",
+        "shoreline",
+        "coastal or seaside setting"
+      ],
+      "tags": [
+        "blue",
+        "sand",
+        "water",
+        "seaside",
+        "horizon"
+      ]
+    },
+    "vintage_leather_jacket_with_brass_zippers": {
+      "canonical_name": "vintage leather jacket with brass zippers",
+      "canonical_name_zh": "复古皮夹克配黄铜拉链",
+      "canonical_phrase": "commercial backdrop",
+      "samples": [
+        "commercial backdrop"
+      ],
+      "tags": [
+        "brown",
+        "leather",
+        "jacket",
+        "retro",
+        "brass"
+      ]
+    },
+    "modern_glass_greenhouse_interior": {
+      "canonical_name": "modern glass greenhouse interior",
+      "canonical_name_zh": "现代玻璃温室内部",
+      "canonical_phrase": "greenhouse",
+      "samples": [
+        "greenhouse"
+      ],
+      "tags": [
+        "glass",
+        "green",
+        "plants",
+        "natural",
+        "transparent"
+      ]
+    },
+    "generic_indoor_room_setting": {
+      "canonical_name": "generic indoor room setting",
+      "canonical_name_zh": "通用室内房间",
+      "canonical_phrase": "generic indoor room with varied lighting and background details",
+      "samples": [
+        "bedroom with split background",
+        "indoor room with blue floor and blue wall",
+        "warm lit room",
+        "indoor room with window"
+      ],
+      "tags": [
+        "indoor",
+        "room",
+        "lighting",
+        "window",
+        "floor"
+      ]
+    },
+    "indistinct_architectural_elements": {
+      "canonical_name": "indistinct architectural elements",
+      "canonical_name_zh": "模糊建筑元素",
+      "canonical_phrase": "indistinct architectural elements",
+      "samples": [
+        "indistinct architectural elements"
+      ],
+      "tags": [
+        "grey",
+        "concrete",
+        "ruins",
+        "minimalist",
+        "blurred"
+      ]
+    },
+    "indoor_near_window_or_glass": {
+      "canonical_name": "indoor near window or glass",
+      "canonical_name_zh": "室内近窗或玻璃",
+      "canonical_phrase": "indoor scene near a window or glass surface with natural light",
+      "samples": [
+        "indoor or semi-indoor near a window",
+        "indoor with open window",
+        "indoors near a window",
+        "indoors beside a window",
+        "indoor near window",
+        "indoor against wall with window",
+        "near a window",
+        "bedroom near window",
+        "indoor near glass window",
+        "indoor near glass surface",
+        "indoor with window view",
+        "indoor near a window",
+        "indoor or semi-indoor near an open doorway or window",
+        "indoor with window light",
+        "indoors near window",
+        "interior near window",
+        "indoor with window",
+        "indoor by a window",
+        "indoors near glass door"
+      ],
+      "tags": [
+        "window",
+        "glass",
+        "natural light",
+        "interior",
+        "daylight"
+      ]
+    },
+    "urban_rooftop_garden": {
+      "canonical_name": "urban rooftop garden",
+      "canonical_name_zh": "城市屋顶花园",
+      "canonical_phrase": "city rooftop",
+      "samples": [
+        "city rooftop"
+      ],
+      "tags": [
+        "green",
+        "concrete",
+        "balcony",
+        "modern",
+        "plants"
+      ]
+    },
+    "outdoor_residential_leisure_spaces": {
+      "canonical_name": "outdoor residential leisure spaces",
+      "canonical_name_zh": "户外休闲居住空间",
+      "canonical_phrase": "outdoor residential leisure spaces with covered patios and open courtyards",
+      "samples": [
+        "covered patio",
+        "outdoor patio",
+        "outdoor open space",
+        "outdoor riverside",
+        "outdoor residential area",
+        "open courtyard",
+        "outdoor lounge area"
+      ],
+      "tags": [
+        "patio",
+        "courtyard",
+        "lounge",
+        "residential",
+        "outdoor"
+      ]
+    },
+    "outdoor_path": {
+      "canonical_name": "outdoor path",
+      "canonical_name_zh": "户外小径",
+      "canonical_phrase": "outdoor path",
+      "samples": [
+        "outdoor path"
+      ],
+      "tags": [
+        "stone",
+        "gravel",
+        "trail",
+        "rustic",
+        "moss"
+      ]
+    },
+    "outdoor_lush_green_foliage_environment": {
+      "canonical_name": "outdoor lush green foliage environment",
+      "canonical_name_zh": "户外茂密绿植环境",
+      "canonical_phrase": "outdoor scene with lush green foliage and greenery",
+      "samples": [
+        "outdoors with green foliage",
+        "outdoor with green grass and indistinct structures",
+        "outdoor or near window with foliage",
+        "outdoor scene with greenery",
+        "lush green forest",
+        "lush green environment",
+        "outdoors with greenery",
+        "outdoor with hints of greenery",
+        "outdoors amidst lush green foliage",
+        "outdoor with lush green foliage",
+        "indoor setting with view of greenery outside",
+        "outdoors or near window with foliage",
+        "outdoor with lush greenery",
+        "lush green jungle",
+        "lush green forest path",
+        "outdoor with greenery and architectural elements"
+      ],
+      "tags": [
+        "green",
+        "foliage",
+        "outdoor",
+        "lush",
+        "nature"
+      ]
+    },
+    "rusty_metal_abandoned_warehouse": {
+      "canonical_name": "rusty metal abandoned warehouse",
+      "canonical_name_zh": "生锈金属废弃仓库",
+      "canonical_phrase": "abandoned outdoor area",
+      "samples": [
+        "abandoned outdoor area"
+      ],
+      "tags": [
+        "rusty",
+        "metal",
+        "warehouse",
+        "grunge",
+        "peeling_paint"
+      ]
+    },
+    "outdoor_market_stall": {
+      "canonical_name": "outdoor market stall",
+      "canonical_name_zh": "户外市集摊位",
+      "canonical_phrase": "rustic outdoor market stall selling fresh goods",
+      "samples": [
+        "rustic stall",
+        "street food stall",
+        "fruit stall",
+        "flower stall"
+      ],
+      "tags": [
+        "wood",
+        "canopy",
+        "street",
+        "vintage",
+        "produce"
+      ]
+    },
+    "outdoor_street": {
+      "canonical_name": "outdoor street",
+      "canonical_name_zh": "户外街道",
+      "canonical_phrase": "outdoor street",
+      "samples": [
+        "outdoor street"
+      ],
+      "tags": [
+        "pavement",
+        "concrete",
+        "sidewalk",
+        "urban",
+        "asphalt"
+      ]
+    },
+    "inside_curved_metallic_structure": {
+      "canonical_name": "inside curved metallic structure",
+      "canonical_name_zh": "弯曲金属结构内",
+      "canonical_phrase": "inside a curved metallic structure",
+      "samples": [
+        "inside a curved metallic structure"
+      ],
+      "tags": [
+        "silver",
+        "metal",
+        "architectural",
+        "futuristic",
+        "curved"
+      ]
+    },
+    "indoor_architectural_setting_with_wood": {
+      "canonical_name": "indoor architectural setting with wood",
+      "canonical_name_zh": "室内木质建筑结构",
+      "canonical_phrase": "indoor architectural setting with wooden beams and slatted walls",
+      "samples": [
+        "indoor setting with plain wall and window",
+        "indoor room with wooden table",
+        "indoor setting with a window",
+        "indoor architectural setting",
+        "indoor or studio setting with wooden planks",
+        "minimalist Japanese room",
+        "indoor with wooden slatted structure",
+        "indoor studio or room with wooden beams and slatted walls"
+      ],
+      "tags": [
+        "wood",
+        "slats",
+        "beams",
+        "minimalist",
+        "window"
+      ]
+    },
+    "outdoors_residential_setting": {
+      "canonical_name": "outdoors residential setting",
+      "canonical_name_zh": "户外住宅环境",
+      "canonical_phrase": "outdoors residential setting",
+      "samples": [
+        "outdoors residential setting"
+      ],
+      "tags": [
+        "brick",
+        "lawn",
+        "fence",
+        "suburban",
+        "garden"
+      ]
+    },
+    "indoor_studio_setting_with_controlled_environment": {
+      "canonical_name": "indoor studio setting with controlled environment",
+      "canonical_name_zh": "室内摄影棚环境",
+      "canonical_phrase": "indoor studio setting with solid or textured backdrop and controlled lighting",
+      "samples": [
+        "indoor or studio setting",
+        "stage or studio environment",
+        "studio setting with solid gradient blue background",
+        "indoor studio",
+        "studio setting with backdrop",
+        "indoor studio setting on fabric",
+        "studio setting",
+        "film set",
+        "indoor setting with textured fabric surface",
+        "workshop or garage",
+        "studio",
+        "indoor studio-like setting",
+        "hair salon",
+        "studio or controlled environment with black background",
+        "studio-like setting",
+        "indoor studio setting",
+        "indoor studio or urban setting",
+        "indoor studio or plain wall setting",
+        "indoor studio or staged setting",
+        "outdoor or studio setting with fabric backdrop"
+      ],
+      "tags": [
+        "studio",
+        "indoor",
+        "backdrop",
+        "fabric",
+        "controlled"
+      ]
+    },
+    "sunlit_outdoor_forest_setting": {
+      "canonical_name": "sunlit outdoor forest setting",
+      "canonical_name_zh": "阳光户外森林",
+      "canonical_phrase": "sunlit natural forest setting with dappled light",
+      "samples": [
+        "sunlit natural setting, forest",
+        "forest floor",
+        "outdoors in a sun-dappled forest",
+        "forested area",
+        "outdoor forest",
+        "forest"
+      ],
+      "tags": [
+        "green",
+        "trees",
+        "outdoor",
+        "nature",
+        "dappled"
+      ]
+    },
+    "outdoor_sunlit_stone_path": {
+      "canonical_name": "outdoor sunlit stone path",
+      "canonical_name_zh": "户外阳光石径",
+      "canonical_phrase": "outdoor sunlit stone path",
+      "samples": [
+        "outdoor sunlit stone path"
+      ],
+      "tags": [
+        "sunlight",
+        "stone",
+        "path",
+        "outdoor",
+        "cobblestone"
+      ]
+    },
+    "outdoor_or_semioutdoor_architectural_space": {
+      "canonical_name": "outdoor or semi-outdoor architectural space",
+      "canonical_name_zh": "户外或半户外建筑空间",
+      "canonical_phrase": "outdoor or semi-outdoor space with architectural features like arches or tiled ground",
+      "samples": [
+        "outdoor or semi-outdoor space",
+        "outdoors near a building",
+        "outdoor under a curved red metal archway",
+        "outdoor hotel entrance",
+        "outdoor near window",
+        "park-like setting",
+        "outdoor or semi-outdoor setting with tiled ground"
+      ],
+      "tags": [
+        "archway",
+        "tiled",
+        "building",
+        "entrance",
+        "park"
+      ]
+    },
+    "indoor_room_with_tatami_mat": {
+      "canonical_name": "indoor room with tatami mat",
+      "canonical_name_zh": "铺有榻榻米的室内房间",
+      "canonical_phrase": "indoor room with tatami mat",
+      "samples": [
+        "indoor room with tatami mat"
+      ],
+      "tags": [
+        "beige",
+        "straw",
+        "flooring",
+        "minimalist",
+        "woven"
+      ]
+    },
+    "flat_surface_indoors": {
+      "canonical_name": "flat surface indoors",
+      "canonical_name_zh": "室内平面",
+      "canonical_phrase": "flat surface indoors",
+      "samples": [
+        "flat surface indoors"
+      ],
+      "tags": [
+        "white",
+        "marble",
+        "floor",
+        "minimalist",
+        "seamless"
+      ]
+    },
+    "narrow_indoor_hallway_or_staircase": {
+      "canonical_name": "narrow indoor hallway or staircase",
+      "canonical_name_zh": "狭窄室内走廊或楼梯",
+      "canonical_phrase": "narrow wooden hallway or indoor staircase with school grounds",
+      "samples": [
+        "school grounds",
+        "narrow wooden hallway",
+        "narrow hallway",
+        "narrow school hallway",
+        "staircase",
+        "wooden hallway",
+        "school hallway",
+        "indoor staircase",
+        "hallway",
+        "narrow room"
+      ],
+      "tags": [
+        "wooden",
+        "narrow",
+        "indoor",
+        "school",
+        "staircase"
+      ]
+    },
+    "outdoor_coastal_shoreline_environment": {
+      "canonical_name": "outdoor coastal shoreline environment",
+      "canonical_name_zh": "户外海岸线环境",
+      "canonical_phrase": "outdoor coastal shoreline with open sky and water",
+      "samples": [
+        "rocky beach",
+        "outdoors near a shoreline",
+        "rocky cove",
+        "rugged coastal terrain",
+        "open sky",
+        "outdoor near shore",
+        "outdoors against sky",
+        "outdoor area with boats and vehicles",
+        "pebbly beach",
+        "outdoor beach area near urban setting",
+        "waterfront with boats",
+        "ocean surface with vast sky",
+        "boat deck",
+        "outdoor near ocean"
+      ],
+      "tags": [
+        "blue",
+        "rocky",
+        "waterfront",
+        "natural",
+        "boats"
+      ]
+    },
+    "dark_floor_indoor_outdoor_setting": {
+      "canonical_name": "dark floor indoor outdoor setting",
+      "canonical_name_zh": "深色地板室内外场景",
+      "canonical_phrase": "indoor or outdoor setting with dark floor",
+      "samples": [
+        "indoor or outdoor setting with dark floor"
+      ],
+      "tags": [
+        "dark",
+        "floor",
+        "concrete",
+        "minimalist",
+        "shadow"
+      ]
+    },
+    "outdoor_concrete_ledge_platform": {
+      "canonical_name": "outdoor concrete ledge platform",
+      "canonical_name_zh": "户外混凝土平台",
+      "canonical_phrase": "outdoor concrete ledge and platform climbing structure",
+      "samples": [
+        "outdoor climbing structure",
+        "outdoor ledge",
+        "outdoor platform",
+        "outdoor concrete ledge"
+      ],
+      "tags": [
+        "concrete",
+        "ledge",
+        "platform",
+        "climbing",
+        "urban"
+      ]
+    },
+    "vending_machine_area": {
+      "canonical_name": "vending machine area",
+      "canonical_name_zh": "自动售货机区域",
+      "canonical_phrase": "vending machine area",
+      "samples": [
+        "vending machine area"
+      ],
+      "tags": [
+        "metal",
+        "neon",
+        "concrete",
+        "urban",
+        "glass"
+      ]
+    },
+    "outdoor_rocky_natural_terrain": {
+      "canonical_name": "outdoor rocky natural terrain",
+      "canonical_name_zh": "户外岩石自然地形",
+      "canonical_phrase": "outdoor rocky terrain with sparse vegetation and textured ground",
+      "samples": [
+        "textured sand",
+        "outdoor rocky outcrop",
+        "outdoor barren landscape",
+        "outdoor rocky area",
+        "outdoor rocky cliff face",
+        "textured rocky surface",
+        "outdoor rocky ground",
+        "outdoors near rocky terrain",
+        "natural terrain",
+        "dry dusty ground with sparse dry vegetation and distant trees",
+        "riverbank with rocky terrain",
+        "outdoor dry earth with sparse green vegetation",
+        "sandy terrain with textured rock formations",
+        "outdoor rocky terrain with sparse vegetation"
+      ],
+      "tags": [
+        "rocky",
+        "dry",
+        "earth",
+        "barren",
+        "natural"
+      ]
+    },
+    "weathered_twostory_building_exterior": {
+      "canonical_name": "weathered two-story building exterior",
+      "canonical_name_zh": "风化两层建筑外观",
+      "canonical_phrase": "weathered two-story building exterior",
+      "samples": [
+        "weathered two-story building exterior"
+      ],
+      "tags": [
+        "brick",
+        "peeling",
+        "rusty",
+        "vintage",
+        "balcony"
+      ]
+    },
+    "transparent_glass_aquarium_tank": {
+      "canonical_name": "transparent glass aquarium tank",
+      "canonical_name_zh": "透明玻璃鱼缸",
+      "canonical_phrase": "glass tank",
+      "samples": [
+        "glass tank"
+      ],
+      "tags": [
+        "clear",
+        "glass",
+        "aquarium",
+        "minimalist",
+        "curved"
+      ]
+    }
+  },
+  "statistics": {
+    "total_clusters": 94,
+    "multi_sample_clusters": 47,
+    "single_sample_clusters": 47
+  }
+}
