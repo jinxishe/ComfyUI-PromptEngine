@@ -1,12 +1,27 @@
 # ComfyUI-PromptEngine
 
-Dictionary-based prompt composition nodes and dictionary-building tools for ComfyUI.
-
-ComfyUI-PromptEngine is designed for users who want prompt construction to be more structured, reusable, and scalable than editing one long freeform string. It provides a dictionary-driven workflow for building prompts across 21 visual dimensions such as appearance, outfit, pose, composition, lighting, and style, while still allowing manual overrides whenever needed.
-
-The plugin includes two prompt authoring modes: a chainable single-dimension node for modular graph building, and an all-in-one node for fast editing in a single panel. For users maintaining larger prompt libraries, it also includes a Step 1-3 toolchain that can extract dimensions from raw prompt datasets, cluster similar phrases, and generate incremental user dictionaries that merge with the bundled base dictionaries at runtime.
-
 [简体中文](README_ZH.md)
+
+Dictionary-based automatic prompt generation nodes and user-dictionary building tools for ComfyUI.
+
+ComfyUI-PromptEngine is designed for two kinds of users:
+
+1. Users who want to freely combine prompt fragments and unlock effectively unlimited prompt generation. With 21 dimensions that can be mixed and matched, it offers a huge creative search space without having to handcraft every full prompt from scratch.
+2. Users who want prompts to be structured, reusable, and scalable. The plugin helps turn large prompt collections into manageable dictionary entries across 21 visual dimensions such as subject appearance, outfit, pose, composition, lighting, and style, so they can be recombined and reused through clustering-backed dictionary organization.
+
+The automatic prompt generation nodes provide two main ways to work:
+
+1. A chainable single-dimension node, where you can freely pick only the dimensions you need and compose them modularly in a workflow.
+2. An all-dimension one-stop node, which is better for quickly building a complete prompt in one place.
+
+For users who want to keep expanding their dictionaries, the plugin also includes a Step 1-3 toolchain that can extract dimensions from raw prompt datasets, cluster similar phrases, and generate incremental user dictionaries that merge with the bundled base dictionaries at runtime.
+
+## Prompt Generation Results (using z-image-turbo + LoRA)
+
+![Generation result 1](examples/4grid_001.png)
+![Generation result 2](examples/4grid_002.png)
+![Generation result 3](examples/4grid_003.png)
+![Generation result 4](examples/4grid_004.png)
 
 ## Features
 
