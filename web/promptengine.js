@@ -211,6 +211,66 @@ function installSerializeHook(styleWidget, dim) {
     };
 }
 
+function getStoredWidgetValue(node, widget) {
+    const widgetIndex = node.widgets?.indexOf(widget) ?? -1;
+    if (widgetIndex < 0) return undefined;
+    return node.widgets_values?.[widgetIndex];
+}
+
+function restoreStyleWidgetValue(node, styleWidget, dim, dictData) {
+    const storedValue = getStoredWidgetValue(node, styleWidget);
+    if (storedValue === undefined || storedValue === null || storedValue === "") {
+        return;
+    }
+
+    // 先把保存值塞回 widget，再让 refresh 依据当前维度映射成显示名称。
+    styleWidget.value = storedValue;
+    refreshStyleWidget(styleWidget, dim, dictData, true);
+}
+
+function installCategoryValueInterceptor(node, categoryWidget, styleWidget, dictData) {
+    const proto = Object.getPrototypeOf(categoryWidget);
+    const originalDescriptor =
+        Object.getOwnPropertyDescriptor(categoryWidget, "value") ||
+        Object.getOwnPropertyDescriptor(proto, "value");
+
+    if (!originalDescriptor) {
+        console.warn("[PromptEngine] category widget 缺少 value descriptor，回退到 callback 监听");
+        return;
+    }
+
+    const originalGet = originalDescriptor.get?.bind(categoryWidget);
+    const originalSet = originalDescriptor.set?.bind(categoryWidget);
+    let shadowValue = originalGet ? undefined : categoryWidget.value;
+
+    Object.defineProperty(categoryWidget, "value", {
+        get() {
+            return originalGet ? originalGet() : shadowValue;
+        },
+        set(newVal) {
+            const oldVal = originalGet ? originalGet() : shadowValue;
+
+            if (originalSet) {
+                originalSet(newVal);
+            } else {
+                shadowValue = newVal;
+            }
+
+            const appliedVal = originalGet ? originalGet() : shadowValue;
+            if (node._peRestoring || appliedVal === oldVal) {
+                return;
+            }
+
+            const newKey = categoryWidget._displayToKey?.[appliedVal] || appliedVal;
+            refreshStyleWidget(styleWidget, newKey, dictData, false);
+            installSerializeHook(styleWidget, newKey);
+            styleWidget._lastCategoryValue = appliedVal;
+        },
+        configurable: true,
+        enumerable: originalDescriptor.enumerable ?? true,
+    });
+}
+
 // ─────────────────────────────────────────────
 // PromptEngine Node — 单维度节点
 // ─────────────────────────────────────────────
@@ -265,9 +325,12 @@ function setupPromptEngineNode(nodeType) {
             categoryWidget.value = dimDisplayMap[currentKey];
         }
 
-        // 初始化
-        refreshStyleWidget(styleWidget, categoryDisplayToKey[categoryWidget.value] ?? DIMS[0], dictData, false);
-        installSerializeHook(styleWidget, categoryDisplayToKey[categoryWidget.value] ?? DIMS[0]);
+        const initialDimKey = categoryDisplayToKey[categoryWidget.value] ?? DIMS[0];
+
+        // 初始化时优先保留工作流里已保存的值，避免切换 tab / workflow 后被重置
+        refreshStyleWidget(styleWidget, initialDimKey, dictData, true);
+        restoreStyleWidgetValue(node, styleWidget, initialDimKey, dictData);
+        installSerializeHook(styleWidget, initialDimKey);
 
         // 添加序列化钩子，将显示名称转换回 key
         categoryWidget.serializeValue = async function() {
@@ -281,6 +344,7 @@ function setupPromptEngineNode(nodeType) {
         // 添加 onConfigure 钩子，用于工作流加载时恢复状态
         const origOnConfigure = node.onConfigure;
         node.onConfigure = function() {
+            node._peRestoring = true;
             const ret = origOnConfigure?.apply(this, arguments);
             // 工作流加载后，确保 value 是显示名称而不是 key
             const currentKey = categoryWidget._displayToKey?.[categoryWidget.value] 
@@ -290,6 +354,12 @@ function setupPromptEngineNode(nodeType) {
             if (currentKey && categoryWidget.options.values.includes(currentKey)) {
                 categoryWidget.value = currentKey;
             }
+
+            const dimKey = categoryWidget._displayToKey?.[categoryWidget.value] ?? categoryWidget.value ?? DIMS[0];
+            refreshStyleWidget(styleWidget, dimKey, dictData, true);
+            restoreStyleWidgetValue(node, styleWidget, dimKey, dictData);
+            installSerializeHook(styleWidget, dimKey);
+            node._peRestoring = false;
             return ret;
         };
 
@@ -298,30 +368,13 @@ function setupPromptEngineNode(nodeType) {
         // ComfyUI 新版中 widget.callback 有时不触发。
         // 最可靠的方式：在 widget 上定义一个 getter/setter 拦截 value 变化。
         //
-        let _categoryValue = categoryWidget.value;
-        Object.defineProperty(categoryWidget, "value", {
-            get() { return _categoryValue; },
-            set(newVal) {
-                if (newVal !== _categoryValue) {
-                    // 如果是显示名称，转换为 key
-                    const newKey = categoryWidget._displayToKey?.[newVal] || newVal;
-                    _categoryValue = newVal;
-                    // 切换维度，重置 style
-                    refreshStyleWidget(styleWidget, newKey, dictData, false);
-                    // 更新 serializeHook 的维度信息
-                    installSerializeHook(styleWidget, newKey);
-                } else {
-                    _categoryValue = newVal;
-                }
-            },
-            configurable: true,
-        });
+        installCategoryValueInterceptor(node, categoryWidget, styleWidget, dictData);
 
         // 同时保留 callback 兜底（旧版 ComfyUI 走这里）
         const origCallback = categoryWidget.callback;
         categoryWidget.callback = function(value, canvas, node_, pos, e) {
             origCallback?.call(this, value, canvas, node_, pos, e);
-            if (value !== styleWidget._lastCategoryValue) {
+            if (!node._peRestoring && value !== styleWidget._lastCategoryValue) {
                 styleWidget._lastCategoryValue = value;
                 const key = categoryWidget._displayToKey?.[value] || value;
                 refreshStyleWidget(styleWidget, key, dictData, false);
@@ -362,7 +415,9 @@ function setupPromptEngineFull(nodeType) {
             styleWidget.label = displayName;
             
             // 刷新 widget 选项
-            refreshStyleWidget(styleWidget, dim, dictData, false);
+            // Full 节点初始化时也保留已保存值，避免工作流切换后回到默认项
+            refreshStyleWidget(styleWidget, dim, dictData, true);
+            restoreStyleWidgetValue(node, styleWidget, dim, dictData);
             installSerializeHook(styleWidget, dim);
         }
     };
